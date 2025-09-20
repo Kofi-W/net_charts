@@ -685,7 +685,7 @@ class CityNetworkAnalyzer:
             city_index_dict['city_name'] = city
             df_city = self.df[self.df['city_name'] == city]
             G_city = NetDataGraph(df_city).generate_G()
-            city_index_dict['连边数'] = G_city.number_of_edges()
+            city_index_dict['区间数'] = G_city.number_of_edges()
             net_d = NetDegree(G_city)
             city_index_dict['平均度'] = float(net_d.avg_degree().round(2))
             city_index_dict['最大度'] = max(dict(G_city.degree()).values())
@@ -712,7 +712,7 @@ class CityNetworkAnalyzer:
         df_index = df_index.drop(columns=['distance'])
         df_index = df_index.rename(columns={'city_name': '城市', 'line_cnt': '线路数', 'st_cnt': '车站数'})
         df_index['序号'] = df_index.index + 1
-        df_index = df_index[['序号', '城市', '线路数', '车站数', '连边数', '平均度', '最大度', '换乘站数量', '换乘站比例', '密度', '同配系数', '平均聚类系数', '是否连通图', '直径', '平均最短路径长度', '全局效率', '平均局部效率']]
+        df_index = df_index[['序号', '城市', '线路数', '车站数', '区间数', '平均度', '最大度', '换乘站数量', '换乘站比例', '密度', '同配系数', '平均聚类系数', '是否连通图', '直径', '平均最短路径长度', '全局效率', '平均局部效率']]
         return df_index
 
 
