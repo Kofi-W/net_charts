@@ -197,6 +197,14 @@ class NetDataClear:
         df = df.copy()
         df = df[~((df['city_name'] == '成都') & (df['line_name'] == '19号线') & (df['st_name'].isin(['三岔', '福田', '天府机场1号2号航站楼', '天府机场北'])))]
         return df
+    
+    # 线路排序，添加line_order列
+    @staticmethod
+    def line_order(df):
+        df = df.copy()
+        # 新增line_order列，如果line_name不以数字开头，则使用uni_line_number+100为line_order，否则使用uni_line_number
+        df['line_order'] = df.apply(lambda x: x['uni_line_number'] + 100 if not str(x['line_name']).startswith(tuple('0123456789')) else x['uni_line_number'], axis=1)
+        return df
 
     # 数据清洗主函数
     def data_clear(self):
@@ -208,6 +216,7 @@ class NetDataClear:
         df = self.remove_same_st(df)
         df = self.add_distance(df)
         df = self.special_city_clear(df)
+        df = self.line_order(df)
         return df
 
 
@@ -680,6 +689,7 @@ class CityNetworkAnalyzer:
             net_d = NetDegree(G_city)
             city_index_dict['平均度'] = float(net_d.avg_degree().round(2))
             city_index_dict['最大度'] = max(dict(G_city.degree()).values())
+            city_index_dict['换乘站数量'] = len([i for i in dict(G_city.degree()).values() if i > 2])
             city_index_dict['换乘站比例'] = round(len([i for i in dict(G_city.degree()).values() if i > 2]) / len(G_city.nodes()), 4)
             city_index_dict['密度'] = round(net_d.density(), 5)
             city_index_dict['同配系数'] = round(net_d.assortativity(), 5)
@@ -702,7 +712,7 @@ class CityNetworkAnalyzer:
         df_index = df_index.drop(columns=['distance'])
         df_index = df_index.rename(columns={'city_name': '城市', 'line_cnt': '线路数', 'st_cnt': '车站数'})
         df_index['序号'] = df_index.index + 1
-        df_index = df_index[['序号', '城市', '线路数', '车站数', '连边数', '平均度', '最大度', '换乘站比例', '密度', '同配系数', '平均聚类系数', '是否连通图', '直径', '平均最短路径长度', '全局效率', '平均局部效率']]
+        df_index = df_index[['序号', '城市', '线路数', '车站数', '连边数', '平均度', '最大度', '换乘站数量', '换乘站比例', '密度', '同配系数', '平均聚类系数', '是否连通图', '直径', '平均最短路径长度', '全局效率', '平均局部效率']]
         return df_index
 
 
