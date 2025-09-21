@@ -233,12 +233,13 @@ class NetDataPivot:
         # df: 整体数据
         overall_cnt = pd.pivot_table(
             self.df,
-            values=['line_name', 'st_id', 'distance'],
-            index=['city_name'],
+            values=['line_name', 'st_id', 'distance', 'city_name'],
+            index=['city_id'],
             aggfunc={
                 'line_name': 'nunique',
                 'st_id': 'nunique',
-                'distance': 'sum'
+                'distance': 'sum',
+                'city_name': 'first'
             },
         )
         overall_cnt = overall_cnt.reset_index().rename(columns={
@@ -677,13 +678,16 @@ class CityNetworkAnalyzer:
         self.df = df
 
     def analyze(self):
-        df_line_st = NetDataPivot(self.df).overall_pivot()
-        city_list = df_line_st['city_name'].unique().tolist()
+        df = self.df.copy()
+        df_line_st = NetDataPivot(df).overall_pivot()
+        city_id_list = df_line_st['city_id'].unique().tolist()
         city_net_index = []
-        for city in city_list:
+        for city_id in city_id_list:
             city_index_dict = {}
-            city_index_dict['city_name'] = city
-            df_city = self.df[self.df['city_name'] == city]
+            city_index_dict['city_id'] = city_id
+            city_index_dict['city_name'] = df[df['city_id'] == city_id]['city_name'].values[0]
+            city_index_dict['city_pinyin'] = df[df['city_id'] == city_id]['city_pinyin'].values[0]
+            df_city = df[df['city_id'] == city_id]
             G_city = NetDataGraph(df_city).generate_G()
             city_index_dict['区间数'] = G_city.number_of_edges()
             net_d = NetDegree(G_city)
@@ -708,11 +712,11 @@ class CityNetworkAnalyzer:
             city_net_index.append(city_index_dict)
 
         city_net_index_df = pd.DataFrame(city_net_index)
-        df_index = pd.merge(df_line_st, city_net_index_df, on='city_name', how='left')
-        df_index = df_index.drop(columns=['distance'])
-        df_index = df_index.rename(columns={'city_name': '城市', 'line_cnt': '线路数', 'st_cnt': '车站数'})
+        df_index = pd.merge(df_line_st, city_net_index_df, on='city_id', how='left')
+        df_index = df_index.drop(columns=['distance', 'city_name_y'])
+        df_index = df_index.rename(columns={'city_name_x': '城市', 'line_cnt': '线路数', 'st_cnt': '车站数'})
         df_index['序号'] = df_index.index + 1
-        df_index = df_index[['序号', '城市', '线路数', '车站数', '区间数', '平均度', '最大度', '换乘站数量', '换乘站比例', '密度', '同配系数', '平均聚类系数', '是否连通图', '直径', '平均最短路径长度', '全局效率', '平均局部效率']]
+        df_index = df_index[['序号', 'city_id', 'city_pinyin', '城市', '线路数', '车站数', '区间数', '平均度', '最大度', '换乘站数量', '换乘站比例', '密度', '同配系数', '平均聚类系数', '是否连通图', '直径', '平均最短路径长度', '全局效率', '平均局部效率']]
         return df_index
 
 
