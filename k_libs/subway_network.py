@@ -95,6 +95,11 @@ class NetDataQuery:
         df = DBOperate(self.db_info).read_sql(sql)
         return df
 
+    def line_poses(self):
+        sql = "SELECT * FROM subway_line;"
+        df = DBOperate(self.db_info).read_sql(sql)
+        return df
+
 
 # 含支线的线路数据处理
 class BranchDataClear:

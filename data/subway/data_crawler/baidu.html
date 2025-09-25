@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<title>地铁图展示</title>
+<script type="text/javascript" src="https://api.map.baidu.com/api?type=subway&v=1.0&ak=131b9959f097765f0de45f6b1767e776"></script>
+<style type="text/css">
+#container{height:100%}
+</style>
+</head>
+<body>
+<div id="container"></div>
+<script type="text/javascript">
+/**
+* 从所有城市列表中获取北京信息
+* 结果格式
+* {
+* keyword: 'beijing',
+* name: '北京',
+* citycode: '131'
+* }
+*/
+/* globals BMapSub */
+var subwayCityName = '成都';
+var list = BMapSub.SubwayCitiesList;
+
+var subwaycity = null;
+for (var i = 0; i < list.length; i++) {
+if (list[i].name === subwayCityName) {
+subwaycity = list[i];
+break;
+}
+}
+// 获取地铁数据-初始化地铁图
+var subway = new BMapSub.Subway('container', subwaycity.citycode);
+subway.setZoom(0.5);
+
+
+
+// 获取数据
+function downloadJSON(obj, filename) {
+    const dataStr = JSON.stringify(obj, null, 2);
+    const blob = new Blob([dataStr], { type: "application/json" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = filename;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+}
+// listist保存为本地json文件，位置放在当前目录
+downloadJSON(list, "cityList.json");
+</script>
+</body>
+</html>
