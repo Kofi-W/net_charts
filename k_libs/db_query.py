@@ -29,6 +29,8 @@ class DBOperate:
         :return:
         """
         df = pd.read_sql(text(sql), con=self.db_connect)
+        # 关闭连接
+        self.db_connect.close()
         return df
 
     def df_to_sql(self, df, tb_name, if_exists='append'):
@@ -37,6 +39,8 @@ class DBOperate:
                   if_exists=if_exists,
                   index=False,
                   index_label=False)
+        # 关闭连接
+        self.db_connect.close()
 
     def execute(self, sql):
         conn = pymysql.connect(host=self.db.host,
