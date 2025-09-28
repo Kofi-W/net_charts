@@ -96,7 +96,8 @@ class NetDataQuery:
         return df
 
     def line_poses(self):
-        sql = "SELECT * FROM subway_line;"
+        sql = """SELECT * FROM subway_line 
+        WHERE crawler_id = (SELECT MAX(crawler_id) FROM subway_line);"""
         df = DBOperate(self.db_info).read_sql(sql)
         return df
 
