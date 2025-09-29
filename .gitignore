@@ -37,7 +37,7 @@ coverage
 # this project
 test.*
 imgs
-*.json
+# *.json
 *.csv
 **/data_temp
 **/docs

@@ -1,0 +1,397 @@
+[
+  {
+    "name": "北京",
+    "keyword": "beijing",
+    "citycode": "131"
+  },
+  {
+    "name": "上海",
+    "keyword": "shanghai",
+    "citycode": "289"
+  },
+  {
+    "name": "广州",
+    "keyword": "guangzhou",
+    "citycode": "257"
+  },
+  {
+    "name": "深圳",
+    "keyword": "shenzhen",
+    "citycode": "340"
+  },
+  {
+    "name": "重庆",
+    "keyword": "chongqing",
+    "citycode": "132"
+  },
+  {
+    "name": "天津",
+    "keyword": "tianjin",
+    "citycode": "332"
+  },
+  {
+    "name": "石家庄",
+    "keyword": "shijiazhuang",
+    "citycode": "150"
+  },
+  {
+    "name": "南京",
+    "keyword": "nanjing",
+    "citycode": "315"
+  },
+  {
+    "name": "成都",
+    "keyword": "chengdu",
+    "citycode": "75"
+  },
+  {
+    "name": "沈阳",
+    "keyword": "shenyang",
+    "citycode": "58"
+  },
+  {
+    "name": "杭州",
+    "keyword": "hangzhou",
+    "citycode": "179"
+  },
+  {
+    "name": "武汉",
+    "keyword": "wuhan",
+    "citycode": "218"
+  },
+  {
+    "name": "长沙",
+    "keyword": "changsha",
+    "citycode": "158"
+  },
+  {
+    "name": "苏州",
+    "keyword": "suzhou",
+    "citycode": "224"
+  },
+  {
+    "name": "大连",
+    "keyword": "dalian",
+    "citycode": "167"
+  },
+  {
+    "name": "长春",
+    "keyword": "changchun",
+    "citycode": "53"
+  },
+  {
+    "name": "西安",
+    "keyword": "xian",
+    "citycode": "233"
+  },
+  {
+    "name": "昆明",
+    "keyword": "kunming",
+    "citycode": "104"
+  },
+  {
+    "name": "佛山",
+    "keyword": "foshan",
+    "citycode": "138"
+  },
+  {
+    "name": "哈尔滨",
+    "keyword": "haerbin",
+    "citycode": "48"
+  },
+  {
+    "name": "郑州",
+    "keyword": "zhengzhou",
+    "citycode": "268"
+  },
+  {
+    "name": "宁波",
+    "keyword": "ningbo",
+    "citycode": "180"
+  },
+  {
+    "name": "无锡",
+    "keyword": "wuxi",
+    "citycode": "317"
+  },
+  {
+    "name": "温州",
+    "keyword": "wenzhou",
+    "citycode": "178"
+  },
+  {
+    "name": "青岛",
+    "keyword": "qingdao",
+    "citycode": "236"
+  },
+  {
+    "name": "南昌",
+    "keyword": "nanchang",
+    "citycode": "163"
+  },
+  {
+    "name": "福州",
+    "keyword": "fuzhou",
+    "citycode": "300"
+  },
+  {
+    "name": "东莞",
+    "keyword": "dongguan",
+    "citycode": "119"
+  },
+  {
+    "name": "南宁",
+    "keyword": "nanning",
+    "citycode": "261"
+  },
+  {
+    "name": "合肥",
+    "keyword": "hefei",
+    "citycode": "127"
+  },
+  {
+    "name": "厦门",
+    "keyword": "xiamen",
+    "citycode": "194"
+  },
+  {
+    "name": "乌鲁木齐",
+    "keyword": "wulumuqi",
+    "citycode": "92"
+  },
+  {
+    "name": "贵阳",
+    "keyword": "guiyang",
+    "citycode": "146"
+  },
+  {
+    "name": "香港特别行政区",
+    "keyword": "hongkong",
+    "citycode": "2912"
+  },
+  {
+    "name": "台北",
+    "keyword": "taibei",
+    "citycode": "9002"
+  },
+  {
+    "name": "高雄",
+    "keyword": "gaoxiong",
+    "citycode": "9019"
+  },
+  {
+    "name": "南通",
+    "keyword": "nantong",
+    "citycode": "161"
+  },
+  {
+    "name": "资阳",
+    "keyword": "ziyang",
+    "citycode": "242"
+  },
+  {
+    "name": "鄂州",
+    "keyword": "ezhou",
+    "citycode": "122"
+  },
+  {
+    "name": "湘潭",
+    "keyword": "xiangtan",
+    "citycode": "313"
+  },
+  {
+    "name": "咸阳",
+    "keyword": "xianyang",
+    "citycode": "323"
+  },
+  {
+    "name": "许昌",
+    "keyword": "xuchang",
+    "citycode": "155"
+  },
+  {
+    "name": "常州",
+    "keyword": "changzhou",
+    "citycode": "348"
+  },
+  {
+    "name": "清远",
+    "keyword": "qingyuan",
+    "citycode": "197"
+  },
+  {
+    "name": "济南",
+    "keyword": "jinan",
+    "citycode": "288"
+  },
+  {
+    "name": "兰州",
+    "keyword": "lanzhou",
+    "citycode": "36"
+  },
+  {
+    "name": "徐州",
+    "keyword": "xuzhou",
+    "citycode": "316"
+  },
+  {
+    "name": "呼和浩特",
+    "keyword": "huhehaote",
+    "citycode": "321"
+  },
+  {
+    "name": "太原",
+    "keyword": "taiyuan",
+    "citycode": "176"
+  },
+  {
+    "name": "金华",
+    "keyword": "jinhua",
+    "citycode": "333"
+  },
+  {
+    "name": "洛阳",
+    "keyword": "luoyang",
+    "citycode": "153"
+  },
+  {
+    "name": "绍兴",
+    "keyword": "shaoxing",
+    "citycode": "293"
+  },
+  {
+    "name": "芜湖",
+    "keyword": "wuhu",
+    "citycode": "129"
+  },
+  {
+    "name": "台州",
+    "keyword": "taizhou",
+    "citycode": "244"
+  },
+  {
+    "name": "滁州",
+    "keyword": "chuzhou",
+    "citycode": "189"
+  },
+  {
+    "name": "湘西土家族苗族自治州",
+    "keyword": "xiangxitujiazumiaozuzizhizhou",
+    "citycode": "274"
+  },
+  {
+    "name": "澳门特别行政区",
+    "keyword": "aomen",
+    "citycode": "2911"
+  },
+  {
+    "name": "新加坡",
+    "keyword": "xinjiapo",
+    "citycode": "20001"
+  },
+  {
+    "name": "曼谷",
+    "keyword": "mangu",
+    "citycode": "20508"
+  },
+  {
+    "name": "名古屋",
+    "keyword": "mingguwu",
+    "citycode": "26001"
+  },
+  {
+    "name": "横滨",
+    "keyword": "hengbin",
+    "citycode": "26019"
+  },
+  {
+    "name": "京都",
+    "keyword": "jingdu",
+    "citycode": "26022"
+  },
+  {
+    "name": "大阪",
+    "keyword": "daban",
+    "citycode": "26033"
+  },
+  {
+    "name": "东京",
+    "keyword": "dongjing",
+    "citycode": "26041"
+  },
+  {
+    "name": "釜山",
+    "keyword": "fushan",
+    "citycode": "30001"
+  },
+  {
+    "name": "大邱",
+    "keyword": "daqiu",
+    "citycode": "30004"
+  },
+  {
+    "name": "大田",
+    "keyword": "datian",
+    "citycode": "30005"
+  },
+  {
+    "name": "光州",
+    "keyword": "guangzhou_hanguo",
+    "citycode": "30007"
+  },
+  {
+    "name": "首尔",
+    "keyword": "shouer",
+    "citycode": "30016"
+  },
+  {
+    "name": "巴黎",
+    "keyword": "bali",
+    "citycode": "49872"
+  },
+  {
+    "name": "里约热内卢",
+    "keyword": "liyuereneilu",
+    "citycode": "39816"
+  },
+  {
+    "name": "巴西利亚",
+    "keyword": "baxiliya",
+    "citycode": "53009"
+  },
+  {
+    "name": "圣保罗",
+    "keyword": "shengbaoluo",
+    "citycode": "39817"
+  },
+  {
+    "name": "纽约",
+    "keyword": "niuyue",
+    "citycode": "60732"
+  },
+  {
+    "name": "莫斯科",
+    "keyword": "mosike",
+    "citycode": "65531"
+  },
+  {
+    "name": "鹿特丹",
+    "keyword": "lutedan",
+    "citycode": "52390"
+  },
+  {
+    "name": "伊斯坦布尔",
+    "keyword": "yisitanbuer",
+    "citycode": "48552"
+  },
+  {
+    "name": "巴塞罗那",
+    "keyword": "basailuona",
+    "citycode": "51271"
+  },
+  {
+    "name": "马德里",
+    "keyword": "madeli",
+    "citycode": "51314"
+  }
+]

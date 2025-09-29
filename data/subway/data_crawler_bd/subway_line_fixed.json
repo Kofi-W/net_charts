@@ -1,0 +1,1354 @@
+[
+    {
+        "city_id": "131",
+        "city_name": "北京",
+        "line_name_full": "地铁17号线(十里河-嘉会湖)",
+        "line_name": "17号线(十里河-嘉会湖)",
+        "line_name_branch": "17号线(十里河-嘉会湖)",
+        "line_name_main": "17号线"
+    },
+    {
+        "city_id": "131",
+        "city_name": "北京",
+        "line_name_full": "地铁17号线北段(未来科学城北-工人体育场)",
+        "line_name": "17号线(未来科学城北-工人体育场)",
+        "line_name_branch": "17号线(未来科学城北-工人体育场)",
+        "line_name_main": "17号线"
+    },
+    {
+        "city_id": "289",
+        "city_name": "上海",
+        "line_name_full": "地铁5号线(莘庄-奉贤新城)",
+        "line_name": "5号线",
+        "line_name_branch": "5号线",
+        "line_name_main": "5号线"
+    },
+    {
+        "city_id": "289",
+        "city_name": "上海",
+        "line_name_full": "地铁5号线支线(东川路-闵行开发区)",
+        "line_name": "5号线支线",
+        "line_name_branch": "5号线支线",
+        "line_name_main": "5号线"
+    },
+    {
+        "city_id": "289",
+        "city_name": "上海",
+        "line_name_full": "地铁10号线(基隆路-航中路)",
+        "line_name": "10号线(基隆路-航中路)",
+        "line_name_branch": "10号线(基隆路-航中路)",
+        "line_name_main": "10号线"
+    },
+    {
+        "city_id": "289",
+        "city_name": "上海",
+        "line_name_full": "地铁10号线(基隆路-虹桥火车站)",
+        "line_name": "10号线(基隆路-虹桥火车站)",
+        "line_name_branch": "10号线(基隆路-虹桥火车站)",
+        "line_name_main": "10号线"
+    },
+    {
+        "city_id": "289",
+        "city_name": "上海",
+        "line_name_full": "地铁11号线(嘉定北-迪士尼)",
+        "line_name": "11号线(嘉定北-迪士尼)",
+        "line_name_branch": "11号线(嘉定北-迪士尼)",
+        "line_name_main": "11号线"
+    },
+    {
+        "city_id": "289",
+        "city_name": "上海",
+        "line_name_full": "地铁11号线(花桥-迪士尼)",
+        "line_name": "11号线(花桥-迪士尼)",
+        "line_name_branch": "11号线(花桥-迪士尼)",
+        "line_name_main": "11号线"
+    },
+    {
+        "city_id": "257",
+        "city_name": "广州",
+        "line_name_full": "地铁3号线(海傍-天河客运站)",
+        "line_name": "3号线",
+        "line_name_branch": "3号线(海傍-天河客运站)",
+        "line_name_main": "3号线"
+    },
+    {
+        "city_id": "257",
+        "city_name": "广州",
+        "line_name_full": "地铁3号线(体育西路-机场北(2号航站楼))",
+        "line_name": "3号线",
+        "line_name_branch": "3号线(体育西路-机场北(2号航站楼))",
+        "line_name_main": "3号线"
+    },
+    {
+        "city_id": "257",
+        "city_name": "广州",
+        "line_name_full": "地铁12号线(浔峰岗-广州体育馆)",
+        "line_name": "12号线(浔峰岗-广州体育馆)",
+        "line_name_branch": "12号线(浔峰岗-广州体育馆)",
+        "line_name_main": "12号线"
+    },
+    {
+        "city_id": "257",
+        "city_name": "广州",
+        "line_name_full": "地铁12号线(二沙岛-大学城南)",
+        "line_name": "12号线(二沙岛-大学城南)",
+        "line_name_branch": "12号线(二沙岛-大学城南)",
+        "line_name_main": "12号线"
+    },
+    {
+        "city_id": "257",
+        "city_name": "广州",
+        "line_name_full": "地铁14号线",
+        "line_name": "14号线",
+        "line_name_branch": "14号线",
+        "line_name_main": "14号线"
+    },
+    {
+        "city_id": "257",
+        "city_name": "广州",
+        "line_name_full": "地铁14号线支线",
+        "line_name": "14号线支线(知识城线)",
+        "line_name_branch": "14号线支线(知识城线)",
+        "line_name_main": "14号线"
+    },
+    {
+        "city_id": "257",
+        "city_name": "广州",
+        "line_name_full": "佛山地铁2号线",
+        "line_name": "佛山地铁2号线",
+        "line_name_branch": "佛山2号线",
+        "line_name_main": "佛山2号线"
+    },
+    {
+        "city_id": "257",
+        "city_name": "广州",
+        "line_name_full": "佛山地铁3号线(中山公园-顺德学院站)",
+        "line_name": "佛山地铁3号线(中山公园-顺德学院站)",
+        "line_name_branch": "佛山3号线(中山公园-顺德学院站)",
+        "line_name_main": "佛山3号线"
+    },
+    {
+        "city_id": "257",
+        "city_name": "广州",
+        "line_name_full": "佛山地铁3号线(佛山大学-顺德学院站)",
+        "line_name": "佛山地铁3号线(联和-佛山大学)",
+        "line_name_branch": "佛山3号线(联和-佛山大学)",
+        "line_name_main": "佛山3号线"
+    },
+    {
+        "city_id": "257",
+        "city_name": "广州",
+        "line_name_full": "黄埔有轨电车1号线",
+        "line_name": "黄埔有轨电车1号线",
+        "line_name_branch": "黄埔有轨电车1号线",
+        "line_name_main": "黄埔有轨电车1号线"
+    },
+    {
+        "city_id": "257",
+        "city_name": "广州",
+        "line_name_full": "黄埔有轨电车2号线",
+        "line_name": "黄埔有轨电车2号线",
+        "line_name_branch": "黄埔有轨电车2号线",
+        "line_name_main": "黄埔有轨电车2号线"
+    },
+    {
+        "city_id": "340",
+        "city_name": "深圳",
+        "line_name_full": "地铁6号线",
+        "line_name": "6号线",
+        "line_name_branch": "6号线",
+        "line_name_main": "6号线"
+    },
+    {
+        "city_id": "340",
+        "city_name": "深圳",
+        "line_name_full": "地铁6号线支线",
+        "line_name": "6号线支线",
+        "line_name_branch": "6号线支线",
+        "line_name_main": "6号线"
+    },
+    {
+        "city_id": "340",
+        "city_name": "深圳",
+        "line_name_full": "龙华有轨电车(新澜-清湖)",
+        "line_name": "龙华有轨电车(新澜-清湖)",
+        "line_name_branch": "龙华有轨电车(新澜-清湖)",
+        "line_name_main": "龙华有轨电车"
+    },
+    {
+        "city_id": "340",
+        "city_name": "深圳",
+        "line_name_full": "龙华有轨电车(清湖-下围)",
+        "line_name": "龙华有轨电车(清湖-下围)",
+        "line_name_branch": "龙华有轨电车(清湖-下围)",
+        "line_name_main": "龙华有轨电车"
+    },
+    {
+        "city_id": "132",
+        "city_name": "重庆",
+        "line_name_full": "轨道交通3号线(鱼洞-江北机场t2航站楼)",
+        "line_name": "3号线",
+        "line_name_branch": "3号线",
+        "line_name_main": "3号线"
+    },
+    {
+        "city_id": "132",
+        "city_name": "重庆",
+        "line_name_full": "轨道交通3号线(空港线)",
+        "line_name": "3号线(空港线)",
+        "line_name_branch": "3号线(空港线)",
+        "line_name_main": "3号线"
+    },
+    {
+        "city_id": "132",
+        "city_name": "重庆",
+        "line_name_full": "轨道交通6号线",
+        "line_name": "6号线",
+        "line_name_branch": "6号线",
+        "line_name_main": "6号线"
+    },
+    {
+        "city_id": "132",
+        "city_name": "重庆",
+        "line_name_full": "轨道交通6号线延伸段",
+        "line_name": "6号线延伸段",
+        "line_name_branch": "6号线延伸段",
+        "line_name_main": "6号线"
+    },
+    {
+        "city_id": "332",
+        "city_name": "天津",
+        "line_name_full": "轨道交通4号线(东南角-新兴村)",
+        "line_name": "4号线(东南角-新兴村)",
+        "line_name_branch": "4号线(东南角-新兴村)",
+        "line_name_main": "4号线"
+    },
+    {
+        "city_id": "332",
+        "city_name": "天津",
+        "line_name_full": "轨道交通4号线(西站-小街)",
+        "line_name": "4号线(西站-小街)",
+        "line_name_branch": "4号线(西站-小街)",
+        "line_name_main": "4号线"
+    },
+    {
+        "city_id": "332",
+        "city_name": "天津",
+        "line_name_full": "轨道交通6号线",
+        "line_name": "6号线",
+        "line_name_branch": "6号线",
+        "line_name_main": "6号线"
+    },
+    {
+        "city_id": "332",
+        "city_name": "天津",
+        "line_name_full": "轨道交通6号线二期",
+        "line_name": "6号线2期",
+        "line_name_branch": "6号线2期",
+        "line_name_main": "6号线"
+    },
+    {
+        "city_id": "75",
+        "city_name": "成都",
+        "line_name_full": "地铁1号线(五根松-韦家碾)",
+        "line_name": "1号线(五根松-韦家碾)",
+        "line_name_branch": "1号线(五根松-韦家碾)",
+        "line_name_main": "1号线"
+    },
+    {
+        "city_id": "75",
+        "city_name": "成都",
+        "line_name_full": "地铁1号线(科学城-韦家碾)",
+        "line_name": "1号线(科学城-韦家碾)",
+        "line_name_branch": "1号线(科学城-韦家碾)",
+        "line_name_main": "1号线"
+    },
+    {
+        "city_id": "75",
+        "city_name": "成都",
+        "line_name_full": "有轨电车蓉2线(成都西站-郫县西站)",
+        "line_name": "有轨电车蓉2线(成都西站-郫县西站)",
+        "line_name_branch": "有轨电车蓉2线(成都西站-郫县西站)",
+        "line_name_main": "有轨电车蓉2线"
+    },
+    {
+        "city_id": "75",
+        "city_name": "成都",
+        "line_name_full": "有轨电车蓉2线(新业路-仁和)",
+        "line_name": "有轨电车蓉2线(新业路-仁和)",
+        "line_name_branch": "有轨电车蓉2线(新业路-仁和)",
+        "line_name_main": "有轨电车蓉2线"
+    },
+    {
+        "city_id": "179",
+        "city_name": "杭州",
+        "line_name_full": "地铁3号线(星桥-吴山前村)",
+        "line_name": "3号线(星桥-吴山前村)",
+        "line_name_branch": "3号线(星桥-吴山前村)",
+        "line_name_main": "3号线"
+    },
+    {
+        "city_id": "179",
+        "city_name": "杭州",
+        "line_name_full": "地铁3号线(星桥-石马)",
+        "line_name": "3号线(星桥-石马)",
+        "line_name_branch": "3号线(星桥-石马)",
+        "line_name_main": "3号线"
+    },
+    {
+        "city_id": "179",
+        "city_name": "杭州",
+        "line_name_full": "地铁6号线(枸桔弄-桂花西路)",
+        "line_name": "地铁6号线(枸桔弄-桂花西路)",
+        "line_name_branch": "6号线(枸桔弄-桂花西路)",
+        "line_name_main": "6号线"
+    },
+    {
+        "city_id": "179",
+        "city_name": "杭州",
+        "line_name_full": "地铁6号线(枸桔弄-双浦)",
+        "line_name": "地铁6号线(枸桔弄-双浦)",
+        "line_name_branch": "6号线(枸桔弄-双浦)",
+        "line_name_main": "6号线"
+    },
+    {
+        "city_id": "158",
+        "city_name": "长沙",
+        "line_name_full": "长株潭城际S1线",
+        "line_name": "长株潭城际(S1)",
+        "line_name_branch": "长株潭城际(S1)",
+        "line_name_main": "长株潭城际(S1)"
+    },
+    {
+        "city_id": "158",
+        "city_name": "长沙",
+        "line_name_full": "长株潭城际S1线(九郎山-株洲南站)",
+        "line_name": "长株潭城际(S1 九郎山-株洲南站)",
+        "line_name_branch": "长株潭城际(S1 九郎山-株洲南站)",
+        "line_name_main": "长株潭城际(S1)"
+    },
+    {
+        "city_id": "167",
+        "city_name": "大连",
+        "line_name_full": "地铁3号线(金石滩-大连火车站)",
+        "line_name": "3号线",
+        "line_name_branch": "3号线",
+        "line_name_main": "3号线"
+    },
+    {
+        "city_id": "167",
+        "city_name": "大连",
+        "line_name_full": "地铁3号线(九里)支线",
+        "line_name": "3号线(九里)支线",
+        "line_name_branch": "3号线(九里)支线",
+        "line_name_main": "3号线"
+    },
+    {
+        "city_id": "104",
+        "city_name": "昆明",
+        "line_name_full": "地铁1号线",
+        "line_name": "1号线(环城南路-大学城南)",
+        "line_name_branch": "1号线(环城南路-大学城南)",
+        "line_name_main": "1号线"
+    },
+    {
+        "city_id": "104",
+        "city_name": "昆明",
+        "line_name_full": "地铁1号线支线",
+        "line_name": "1号线支线(昆明南火车站-春融街)",
+        "line_name_branch": "1号线支线(昆明南火车站-春融街)",
+        "line_name_main": "1号线"
+    },
+    {
+        "city_id": "138",
+        "city_name": "佛山",
+        "line_name_full": "佛山地铁3号线(佛山大学-顺德学院站)",
+        "line_name": "3号线(顺德学院站-中山公园)",
+        "line_name_branch": "3号线(顺德学院站-中山公园)",
+        "line_name_main": "3号线(联和-佛山大学)"
+    },
+    {
+        "city_id": "138",
+        "city_name": "佛山",
+        "line_name_full": "佛山地铁3号线(顺德学院站-佛山大学)",
+        "line_name": "3号线(联和-佛山大学)",
+        "line_name_branch": "3号线(联和-佛山大学)",
+        "line_name_main": "3号线(联和-佛山大学)"
+    },
+    {
+        "city_id": "236",
+        "city_name": "青岛",
+        "line_name_full": "地铁11号线",
+        "line_name": "地铁11号线(蓝谷快线)",
+        "line_name_branch": "11号线(蓝谷快线)",
+        "line_name_main": "11号线"
+    },
+    {
+        "city_id": "236",
+        "city_name": "青岛",
+        "line_name_full": "地铁13号线",
+        "line_name": "地铁13号线(西海岸快线)",
+        "line_name_branch": "13号线(西海岸快线)",
+        "line_name_main": "13号线"
+    },
+    {
+        "city_id": "127",
+        "city_name": "合肥",
+        "line_name_full": "轨道交通4号线",
+        "line_name": "4号线",
+        "line_name_branch": "4号线",
+        "line_name_main": "4号线"
+    },
+    {
+        "city_id": "127",
+        "city_name": "合肥",
+        "line_name_full": "轨道交通4号线南延线",
+        "line_name": "4号线南延线",
+        "line_name_branch": "4号线南延线",
+        "line_name_main": "4号线"
+    },
+    {
+        "city_id": "2912",
+        "city_name": "香港特别行政区",
+        "line_name_full": "将军澳线(北角-宝琳)",
+        "line_name": "将军澳线(北角-宝琳)",
+        "line_name_branch": "将军澳线(北角-宝琳)",
+        "line_name_main": "将军澳线"
+    },
+    {
+        "city_id": "2912",
+        "city_name": "香港特别行政区",
+        "line_name_full": "将军澳线(北角-康城)",
+        "line_name": "将军澳线(北角-康城)",
+        "line_name_branch": "将军澳线(北角-康城)",
+        "line_name_main": "将军澳线"
+    },
+    {
+        "city_id": "2912",
+        "city_name": "香港特别行政区",
+        "line_name_full": "东铁线(金钟-罗湖)",
+        "line_name": "东铁线(金钟-罗湖)",
+        "line_name_branch": "东铁线(金钟-罗湖)",
+        "line_name_main": "东铁线"
+    },
+    {
+        "city_id": "2912",
+        "city_name": "香港特别行政区",
+        "line_name_full": "东铁线(金钟-落马洲)",
+        "line_name": "东铁线(金钟-落马洲)",
+        "line_name_branch": "东铁线(金钟-落马洲)",
+        "line_name_main": "东铁线"
+    },
+    {
+        "city_id": "9002",
+        "city_name": "台北",
+        "line_name_full": "O中和新芦线(芦洲-南势角)",
+        "line_name": "O中和新芦线(芦洲-南势角)",
+        "line_name_branch": "O中和新芦线(芦洲-南势角)",
+        "line_name_main": "O中和新芦线"
+    },
+    {
+        "city_id": "9002",
+        "city_name": "台北",
+        "line_name_full": "O中和新芦线(回龙-南势角)",
+        "line_name": "O中和新芦线(回龙-南势角)",
+        "line_name_branch": "O中和新芦线(回龙-南势角)",
+        "line_name_main": "O中和新芦线"
+    },
+    {
+        "city_id": "9002",
+        "city_name": "台北",
+        "line_name_full": "A桃园机场捷运普通车",
+        "line_name": "A桃园机场捷运普通车",
+        "line_name_branch": "A桃园机场捷运普通车",
+        "line_name_main": "A桃园机场捷运"
+    },
+    {
+        "city_id": "9002",
+        "city_name": "台北",
+        "line_name_full": "A桃园机场捷运直达车",
+        "line_name": "A桃园机场捷运直达车",
+        "line_name_branch": "A桃园机场捷运直达车",
+        "line_name_main": "A桃园机场捷运"
+    },
+    {
+        "city_id": "333",
+        "city_name": "金华",
+        "line_name_full": "轨道交通金义东线金义段",
+        "line_name": "金义东线金义段",
+        "line_name_branch": "金义东线金义段",
+        "line_name_main": "金义东线"
+    },
+    {
+        "city_id": "333",
+        "city_name": "金华",
+        "line_name_full": "轨道交通金义东线义东段",
+        "line_name": "金义东线义东段",
+        "line_name_branch": "金义东线义东段",
+        "line_name_main": "金义东线"
+    },
+    {
+        "city_id": "293",
+        "city_name": "绍兴",
+        "line_name_full": "绍兴地铁1号线",
+        "line_name": "绍兴地铁1号线",
+        "line_name_branch": "绍兴1号线",
+        "line_name_main": "绍兴1号线"
+    },
+    {
+        "city_id": "293",
+        "city_name": "绍兴",
+        "line_name_full": "绍兴地铁1号线支线",
+        "line_name": "绍兴地铁1号线支线",
+        "line_name_branch": "绍兴1号线支线",
+        "line_name_main": "绍兴1号线"
+    },
+    {
+        "city_id": "293",
+        "city_name": "绍兴",
+        "line_name_full": "绍兴地铁2号线",
+        "line_name": "绍兴地铁2号线",
+        "line_name_branch": "绍兴2号线",
+        "line_name_main": "绍兴2号线"
+    },
+    {
+        "city_id": "20001",
+        "city_name": "新加坡",
+        "line_name_full": "North East Line",
+        "line_name": "North East Line",
+        "line_name_branch": "North East Line",
+        "line_name_main": "North East Line"
+    },
+    {
+        "city_id": "20001",
+        "city_name": "新加坡",
+        "line_name_full": "North South Line",
+        "line_name": "North South Line",
+        "line_name_branch": "North South Line",
+        "line_name_main": "North South Line"
+    },
+    {
+        "city_id": "20508",
+        "city_name": "曼谷",
+        "line_name_full": "BTS Silom Line",
+        "line_name": "BTS Silom Line",
+        "line_name_branch": "BTS Silom Line",
+        "line_name_main": "BTS Silom Line"
+    },
+    {
+        "city_id": "20508",
+        "city_name": "曼谷",
+        "line_name_full": "BTS Sukhumvit Line",
+        "line_name": "BTS Sukhumvit Line",
+        "line_name_branch": "BTS Sukhumvit Line",
+        "line_name_main": "BTS Sukhumvit Line"
+    },
+    {
+        "city_id": "20508",
+        "city_name": "曼谷",
+        "line_name_full": "Airport City Line",
+        "line_name": "Airport City Line",
+        "line_name_branch": "Airport City Line",
+        "line_name_main": "Airport City Line"
+    },
+    {
+        "city_id": "20508",
+        "city_name": "曼谷",
+        "line_name_full": "Airport Express Line",
+        "line_name": "Airport Express Line",
+        "line_name_branch": "Airport Express Line",
+        "line_name_main": "Airport Express Line"
+    },
+    {
+        "city_id": "26041",
+        "city_name": "东京",
+        "line_name_full": "大江户线",
+        "line_name": "大江户线",
+        "line_name_branch": "大江户线",
+        "line_name_main": "大江户线"
+    },
+    {
+        "city_id": "26041",
+        "city_name": "东京",
+        "line_name_full": "大江户线环线",
+        "line_name": "大江户线环线",
+        "line_name_branch": "大江户线环线",
+        "line_name_main": "大江户线"
+    },
+    {
+        "city_id": "26041",
+        "city_name": "东京",
+        "line_name_full": "丸之内线",
+        "line_name": "丸之内线",
+        "line_name_branch": "丸之内线",
+        "line_name_main": "丸之内线"
+    },
+    {
+        "city_id": "26041",
+        "city_name": "东京",
+        "line_name_full": "丸之内线支线",
+        "line_name": "丸之内线支线",
+        "line_name_branch": "丸之内线支线",
+        "line_name_main": "丸之内线"
+    },
+    {
+        "city_id": "30016",
+        "city_name": "首尔",
+        "line_name_full": "1号线(光明-永登浦)",
+        "line_name": "1号线(光明-永登浦)",
+        "line_name_branch": "1号线(光明-永登浦)",
+        "line_name_main": "1号线"
+    },
+    {
+        "city_id": "30016",
+        "city_name": "首尔",
+        "line_name_full": "1号线(光云大学-西东滩)",
+        "line_name": "1号线(光云大学-西东滩)",
+        "line_name_branch": "1号线(光云大学-西东滩)",
+        "line_name_main": "1号线"
+    },
+    {
+        "city_id": "30016",
+        "city_name": "首尔",
+        "line_name_full": "1号线(清凉里-新昌)",
+        "line_name": "1号线(清凉里-新昌)",
+        "line_name_branch": "1号线(清凉里-新昌)",
+        "line_name_main": "1号线"
+    },
+    {
+        "city_id": "30016",
+        "city_name": "首尔",
+        "line_name_full": "1号线(仁川-逍遥山)",
+        "line_name": "1号线(仁川-逍遥山)",
+        "line_name_branch": "1号线(仁川-逍遥山)",
+        "line_name_main": "1号线"
+    },
+    {
+        "city_id": "30016",
+        "city_name": "首尔",
+        "line_name_full": "2号线(喜鹊山-新道林)",
+        "line_name": "2号线(喜鹊山-新道林)",
+        "line_name_branch": "2号线(喜鹊山-新道林)",
+        "line_name_main": "2号线"
+    },
+    {
+        "city_id": "30016",
+        "city_name": "首尔",
+        "line_name_full": "2号线(新设洞-圣水)",
+        "line_name": "2号线(新设洞-圣水)",
+        "line_name_branch": "2号线(新设洞-圣水)",
+        "line_name_main": "2号线"
+    },
+    {
+        "city_id": "30016",
+        "city_name": "首尔",
+        "line_name_full": "2号线(圣水-圣水)",
+        "line_name": "2号线(圣水-圣水)",
+        "line_name_branch": "2号线(圣水-圣水)",
+        "line_name_main": "2号线"
+    },
+    {
+        "city_id": "30016",
+        "city_name": "首尔",
+        "line_name_full": "5号线(傍花-马川)",
+        "line_name": "5号线(傍花-马川)",
+        "line_name_branch": "5号线(傍花-马川)",
+        "line_name_main": "5号线"
+    },
+    {
+        "city_id": "30016",
+        "city_name": "首尔",
+        "line_name_full": "5号线(傍花-河南丰山)",
+        "line_name": "5号线(傍花-河南丰山)",
+        "line_name_branch": "5号线(傍花-河南丰山)",
+        "line_name_main": "5号线"
+    },
+    {
+        "city_id": "30016",
+        "city_name": "首尔",
+        "line_name_full": "K京义中央线(砥平-汶山)",
+        "line_name": "K京义中央线(砥平-汶山)",
+        "line_name_branch": "K京义中央线(砥平-汶山)",
+        "line_name_main": "K京义中央线"
+    },
+    {
+        "city_id": "30016",
+        "city_name": "首尔",
+        "line_name_full": "K京义中央线(汶山-首尔站)",
+        "line_name": "K京义中央线(汶山-首尔站)",
+        "line_name_branch": "K京义中央线(汶山-首尔站)",
+        "line_name_main": "K京义中央线"
+    },
+    {
+        "city_id": "49872",
+        "city_name": "巴黎",
+        "line_name_full": "13(La Fourche-Saint.Denis Université)",
+        "line_name": "13号线(La Fourche-Saint.Denis Université)",
+        "line_name_branch": "13号线(La Fourche-Saint.Denis Université)",
+        "line_name_main": "13号线"
+    },
+    {
+        "city_id": "49872",
+        "city_name": "巴黎",
+        "line_name_full": "13(Chatillon Montrouge-Asnières Gennevilliers Les Courtilles)",
+        "line_name": "13号线(Chatillon Montrouge-Asnières Gennevilliers Les Courtilles)",
+        "line_name_branch": "13号线(Chatillon Montrouge-Asnières Gennevilliers Les Courtilles)",
+        "line_name_main": "13号线"
+    },
+    {
+        "city_id": "39816",
+        "city_name": "里约热内卢",
+        "line_name_full": "Line 1",
+        "line_name": "Line 1",
+        "line_name_branch": "Line 1",
+        "line_name_main": "Line 1"
+    },
+    {
+        "city_id": "39816",
+        "city_name": "里约热内卢",
+        "line_name_full": "Line 2",
+        "line_name": "Line 2",
+        "line_name_branch": "Line 2",
+        "line_name_main": "Line 2"
+    },
+    {
+        "city_id": "39817",
+        "city_name": "圣保罗",
+        "line_name_full": "Line 1",
+        "line_name": "Line 1",
+        "line_name_branch": "Line 1",
+        "line_name_main": "Line 1"
+    },
+    {
+        "city_id": "39817",
+        "city_name": "圣保罗",
+        "line_name_full": "Line 2",
+        "line_name": "Line 2",
+        "line_name_branch": "Line 2",
+        "line_name_main": "Line 2"
+    },
+    {
+        "city_id": "39817",
+        "city_name": "圣保罗",
+        "line_name_full": "Line 3",
+        "line_name": "Line 3",
+        "line_name_branch": "Line 3",
+        "line_name_main": "Line 3"
+    },
+    {
+        "city_id": "39817",
+        "city_name": "圣保罗",
+        "line_name_full": "Line 4",
+        "line_name": "Line 4",
+        "line_name_branch": "Line 4",
+        "line_name_main": "Line 4"
+    },
+    {
+        "city_id": "39817",
+        "city_name": "圣保罗",
+        "line_name_full": "Line 5",
+        "line_name": "Line 5",
+        "line_name_branch": "Line 5",
+        "line_name_main": "Line 5"
+    },
+    {
+        "city_id": "39817",
+        "city_name": "圣保罗",
+        "line_name_full": "Line 7",
+        "line_name": "Line 7",
+        "line_name_branch": "Line 7",
+        "line_name_main": "Line 7"
+    },
+    {
+        "city_id": "39817",
+        "city_name": "圣保罗",
+        "line_name_full": "Line 8",
+        "line_name": "Line 8",
+        "line_name_branch": "Line 8",
+        "line_name_main": "Line 8"
+    },
+    {
+        "city_id": "39817",
+        "city_name": "圣保罗",
+        "line_name_full": "Line 9",
+        "line_name": "Line 9",
+        "line_name_branch": "Line 9",
+        "line_name_main": "Line 9"
+    },
+    {
+        "city_id": "39817",
+        "city_name": "圣保罗",
+        "line_name_full": "Line 10",
+        "line_name": "Line 10",
+        "line_name_branch": "Line 10",
+        "line_name_main": "Line 10"
+    },
+    {
+        "city_id": "39817",
+        "city_name": "圣保罗",
+        "line_name_full": "Line 11",
+        "line_name": "Line 11",
+        "line_name_branch": "Line 11",
+        "line_name_main": "Line 11"
+    },
+    {
+        "city_id": "39817",
+        "city_name": "圣保罗",
+        "line_name_full": "Line 11 Expresso",
+        "line_name": "Line 11 Expresso",
+        "line_name_branch": "Line 11 Expresso",
+        "line_name_main": "Line 11"
+    },
+    {
+        "city_id": "39817",
+        "city_name": "圣保罗",
+        "line_name_full": "Line 12",
+        "line_name": "Line 12",
+        "line_name_branch": "Line 12",
+        "line_name_main": "Line 12"
+    },
+    {
+        "city_id": "39817",
+        "city_name": "圣保罗",
+        "line_name_full": "Line 15",
+        "line_name": "Line 15",
+        "line_name_branch": "Line 15",
+        "line_name_main": "Line 15"
+    },
+    {
+        "city_id": "60732",
+        "city_name": "纽约",
+        "line_name_full": "Line 1",
+        "line_name": "Line 1",
+        "line_name_branch": "Line 1",
+        "line_name_main": "Line 1"
+    },
+    {
+        "city_id": "60732",
+        "city_name": "纽约",
+        "line_name_full": "Line 2",
+        "line_name": "Line 2",
+        "line_name_branch": "Line 2",
+        "line_name_main": "Line 2"
+    },
+    {
+        "city_id": "60732",
+        "city_name": "纽约",
+        "line_name_full": "Line 3",
+        "line_name": "Line 3",
+        "line_name_branch": "Line 3",
+        "line_name_main": "Line 3"
+    },
+    {
+        "city_id": "60732",
+        "city_name": "纽约",
+        "line_name_full": "Line 4",
+        "line_name": "Line 4",
+        "line_name_branch": "Line 4",
+        "line_name_main": "Line 4"
+    },
+    {
+        "city_id": "60732",
+        "city_name": "纽约",
+        "line_name_full": "Line 6",
+        "line_name": "Line 6",
+        "line_name_branch": "Line 6",
+        "line_name_main": "Line 6"
+    },
+    {
+        "city_id": "60732",
+        "city_name": "纽约",
+        "line_name_full": "Line 7",
+        "line_name": "Line 7",
+        "line_name_branch": "Line 7",
+        "line_name_main": "Line 7"
+    },
+    {
+        "city_id": "60732",
+        "city_name": "纽约",
+        "line_name_full": "Line B",
+        "line_name": "Line B",
+        "line_name_branch": "Line B",
+        "line_name_main": "Line B"
+    },
+    {
+        "city_id": "60732",
+        "city_name": "纽约",
+        "line_name_full": "Line C",
+        "line_name": "Line C",
+        "line_name_branch": "Line C",
+        "line_name_main": "Line C"
+    },
+    {
+        "city_id": "60732",
+        "city_name": "纽约",
+        "line_name_full": "Line D",
+        "line_name": "Line D",
+        "line_name_branch": "Line D",
+        "line_name_main": "Line D"
+    },
+    {
+        "city_id": "60732",
+        "city_name": "纽约",
+        "line_name_full": "Line E",
+        "line_name": "Line E",
+        "line_name_branch": "Line E",
+        "line_name_main": "Line E"
+    },
+    {
+        "city_id": "60732",
+        "city_name": "纽约",
+        "line_name_full": "Line F",
+        "line_name": "Line F",
+        "line_name_branch": "Line F",
+        "line_name_main": "Line F"
+    },
+    {
+        "city_id": "60732",
+        "city_name": "纽约",
+        "line_name_full": "Line G",
+        "line_name": "Line G",
+        "line_name_branch": "Line G",
+        "line_name_main": "Line G"
+    },
+    {
+        "city_id": "60732",
+        "city_name": "纽约",
+        "line_name_full": "Line J",
+        "line_name": "Line J",
+        "line_name_branch": "Line J",
+        "line_name_main": "Line J"
+    },
+    {
+        "city_id": "60732",
+        "city_name": "纽约",
+        "line_name_full": "Line L",
+        "line_name": "Line L",
+        "line_name_branch": "Line L",
+        "line_name_main": "Line L"
+    },
+    {
+        "city_id": "60732",
+        "city_name": "纽约",
+        "line_name_full": "Line M",
+        "line_name": "Line M",
+        "line_name_branch": "Line M",
+        "line_name_main": "Line M"
+    },
+    {
+        "city_id": "60732",
+        "city_name": "纽约",
+        "line_name_full": "Line N",
+        "line_name": "Line N",
+        "line_name_branch": "Line N",
+        "line_name_main": "Line N"
+    },
+    {
+        "city_id": "60732",
+        "city_name": "纽约",
+        "line_name_full": "Line Q",
+        "line_name": "Line Q",
+        "line_name_branch": "Line Q",
+        "line_name_main": "Line Q"
+    },
+    {
+        "city_id": "60732",
+        "city_name": "纽约",
+        "line_name_full": "Line W",
+        "line_name": "Line W",
+        "line_name_branch": "Line W",
+        "line_name_main": "Line W"
+    },
+    {
+        "city_id": "60732",
+        "city_name": "纽约",
+        "line_name_full": "Line R",
+        "line_name": "Line R",
+        "line_name_branch": "Line R",
+        "line_name_main": "Line R"
+    },
+    {
+        "city_id": "60732",
+        "city_name": "纽约",
+        "line_name_full": "Line Z",
+        "line_name": "Line Z",
+        "line_name_branch": "Line Z",
+        "line_name_main": "Line Z"
+    },
+    {
+        "city_id": "60732",
+        "city_name": "纽约",
+        "line_name_full": "Line S1",
+        "line_name": "Line S1",
+        "line_name_branch": "Line S1",
+        "line_name_main": "Line S1"
+    },
+    {
+        "city_id": "60732",
+        "city_name": "纽约",
+        "line_name_full": "Line S2",
+        "line_name": "Line S2",
+        "line_name_branch": "Line S2",
+        "line_name_main": "Line S2"
+    },
+    {
+        "city_id": "60732",
+        "city_name": "纽约",
+        "line_name_full": "Line S3",
+        "line_name": "Line S3",
+        "line_name_branch": "Line S3",
+        "line_name_main": "Line S3"
+    },
+    {
+        "city_id": "60732",
+        "city_name": "纽约",
+        "line_name_full": "AirTrain JFK Red",
+        "line_name": "AirTrain JFK Red",
+        "line_name_branch": "AirTrain JFK Red",
+        "line_name_main": "AirTrain JFK"
+    },
+    {
+        "city_id": "60732",
+        "city_name": "纽约",
+        "line_name_full": "AirTrain JFK Green",
+        "line_name": "AirTrain JFK Green",
+        "line_name_branch": "AirTrain JFK Green",
+        "line_name_main": "AirTrain JFK"
+    },
+    {
+        "city_id": "60732",
+        "city_name": "纽约",
+        "line_name_full": "AirTrain JFK Gold",
+        "line_name": "AirTrain JFK Gold",
+        "line_name_branch": "AirTrain JFK Gold",
+        "line_name_main": "AirTrain JFK"
+    },
+    {
+        "city_id": "60732",
+        "city_name": "纽约",
+        "line_name_full": "Line A(Ozone Park/Lefferts Blvd-Rockaway Blvd)",
+        "line_name": "Line A(Ozone Park/Lefferts Blvd-Rockaway Blvd)",
+        "line_name_branch": "Line A(Ozone Park/Lefferts Blvd-Rockaway Blvd)",
+        "line_name_main": "Line A"
+    },
+    {
+        "city_id": "60732",
+        "city_name": "纽约",
+        "line_name_full": "Line A(Rockaway Blvd-Inwood/207 St)",
+        "line_name": "Line A(Rockaway Blvd-Inwood/207 St)",
+        "line_name_branch": "Line A(Rockaway Blvd-Inwood/207 St)",
+        "line_name_main": "Line A"
+    },
+    {
+        "city_id": "60732",
+        "city_name": "纽约",
+        "line_name_full": "Line A(Broad Channel-Rockaway Park/Beach 116 St)",
+        "line_name": "Line A(Broad Channel-Rockaway Park/Beach 116 St)",
+        "line_name_branch": "Line A(Broad Channel-Rockaway Park/Beach 116 St)",
+        "line_name_main": "Line A"
+    },
+    {
+        "city_id": "60732",
+        "city_name": "纽约",
+        "line_name_full": "Line A(Far Rockaway/Mott Av-Rockaway Blvd)",
+        "line_name": "Line A(Far Rockaway/Mott Av-Rockaway Blvd)",
+        "line_name_branch": "Line A(Far Rockaway/Mott Av-Rockaway Blvd)",
+        "line_name_main": "Line A"
+    },
+    {
+        "city_id": "60732",
+        "city_name": "纽约",
+        "line_name_full": "Line 5(Nereid Av-E 180 St)",
+        "line_name": "Line 5(Nereid Av-E 180 St)",
+        "line_name_branch": "Line 5(Nereid Av-E 180 St)",
+        "line_name_main": "Line 5"
+    },
+    {
+        "city_id": "60732",
+        "city_name": "纽约",
+        "line_name_full": "Line 5(Eastchester/Dyre Av-Flatbush Av/Brooklyn College)",
+        "line_name": "Line 5(Eastchester/Dyre Av-Flatbush Av/Brooklyn College)",
+        "line_name_branch": "Line 5(Eastchester/Dyre Av-Flatbush Av/Brooklyn College)",
+        "line_name_main": "Line 5"
+    },
+    {
+        "city_id": "65531",
+        "city_name": "莫斯科",
+        "line_name_full": "Line 1",
+        "line_name": "Line 1",
+        "line_name_branch": "Line 1",
+        "line_name_main": "Line 1"
+    },
+    {
+        "city_id": "65531",
+        "city_name": "莫斯科",
+        "line_name_full": "Line 2",
+        "line_name": "Line 2",
+        "line_name_branch": "Line 2",
+        "line_name_main": "Line 2"
+    },
+    {
+        "city_id": "65531",
+        "city_name": "莫斯科",
+        "line_name_full": "Line 3",
+        "line_name": "Line 3",
+        "line_name_branch": "Line 3",
+        "line_name_main": "Line 3"
+    },
+    {
+        "city_id": "65531",
+        "city_name": "莫斯科",
+        "line_name_full": "Line 4(昆采沃-亚历山大公园)",
+        "line_name": "Line 4",
+        "line_name_branch": "Line 4(昆采沃-亚历山大公园)",
+        "line_name_main": "Line 4"
+    },
+    {
+        "city_id": "65531",
+        "city_name": "莫斯科",
+        "line_name_full": "Line 4(国际-基辅)",
+        "line_name": "Line 4",
+        "line_name_branch": "Line 4(国际-基辅)",
+        "line_name_main": "Line 4"
+    },
+    {
+        "city_id": "65531",
+        "city_name": "莫斯科",
+        "line_name_full": "Line 5",
+        "line_name": "Line 5",
+        "line_name_branch": "Line 5",
+        "line_name_main": "Line 5"
+    },
+    {
+        "city_id": "65531",
+        "city_name": "莫斯科",
+        "line_name_full": "Line 6",
+        "line_name": "Line 6",
+        "line_name_branch": "Line 6",
+        "line_name_main": "Line 6"
+    },
+    {
+        "city_id": "65531",
+        "city_name": "莫斯科",
+        "line_name_full": "Line 7",
+        "line_name": "Line 7",
+        "line_name_branch": "Line 7",
+        "line_name_main": "Line 7"
+    },
+    {
+        "city_id": "65531",
+        "city_name": "莫斯科",
+        "line_name_full": "Line 8",
+        "line_name": "Line 8",
+        "line_name_branch": "Line 8",
+        "line_name_main": "Line 8"
+    },
+    {
+        "city_id": "65531",
+        "city_name": "莫斯科",
+        "line_name_full": "Line 8A",
+        "line_name": "Line 8A",
+        "line_name_branch": "Line 8A",
+        "line_name_main": "Line 8"
+    },
+    {
+        "city_id": "65531",
+        "city_name": "莫斯科",
+        "line_name_full": "Line 9",
+        "line_name": "Line 9",
+        "line_name_branch": "Line 9",
+        "line_name_main": "Line 9"
+    },
+    {
+        "city_id": "65531",
+        "city_name": "莫斯科",
+        "line_name_full": "Line 10",
+        "line_name": "Line 10",
+        "line_name_branch": "Line 10",
+        "line_name_main": "Line 10"
+    },
+    {
+        "city_id": "65531",
+        "city_name": "莫斯科",
+        "line_name_full": "Line 11A",
+        "line_name": "Line 11A",
+        "line_name_branch": "Line 11A",
+        "line_name_main": "Line 11"
+    },
+    {
+        "city_id": "65531",
+        "city_name": "莫斯科",
+        "line_name_full": "Line 12",
+        "line_name": "Line 12",
+        "line_name_branch": "Line 12",
+        "line_name_main": "Line 12"
+    },
+    {
+        "city_id": "52390",
+        "city_name": "鹿特丹",
+        "line_name_full": "Line A",
+        "line_name": "Line A",
+        "line_name_branch": "Line A",
+        "line_name_main": "Line A"
+    },
+    {
+        "city_id": "52390",
+        "city_name": "鹿特丹",
+        "line_name_full": "Line B",
+        "line_name": "Line B",
+        "line_name_branch": "Line B",
+        "line_name_main": "Line B"
+    },
+    {
+        "city_id": "52390",
+        "city_name": "鹿特丹",
+        "line_name_full": "Line C",
+        "line_name": "Line C",
+        "line_name_branch": "Line C",
+        "line_name_main": "Line C"
+    },
+    {
+        "city_id": "52390",
+        "city_name": "鹿特丹",
+        "line_name_full": "Line D",
+        "line_name": "Line D",
+        "line_name_branch": "Line D",
+        "line_name_main": "Line D"
+    },
+    {
+        "city_id": "52390",
+        "city_name": "鹿特丹",
+        "line_name_full": "Line E",
+        "line_name": "Line E",
+        "line_name_branch": "Line E",
+        "line_name_main": "Line E"
+    },
+    {
+        "city_id": "51271",
+        "city_name": "巴塞罗那",
+        "line_name_full": "L10S",
+        "line_name": "L10S",
+        "line_name_branch": "L10S",
+        "line_name_main": "L10"
+    },
+    {
+        "city_id": "51271",
+        "city_name": "巴塞罗那",
+        "line_name_full": "L10N",
+        "line_name": "L10N",
+        "line_name_branch": "L10N",
+        "line_name_main": "L10"
+    },
+    {
+        "city_id": "51314",
+        "city_name": "马德里",
+        "line_name_full": "Line 1",
+        "line_name": "Line 1",
+        "line_name_branch": "Line 1",
+        "line_name_main": "Line 1"
+    },
+    {
+        "city_id": "51314",
+        "city_name": "马德里",
+        "line_name_full": "Line 2",
+        "line_name": "Line 2",
+        "line_name_branch": "Line 2",
+        "line_name_main": "Line 2"
+    },
+    {
+        "city_id": "51314",
+        "city_name": "马德里",
+        "line_name_full": "Line 3",
+        "line_name": "Line 3",
+        "line_name_branch": "Line 3",
+        "line_name_main": "Line 3"
+    },
+    {
+        "city_id": "51314",
+        "city_name": "马德里",
+        "line_name_full": "Line 4",
+        "line_name": "Line 4",
+        "line_name_branch": "Line 4",
+        "line_name_main": "Line 4"
+    },
+    {
+        "city_id": "51314",
+        "city_name": "马德里",
+        "line_name_full": "Line 5",
+        "line_name": "Line 5",
+        "line_name_branch": "Line 5",
+        "line_name_main": "Line 5"
+    },
+    {
+        "city_id": "51314",
+        "city_name": "马德里",
+        "line_name_full": "Line 6",
+        "line_name": "Line 6",
+        "line_name_branch": "Line 6",
+        "line_name_main": "Line 6"
+    },
+    {
+        "city_id": "51314",
+        "city_name": "马德里",
+        "line_name_full": "Line 7",
+        "line_name": "Line 7",
+        "line_name_branch": "Line 7",
+        "line_name_main": "Line 7"
+    },
+    {
+        "city_id": "51314",
+        "city_name": "马德里",
+        "line_name_full": "Line 8",
+        "line_name": "Line 8",
+        "line_name_branch": "Line 8",
+        "line_name_main": "Line 8"
+    },
+    {
+        "city_id": "51314",
+        "city_name": "马德里",
+        "line_name_full": "Line 9",
+        "line_name": "Line 9",
+        "line_name_branch": "Line 9",
+        "line_name_main": "Line 9"
+    },
+    {
+        "city_id": "51314",
+        "city_name": "马德里",
+        "line_name_full": "Line 10",
+        "line_name": "Line 10",
+        "line_name_branch": "Line 10",
+        "line_name_main": "Line 10"
+    },
+    {
+        "city_id": "51314",
+        "city_name": "马德里",
+        "line_name_full": "Line 11",
+        "line_name": "Line 11",
+        "line_name_branch": "Line 11",
+        "line_name_main": "Line 11"
+    },
+    {
+        "city_id": "51314",
+        "city_name": "马德里",
+        "line_name_full": "Line 12",
+        "line_name": "Line 12",
+        "line_name_branch": "Line 12",
+        "line_name_main": "Line 12"
+    },
+    {
+        "city_id": "51314",
+        "city_name": "马德里",
+        "line_name_full": "ML42",
+        "line_name": "ML4",
+        "line_name_branch": "ML42",
+        "line_name_main": "ML4"
+    },
+    {
+        "city_id": "51314",
+        "city_name": "马德里",
+        "line_name_full": "ML4",
+        "line_name": "ML4",
+        "line_name_branch": "ML4",
+        "line_name_main": "ML4"
+    }
+]
