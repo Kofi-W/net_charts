@@ -1,0 +1,636 @@
+{
+  "cities": [
+    {
+      "city_name": "北京",
+      "english_pinyin_name": "Beijing",
+      "province_chinese": "北京市",
+      "province_pinyin_english": "Beijing Shi",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "上海",
+      "english_pinyin_name": "Shanghai",
+      "province_chinese": "上海市",
+      "province_pinyin_english": "Shanghai Shi",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "广州",
+      "english_pinyin_name": "Guangzhou",
+      "province_chinese": "广东省",
+      "province_pinyin_english": "Guangdong Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "深圳",
+      "english_pinyin_name": "Shenzhen",
+      "province_chinese": "广东省",
+      "province_pinyin_english": "Guangdong Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "重庆",
+      "english_pinyin_name": "Chongqing",
+      "province_chinese": "重庆市",
+      "province_pinyin_english": "Chongqing Shi",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "天津",
+      "english_pinyin_name": "Tianjin",
+      "province_chinese": "天津市",
+      "province_pinyin_english": "Tianjin Shi",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "石家庄",
+      "english_pinyin_name": "Shijiazhuang",
+      "province_chinese": "河北省",
+      "province_pinyin_english": "Hebei Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "南京",
+      "english_pinyin_name": "Nanjing",
+      "province_chinese": "江苏省",
+      "province_pinyin_english": "Jiangsu Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "成都",
+      "english_pinyin_name": "Chengdu",
+      "province_chinese": "四川省",
+      "province_pinyin_english": "Sichuan Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "沈阳",
+      "english_pinyin_name": "Shenyang",
+      "province_chinese": "辽宁省",
+      "province_pinyin_english": "Liaoning Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "杭州",
+      "english_pinyin_name": "Hangzhou",
+      "province_chinese": "浙江省",
+      "province_pinyin_english": "Zhejiang Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "武汉",
+      "english_pinyin_name": "Wuhan",
+      "province_chinese": "湖北省",
+      "province_pinyin_english": "Hubei Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "长沙",
+      "english_pinyin_name": "Changsha",
+      "province_chinese": "湖南省",
+      "province_pinyin_english": "Hunan Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "苏州",
+      "english_pinyin_name": "Suzhou",
+      "province_chinese": "江苏省",
+      "province_pinyin_english": "Jiangsu Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "大连",
+      "english_pinyin_name": "Dalian",
+      "province_chinese": "辽宁省",
+      "province_pinyin_english": "Liaoning Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "长春",
+      "english_pinyin_name": "Changchun",
+      "province_chinese": "吉林省",
+      "province_pinyin_english": "Jilin Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "西安",
+      "english_pinyin_name": "Xi'an",
+      "province_chinese": "陕西省",
+      "province_pinyin_english": "Shaanxi Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "昆明",
+      "english_pinyin_name": "Kunming",
+      "province_chinese": "云南省",
+      "province_pinyin_english": "Yunnan Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "佛山",
+      "english_pinyin_name": "Foshan",
+      "province_chinese": "广东省",
+      "province_pinyin_english": "Guangdong Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "哈尔滨",
+      "english_pinyin_name": "Harbin",
+      "province_chinese": "黑龙江省",
+      "province_pinyin_english": "Heilongjiang Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "郑州",
+      "english_pinyin_name": "Zhengzhou",
+      "province_chinese": "河南省",
+      "province_pinyin_english": "Henan Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "宁波",
+      "english_pinyin_name": "Ningbo",
+      "province_chinese": "浙江省",
+      "province_pinyin_english": "Zhejiang Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "无锡",
+      "english_pinyin_name": "Wuxi",
+      "province_chinese": "江苏省",
+      "province_pinyin_english": "Jiangsu Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "温州",
+      "english_pinyin_name": "Wenzhou",
+      "province_chinese": "浙江省",
+      "province_pinyin_english": "Zhejiang Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "青岛",
+      "english_pinyin_name": "Qingdao",
+      "province_chinese": "山东省",
+      "province_pinyin_english": "Shandong Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "南昌",
+      "english_pinyin_name": "Nanchang",
+      "province_chinese": "江西省",
+      "province_pinyin_english": "Jiangxi Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "福州",
+      "english_pinyin_name": "Fuzhou",
+      "province_chinese": "福建省",
+      "province_pinyin_english": "Fujian Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "东莞",
+      "english_pinyin_name": "Dongguan",
+      "province_chinese": "广东省",
+      "province_pinyin_english": "Guangdong Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "南宁",
+      "english_pinyin_name": "Nanning",
+      "province_chinese": "广西壮族自治区",
+      "province_pinyin_english": "Guangxi Zhuangzu Zizhiqu",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "合肥",
+      "english_pinyin_name": "Hefei",
+      "province_chinese": "安徽省",
+      "province_pinyin_english": "Anhui Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "厦门",
+      "english_pinyin_name": "Xiamen",
+      "province_chinese": "福建省",
+      "province_pinyin_english": "Fujian Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "乌鲁木齐",
+      "english_pinyin_name": "Urumqi",
+      "province_chinese": "新疆维吾尔自治区",
+      "province_pinyin_english": "Xinjiang Weiwuer Zizhiqu",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "贵阳",
+      "english_pinyin_name": "Guiyang",
+      "province_chinese": "贵州省",
+      "province_pinyin_english": "Guizhou Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "香港特别行政区",
+      "english_pinyin_name": "Hong Kong",
+      "province_chinese": "香港特别行政区",
+      "province_pinyin_english": "Xianggang Tebie Xingzhengqu",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "台北",
+      "english_pinyin_name": "Taipei",
+      "province_chinese": "台湾省",
+      "province_pinyin_english": "Taiwan Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "高雄",
+      "english_pinyin_name": "Kaohsiung",
+      "province_chinese": "台湾省",
+      "province_pinyin_english": "Taiwan Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "南通",
+      "english_pinyin_name": "Nantong",
+      "province_chinese": "江苏省",
+      "province_pinyin_english": "Jiangsu Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "资阳",
+      "english_pinyin_name": "Ziyang",
+      "province_chinese": "四川省",
+      "province_pinyin_english": "Sichuan Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "鄂州",
+      "english_pinyin_name": "Ezhou",
+      "province_chinese": "湖北省",
+      "province_pinyin_english": "Hubei Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "湘潭",
+      "english_pinyin_name": "Xiangtan",
+      "province_chinese": "湖南省",
+      "province_pinyin_english": "Hunan Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "咸阳",
+      "english_pinyin_name": "Xianyang",
+      "province_chinese": "陕西省",
+      "province_pinyin_english": "Shaanxi Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "许昌",
+      "english_pinyin_name": "Xuchang",
+      "province_chinese": "河南省",
+      "province_pinyin_english": "Henan Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "常州",
+      "english_pinyin_name": "Changzhou",
+      "province_chinese": "江苏省",
+      "province_pinyin_english": "Jiangsu Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "清远",
+      "english_pinyin_name": "Qingyuan",
+      "province_chinese": "广东省",
+      "province_pinyin_english": "Guangdong Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "济南",
+      "english_pinyin_name": "Jinan",
+      "province_chinese": "山东省",
+      "province_pinyin_english": "Shandong Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "兰州",
+      "english_pinyin_name": "Lanzhou",
+      "province_chinese": "甘肃省",
+      "province_pinyin_english": "Gansu Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "徐州",
+      "english_pinyin_name": "Xuzhou",
+      "province_chinese": "江苏省",
+      "province_pinyin_english": "Jiangsu Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "呼和浩特",
+      "english_pinyin_name": "Hohhot",
+      "province_chinese": "内蒙古自治区",
+      "province_pinyin_english": "Nei Mongol Zizhiqu",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "太原",
+      "english_pinyin_name": "Taiyuan",
+      "province_chinese": "山西省",
+      "province_pinyin_english": "Shanxi Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "金华",
+      "english_pinyin_name": "Jinhua",
+      "province_chinese": "浙江省",
+      "province_pinyin_english": "Zhejiang Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "洛阳",
+      "english_pinyin_name": "Luoyang",
+      "province_chinese": "河南省",
+      "province_pinyin_english": "Henan Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "绍兴",
+      "english_pinyin_name": "Shaoxing",
+      "province_chinese": "浙江省",
+      "province_pinyin_english": "Zhejiang Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "芜湖",
+      "english_pinyin_name": "Wuhu",
+      "province_chinese": "安徽省",
+      "province_pinyin_english": "Anhui Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "台州",
+      "english_pinyin_name": "Taizhou",
+      "province_chinese": "浙江省",
+      "province_pinyin_english": "Zhejiang Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "滁州",
+      "english_pinyin_name": "Chuzhou",
+      "province_chinese": "安徽省",
+      "province_pinyin_english": "Anhui Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "湘西土家族苗族自治州",
+      "english_pinyin_name": "Xiangxi Tujiazu Miaozu Zizhizhou",
+      "province_chinese": "湖南省",
+      "province_pinyin_english": "Hunan Sheng",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "澳门特别行政区",
+      "english_pinyin_name": "Macau",
+      "province_chinese": "澳门特别行政区",
+      "province_pinyin_english": "Aomen Tebie Xingzhengqu",
+      "country_chinese": "中国",
+      "country_english": "China"
+    },
+    {
+      "city_name": "新加坡",
+      "english_pinyin_name": "Singapore",
+      "province_chinese": "",
+      "province_pinyin_english": "",
+      "country_chinese": "新加坡",
+      "country_english": "Singapore"
+    },
+    {
+      "city_name": "曼谷",
+      "english_pinyin_name": "Bangkok",
+      "province_chinese": "曼谷直辖市",
+      "province_pinyin_english": "Bangkok Metropolis",
+      "country_chinese": "泰国",
+      "country_english": "Thailand"
+    },
+    {
+      "city_name": "名古屋",
+      "english_pinyin_name": "Nagoya",
+      "province_chinese": "爱知县",
+      "province_pinyin_english": "Aichi Prefecture",
+      "country_chinese": "日本",
+      "country_english": "Japan"
+    },
+    {
+      "city_name": "横滨",
+      "english_pinyin_name": "Yokohama",
+      "province_chinese": "神奈川县",
+      "province_pinyin_english": "Kanagawa Prefecture",
+      "country_chinese": "日本",
+      "country_english": "Japan"
+    },
+    {
+      "city_name": "京都",
+      "english_pinyin_name": "Kyoto",
+      "province_chinese": "京都府",
+      "province_pinyin_english": "Kyoto Prefecture",
+      "country_chinese": "日本",
+      "country_english": "Japan"
+    },
+    {
+      "city_name": "大阪",
+      "english_pinyin_name": "Osaka",
+      "province_chinese": "大阪府",
+      "province_pinyin_english": "Osaka Prefecture",
+      "country_chinese": "日本",
+      "country_english": "Japan"
+    },
+    {
+      "city_name": "东京",
+      "english_pinyin_name": "Tokyo",
+      "province_chinese": "东京都",
+      "province_pinyin_english": "Tokyo Metropolis",
+      "country_chinese": "日本",
+      "country_english": "Japan"
+    },
+    {
+      "city_name": "釜山",
+      "english_pinyin_name": "Busan",
+      "province_chinese": "釜山广域市",
+      "province_pinyin_english": "Busan Metropolitan City",
+      "country_chinese": "韩国",
+      "country_english": "South Korea"
+    },
+    {
+      "city_name": "大邱",
+      "english_pinyin_name": "Daegu",
+      "province_chinese": "大邱广域市",
+      "province_pinyin_english": "Daegu Metropolitan City",
+      "country_chinese": "韩国",
+      "country_english": "South Korea"
+    },
+    {
+      "city_name": "大田",
+      "english_pinyin_name": "Daejeon",
+      "province_chinese": "大田广域市",
+      "province_pinyin_english": "Daejeon Metropolitan City",
+      "country_chinese": "韩国",
+      "country_english": "South Korea"
+    },
+    {
+      "city_name": "光州",
+      "english_pinyin_name": "Gwangju",
+      "province_chinese": "光州广域市",
+      "province_pinyin_english": "Gwangju Metropolitan City",
+      "country_chinese": "韩国",
+      "country_english": "South Korea"
+    },
+    {
+      "city_name": "首尔",
+      "english_pinyin_name": "Seoul",
+      "province_chinese": "首尔特别市",
+      "province_pinyin_english": "Seoul Special City",
+      "country_chinese": "韩国",
+      "country_english": "South Korea"
+    },
+    {
+      "city_name": "巴黎",
+      "english_pinyin_name": "Paris",
+      "province_chinese": "法兰西岛大区",
+      "province_pinyin_english": "Île-de-France Region",
+      "country_chinese": "法国",
+      "country_english": "France"
+    },
+    {
+      "city_name": "里约热内卢",
+      "english_pinyin_name": "Rio de Janeiro",
+      "province_chinese": "里约热内卢州",
+      "province_pinyin_english": "Rio de Janeiro State",
+      "country_chinese": "巴西",
+      "country_english": "Brazil"
+    },
+    {
+      "city_name": "巴西利亚",
+      "english_pinyin_name": "Brasilia",
+      "province_chinese": "联邦区",
+      "province_pinyin_english": "Distrito Federal",
+      "country_chinese": "巴西",
+      "country_english": "Brazil"
+    },
+    {
+      "city_name": "圣保罗",
+      "english_pinyin_name": "Sao Paulo",
+      "province_chinese": "圣保罗州",
+      "province_pinyin_english": "São Paulo State",
+      "country_chinese": "巴西",
+      "country_english": "Brazil"
+    },
+    {
+      "city_name": "纽约",
+      "english_pinyin_name": "New York",
+      "province_chinese": "纽约州",
+      "province_pinyin_english": "New York State",
+      "country_chinese": "美国",
+      "country_english": "United States"
+    },
+    {
+      "city_name": "莫斯科",
+      "english_pinyin_name": "Moscow",
+      "province_chinese": "莫斯科州",
+      "province_pinyin_english": "Moscow Oblast",
+      "country_chinese": "俄罗斯",
+      "country_english": "Russia"
+    },
+    {
+      "city_name": "鹿特丹",
+      "english_pinyin_name": "Rotterdam",
+      "province_chinese": "南荷兰省",
+      "province_pinyin_english": "South Holland Province",
+      "country_chinese": "荷兰",
+      "country_english": "Netherlands"
+    },
+    {
+      "city_name": "伊斯坦布尔",
+      "english_pinyin_name": "Istanbul",
+      "province_chinese": "伊斯坦布尔省",
+      "province_pinyin_english": "Istanbul Province",
+      "country_chinese": "土耳其",
+      "country_english": "Turkey"
+    },
+    {
+      "city_name": "巴塞罗那",
+      "english_pinyin_name": "Barcelona",
+      "province_chinese": "加泰罗尼亚自治区",
+      "province_pinyin_english": "Catalonia Autonomous Community",
+      "country_chinese": "西班牙",
+      "country_english": "Spain"
+    },
+    {
+      "city_name": "马德里",
+      "english_pinyin_name": "Madrid",
+      "province_chinese": "马德里自治区",
+      "province_pinyin_english": "Community of Madrid",
+      "country_chinese": "西班牙",
+      "country_english": "Spain"
+    }
+  ]
+}
