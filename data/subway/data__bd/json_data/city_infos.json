@@ -1,38 +1,39 @@
 {
     "city_id_list": [
-        "257",
         "60732",
+        "257",
         "30016",
         "131",
         "289",
         "51271",
         "340",
-        "49872",
         "75",
+        "49872",
         "51314",
-        "132",
         "179",
+        "132",
         "26041",
         "315",
-        "48552",
         "65531",
+        "48552",
         "332",
+        "39817",
         "218",
         "9002",
         "20001",
-        "39817",
         "268",
         "233",
+        "268s",
         "2912",
         "158",
-        "26033",
         "224",
+        "26033",
         "236",
-        "138",
         "104",
         "127",
-        "167",
+        "138",
         "180",
+        "167",
         "53",
         "58",
         "30001",
@@ -42,10 +43,10 @@
         "52390",
         "261",
         "317",
-        "163",
+        "146",
         "316",
         "323",
-        "146",
+        "163",
         "150",
         "288",
         "194",
@@ -60,9 +61,9 @@
         "153",
         "161",
         "129",
-        "176",
-        "26022",
         "178",
+        "26022",
+        "176",
         "92",
         "197",
         "53009",
@@ -81,39 +82,40 @@
         "30005"
     ],
     "city_name_list": [
-        "广州",
         "纽约",
+        "广州",
         "首尔",
         "北京",
         "上海",
         "巴塞罗那",
         "深圳",
-        "巴黎",
         "成都",
+        "巴黎",
         "马德里",
-        "重庆",
         "杭州",
+        "重庆",
         "东京",
         "南京",
-        "伊斯坦布尔",
         "莫斯科",
+        "伊斯坦布尔",
         "天津",
+        "圣保罗",
         "武汉",
         "台北",
         "新加坡",
-        "圣保罗",
         "郑州",
         "西安",
-        "香港特别行政区",
+        "郑州s",
+        "香港",
         "长沙",
-        "大阪",
         "苏州",
+        "大阪",
         "青岛",
-        "佛山",
         "昆明",
         "合肥",
-        "大连",
+        "佛山",
         "宁波",
+        "大连",
         "长春",
         "沈阳",
         "釜山",
@@ -123,10 +125,10 @@
         "鹿特丹",
         "南宁",
         "无锡",
-        "南昌",
+        "贵阳",
         "徐州",
         "咸阳",
-        "贵阳",
+        "南昌",
         "石家庄",
         "济南",
         "厦门",
@@ -141,9 +143,9 @@
         "洛阳",
         "南通",
         "芜湖",
-        "太原",
-        "京都",
         "温州",
+        "京都",
+        "太原",
         "乌鲁木齐",
         "清远",
         "巴西利亚",
@@ -153,7 +155,7 @@
         "许昌",
         "鄂州",
         "湘西土家族苗族自治州",
-        "澳门特别行政区",
+        "澳门",
         "资阳",
         "台州",
         "滁州",
@@ -182,32 +184,33 @@
             "289",
             "340",
             "75",
-            "132",
             "179",
+            "132",
             "315",
             "332",
             "218",
             "9002",
             "268",
             "233",
+            "268s",
             "2912",
             "158",
             "224",
             "236",
-            "138",
             "104",
             "127",
-            "167",
+            "138",
             "180",
+            "167",
             "53",
             "58",
             "300",
             "261",
             "317",
-            "163",
+            "146",
             "316",
             "323",
-            "146",
+            "163",
             "150",
             "288",
             "194",
@@ -220,8 +223,8 @@
             "153",
             "161",
             "129",
-            "176",
             "178",
+            "176",
             "92",
             "197",
             "348",
@@ -281,16 +284,6 @@
         ]
     },
     "city_dict": {
-        "257": {
-            "city_id": "257",
-            "city_name": "广州",
-            "city_name_e": "Guangzhou",
-            "province": "广东省",
-            "province_e": "Guangdong Sheng",
-            "country": "中国",
-            "country_e": "China",
-            "city_order": 1
-        },
         "60732": {
             "city_id": "60732",
             "city_name": "纽约",
@@ -299,6 +292,16 @@
             "province_e": "New York State",
             "country": "美国",
             "country_e": "United States",
+            "city_order": 1
+        },
+        "257": {
+            "city_id": "257",
+            "city_name": "广州",
+            "city_name_e": "Guangzhou",
+            "province": "广东省",
+            "province_e": "Guangdong Sheng",
+            "country": "中国",
+            "country_e": "China",
             "city_order": 2
         },
         "30016": {
@@ -351,16 +354,6 @@
             "country_e": "China",
             "city_order": 7
         },
-        "49872": {
-            "city_id": "49872",
-            "city_name": "巴黎",
-            "city_name_e": "Paris",
-            "province": "法兰西岛大区",
-            "province_e": "Île-de-France Region",
-            "country": "法国",
-            "country_e": "France",
-            "city_order": 8
-        },
         "75": {
             "city_id": "75",
             "city_name": "成都",
@@ -369,6 +362,16 @@
             "province_e": "Sichuan Sheng",
             "country": "中国",
             "country_e": "China",
+            "city_order": 8
+        },
+        "49872": {
+            "city_id": "49872",
+            "city_name": "巴黎",
+            "city_name_e": "Paris",
+            "province": "法兰西岛大区",
+            "province_e": "Île-de-France Region",
+            "country": "法国",
+            "country_e": "France",
             "city_order": 9
         },
         "51314": {
@@ -381,22 +384,22 @@
             "country_e": "Spain",
             "city_order": 10
         },
-        "132": {
-            "city_id": "132",
-            "city_name": "重庆",
-            "city_name_e": "Chongqing",
-            "province": "重庆市",
-            "province_e": "Chongqing Shi",
-            "country": "中国",
-            "country_e": "China",
-            "city_order": 11
-        },
         "179": {
             "city_id": "179",
             "city_name": "杭州",
             "city_name_e": "Hangzhou",
             "province": "浙江省",
             "province_e": "Zhejiang Sheng",
+            "country": "中国",
+            "country_e": "China",
+            "city_order": 11
+        },
+        "132": {
+            "city_id": "132",
+            "city_name": "重庆",
+            "city_name_e": "Chongqing",
+            "province": "重庆市",
+            "province_e": "Chongqing Shi",
             "country": "中国",
             "country_e": "China",
             "city_order": 12
@@ -421,16 +424,6 @@
             "country_e": "China",
             "city_order": 14
         },
-        "48552": {
-            "city_id": "48552",
-            "city_name": "伊斯坦布尔",
-            "city_name_e": "Istanbul",
-            "province": "伊斯坦布尔省",
-            "province_e": "Istanbul Province",
-            "country": "土耳其",
-            "country_e": "Turkey",
-            "city_order": 15
-        },
         "65531": {
             "city_id": "65531",
             "city_name": "莫斯科",
@@ -439,6 +432,16 @@
             "province_e": "Moscow Oblast",
             "country": "俄罗斯",
             "country_e": "Russia",
+            "city_order": 15
+        },
+        "48552": {
+            "city_id": "48552",
+            "city_name": "伊斯坦布尔",
+            "city_name_e": "Istanbul",
+            "province": "伊斯坦布尔省",
+            "province_e": "Istanbul Province",
+            "country": "土耳其",
+            "country_e": "Turkey",
             "city_order": 16
         },
         "332": {
@@ -451,6 +454,16 @@
             "country_e": "China",
             "city_order": 17
         },
+        "39817": {
+            "city_id": "39817",
+            "city_name": "圣保罗",
+            "city_name_e": "Sao Paulo",
+            "province": "圣保罗州",
+            "province_e": "São Paulo State",
+            "country": "巴西",
+            "country_e": "Brazil",
+            "city_order": 18
+        },
         "218": {
             "city_id": "218",
             "city_name": "武汉",
@@ -459,7 +472,7 @@
             "province_e": "Hubei Sheng",
             "country": "中国",
             "country_e": "China",
-            "city_order": 18
+            "city_order": 19
         },
         "9002": {
             "city_id": "9002",
@@ -469,7 +482,7 @@
             "province_e": "Taiwan Sheng",
             "country": "中国",
             "country_e": "China",
-            "city_order": 19
+            "city_order": 20
         },
         "20001": {
             "city_id": "20001",
@@ -479,16 +492,6 @@
             "province_e": "",
             "country": "新加坡",
             "country_e": "Singapore",
-            "city_order": 20
-        },
-        "39817": {
-            "city_id": "39817",
-            "city_name": "圣保罗",
-            "city_name_e": "Sao Paulo",
-            "province": "圣保罗州",
-            "province_e": "São Paulo State",
-            "country": "巴西",
-            "country_e": "Brazil",
             "city_order": 21
         },
         "268": {
@@ -511,15 +514,25 @@
             "country_e": "China",
             "city_order": 23
         },
+        "268s": {
+            "city_id": "268s",
+            "city_name": "郑州s",
+            "city_name_e": "Zhengzhou",
+            "province": "河南省",
+            "province_e": "Henan Sheng",
+            "country": "中国",
+            "country_e": "China",
+            "city_order": 24
+        },
         "2912": {
             "city_id": "2912",
-            "city_name": "香港特别行政区",
+            "city_name": "香港",
             "city_name_e": "Hong Kong",
             "province": "香港特别行政区",
             "province_e": "Xianggang Tebie Xingzhengqu",
             "country": "中国",
             "country_e": "China",
-            "city_order": 24
+            "city_order": 25
         },
         "158": {
             "city_id": "158",
@@ -529,16 +542,6 @@
             "province_e": "Hunan Sheng",
             "country": "中国",
             "country_e": "China",
-            "city_order": 25
-        },
-        "26033": {
-            "city_id": "26033",
-            "city_name": "大阪",
-            "city_name_e": "Osaka",
-            "province": "大阪府",
-            "province_e": "Osaka Prefecture",
-            "country": "日本",
-            "country_e": "Japan",
             "city_order": 26
         },
         "224": {
@@ -551,22 +554,22 @@
             "country_e": "China",
             "city_order": 27
         },
+        "26033": {
+            "city_id": "26033",
+            "city_name": "大阪",
+            "city_name_e": "Osaka",
+            "province": "大阪府",
+            "province_e": "Osaka Prefecture",
+            "country": "日本",
+            "country_e": "Japan",
+            "city_order": 28
+        },
         "236": {
             "city_id": "236",
             "city_name": "青岛",
             "city_name_e": "Qingdao",
             "province": "山东省",
             "province_e": "Shandong Sheng",
-            "country": "中国",
-            "country_e": "China",
-            "city_order": 28
-        },
-        "138": {
-            "city_id": "138",
-            "city_name": "佛山",
-            "city_name_e": "Foshan",
-            "province": "广东省",
-            "province_e": "Guangdong Sheng",
             "country": "中国",
             "country_e": "China",
             "city_order": 29
@@ -591,12 +594,12 @@
             "country_e": "China",
             "city_order": 31
         },
-        "167": {
-            "city_id": "167",
-            "city_name": "大连",
-            "city_name_e": "Dalian",
-            "province": "辽宁省",
-            "province_e": "Liaoning Sheng",
+        "138": {
+            "city_id": "138",
+            "city_name": "佛山",
+            "city_name_e": "Foshan",
+            "province": "广东省",
+            "province_e": "Guangdong Sheng",
             "country": "中国",
             "country_e": "China",
             "city_order": 32
@@ -611,6 +614,16 @@
             "country_e": "China",
             "city_order": 33
         },
+        "167": {
+            "city_id": "167",
+            "city_name": "大连",
+            "city_name_e": "Dalian",
+            "province": "辽宁省",
+            "province_e": "Liaoning Sheng",
+            "country": "中国",
+            "country_e": "China",
+            "city_order": 34
+        },
         "53": {
             "city_id": "53",
             "city_name": "长春",
@@ -619,7 +632,7 @@
             "province_e": "Jilin Sheng",
             "country": "中国",
             "country_e": "China",
-            "city_order": 34
+            "city_order": 35
         },
         "58": {
             "city_id": "58",
@@ -629,7 +642,7 @@
             "province_e": "Liaoning Sheng",
             "country": "中国",
             "country_e": "China",
-            "city_order": 35
+            "city_order": 36
         },
         "30001": {
             "city_id": "30001",
@@ -639,7 +652,7 @@
             "province_e": "Busan Metropolitan City",
             "country": "韩国",
             "country_e": "South Korea",
-            "city_order": 36
+            "city_order": 37
         },
         "300": {
             "city_id": "300",
@@ -649,7 +662,7 @@
             "province_e": "Fujian Sheng",
             "country": "中国",
             "country_e": "China",
-            "city_order": 37
+            "city_order": 38
         },
         "20508": {
             "city_id": "20508",
@@ -659,7 +672,7 @@
             "province_e": "Bangkok Metropolis",
             "country": "泰国",
             "country_e": "Thailand",
-            "city_order": 38
+            "city_order": 39
         },
         "26001": {
             "city_id": "26001",
@@ -669,7 +682,7 @@
             "province_e": "Aichi Prefecture",
             "country": "日本",
             "country_e": "Japan",
-            "city_order": 39
+            "city_order": 40
         },
         "52390": {
             "city_id": "52390",
@@ -679,7 +692,7 @@
             "province_e": "South Holland Province",
             "country": "荷兰",
             "country_e": "Netherlands",
-            "city_order": 40
+            "city_order": 41
         },
         "261": {
             "city_id": "261",
@@ -689,7 +702,7 @@
             "province_e": "Guangxi Zhuangzu Zizhiqu",
             "country": "中国",
             "country_e": "China",
-            "city_order": 41
+            "city_order": 42
         },
         "317": {
             "city_id": "317",
@@ -699,37 +712,7 @@
             "province_e": "Jiangsu Sheng",
             "country": "中国",
             "country_e": "China",
-            "city_order": 42
-        },
-        "163": {
-            "city_id": "163",
-            "city_name": "南昌",
-            "city_name_e": "Nanchang",
-            "province": "江西省",
-            "province_e": "Jiangxi Sheng",
-            "country": "中国",
-            "country_e": "China",
             "city_order": 43
-        },
-        "316": {
-            "city_id": "316",
-            "city_name": "徐州",
-            "city_name_e": "Xuzhou",
-            "province": "江苏省",
-            "province_e": "Jiangsu Sheng",
-            "country": "中国",
-            "country_e": "China",
-            "city_order": 44
-        },
-        "323": {
-            "city_id": "323",
-            "city_name": "咸阳",
-            "city_name_e": "Xianyang",
-            "province": "陕西省",
-            "province_e": "Shaanxi Sheng",
-            "country": "中国",
-            "country_e": "China",
-            "city_order": 45
         },
         "146": {
             "city_id": "146",
@@ -739,7 +722,37 @@
             "province_e": "Guizhou Sheng",
             "country": "中国",
             "country_e": "China",
+            "city_order": 44
+        },
+        "316": {
+            "city_id": "316",
+            "city_name": "徐州",
+            "city_name_e": "Xuzhou",
+            "province": "江苏省",
+            "province_e": "Jiangsu Sheng",
+            "country": "中国",
+            "country_e": "China",
+            "city_order": 45
+        },
+        "323": {
+            "city_id": "323",
+            "city_name": "咸阳",
+            "city_name_e": "Xianyang",
+            "province": "陕西省",
+            "province_e": "Shaanxi Sheng",
+            "country": "中国",
+            "country_e": "China",
             "city_order": 46
+        },
+        "163": {
+            "city_id": "163",
+            "city_name": "南昌",
+            "city_name_e": "Nanchang",
+            "province": "江西省",
+            "province_e": "Jiangxi Sheng",
+            "country": "中国",
+            "country_e": "China",
+            "city_order": 47
         },
         "150": {
             "city_id": "150",
@@ -749,7 +762,7 @@
             "province_e": "Hebei Sheng",
             "country": "中国",
             "country_e": "China",
-            "city_order": 47
+            "city_order": 48
         },
         "288": {
             "city_id": "288",
@@ -759,7 +772,7 @@
             "province_e": "Shandong Sheng",
             "country": "中国",
             "country_e": "China",
-            "city_order": 48
+            "city_order": 49
         },
         "194": {
             "city_id": "194",
@@ -769,7 +782,7 @@
             "province_e": "Fujian Sheng",
             "country": "中国",
             "country_e": "China",
-            "city_order": 49
+            "city_order": 50
         },
         "26019": {
             "city_id": "26019",
@@ -779,7 +792,7 @@
             "province_e": "Kanagawa Prefecture",
             "country": "日本",
             "country_e": "Japan",
-            "city_order": 50
+            "city_order": 51
         },
         "293": {
             "city_id": "293",
@@ -789,7 +802,7 @@
             "province_e": "Zhejiang Sheng",
             "country": "中国",
             "country_e": "China",
-            "city_order": 51
+            "city_order": 52
         },
         "9019": {
             "city_id": "9019",
@@ -799,7 +812,7 @@
             "province_e": "Taiwan Sheng",
             "country": "中国",
             "country_e": "China",
-            "city_order": 52
+            "city_order": 53
         },
         "30004": {
             "city_id": "30004",
@@ -809,7 +822,7 @@
             "province_e": "Daegu Metropolitan City",
             "country": "韩国",
             "country_e": "South Korea",
-            "city_order": 53
+            "city_order": 54
         },
         "48": {
             "city_id": "48",
@@ -819,7 +832,7 @@
             "province_e": "Heilongjiang Sheng",
             "country": "中国",
             "country_e": "China",
-            "city_order": 54
+            "city_order": 55
         },
         "119": {
             "city_id": "119",
@@ -829,7 +842,7 @@
             "province_e": "Guangdong Sheng",
             "country": "中国",
             "country_e": "China",
-            "city_order": 55
+            "city_order": 56
         },
         "321": {
             "city_id": "321",
@@ -839,7 +852,7 @@
             "province_e": "Nei Mongol Zizhiqu",
             "country": "中国",
             "country_e": "China",
-            "city_order": 56
+            "city_order": 57
         },
         "36": {
             "city_id": "36",
@@ -849,7 +862,7 @@
             "province_e": "Gansu Sheng",
             "country": "中国",
             "country_e": "China",
-            "city_order": 57
+            "city_order": 58
         },
         "153": {
             "city_id": "153",
@@ -859,7 +872,7 @@
             "province_e": "Henan Sheng",
             "country": "中国",
             "country_e": "China",
-            "city_order": 58
+            "city_order": 59
         },
         "161": {
             "city_id": "161",
@@ -869,7 +882,7 @@
             "province_e": "Jiangsu Sheng",
             "country": "中国",
             "country_e": "China",
-            "city_order": 59
+            "city_order": 60
         },
         "129": {
             "city_id": "129",
@@ -879,27 +892,7 @@
             "province_e": "Anhui Sheng",
             "country": "中国",
             "country_e": "China",
-            "city_order": 60
-        },
-        "176": {
-            "city_id": "176",
-            "city_name": "太原",
-            "city_name_e": "Taiyuan",
-            "province": "山西省",
-            "province_e": "Shanxi Sheng",
-            "country": "中国",
-            "country_e": "China",
             "city_order": 61
-        },
-        "26022": {
-            "city_id": "26022",
-            "city_name": "京都",
-            "city_name_e": "Kyoto",
-            "province": "京都府",
-            "province_e": "Kyoto Prefecture",
-            "country": "日本",
-            "country_e": "Japan",
-            "city_order": 62
         },
         "178": {
             "city_id": "178",
@@ -909,7 +902,27 @@
             "province_e": "Zhejiang Sheng",
             "country": "中国",
             "country_e": "China",
+            "city_order": 62
+        },
+        "26022": {
+            "city_id": "26022",
+            "city_name": "京都",
+            "city_name_e": "Kyoto",
+            "province": "京都府",
+            "province_e": "Kyoto Prefecture",
+            "country": "日本",
+            "country_e": "Japan",
             "city_order": 63
+        },
+        "176": {
+            "city_id": "176",
+            "city_name": "太原",
+            "city_name_e": "Taiyuan",
+            "province": "山西省",
+            "province_e": "Shanxi Sheng",
+            "country": "中国",
+            "country_e": "China",
+            "city_order": 64
         },
         "92": {
             "city_id": "92",
@@ -919,7 +932,7 @@
             "province_e": "Xinjiang Weiwuer Zizhiqu",
             "country": "中国",
             "country_e": "China",
-            "city_order": 64
+            "city_order": 65
         },
         "197": {
             "city_id": "197",
@@ -929,7 +942,7 @@
             "province_e": "Guangdong Sheng",
             "country": "中国",
             "country_e": "China",
-            "city_order": 65
+            "city_order": 66
         },
         "53009": {
             "city_id": "53009",
@@ -939,7 +952,7 @@
             "province_e": "Distrito Federal",
             "country": "巴西",
             "country_e": "Brazil",
-            "city_order": 66
+            "city_order": 67
         },
         "39816": {
             "city_id": "39816",
@@ -949,7 +962,7 @@
             "province_e": "Rio de Janeiro State",
             "country": "巴西",
             "country_e": "Brazil",
-            "city_order": 67
+            "city_order": 68
         },
         "348": {
             "city_id": "348",
@@ -959,7 +972,7 @@
             "province_e": "Jiangsu Sheng",
             "country": "中国",
             "country_e": "China",
-            "city_order": 68
+            "city_order": 69
         },
         "333": {
             "city_id": "333",
@@ -969,7 +982,7 @@
             "province_e": "Zhejiang Sheng",
             "country": "中国",
             "country_e": "China",
-            "city_order": 69
+            "city_order": 70
         },
         "155": {
             "city_id": "155",
@@ -979,7 +992,7 @@
             "province_e": "Henan Sheng",
             "country": "中国",
             "country_e": "China",
-            "city_order": 70
+            "city_order": 71
         },
         "122": {
             "city_id": "122",
@@ -989,7 +1002,7 @@
             "province_e": "Hubei Sheng",
             "country": "中国",
             "country_e": "China",
-            "city_order": 71
+            "city_order": 72
         },
         "274": {
             "city_id": "274",
@@ -999,17 +1012,17 @@
             "province_e": "Hunan Sheng",
             "country": "中国",
             "country_e": "China",
-            "city_order": 72
+            "city_order": 73
         },
         "2911": {
             "city_id": "2911",
-            "city_name": "澳门特别行政区",
+            "city_name": "澳门",
             "city_name_e": "Macau",
             "province": "澳门特别行政区",
             "province_e": "Aomen Tebie Xingzhengqu",
             "country": "中国",
             "country_e": "China",
-            "city_order": 73
+            "city_order": 74
         },
         "242": {
             "city_id": "242",
@@ -1019,7 +1032,7 @@
             "province_e": "Sichuan Sheng",
             "country": "中国",
             "country_e": "China",
-            "city_order": 74
+            "city_order": 75
         },
         "244": {
             "city_id": "244",
@@ -1029,7 +1042,7 @@
             "province_e": "Zhejiang Sheng",
             "country": "中国",
             "country_e": "China",
-            "city_order": 75
+            "city_order": 76
         },
         "189": {
             "city_id": "189",
@@ -1039,7 +1052,7 @@
             "province_e": "Anhui Sheng",
             "country": "中国",
             "country_e": "China",
-            "city_order": 76
+            "city_order": 77
         },
         "30007": {
             "city_id": "30007",
@@ -1049,7 +1062,7 @@
             "province_e": "Gwangju Metropolitan City",
             "country": "韩国",
             "country_e": "South Korea",
-            "city_order": 77
+            "city_order": 78
         },
         "313": {
             "city_id": "313",
@@ -1059,7 +1072,7 @@
             "province_e": "Hunan Sheng",
             "country": "中国",
             "country_e": "China",
-            "city_order": 78
+            "city_order": 79
         },
         "30005": {
             "city_id": "30005",
@@ -1069,7 +1082,7 @@
             "province_e": "Daejeon Metropolitan City",
             "country": "韩国",
             "country_e": "South Korea",
-            "city_order": 79
+            "city_order": 80
         }
     }
 }

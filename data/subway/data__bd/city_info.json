@@ -169,6 +169,15 @@
       "country_english": "China"
     },
     {
+      "city_name": "郑州s",
+      "english_pinyin_name": "Zhengzhou",
+      "province_chinese": "河南省",
+      "province_pinyin_english": "Henan Sheng",
+      "country_chinese": "中国",
+      "country_english": "China",
+      "note": "不含郑许线的郑州"
+    },
+    {
       "city_name": "宁波",
       "english_pinyin_name": "Ningbo",
       "province_chinese": "浙江省",

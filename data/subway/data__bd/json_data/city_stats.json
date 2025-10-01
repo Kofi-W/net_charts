@@ -1,16 +1,4 @@
 {
-    "257": {
-        "city_id": "257",
-        "city_name": "广州",
-        "city_name_e": "Guangzhou",
-        "line_name_main_count": 28,
-        "line_name_full_count": 32,
-        "has_branch_line": 1,
-        "station_count": 453,
-        "transfer_station_count": 100,
-        "transfer_station_ratio": 0.2208,
-        "city_order": 1
-    },
     "60732": {
         "city_id": "60732",
         "city_name": "纽约",
@@ -21,6 +9,18 @@
         "station_count": 463,
         "transfer_station_count": 212,
         "transfer_station_ratio": 0.4579,
+        "city_order": 1
+    },
+    "257": {
+        "city_id": "257",
+        "city_name": "广州",
+        "city_name_e": "Guangzhou",
+        "line_name_main_count": 28,
+        "line_name_full_count": 32,
+        "has_branch_line": 1,
+        "station_count": 453,
+        "transfer_station_count": 100,
+        "transfer_station_ratio": 0.2208,
         "city_order": 2
     },
     "30016": {
@@ -83,18 +83,6 @@
         "transfer_station_ratio": 0.1921,
         "city_order": 7
     },
-    "49872": {
-        "city_id": "49872",
-        "city_name": "巴黎",
-        "city_name_e": "Paris",
-        "line_name_main_count": 17,
-        "line_name_full_count": 18,
-        "has_branch_line": 1,
-        "station_count": 302,
-        "transfer_station_count": 60,
-        "transfer_station_ratio": 0.1987,
-        "city_order": 8
-    },
     "75": {
         "city_id": "75",
         "city_name": "成都",
@@ -105,6 +93,18 @@
         "station_count": 366,
         "transfer_station_count": 72,
         "transfer_station_ratio": 0.1967,
+        "city_order": 8
+    },
+    "49872": {
+        "city_id": "49872",
+        "city_name": "巴黎",
+        "city_name_e": "Paris",
+        "line_name_main_count": 17,
+        "line_name_full_count": 18,
+        "has_branch_line": 1,
+        "station_count": 302,
+        "transfer_station_count": 60,
+        "transfer_station_ratio": 0.1987,
         "city_order": 9
     },
     "51314": {
@@ -119,18 +119,6 @@
         "transfer_station_ratio": 0.1327,
         "city_order": 10
     },
-    "132": {
-        "city_id": "132",
-        "city_name": "重庆",
-        "city_name_e": "Chongqing",
-        "line_name_main_count": 14,
-        "line_name_full_count": 16,
-        "has_branch_line": 1,
-        "station_count": 282,
-        "transfer_station_count": 46,
-        "transfer_station_ratio": 0.1631,
-        "city_order": 11
-    },
     "179": {
         "city_id": "179",
         "city_name": "杭州",
@@ -141,6 +129,18 @@
         "station_count": 296,
         "transfer_station_count": 48,
         "transfer_station_ratio": 0.1622,
+        "city_order": 11
+    },
+    "132": {
+        "city_id": "132",
+        "city_name": "重庆",
+        "city_name_e": "Chongqing",
+        "line_name_main_count": 14,
+        "line_name_full_count": 16,
+        "has_branch_line": 1,
+        "station_count": 282,
+        "transfer_station_count": 46,
+        "transfer_station_ratio": 0.1631,
         "city_order": 12
     },
     "26041": {
@@ -167,18 +167,6 @@
         "transfer_station_ratio": 0.1239,
         "city_order": 14
     },
-    "48552": {
-        "city_id": "48552",
-        "city_name": "伊斯坦布尔",
-        "city_name_e": "Istanbul",
-        "line_name_main_count": 14,
-        "line_name_full_count": 14,
-        "has_branch_line": 0,
-        "station_count": 159,
-        "transfer_station_count": 15,
-        "transfer_station_ratio": 0.0943,
-        "city_order": 15
-    },
     "65531": {
         "city_id": "65531",
         "city_name": "莫斯科",
@@ -189,6 +177,18 @@
         "station_count": 181,
         "transfer_station_count": 52,
         "transfer_station_ratio": 0.2873,
+        "city_order": 15
+    },
+    "48552": {
+        "city_id": "48552",
+        "city_name": "伊斯坦布尔",
+        "city_name_e": "Istanbul",
+        "line_name_main_count": 14,
+        "line_name_full_count": 14,
+        "has_branch_line": 0,
+        "station_count": 159,
+        "transfer_station_count": 15,
+        "transfer_station_ratio": 0.0943,
         "city_order": 16
     },
     "332": {
@@ -203,6 +203,18 @@
         "transfer_station_ratio": 0.1404,
         "city_order": 17
     },
+    "39817": {
+        "city_id": "39817",
+        "city_name": "圣保罗",
+        "city_name_e": "Sao Paulo",
+        "line_name_main_count": 12,
+        "line_name_full_count": 13,
+        "has_branch_line": 1,
+        "station_count": 155,
+        "transfer_station_count": 19,
+        "transfer_station_ratio": 0.1226,
+        "city_order": 18
+    },
     "218": {
         "city_id": "218",
         "city_name": "武汉",
@@ -213,7 +225,7 @@
         "station_count": 277,
         "transfer_station_count": 40,
         "transfer_station_ratio": 0.1444,
-        "city_order": 18
+        "city_order": 19
     },
     "9002": {
         "city_id": "9002",
@@ -225,7 +237,7 @@
         "station_count": 149,
         "transfer_station_count": 28,
         "transfer_station_ratio": 0.1879,
-        "city_order": 19
+        "city_order": 20
     },
     "20001": {
         "city_id": "20001",
@@ -237,18 +249,6 @@
         "station_count": 146,
         "transfer_station_count": 24,
         "transfer_station_ratio": 0.1644,
-        "city_order": 20
-    },
-    "39817": {
-        "city_id": "39817",
-        "city_name": "圣保罗",
-        "city_name_e": "Sao Paulo",
-        "line_name_main_count": 12,
-        "line_name_full_count": 13,
-        "has_branch_line": 1,
-        "station_count": 155,
-        "transfer_station_count": 19,
-        "transfer_station_ratio": 0.1226,
         "city_order": 21
     },
     "268": {
@@ -275,6 +275,18 @@
         "transfer_station_ratio": 0.1423,
         "city_order": 23
     },
+    "268s": {
+        "city_id": "268s",
+        "city_name": "郑州s",
+        "city_name_e": "Zhengzhou",
+        "line_name_main_count": 12,
+        "line_name_full_count": 12,
+        "has_branch_line": 0,
+        "station_count": 207,
+        "transfer_station_count": 48,
+        "transfer_station_ratio": 0.2319,
+        "city_order": 24
+    },
     "2912": {
         "city_id": "2912",
         "city_name": "香港",
@@ -285,7 +297,7 @@
         "station_count": 98,
         "transfer_station_count": 21,
         "transfer_station_ratio": 0.2143,
-        "city_order": 24
+        "city_order": 25
     },
     "158": {
         "city_id": "158",
@@ -297,18 +309,6 @@
         "station_count": 172,
         "transfer_station_count": 30,
         "transfer_station_ratio": 0.1744,
-        "city_order": 25
-    },
-    "26033": {
-        "city_id": "26033",
-        "city_name": "大阪",
-        "city_name_e": "Osaka",
-        "line_name_main_count": 9,
-        "line_name_full_count": 9,
-        "has_branch_line": 0,
-        "station_count": 108,
-        "transfer_station_count": 23,
-        "transfer_station_ratio": 0.213,
         "city_order": 26
     },
     "224": {
@@ -323,6 +323,18 @@
         "transfer_station_ratio": 0.1695,
         "city_order": 27
     },
+    "26033": {
+        "city_id": "26033",
+        "city_name": "大阪",
+        "city_name_e": "Osaka",
+        "line_name_main_count": 9,
+        "line_name_full_count": 9,
+        "has_branch_line": 0,
+        "station_count": 108,
+        "transfer_station_count": 23,
+        "transfer_station_ratio": 0.213,
+        "city_order": 28
+    },
     "236": {
         "city_id": "236",
         "city_name": "青岛",
@@ -333,18 +345,6 @@
         "station_count": 172,
         "transfer_station_count": 16,
         "transfer_station_ratio": 0.093,
-        "city_order": 28
-    },
-    "138": {
-        "city_id": "138",
-        "city_name": "佛山",
-        "city_name_e": "Foshan",
-        "line_name_main_count": 6,
-        "line_name_full_count": 7,
-        "has_branch_line": 1,
-        "station_count": 137,
-        "transfer_station_count": 21,
-        "transfer_station_ratio": 0.1533,
         "city_order": 29
     },
     "104": {
@@ -371,16 +371,16 @@
         "transfer_station_ratio": 0.076,
         "city_order": 31
     },
-    "167": {
-        "city_id": "167",
-        "city_name": "大连",
-        "city_name_e": "Dalian",
+    "138": {
+        "city_id": "138",
+        "city_name": "佛山",
+        "city_name_e": "Foshan",
         "line_name_main_count": 6,
         "line_name_full_count": 7,
         "has_branch_line": 1,
-        "station_count": 100,
-        "transfer_station_count": 7,
-        "transfer_station_ratio": 0.07,
+        "station_count": 137,
+        "transfer_station_count": 21,
+        "transfer_station_ratio": 0.1533,
         "city_order": 32
     },
     "180": {
@@ -395,6 +395,18 @@
         "transfer_station_ratio": 0.1401,
         "city_order": 33
     },
+    "167": {
+        "city_id": "167",
+        "city_name": "大连",
+        "city_name_e": "Dalian",
+        "line_name_main_count": 6,
+        "line_name_full_count": 7,
+        "has_branch_line": 1,
+        "station_count": 100,
+        "transfer_station_count": 7,
+        "transfer_station_ratio": 0.07,
+        "city_order": 34
+    },
     "53": {
         "city_id": "53",
         "city_name": "长春",
@@ -405,7 +417,7 @@
         "station_count": 111,
         "transfer_station_count": 14,
         "transfer_station_ratio": 0.1261,
-        "city_order": 34
+        "city_order": 35
     },
     "58": {
         "city_id": "58",
@@ -417,7 +429,7 @@
         "station_count": 134,
         "transfer_station_count": 12,
         "transfer_station_ratio": 0.0896,
-        "city_order": 35
+        "city_order": 36
     },
     "30001": {
         "city_id": "30001",
@@ -429,7 +441,7 @@
         "station_count": 140,
         "transfer_station_count": 12,
         "transfer_station_ratio": 0.0857,
-        "city_order": 36
+        "city_order": 37
     },
     "300": {
         "city_id": "300",
@@ -441,7 +453,7 @@
         "station_count": 99,
         "transfer_station_count": 15,
         "transfer_station_ratio": 0.1515,
-        "city_order": 37
+        "city_order": 38
     },
     "20508": {
         "city_id": "20508",
@@ -453,7 +465,7 @@
         "station_count": 118,
         "transfer_station_count": 11,
         "transfer_station_ratio": 0.0932,
-        "city_order": 38
+        "city_order": 39
     },
     "26001": {
         "city_id": "26001",
@@ -465,7 +477,7 @@
         "station_count": 87,
         "transfer_station_count": 13,
         "transfer_station_ratio": 0.1494,
-        "city_order": 39
+        "city_order": 40
     },
     "52390": {
         "city_id": "52390",
@@ -477,7 +489,7 @@
         "station_count": 62,
         "transfer_station_count": 32,
         "transfer_station_ratio": 0.5161,
-        "city_order": 40
+        "city_order": 41
     },
     "261": {
         "city_id": "261",
@@ -489,7 +501,7 @@
         "station_count": 95,
         "transfer_station_count": 11,
         "transfer_station_ratio": 0.1158,
-        "city_order": 41
+        "city_order": 42
     },
     "317": {
         "city_id": "317",
@@ -501,43 +513,7 @@
         "station_count": 89,
         "transfer_station_count": 8,
         "transfer_station_ratio": 0.0899,
-        "city_order": 42
-    },
-    "163": {
-        "city_id": "163",
-        "city_name": "南昌",
-        "city_name_e": "Nanchang",
-        "line_name_main_count": 4,
-        "line_name_full_count": 4,
-        "has_branch_line": 0,
-        "station_count": 113,
-        "transfer_station_count": 9,
-        "transfer_station_ratio": 0.0796,
         "city_order": 43
-    },
-    "316": {
-        "city_id": "316",
-        "city_name": "徐州",
-        "city_name_e": "Xuzhou",
-        "line_name_main_count": 4,
-        "line_name_full_count": 4,
-        "has_branch_line": 0,
-        "station_count": 70,
-        "transfer_station_count": 6,
-        "transfer_station_ratio": 0.0857,
-        "city_order": 44
-    },
-    "323": {
-        "city_id": "323",
-        "city_name": "咸阳",
-        "city_name_e": "Xianyang",
-        "line_name_main_count": 4,
-        "line_name_full_count": 4,
-        "has_branch_line": 0,
-        "station_count": 88,
-        "transfer_station_count": 18,
-        "transfer_station_ratio": 0.2045,
-        "city_order": 45
     },
     "146": {
         "city_id": "146",
@@ -549,7 +525,43 @@
         "station_count": 93,
         "transfer_station_count": 6,
         "transfer_station_ratio": 0.0645,
+        "city_order": 44
+    },
+    "316": {
+        "city_id": "316",
+        "city_name": "徐州",
+        "city_name_e": "Xuzhou",
+        "line_name_main_count": 4,
+        "line_name_full_count": 4,
+        "has_branch_line": 0,
+        "station_count": 70,
+        "transfer_station_count": 6,
+        "transfer_station_ratio": 0.0857,
+        "city_order": 45
+    },
+    "323": {
+        "city_id": "323",
+        "city_name": "咸阳",
+        "city_name_e": "Xianyang",
+        "line_name_main_count": 4,
+        "line_name_full_count": 4,
+        "has_branch_line": 0,
+        "station_count": 88,
+        "transfer_station_count": 18,
+        "transfer_station_ratio": 0.2045,
         "city_order": 46
+    },
+    "163": {
+        "city_id": "163",
+        "city_name": "南昌",
+        "city_name_e": "Nanchang",
+        "line_name_main_count": 4,
+        "line_name_full_count": 4,
+        "has_branch_line": 0,
+        "station_count": 113,
+        "transfer_station_count": 9,
+        "transfer_station_ratio": 0.0796,
+        "city_order": 47
     },
     "150": {
         "city_id": "150",
@@ -561,7 +573,7 @@
         "station_count": 60,
         "transfer_station_count": 3,
         "transfer_station_ratio": 0.05,
-        "city_order": 47
+        "city_order": 48
     },
     "288": {
         "city_id": "288",
@@ -573,7 +585,7 @@
         "station_count": 46,
         "transfer_station_count": 2,
         "transfer_station_ratio": 0.0435,
-        "city_order": 48
+        "city_order": 49
     },
     "194": {
         "city_id": "194",
@@ -585,7 +597,7 @@
         "station_count": 70,
         "transfer_station_count": 5,
         "transfer_station_ratio": 0.0714,
-        "city_order": 49
+        "city_order": 50
     },
     "26019": {
         "city_id": "26019",
@@ -597,7 +609,7 @@
         "station_count": 44,
         "transfer_station_count": 2,
         "transfer_station_ratio": 0.0455,
-        "city_order": 50
+        "city_order": 51
     },
     "293": {
         "city_id": "293",
@@ -609,7 +621,7 @@
         "station_count": 40,
         "transfer_station_count": 3,
         "transfer_station_ratio": 0.075,
-        "city_order": 51
+        "city_order": 52
     },
     "9019": {
         "city_id": "9019",
@@ -621,7 +633,7 @@
         "station_count": 60,
         "transfer_station_count": 4,
         "transfer_station_ratio": 0.0667,
-        "city_order": 52
+        "city_order": 53
     },
     "30004": {
         "city_id": "30004",
@@ -633,7 +645,7 @@
         "station_count": 89,
         "transfer_station_count": 4,
         "transfer_station_ratio": 0.0449,
-        "city_order": 53
+        "city_order": 54
     },
     "48": {
         "city_id": "48",
@@ -645,7 +657,7 @@
         "station_count": 73,
         "transfer_station_count": 5,
         "transfer_station_ratio": 0.0685,
-        "city_order": 54
+        "city_order": 55
     },
     "119": {
         "city_id": "119",
@@ -657,7 +669,7 @@
         "station_count": 54,
         "transfer_station_count": 8,
         "transfer_station_ratio": 0.1481,
-        "city_order": 55
+        "city_order": 56
     },
     "321": {
         "city_id": "321",
@@ -669,7 +681,7 @@
         "station_count": 43,
         "transfer_station_count": 1,
         "transfer_station_ratio": 0.0233,
-        "city_order": 56
+        "city_order": 57
     },
     "36": {
         "city_id": "36",
@@ -681,7 +693,7 @@
         "station_count": 27,
         "transfer_station_count": 2,
         "transfer_station_ratio": 0.0741,
-        "city_order": 57
+        "city_order": 58
     },
     "153": {
         "city_id": "153",
@@ -693,7 +705,7 @@
         "station_count": 33,
         "transfer_station_count": 1,
         "transfer_station_ratio": 0.0303,
-        "city_order": 58
+        "city_order": 59
     },
     "161": {
         "city_id": "161",
@@ -705,7 +717,7 @@
         "station_count": 42,
         "transfer_station_count": 2,
         "transfer_station_ratio": 0.0476,
-        "city_order": 59
+        "city_order": 60
     },
     "129": {
         "city_id": "129",
@@ -717,31 +729,7 @@
         "station_count": 35,
         "transfer_station_count": 1,
         "transfer_station_ratio": 0.0286,
-        "city_order": 60
-    },
-    "176": {
-        "city_id": "176",
-        "city_name": "太原",
-        "city_name_e": "Taiyuan",
-        "line_name_main_count": 2,
-        "line_name_full_count": 2,
-        "has_branch_line": 0,
-        "station_count": 46,
-        "transfer_station_count": 1,
-        "transfer_station_ratio": 0.0217,
         "city_order": 61
-    },
-    "26022": {
-        "city_id": "26022",
-        "city_name": "京都",
-        "city_name_e": "Kyoto",
-        "line_name_main_count": 2,
-        "line_name_full_count": 2,
-        "has_branch_line": 0,
-        "station_count": 31,
-        "transfer_station_count": 1,
-        "transfer_station_ratio": 0.0323,
-        "city_order": 62
     },
     "178": {
         "city_id": "178",
@@ -753,7 +741,31 @@
         "station_count": 36,
         "transfer_station_count": 2,
         "transfer_station_ratio": 0.0556,
+        "city_order": 62
+    },
+    "26022": {
+        "city_id": "26022",
+        "city_name": "京都",
+        "city_name_e": "Kyoto",
+        "line_name_main_count": 2,
+        "line_name_full_count": 2,
+        "has_branch_line": 0,
+        "station_count": 31,
+        "transfer_station_count": 1,
+        "transfer_station_ratio": 0.0323,
         "city_order": 63
+    },
+    "176": {
+        "city_id": "176",
+        "city_name": "太原",
+        "city_name_e": "Taiyuan",
+        "line_name_main_count": 2,
+        "line_name_full_count": 2,
+        "has_branch_line": 0,
+        "station_count": 46,
+        "transfer_station_count": 1,
+        "transfer_station_ratio": 0.0217,
+        "city_order": 64
     },
     "92": {
         "city_id": "92",
@@ -765,7 +777,7 @@
         "station_count": 23,
         "transfer_station_count": 1,
         "transfer_station_ratio": 0.0435,
-        "city_order": 64
+        "city_order": 65
     },
     "197": {
         "city_id": "197",
@@ -777,7 +789,7 @@
         "station_count": 11,
         "transfer_station_count": 2,
         "transfer_station_ratio": 0.1818,
-        "city_order": 65
+        "city_order": 66
     },
     "53009": {
         "city_id": "53009",
@@ -789,7 +801,7 @@
         "station_count": 25,
         "transfer_station_count": 12,
         "transfer_station_ratio": 0.48,
-        "city_order": 66
+        "city_order": 67
     },
     "39816": {
         "city_id": "39816",
@@ -801,7 +813,7 @@
         "station_count": 36,
         "transfer_station_count": 10,
         "transfer_station_ratio": 0.2778,
-        "city_order": 67
+        "city_order": 68
     },
     "348": {
         "city_id": "348",
@@ -813,7 +825,7 @@
         "station_count": 43,
         "transfer_station_count": 1,
         "transfer_station_ratio": 0.0233,
-        "city_order": 68
+        "city_order": 69
     },
     "333": {
         "city_id": "333",
@@ -825,7 +837,7 @@
         "station_count": 28,
         "transfer_station_count": 1,
         "transfer_station_ratio": 0.0357,
-        "city_order": 69
+        "city_order": 70
     },
     "155": {
         "city_id": "155",
@@ -837,7 +849,7 @@
         "station_count": 27,
         "transfer_station_count": 0,
         "transfer_station_ratio": 0.0,
-        "city_order": 70
+        "city_order": 71
     },
     "122": {
         "city_id": "122",
@@ -849,7 +861,7 @@
         "station_count": 23,
         "transfer_station_count": 6,
         "transfer_station_ratio": 0.2609,
-        "city_order": 71
+        "city_order": 72
     },
     "274": {
         "city_id": "274",
@@ -861,7 +873,7 @@
         "station_count": 3,
         "transfer_station_count": 0,
         "transfer_station_ratio": 0.0,
-        "city_order": 72
+        "city_order": 73
     },
     "2911": {
         "city_id": "2911",
@@ -873,7 +885,7 @@
         "station_count": 11,
         "transfer_station_count": 0,
         "transfer_station_ratio": 0.0,
-        "city_order": 73
+        "city_order": 74
     },
     "242": {
         "city_id": "242",
@@ -885,7 +897,7 @@
         "station_count": 6,
         "transfer_station_count": 1,
         "transfer_station_ratio": 0.1667,
-        "city_order": 74
+        "city_order": 75
     },
     "244": {
         "city_id": "244",
@@ -897,7 +909,7 @@
         "station_count": 15,
         "transfer_station_count": 0,
         "transfer_station_ratio": 0.0,
-        "city_order": 75
+        "city_order": 76
     },
     "189": {
         "city_id": "189",
@@ -909,7 +921,7 @@
         "station_count": 10,
         "transfer_station_count": 0,
         "transfer_station_ratio": 0.0,
-        "city_order": 76
+        "city_order": 77
     },
     "30007": {
         "city_id": "30007",
@@ -921,7 +933,7 @@
         "station_count": 20,
         "transfer_station_count": 0,
         "transfer_station_ratio": 0.0,
-        "city_order": 77
+        "city_order": 78
     },
     "313": {
         "city_id": "313",
@@ -933,7 +945,7 @@
         "station_count": 33,
         "transfer_station_count": 7,
         "transfer_station_ratio": 0.2121,
-        "city_order": 78
+        "city_order": 79
     },
     "30005": {
         "city_id": "30005",
@@ -945,6 +957,6 @@
         "station_count": 22,
         "transfer_station_count": 0,
         "transfer_station_ratio": 0.0,
-        "city_order": 79
+        "city_order": 80
     }
 }

@@ -29009,5 +29009,629 @@
                 "chart_ratio": 0.97
             }
         ]
+    },
+    "268s": {
+        "city_id": "268s",
+        "city_name": "郑州s",
+        "city_line_count": 12,
+        "city_st_count": 207,
+        "lines_data": [
+            {
+                "line_name_full": "地铁1号线",
+                "line_name": "1号线",
+                "line_name_branch": "1号线",
+                "line_name_main": "1号线",
+                "line_color": "#CA3640",
+                "line_order": 1,
+                "st_count": 30,
+                "transfer_st_count": 13,
+                "transfer_sts": [
+                    "郑州大学",
+                    "铁炉",
+                    "五一公园·市中医院",
+                    "绿城广场",
+                    "医学院",
+                    "郑州火车站",
+                    "二七广场",
+                    "紫荆山",
+                    "燕庄",
+                    "会展中心",
+                    "黄河南路",
+                    "郑州东站",
+                    "龙子湖"
+                ],
+                "transfer_sts_ids": [
+                    "268s_001_003",
+                    "268s_001_006",
+                    "268s_001_011",
+                    "268s_001_013",
+                    "268s_001_014",
+                    "268s_001_015",
+                    "268s_001_016",
+                    "268s_001_018",
+                    "268s_001_019",
+                    "268s_001_021",
+                    "268s_001_022",
+                    "268s_001_025",
+                    "268s_001_028"
+                ],
+                "transfer_lines_all": [
+                    "1号线",
+                    "2号线",
+                    "3号线",
+                    "4号线",
+                    "5号线",
+                    "6号线",
+                    "7号线",
+                    "8号线",
+                    "10号线",
+                    "12号线",
+                    "14号线"
+                ],
+                "transfer_lines_all_count": 191,
+                "transfer_lines": [
+                    "2号线",
+                    "3号线",
+                    "4号线",
+                    "5号线",
+                    "6号线",
+                    "7号线",
+                    "8号线",
+                    "10号线",
+                    "12号线",
+                    "14号线"
+                ],
+                "transfer_lines_count": 10,
+                "chart_ratio": 2.68
+            },
+            {
+                "line_name_full": "地铁2号线",
+                "line_name": "2号线",
+                "line_name_branch": "2号线",
+                "line_name_main": "2号线",
+                "line_color": "#EB9F29",
+                "line_order": 2,
+                "st_count": 22,
+                "transfer_st_count": 9,
+                "transfer_sts": [
+                    "黄河迎宾馆",
+                    "沙门",
+                    "东风路",
+                    "黄河路",
+                    "紫荆山",
+                    "东大街·市第一人民医院",
+                    "二里岗",
+                    "南五里堡",
+                    "南四环"
+                ],
+                "transfer_sts_ids": [
+                    "268s_002_004",
+                    "268s_002_009",
+                    "268s_002_011",
+                    "268s_002_013",
+                    "268s_002_014",
+                    "268s_002_015",
+                    "268s_002_017",
+                    "268s_002_018",
+                    "268s_002_022"
+                ],
+                "transfer_lines_all": [
+                    "1号线",
+                    "2号线",
+                    "3号线",
+                    "4号线",
+                    "5号线",
+                    "6号线",
+                    "7号线",
+                    "8号线",
+                    "城郊线"
+                ],
+                "transfer_lines_all_count": 192,
+                "transfer_lines": [
+                    "1号线",
+                    "3号线",
+                    "4号线",
+                    "5号线",
+                    "6号线",
+                    "7号线",
+                    "8号线",
+                    "城郊线"
+                ],
+                "transfer_lines_count": 8,
+                "chart_ratio": 1.43
+            },
+            {
+                "line_name_full": "地铁3号线",
+                "line_name": "3号线",
+                "line_name_branch": "3号线",
+                "line_name_main": "3号线",
+                "line_color": "#D36415",
+                "line_order": 3,
+                "st_count": 25,
+                "transfer_st_count": 11,
+                "transfer_sts": [
+                    "省体育中心",
+                    "同乐",
+                    "海滩寺",
+                    "大石桥·市妇幼保健院",
+                    "二七广场",
+                    "东大街·市第一人民医院",
+                    "博览中心",
+                    "东十里铺",
+                    "西周",
+                    "省骨科医院",
+                    "圃田西"
+                ],
+                "transfer_sts_ids": [
+                    "268s_003_001",
+                    "268s_003_004",
+                    "268s_003_006",
+                    "268s_003_007",
+                    "268s_003_009",
+                    "268s_003_011",
+                    "268s_003_013",
+                    "268s_003_015",
+                    "268s_003_017",
+                    "268s_003_019",
+                    "268s_003_020"
+                ],
+                "transfer_lines_all": [
+                    "1号线",
+                    "2号线",
+                    "3号线",
+                    "4号线",
+                    "5号线",
+                    "6号线",
+                    "7号线",
+                    "8号线",
+                    "12号线"
+                ],
+                "transfer_lines_all_count": 181,
+                "transfer_lines": [
+                    "1号线",
+                    "2号线",
+                    "4号线",
+                    "5号线",
+                    "6号线",
+                    "7号线",
+                    "8号线",
+                    "12号线"
+                ],
+                "transfer_lines_count": 8,
+                "chart_ratio": 2.53
+            },
+            {
+                "line_name_full": "地铁4号线",
+                "line_name": "4号线",
+                "line_name_branch": "4号线",
+                "line_name_main": "4号线",
+                "line_color": "#158AC8",
+                "line_order": 4,
+                "st_count": 27,
+                "transfer_st_count": 9,
+                "transfer_sts": [
+                    "省体育中心",
+                    "张家村",
+                    "沙门",
+                    "清华附中",
+                    "龙湖中环南",
+                    "中央商务区",
+                    "会展中心",
+                    "东十里铺",
+                    "七里河"
+                ],
+                "transfer_sts_ids": [
+                    "268s_004_002",
+                    "268s_004_005",
+                    "268s_004_007",
+                    "268s_004_010",
+                    "268s_004_016",
+                    "268s_004_018",
+                    "268s_004_019",
+                    "268s_004_021",
+                    "268s_004_023"
+                ],
+                "transfer_lines_all": [
+                    "1号线",
+                    "2号线",
+                    "3号线",
+                    "4号线",
+                    "5号线",
+                    "6号线",
+                    "7号线",
+                    "8号线"
+                ],
+                "transfer_lines_all_count": 176,
+                "transfer_lines": [
+                    "1号线",
+                    "2号线",
+                    "3号线",
+                    "5号线",
+                    "6号线",
+                    "7号线",
+                    "8号线"
+                ],
+                "transfer_lines_count": 7,
+                "chart_ratio": 2.53
+            },
+            {
+                "line_name_full": "地铁5号线内环(月季公园-月季公园)",
+                "line_name": "5号线",
+                "line_name_branch": "5号线",
+                "line_name_main": "5号线",
+                "line_color": "#1D9972",
+                "line_order": 5,
+                "st_count": 32,
+                "transfer_st_count": 15,
+                "transfer_sts": [
+                    "五一公园·市中医院",
+                    "市中心医院",
+                    "桐淮",
+                    "市第二人民医院·儿童医院南院区",
+                    "南五里堡",
+                    "七里河",
+                    "福塔东",
+                    "省骨科医院",
+                    "郑州东站",
+                    "儿童医院·颐和医院",
+                    "中央商务区",
+                    "姚砦",
+                    "黄河路",
+                    "郑州人民医院",
+                    "海滩寺"
+                ],
+                "transfer_sts_ids": [
+                    "268s_005_002",
+                    "268s_005_003",
+                    "268s_005_005",
+                    "268s_005_008",
+                    "268s_005_011",
+                    "268s_005_014",
+                    "268s_005_016",
+                    "268s_005_019",
+                    "268s_005_021",
+                    "268s_005_024",
+                    "268s_005_025",
+                    "268s_005_027",
+                    "268s_005_029",
+                    "268s_005_030",
+                    "268s_005_031"
+                ],
+                "transfer_lines_all": [
+                    "1号线",
+                    "2号线",
+                    "3号线",
+                    "4号线",
+                    "5号线",
+                    "6号线",
+                    "7号线",
+                    "8号线",
+                    "10号线",
+                    "12号线"
+                ],
+                "transfer_lines_all_count": 189,
+                "transfer_lines": [
+                    "1号线",
+                    "2号线",
+                    "3号线",
+                    "4号线",
+                    "6号线",
+                    "7号线",
+                    "8号线",
+                    "10号线",
+                    "12号线"
+                ],
+                "transfer_lines_count": 9,
+                "chart_ratio": 2.68
+            },
+            {
+                "line_name_full": "地铁6号线",
+                "line_name": "6号线",
+                "line_name_branch": "6号线",
+                "line_name_main": "6号线",
+                "line_color": "#815079",
+                "line_order": 6,
+                "st_count": 28,
+                "transfer_st_count": 9,
+                "transfer_sts": [
+                    "清华附中",
+                    "小营",
+                    "姚砦",
+                    "燕庄",
+                    "博览中心",
+                    "二里岗",
+                    "大学中路",
+                    "桐淮",
+                    "奥体中心"
+                ],
+                "transfer_sts_ids": [
+                    "268s_006_001",
+                    "268s_006_003",
+                    "268s_006_005",
+                    "268s_006_006",
+                    "268s_006_007",
+                    "268s_006_010",
+                    "268s_006_013",
+                    "268s_006_015",
+                    "268s_006_020"
+                ],
+                "transfer_lines_all": [
+                    "1号线",
+                    "2号线",
+                    "3号线",
+                    "4号线",
+                    "5号线",
+                    "6号线",
+                    "7号线",
+                    "8号线",
+                    "14号线"
+                ],
+                "transfer_lines_all_count": 179,
+                "transfer_lines": [
+                    "1号线",
+                    "2号线",
+                    "3号线",
+                    "4号线",
+                    "5号线",
+                    "7号线",
+                    "8号线",
+                    "14号线"
+                ],
+                "transfer_lines_count": 8,
+                "chart_ratio": 2.53
+            },
+            {
+                "line_name_full": "地铁7号线",
+                "line_name": "7号线",
+                "line_name_branch": "7号线",
+                "line_name_main": "7号线",
+                "line_color": "#C8A36B",
+                "line_order": 7,
+                "st_count": 20,
+                "transfer_st_count": 8,
+                "transfer_sts": [
+                    "黄河迎宾馆",
+                    "张家村",
+                    "白庙",
+                    "郑州人民医院",
+                    "大石桥·市妇幼保健院",
+                    "医学院",
+                    "大学中路",
+                    "市第二人民医院·儿童医院南院区"
+                ],
+                "transfer_sts_ids": [
+                    "268s_007_002",
+                    "268s_007_005",
+                    "268s_007_007",
+                    "268s_007_009",
+                    "268s_007_010",
+                    "268s_007_012",
+                    "268s_007_014",
+                    "268s_007_015"
+                ],
+                "transfer_lines_all": [
+                    "1号线",
+                    "2号线",
+                    "3号线",
+                    "4号线",
+                    "5号线",
+                    "6号线",
+                    "7号线",
+                    "8号线",
+                    "10号线"
+                ],
+                "transfer_lines_all_count": 184,
+                "transfer_lines": [
+                    "1号线",
+                    "2号线",
+                    "3号线",
+                    "4号线",
+                    "5号线",
+                    "6号线",
+                    "8号线",
+                    "10号线"
+                ],
+                "transfer_lines_count": 8,
+                "chart_ratio": 2.68
+            },
+            {
+                "line_name_full": "地铁8号线",
+                "line_name": "8号线",
+                "line_name_branch": "8号线",
+                "line_name_main": "8号线",
+                "line_color": "#E5E39F",
+                "line_order": 8,
+                "st_count": 28,
+                "transfer_st_count": 9,
+                "transfer_sts": [
+                    "郑州大学",
+                    "同乐",
+                    "白庙",
+                    "东风路",
+                    "小营",
+                    "龙湖中环南",
+                    "高铁公园",
+                    "郑州东站",
+                    "圃田西"
+                ],
+                "transfer_sts_ids": [
+                    "268s_008_004",
+                    "268s_008_010",
+                    "268s_008_012",
+                    "268s_008_013",
+                    "268s_008_015",
+                    "268s_008_016",
+                    "268s_008_018",
+                    "268s_008_020",
+                    "268s_008_021"
+                ],
+                "transfer_lines_all": [
+                    "1号线",
+                    "2号线",
+                    "3号线",
+                    "4号线",
+                    "5号线",
+                    "6号线",
+                    "7号线",
+                    "8号线",
+                    "12号线"
+                ],
+                "transfer_lines_all_count": 181,
+                "transfer_lines": [
+                    "1号线",
+                    "2号线",
+                    "3号线",
+                    "4号线",
+                    "5号线",
+                    "6号线",
+                    "7号线",
+                    "12号线"
+                ],
+                "transfer_lines_count": 8,
+                "chart_ratio": 2.53
+            },
+            {
+                "line_name_full": "地铁10号线",
+                "line_name": "10号线",
+                "line_name_branch": "10号线",
+                "line_name_main": "10号线",
+                "line_color": "#AB6D71",
+                "line_order": 9,
+                "st_count": 12,
+                "transfer_st_count": 5,
+                "transfer_sts": [
+                    "市委党校",
+                    "市中心医院",
+                    "绿城广场",
+                    "医学院",
+                    "郑州火车站"
+                ],
+                "transfer_sts_ids": [
+                    "268s_009_005",
+                    "268s_009_009",
+                    "268s_009_010",
+                    "268s_009_011",
+                    "268s_009_012"
+                ],
+                "transfer_lines_all": [
+                    "1号线",
+                    "5号线",
+                    "7号线",
+                    "10号线",
+                    "14号线"
+                ],
+                "transfer_lines_all_count": 88,
+                "transfer_lines": [
+                    "1号线",
+                    "5号线",
+                    "7号线",
+                    "14号线"
+                ],
+                "transfer_lines_count": 4,
+                "chart_ratio": 2.31
+            },
+            {
+                "line_name_full": "地铁12号线",
+                "line_name": "12号线",
+                "line_name_branch": "12号线",
+                "line_name_main": "12号线",
+                "line_color": "#285A94",
+                "line_order": 10,
+                "st_count": 11,
+                "transfer_st_count": 6,
+                "transfer_sts": [
+                    "龙子湖",
+                    "高铁公园",
+                    "儿童医院·颐和医院",
+                    "黄河南路",
+                    "西周",
+                    "福塔东"
+                ],
+                "transfer_sts_ids": [
+                    "268s_010_002",
+                    "268s_010_004",
+                    "268s_010_006",
+                    "268s_010_007",
+                    "268s_010_008",
+                    "268s_010_010"
+                ],
+                "transfer_lines_all": [
+                    "1号线",
+                    "3号线",
+                    "5号线",
+                    "8号线",
+                    "12号线"
+                ],
+                "transfer_lines_all_count": 111,
+                "transfer_lines": [
+                    "1号线",
+                    "3号线",
+                    "5号线",
+                    "8号线"
+                ],
+                "transfer_lines_count": 4,
+                "chart_ratio": 3.35
+            },
+            {
+                "line_name_full": "地铁14号线",
+                "line_name": "14号线",
+                "line_name_branch": "14号线",
+                "line_name_main": "14号线",
+                "line_color": "#815079",
+                "line_order": 11,
+                "st_count": 5,
+                "transfer_st_count": 3,
+                "transfer_sts": [
+                    "铁炉",
+                    "市委党校",
+                    "奥体中心"
+                ],
+                "transfer_sts_ids": [
+                    "268s_011_001",
+                    "268s_011_003",
+                    "268s_011_004"
+                ],
+                "transfer_lines_all": [
+                    "1号线",
+                    "6号线",
+                    "10号线",
+                    "14号线"
+                ],
+                "transfer_lines_all_count": 68,
+                "transfer_lines": [
+                    "1号线",
+                    "6号线",
+                    "10号线"
+                ],
+                "transfer_lines_count": 3,
+                "chart_ratio": 2.73
+            },
+            {
+                "line_name_full": "城郊线",
+                "line_name": "城郊线",
+                "line_name_branch": "城郊线",
+                "line_name_main": "城郊线",
+                "line_color": "#A1C12F",
+                "line_order": 12,
+                "st_count": 17,
+                "transfer_st_count": 1,
+                "transfer_sts": [
+                    "南四环"
+                ],
+                "transfer_sts_ids": [
+                    "268s_012_001"
+                ],
+                "transfer_lines_all": [
+                    "2号线",
+                    "城郊线"
+                ],
+                "transfer_lines_all_count": 38,
+                "transfer_lines": [
+                    "2号线"
+                ],
+                "transfer_lines_count": 1,
+                "chart_ratio": 0.89
+            }
+        ]
     }
 }
