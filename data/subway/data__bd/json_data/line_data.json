@@ -1422,14 +1422,14 @@
         "city_id": "289",
         "city_name": "上海",
         "city_line_count": 25,
-        "city_st_count": 420,
+        "city_st_count": 427,
         "lines_data": [
             {
                 "line_name_full": "地铁1号线",
                 "line_name": "1号线",
                 "line_name_branch": "1号线",
                 "line_name_main": "1号线",
-                "line_color": "#CC0000",
+                "line_color": "#D53940",
                 "line_order": 1,
                 "st_count": 28,
                 "transfer_st_count": 11,
@@ -1464,52 +1464,51 @@
                     "2号线",
                     "3号线",
                     "4号线",
-                    "5号线",
+                    "5号线(莘庄-奉贤新城)",
                     "7号线",
                     "8号线",
                     "9号线",
-                    "10号线(基隆路-航中路)",
-                    "10号线(基隆路-虹桥火车站)",
+                    "10号线(航中路-基隆路)",
+                    "10号线(虹桥火车站-基隆路)",
                     "11号线(嘉定北-迪士尼)",
                     "11号线(花桥-迪士尼)",
                     "12号线",
                     "13号线",
                     "14号线",
-                    "15号线",
-                    "金山铁路"
+                    "15号线"
                 ],
-                "transfer_lines_all_count": 350,
+                "transfer_lines_all_count": 343,
                 "transfer_lines": [
                     "2号线",
                     "3号线",
                     "4号线",
-                    "5号线",
+                    "5号线(莘庄-奉贤新城)",
                     "7号线",
                     "8号线",
                     "9号线",
-                    "10号线(基隆路-航中路)",
-                    "10号线(基隆路-虹桥火车站)",
+                    "10号线(航中路-基隆路)",
+                    "10号线(虹桥火车站-基隆路)",
                     "11号线(嘉定北-迪士尼)",
                     "11号线(花桥-迪士尼)",
                     "12号线",
                     "13号线",
                     "14号线",
-                    "15号线",
-                    "金山铁路"
+                    "15号线"
                 ],
-                "transfer_lines_count": 16,
-                "chart_ratio": 1.17
+                "transfer_lines_count": 15,
+                "chart_ratio": 0.77
             },
             {
                 "line_name_full": "地铁2号线",
                 "line_name": "2号线",
                 "line_name_branch": "2号线",
                 "line_name_main": "2号线",
-                "line_color": "#009900",
+                "line_color": "#7FBE29",
                 "line_order": 2,
                 "st_count": 30,
-                "transfer_st_count": 13,
+                "transfer_st_count": 15,
                 "transfer_sts": [
+                    "国家会展中心",
                     "虹桥火车站",
                     "虹桥2号航站楼",
                     "娄山关路",
@@ -1520,11 +1519,13 @@
                     "人民广场",
                     "南京东路",
                     "陆家嘴",
+                    "浦东南路(原东昌路)",
                     "世纪大道",
                     "龙阳路",
-                    "浦东1号2号航站楼"
+                    "浦东1号2号航站楼(2号线)"
                 ],
                 "transfer_sts_ids": [
+                    "289_002_001",
                     "289_002_002",
                     "289_002_003",
                     "289_002_007",
@@ -1535,6 +1536,7 @@
                     "289_002_012",
                     "289_002_013",
                     "289_002_014",
+                    "289_002_015",
                     "289_002_016",
                     "289_002_019",
                     "289_002_030"
@@ -1548,8 +1550,8 @@
                     "7号线",
                     "8号线",
                     "9号线",
-                    "10号线(基隆路-航中路)",
-                    "10号线(基隆路-虹桥火车站)",
+                    "10号线(航中路-基隆路)",
+                    "10号线(虹桥火车站-基隆路)",
                     "11号线(嘉定北-迪士尼)",
                     "11号线(花桥-迪士尼)",
                     "12号线",
@@ -1559,10 +1561,9 @@
                     "16号线",
                     "17号线",
                     "18号线",
-                    "磁悬浮",
                     "市域机场线"
                 ],
-                "transfer_lines_all_count": 390,
+                "transfer_lines_all_count": 392,
                 "transfer_lines": [
                     "1号线",
                     "3号线",
@@ -1571,8 +1572,8 @@
                     "7号线",
                     "8号线",
                     "9号线",
-                    "10号线(基隆路-航中路)",
-                    "10号线(基隆路-虹桥火车站)",
+                    "10号线(航中路-基隆路)",
+                    "10号线(虹桥火车站-基隆路)",
                     "11号线(嘉定北-迪士尼)",
                     "11号线(花桥-迪士尼)",
                     "12号线",
@@ -1582,18 +1583,17 @@
                     "16号线",
                     "17号线",
                     "18号线",
-                    "磁悬浮",
                     "市域机场线"
                 ],
-                "transfer_lines_count": 20,
-                "chart_ratio": 1.48
+                "transfer_lines_count": 19,
+                "chart_ratio": 0.74
             },
             {
                 "line_name_full": "地铁3号线",
                 "line_name": "3号线",
                 "line_name_branch": "3号线",
                 "line_name_main": "3号线",
-                "line_color": "#F9E103",
+                "line_color": "#F5D503",
                 "line_order": 3,
                 "st_count": 29,
                 "transfer_st_count": 14,
@@ -1637,17 +1637,16 @@
                     "7号线",
                     "8号线",
                     "9号线",
-                    "10号线(基隆路-航中路)",
-                    "10号线(基隆路-虹桥火车站)",
+                    "10号线(航中路-基隆路)",
+                    "10号线(虹桥火车站-基隆路)",
                     "11号线(嘉定北-迪士尼)",
                     "11号线(花桥-迪士尼)",
                     "12号线",
                     "13号线",
                     "15号线",
-                    "18号线",
-                    "金山铁路"
+                    "18号线"
                 ],
-                "transfer_lines_all_count": 334,
+                "transfer_lines_all_count": 327,
                 "transfer_lines": [
                     "1号线",
                     "2号线",
@@ -1655,28 +1654,27 @@
                     "7号线",
                     "8号线",
                     "9号线",
-                    "10号线(基隆路-航中路)",
-                    "10号线(基隆路-虹桥火车站)",
+                    "10号线(航中路-基隆路)",
+                    "10号线(虹桥火车站-基隆路)",
                     "11号线(嘉定北-迪士尼)",
                     "11号线(花桥-迪士尼)",
                     "12号线",
                     "13号线",
                     "15号线",
-                    "18号线",
-                    "金山铁路"
+                    "18号线"
                 ],
-                "transfer_lines_count": 15,
-                "chart_ratio": 1.05
+                "transfer_lines_count": 14,
+                "chart_ratio": 0.84
             },
             {
                 "line_name_full": "地铁4号线",
                 "line_name": "4号线",
                 "line_name_branch": "4号线",
                 "line_name_main": "4号线",
-                "line_color": "#660066",
+                "line_color": "#3F267F",
                 "line_order": 4,
                 "st_count": 26,
-                "transfer_st_count": 20,
+                "transfer_st_count": 19,
                 "transfer_sts": [
                     "宝山路",
                     "上海火车站",
@@ -1717,8 +1715,7 @@
                     "289_004_021",
                     "289_004_022",
                     "289_004_024",
-                    "289_004_026",
-                    "289_004_027"
+                    "289_004_026"
                 ],
                 "transfer_lines_all": [
                     "1号线",
@@ -1729,8 +1726,8 @@
                     "7号线",
                     "8号线",
                     "9号线",
-                    "10号线(基隆路-航中路)",
-                    "10号线(基隆路-虹桥火车站)",
+                    "10号线(航中路-基隆路)",
+                    "10号线(虹桥火车站-基隆路)",
                     "11号线(嘉定北-迪士尼)",
                     "11号线(花桥-迪士尼)",
                     "12号线",
@@ -1746,8 +1743,8 @@
                     "7号线",
                     "8号线",
                     "9号线",
-                    "10号线(基隆路-航中路)",
-                    "10号线(基隆路-虹桥火车站)",
+                    "10号线(航中路-基隆路)",
+                    "10号线(虹桥火车站-基隆路)",
                     "11号线(嘉定北-迪士尼)",
                     "11号线(花桥-迪士尼)",
                     "12号线",
@@ -1755,14 +1752,14 @@
                     "14号线"
                 ],
                 "transfer_lines_count": 14,
-                "chart_ratio": 1.5
+                "chart_ratio": 0.94
             },
             {
                 "line_name_full": "地铁5号线(莘庄-奉贤新城)",
                 "line_name": "5号线",
-                "line_name_branch": "5号线",
+                "line_name_branch": "5号线(莘庄-奉贤新城)",
                 "line_name_main": "5号线",
-                "line_color": "#CC00CC",
+                "line_color": "#885196",
                 "line_order": 5,
                 "st_count": 15,
                 "transfer_st_count": 2,
@@ -1776,51 +1773,44 @@
                 ],
                 "transfer_lines_all": [
                     "1号线",
-                    "5号线",
-                    "5号线支线",
-                    "金山铁路"
+                    "5号线(莘庄-奉贤新城)"
                 ],
-                "transfer_lines_all_count": 53,
+                "transfer_lines_all_count": 42,
                 "transfer_lines": [
-                    "1号线",
-                    "5号线支线",
-                    "金山铁路"
+                    "1号线"
                 ],
-                "transfer_lines_count": 3,
-                "chart_ratio": 0.48
+                "transfer_lines_count": 1,
+                "chart_ratio": 0.23
             },
             {
                 "line_name_full": "地铁5号线支线(东川路-闵行开发区)",
-                "line_name": "5号线支线",
-                "line_name_branch": "5号线支线",
+                "line_name": "5号线",
+                "line_name_branch": "5号线支线(东川路-闵行开发区)",
                 "line_name_main": "5号线",
-                "line_color": "#CC00CC",
+                "line_color": "#885196",
                 "line_order": 6,
                 "st_count": 5,
                 "transfer_st_count": 1,
                 "transfer_sts": [
-                    "东川路"
+                    "东川路(5号线支线)"
                 ],
                 "transfer_sts_ids": [
                     "289_006_001"
                 ],
                 "transfer_lines_all": [
-                    "5号线",
-                    "5号线支线"
+                    "5号线支线(东川路-闵行开发区)"
                 ],
-                "transfer_lines_all_count": 19,
-                "transfer_lines": [
-                    "5号线"
-                ],
-                "transfer_lines_count": 1,
-                "chart_ratio": 0.59
+                "transfer_lines_all_count": 5,
+                "transfer_lines": [],
+                "transfer_lines_count": 0,
+                "chart_ratio": 8.75
             },
             {
                 "line_name_full": "地铁6号线",
                 "line_name": "6号线",
                 "line_name_branch": "6号线",
                 "line_name_main": "6号线",
-                "line_color": "#FF3265",
+                "line_color": "#C32A67",
                 "line_order": 7,
                 "st_count": 28,
                 "transfer_st_count": 9,
@@ -1853,8 +1843,8 @@
                     "7号线",
                     "8号线",
                     "9号线",
-                    "10号线(基隆路-航中路)",
-                    "10号线(基隆路-虹桥火车站)",
+                    "10号线(航中路-基隆路)",
+                    "10号线(虹桥火车站-基隆路)",
                     "11号线(嘉定北-迪士尼)",
                     "11号线(花桥-迪士尼)",
                     "12号线",
@@ -1869,8 +1859,8 @@
                     "7号线",
                     "8号线",
                     "9号线",
-                    "10号线(基隆路-航中路)",
-                    "10号线(基隆路-虹桥火车站)",
+                    "10号线(航中路-基隆路)",
+                    "10号线(虹桥火车站-基隆路)",
                     "11号线(嘉定北-迪士尼)",
                     "11号线(花桥-迪士尼)",
                     "12号线",
@@ -1879,14 +1869,14 @@
                     "18号线"
                 ],
                 "transfer_lines_count": 13,
-                "chart_ratio": 1.31
+                "chart_ratio": 0.84
             },
             {
                 "line_name_full": "地铁7号线",
                 "line_name": "7号线",
                 "line_name_branch": "7号线",
                 "line_name_main": "7号线",
-                "line_color": "#FF7F00",
+                "line_color": "#DD762E",
                 "line_order": 8,
                 "st_count": 33,
                 "transfer_st_count": 12,
@@ -1932,8 +1922,7 @@
                     "14号线",
                     "15号线",
                     "16号线",
-                    "18号线",
-                    "磁悬浮"
+                    "18号线"
                 ],
                 "transfer_lines_all_count": 322,
                 "transfer_lines": [
@@ -1949,18 +1938,17 @@
                     "14号线",
                     "15号线",
                     "16号线",
-                    "18号线",
-                    "磁悬浮"
+                    "18号线"
                 ],
-                "transfer_lines_count": 14,
-                "chart_ratio": 1.29
+                "transfer_lines_count": 13,
+                "chart_ratio": 0.73
             },
             {
                 "line_name_full": "地铁8号线",
                 "line_name": "8号线",
                 "line_name_branch": "8号线",
                 "line_name_main": "8号线",
-                "line_color": "#0066CC",
+                "line_color": "#4795D4",
                 "line_order": 9,
                 "st_count": 30,
                 "transfer_st_count": 13,
@@ -2003,8 +1991,8 @@
                     "7号线",
                     "8号线",
                     "9号线",
-                    "10号线(基隆路-航中路)",
-                    "10号线(基隆路-虹桥火车站)",
+                    "10号线(航中路-基隆路)",
+                    "10号线(虹桥火车站-基隆路)",
                     "11号线(嘉定北-迪士尼)",
                     "11号线(花桥-迪士尼)",
                     "12号线",
@@ -2022,8 +2010,8 @@
                     "6号线",
                     "7号线",
                     "9号线",
-                    "10号线(基隆路-航中路)",
-                    "10号线(基隆路-虹桥火车站)",
+                    "10号线(航中路-基隆路)",
+                    "10号线(虹桥火车站-基隆路)",
                     "11号线(嘉定北-迪士尼)",
                     "11号线(花桥-迪士尼)",
                     "12号线",
@@ -2033,14 +2021,14 @@
                     "浦江线"
                 ],
                 "transfer_lines_count": 16,
-                "chart_ratio": 1.24
+                "chart_ratio": 0.84
             },
             {
                 "line_name_full": "地铁9号线",
                 "line_name": "9号线",
                 "line_name_branch": "9号线",
                 "line_name_main": "9号线",
-                "line_color": "#95d3db",
+                "line_color": "#94C7E9",
                 "line_order": 10,
                 "st_count": 35,
                 "transfer_st_count": 12,
@@ -2090,7 +2078,7 @@
                     "18号线",
                     "市域机场线"
                 ],
-                "transfer_lines_all_count": 345,
+                "transfer_lines_all_count": 346,
                 "transfer_lines": [
                     "1号线",
                     "2号线",
@@ -2109,14 +2097,14 @@
                     "市域机场线"
                 ],
                 "transfer_lines_count": 15,
-                "chart_ratio": 1.29
+                "chart_ratio": 0.84
             },
             {
-                "line_name_full": "地铁10号线(基隆路-航中路)",
-                "line_name": "10号线(基隆路-航中路)",
-                "line_name_branch": "10号线(基隆路-航中路)",
-                "line_name_main": "10号线",
-                "line_color": "#C9A7D5",
+                "line_name_full": "地铁10号线(航中路-基隆路)",
+                "line_name": "10号线(航中路-基隆路)",
+                "line_name_branch": "10号线(航中路-基隆路)",
+                "line_name_main": "10号线(航中路-基隆路)",
+                "line_color": "#C0B2D2",
                 "line_order": 11,
                 "st_count": 33,
                 "transfer_st_count": 13,
@@ -2157,8 +2145,8 @@
                     "4号线",
                     "6号线",
                     "8号线",
-                    "10号线(基隆路-航中路)",
-                    "10号线(基隆路-虹桥火车站)",
+                    "10号线(航中路-基隆路)",
+                    "10号线(虹桥火车站-基隆路)",
                     "11号线(嘉定北-迪士尼)",
                     "11号线(花桥-迪士尼)",
                     "12号线",
@@ -2174,7 +2162,7 @@
                     "4号线",
                     "6号线",
                     "8号线",
-                    "10号线(基隆路-虹桥火车站)",
+                    "10号线(虹桥火车站-基隆路)",
                     "11号线(嘉定北-迪士尼)",
                     "11号线(花桥-迪士尼)",
                     "12号线",
@@ -2183,17 +2171,17 @@
                     "18号线"
                 ],
                 "transfer_lines_count": 13,
-                "chart_ratio": 1.11
+                "chart_ratio": 0.84
             },
             {
-                "line_name_full": "地铁10号线(基隆路-虹桥火车站)",
-                "line_name": "10号线(基隆路-虹桥火车站)",
-                "line_name_branch": "10号线(基隆路-虹桥火车站)",
-                "line_name_main": "10号线",
-                "line_color": "#C9A7D5",
+                "line_name_full": "地铁10号线(虹桥火车站-基隆路)",
+                "line_name": "10号线(虹桥火车站-基隆路)",
+                "line_name_branch": "10号线(虹桥火车站-基隆路)",
+                "line_name_main": "10号线(虹桥火车站-基隆路)",
+                "line_color": "#C0B2D2",
                 "line_order": 12,
                 "st_count": 34,
-                "transfer_st_count": 14,
+                "transfer_st_count": 15,
                 "transfer_sts": [
                     "港城路",
                     "国权路",
@@ -2203,6 +2191,7 @@
                     "南京东路",
                     "豫园",
                     "老西门",
+                    "一大会址·新天地",
                     "陕西南路",
                     "交通大学",
                     "虹桥路",
@@ -2219,6 +2208,7 @@
                     "289_012_019",
                     "289_012_020",
                     "289_012_021",
+                    "289_012_022",
                     "289_012_023",
                     "289_012_025",
                     "289_012_026",
@@ -2233,17 +2223,18 @@
                     "4号线",
                     "6号线",
                     "8号线",
-                    "10号线(基隆路-航中路)",
-                    "10号线(基隆路-虹桥火车站)",
+                    "10号线(航中路-基隆路)",
+                    "10号线(虹桥火车站-基隆路)",
                     "11号线(嘉定北-迪士尼)",
                     "11号线(花桥-迪士尼)",
                     "12号线",
+                    "13号线",
                     "14号线",
                     "17号线",
                     "18号线",
                     "市域机场线"
                 ],
-                "transfer_lines_all_count": 290,
+                "transfer_lines_all_count": 314,
                 "transfer_lines": [
                     "1号线",
                     "2号线",
@@ -2251,24 +2242,25 @@
                     "4号线",
                     "6号线",
                     "8号线",
-                    "10号线(基隆路-航中路)",
+                    "10号线(航中路-基隆路)",
                     "11号线(嘉定北-迪士尼)",
                     "11号线(花桥-迪士尼)",
                     "12号线",
+                    "13号线",
                     "14号线",
                     "17号线",
                     "18号线",
                     "市域机场线"
                 ],
-                "transfer_lines_count": 14,
-                "chart_ratio": 1.3
+                "transfer_lines_count": 15,
+                "chart_ratio": 0.84
             },
             {
                 "line_name_full": "地铁11号线(嘉定北-迪士尼)",
                 "line_name": "11号线(嘉定北-迪士尼)",
                 "line_name_branch": "11号线(嘉定北-迪士尼)",
                 "line_name_main": "11号线",
-                "line_color": "#800000",
+                "line_color": "#7C343C",
                 "line_order": 13,
                 "st_count": 33,
                 "transfer_st_count": 12,
@@ -2308,8 +2300,8 @@
                     "6号线",
                     "8号线",
                     "9号线",
-                    "10号线(基隆路-航中路)",
-                    "10号线(基隆路-虹桥火车站)",
+                    "10号线(航中路-基隆路)",
+                    "10号线(虹桥火车站-基隆路)",
                     "11号线(嘉定北-迪士尼)",
                     "11号线(花桥-迪士尼)",
                     "12号线",
@@ -2328,8 +2320,8 @@
                     "6号线",
                     "8号线",
                     "9号线",
-                    "10号线(基隆路-航中路)",
-                    "10号线(基隆路-虹桥火车站)",
+                    "10号线(航中路-基隆路)",
+                    "10号线(虹桥火车站-基隆路)",
                     "11号线(花桥-迪士尼)",
                     "12号线",
                     "13号线",
@@ -2339,7 +2331,7 @@
                     "18号线"
                 ],
                 "transfer_lines_count": 16,
-                "chart_ratio": 1.29
+                "chart_ratio": 0.74
             },
             {
                 "line_name_full": "地铁11号线(花桥-迪士尼)",
@@ -2349,7 +2341,7 @@
                 "line_color": "#800000",
                 "line_order": 14,
                 "st_count": 37,
-                "transfer_st_count": 11,
+                "transfer_st_count": 12,
                 "transfer_sts": [
                     "罗山路",
                     "御桥",
@@ -2360,6 +2352,7 @@
                     "江苏路",
                     "隆德路",
                     "曹杨路",
+                    "真如",
                     "上海西站",
                     "嘉定新城"
                 ],
@@ -2373,6 +2366,7 @@
                     "289_014_017",
                     "289_014_018",
                     "289_014_019",
+                    "289_014_021",
                     "289_014_022",
                     "289_014_030"
                 ],
@@ -2384,17 +2378,18 @@
                     "6号线",
                     "8号线",
                     "9号线",
-                    "10号线(基隆路-航中路)",
-                    "10号线(基隆路-虹桥火车站)",
+                    "10号线(航中路-基隆路)",
+                    "10号线(虹桥火车站-基隆路)",
                     "11号线(嘉定北-迪士尼)",
                     "11号线(花桥-迪士尼)",
                     "12号线",
                     "13号线",
+                    "14号线",
                     "15号线",
                     "16号线",
                     "18号线"
                 ],
-                "transfer_lines_all_count": 336,
+                "transfer_lines_all_count": 354,
                 "transfer_lines": [
                     "1号线",
                     "2号线",
@@ -2403,27 +2398,28 @@
                     "6号线",
                     "8号线",
                     "9号线",
-                    "10号线(基隆路-航中路)",
-                    "10号线(基隆路-虹桥火车站)",
+                    "10号线(航中路-基隆路)",
+                    "10号线(虹桥火车站-基隆路)",
                     "11号线(嘉定北-迪士尼)",
                     "12号线",
                     "13号线",
+                    "14号线",
                     "15号线",
                     "16号线",
                     "18号线"
                 ],
-                "transfer_lines_count": 15,
-                "chart_ratio": 1.15
+                "transfer_lines_count": 16,
+                "chart_ratio": 0.74
             },
             {
                 "line_name_full": "地铁12号线",
                 "line_name": "12号线",
                 "line_name_branch": "12号线",
                 "line_name_main": "12号线",
-                "line_color": "#0C785E",
+                "line_color": "#327660",
                 "line_order": 15,
                 "st_count": 32,
-                "transfer_st_count": 16,
+                "transfer_st_count": 17,
                 "transfer_sts": [
                     "金海路",
                     "巨峰路",
@@ -2458,7 +2454,8 @@
                     "289_015_023",
                     "289_015_024",
                     "289_015_025",
-                    "289_015_026"
+                    "289_015_026",
+                    "289_015_027"
                 ],
                 "transfer_lines_all": [
                     "1号线",
@@ -2469,8 +2466,8 @@
                     "7号线",
                     "8号线",
                     "9号线",
-                    "10号线(基隆路-航中路)",
-                    "10号线(基隆路-虹桥火车站)",
+                    "10号线(航中路-基隆路)",
+                    "10号线(虹桥火车站-基隆路)",
                     "11号线(嘉定北-迪士尼)",
                     "11号线(花桥-迪士尼)",
                     "12号线",
@@ -2488,8 +2485,8 @@
                     "7号线",
                     "8号线",
                     "9号线",
-                    "10号线(基隆路-航中路)",
-                    "10号线(基隆路-虹桥火车站)",
+                    "10号线(航中路-基隆路)",
+                    "10号线(虹桥火车站-基隆路)",
                     "11号线(嘉定北-迪士尼)",
                     "11号线(花桥-迪士尼)",
                     "13号线",
@@ -2497,14 +2494,14 @@
                     "18号线"
                 ],
                 "transfer_lines_count": 15,
-                "chart_ratio": 1.15
+                "chart_ratio": 0.84
             },
             {
                 "line_name_full": "地铁13号线",
                 "line_name": "13号线",
                 "line_name_branch": "13号线",
                 "line_name_main": "13号线",
-                "line_color": "#E796C1",
+                "line_color": "#DA9DBE",
                 "line_order": 16,
                 "st_count": 31,
                 "transfer_st_count": 14,
@@ -2549,8 +2546,8 @@
                     "7号线",
                     "8号线",
                     "9号线",
-                    "10号线(基隆路-航中路)",
-                    "10号线(基隆路-虹桥火车站)",
+                    "10号线(航中路-基隆路)",
+                    "10号线(虹桥火车站-基隆路)",
                     "11号线(嘉定北-迪士尼)",
                     "11号线(花桥-迪士尼)",
                     "12号线",
@@ -2570,8 +2567,8 @@
                     "7号线",
                     "8号线",
                     "9号线",
-                    "10号线(基隆路-航中路)",
-                    "10号线(基隆路-虹桥火车站)",
+                    "10号线(航中路-基隆路)",
+                    "10号线(虹桥火车站-基隆路)",
                     "11号线(嘉定北-迪士尼)",
                     "11号线(花桥-迪士尼)",
                     "12号线",
@@ -2581,26 +2578,28 @@
                     "18号线"
                 ],
                 "transfer_lines_count": 17,
-                "chart_ratio": 1.29
+                "chart_ratio": 0.74
             },
             {
                 "line_name_full": "地铁14号线",
                 "line_name": "14号线",
                 "line_name_branch": "14号线",
                 "line_name_main": "14号线",
-                "line_color": "#79732C",
+                "line_color": "#615E38",
                 "line_order": 17,
                 "st_count": 30,
-                "transfer_st_count": 12,
+                "transfer_st_count": 14,
                 "transfer_sts": [
                     "铜川路",
                     "真如",
+                    "曹杨路(14)",
                     "武宁路",
                     "静安寺",
                     "一大会址·黄陂南路",
                     "大世界",
                     "豫园",
                     "陆家嘴",
+                    "浦东南路",
                     "浦东大道",
                     "昌邑路",
                     "云山路",
@@ -2609,12 +2608,14 @@
                 "transfer_sts_ids": [
                     "289_017_008",
                     "289_017_009",
+                    "289_017_011",
                     "289_017_012",
                     "289_017_014",
                     "289_017_015",
                     "289_017_016",
                     "289_017_017",
                     "289_017_018",
+                    "289_017_019",
                     "289_017_020",
                     "289_017_022",
                     "289_017_024",
@@ -2628,8 +2629,8 @@
                     "7号线",
                     "8号线",
                     "9号线",
-                    "10号线(基隆路-航中路)",
-                    "10号线(基隆路-虹桥火车站)",
+                    "10号线(航中路-基隆路)",
+                    "10号线(虹桥火车站-基隆路)",
                     "11号线(嘉定北-迪士尼)",
                     "11号线(花桥-迪士尼)",
                     "13号线",
@@ -2646,8 +2647,8 @@
                     "7号线",
                     "8号线",
                     "9号线",
-                    "10号线(基隆路-航中路)",
-                    "10号线(基隆路-虹桥火车站)",
+                    "10号线(航中路-基隆路)",
+                    "10号线(虹桥火车站-基隆路)",
                     "11号线(嘉定北-迪士尼)",
                     "11号线(花桥-迪士尼)",
                     "13号线",
@@ -2655,14 +2656,14 @@
                     "18号线"
                 ],
                 "transfer_lines_count": 14,
-                "chart_ratio": 1.31
+                "chart_ratio": 0.84
             },
             {
                 "line_name_full": "地铁15号线",
                 "line_name": "15号线",
                 "line_name_branch": "15号线",
                 "line_name_main": "15号线",
-                "line_color": "#b9a583",
+                "line_color": "#C3B292",
                 "line_order": 18,
                 "st_count": 30,
                 "transfer_st_count": 9,
@@ -2700,10 +2701,9 @@
                     "13号线",
                     "14号线",
                     "15号线",
-                    "金山铁路",
                     "市域机场线"
                 ],
-                "transfer_lines_all_count": 283,
+                "transfer_lines_all_count": 277,
                 "transfer_lines": [
                     "1号线",
                     "2号线",
@@ -2715,18 +2715,17 @@
                     "12号线",
                     "13号线",
                     "14号线",
-                    "金山铁路",
                     "市域机场线"
                 ],
-                "transfer_lines_count": 12,
-                "chart_ratio": 1.18
+                "transfer_lines_count": 11,
+                "chart_ratio": 0.93
             },
             {
                 "line_name_full": "地铁16号线",
                 "line_name": "16号线",
                 "line_name_branch": "16号线",
                 "line_name_main": "16号线",
-                "line_color": "#77C8C7",
+                "line_color": "#A4CEC0",
                 "line_order": 19,
                 "st_count": 13,
                 "transfer_st_count": 3,
@@ -2747,8 +2746,7 @@
                     "11号线(花桥-迪士尼)",
                     "13号线",
                     "16号线",
-                    "18号线",
-                    "磁悬浮"
+                    "18号线"
                 ],
                 "transfer_lines_all_count": 160,
                 "transfer_lines": [
@@ -2757,46 +2755,47 @@
                     "11号线(嘉定北-迪士尼)",
                     "11号线(花桥-迪士尼)",
                     "13号线",
-                    "18号线",
-                    "磁悬浮"
+                    "18号线"
                 ],
-                "transfer_lines_count": 7,
-                "chart_ratio": 0.99
+                "transfer_lines_count": 6,
+                "chart_ratio": 0.74
             },
             {
                 "line_name_full": "地铁17号线",
                 "line_name": "17号线",
                 "line_name_branch": "17号线",
                 "line_name_main": "17号线",
-                "line_color": "#c07774",
+                "line_color": "#AC7A70",
                 "line_order": 20,
                 "st_count": 14,
-                "transfer_st_count": 1,
+                "transfer_st_count": 2,
                 "transfer_sts": [
-                    "虹桥火车站"
+                    "虹桥火车站",
+                    "国家会展中心(17号线)"
                 ],
                 "transfer_sts_ids": [
-                    "289_020_001"
+                    "289_020_001",
+                    "289_020_002"
                 ],
                 "transfer_lines_all": [
                     "2号线",
-                    "10号线(基隆路-虹桥火车站)",
+                    "10号线(虹桥火车站-基隆路)",
                     "17号线"
                 ],
-                "transfer_lines_all_count": 73,
+                "transfer_lines_all_count": 74,
                 "transfer_lines": [
                     "2号线",
-                    "10号线(基隆路-虹桥火车站)"
+                    "10号线(虹桥火车站-基隆路)"
                 ],
                 "transfer_lines_count": 2,
-                "chart_ratio": 1.89
+                "chart_ratio": 1.09
             },
             {
                 "line_name_full": "地铁18号线",
                 "line_name": "18号线",
                 "line_name_branch": "18号线",
                 "line_name_main": "18号线",
-                "line_color": "#d9a972",
+                "line_color": "#B58A57",
                 "line_order": 21,
                 "st_count": 26,
                 "transfer_st_count": 10,
@@ -2831,16 +2830,15 @@
                     "7号线",
                     "8号线",
                     "9号线",
-                    "10号线(基隆路-航中路)",
-                    "10号线(基隆路-虹桥火车站)",
+                    "10号线(航中路-基隆路)",
+                    "10号线(虹桥火车站-基隆路)",
                     "11号线(嘉定北-迪士尼)",
                     "11号线(花桥-迪士尼)",
                     "12号线",
                     "13号线",
                     "14号线",
                     "16号线",
-                    "18号线",
-                    "磁悬浮"
+                    "18号线"
                 ],
                 "transfer_lines_all_count": 327,
                 "transfer_lines": [
@@ -2850,33 +2848,82 @@
                     "7号线",
                     "8号线",
                     "9号线",
-                    "10号线(基隆路-航中路)",
-                    "10号线(基隆路-虹桥火车站)",
+                    "10号线(航中路-基隆路)",
+                    "10号线(虹桥火车站-基隆路)",
                     "11号线(嘉定北-迪士尼)",
                     "11号线(花桥-迪士尼)",
                     "12号线",
                     "13号线",
                     "14号线",
-                    "16号线",
+                    "16号线"
+                ],
+                "transfer_lines_count": 14,
+                "chart_ratio": 0.74
+            },
+            {
+                "line_name_full": "磁悬浮",
+                "line_name": "磁悬浮",
+                "line_name_branch": "磁悬浮",
+                "line_name_main": "磁悬浮",
+                "line_color": "#B3B3B3",
+                "line_order": 22,
+                "st_count": 2,
+                "transfer_st_count": 2,
+                "transfer_sts": [
+                    "龙阳路(磁悬浮)",
+                    "浦东1号2号航站楼(磁悬浮)"
+                ],
+                "transfer_sts_ids": [
+                    "289_022_001",
+                    "289_022_002"
+                ],
+                "transfer_lines_all": [
                     "磁悬浮"
                 ],
-                "transfer_lines_count": 15,
-                "chart_ratio": 1.29
+                "transfer_lines_all_count": 2,
+                "transfer_lines": [],
+                "transfer_lines_count": 0,
+                "chart_ratio": 0.63
+            },
+            {
+                "line_name_full": "金山铁路",
+                "line_name": "金山铁路",
+                "line_name_branch": "金山铁路",
+                "line_name_main": "金山铁路",
+                "line_color": "#000000",
+                "line_order": 23,
+                "st_count": 9,
+                "transfer_st_count": 2,
+                "transfer_sts": [
+                    "上海南站(金山铁路)",
+                    "莘庄(金山铁路)"
+                ],
+                "transfer_sts_ids": [
+                    "289_023_001",
+                    "289_023_002"
+                ],
+                "transfer_lines_all": [
+                    "金山铁路"
+                ],
+                "transfer_lines_all_count": 9,
+                "transfer_lines": [],
+                "transfer_lines_count": 0,
+                "chart_ratio": 0.49
             },
             {
                 "line_name_full": "浦江线",
                 "line_name": "浦江线",
                 "line_name_branch": "浦江线",
                 "line_name_main": "浦江线",
-                "line_color": "#9ba0ad",
-                "line_order": 22,
+                "line_color": "#A39892",
+                "line_order": 24,
                 "st_count": 6,
                 "transfer_st_count": 1,
                 "transfer_sts": [
                     "沈杜公路"
                 ],
                 "transfer_sts_ids": [
-                    "289_022_001"
+                    "289_024_001"
                 ],
                 "transfer_lines_all": [
                     "8号线",
@@ -2887,84 +2934,14 @@
                     "8号线"
                 ],
                 "transfer_lines_count": 1,
-                "chart_ratio": 0.29
-            },
-            {
-                "line_name_full": "磁悬浮",
-                "line_name": "磁悬浮",
-                "line_name_branch": "磁悬浮",
-                "line_name_main": "磁悬浮",
-                "line_color": "#B3B3B3",
-                "line_order": 23,
-                "st_count": 2,
-                "transfer_st_count": 2,
-                "transfer_sts": [
-                    "龙阳路",
-                    "浦东1号2号航站楼"
-                ],
-                "transfer_sts_ids": [
-                    "289_023_001",
-                    "289_023_002"
-                ],
-                "transfer_lines_all": [
-                    "2号线",
-                    "7号线",
-                    "16号线",
-                    "18号线",
-                    "磁悬浮",
-                    "市域机场线"
-                ],
-                "transfer_lines_all_count": 103,
-                "transfer_lines": [
-                    "2号线",
-                    "7号线",
-                    "16号线",
-                    "18号线",
-                    "市域机场线"
-                ],
-                "transfer_lines_count": 5,
-                "chart_ratio": 0.99
-            },
-            {
-                "line_name_full": "金山铁路",
-                "line_name": "金山铁路",
-                "line_name_branch": "金山铁路",
-                "line_name_main": "金山铁路",
-                "line_color": "#000000",
-                "line_order": 24,
-                "st_count": 9,
-                "transfer_st_count": 2,
-                "transfer_sts": [
-                    "上海南站",
-                    "莘庄"
-                ],
-                "transfer_sts_ids": [
-                    "289_024_001",
-                    "289_024_002"
-                ],
-                "transfer_lines_all": [
-                    "1号线",
-                    "3号线",
-                    "5号线",
-                    "15号线",
-                    "金山铁路"
-                ],
-                "transfer_lines_all_count": 105,
-                "transfer_lines": [
-                    "1号线",
-                    "3号线",
-                    "5号线",
-                    "15号线"
-                ],
-                "transfer_lines_count": 4,
-                "chart_ratio": 0.52
+                "chart_ratio": 0.3
             },
             {
                 "line_name_full": "市域机场线",
                 "line_name": "市域机场线",
                 "line_name_branch": "市域机场线",
                 "line_name_main": "市域机场线",
-                "line_color": "#406989",
+                "line_color": "#2A5F7C",
                 "line_order": 25,
                 "st_count": 7,
                 "transfer_st_count": 4,
@@ -2972,7 +2949,7 @@
                     "虹桥2号航站楼",
                     "中春路",
                     "景洪路",
-                    "浦东1号2号航站楼"
+                    "浦东1号2号航站楼(市域机场线)"
                 ],
                 "transfer_sts_ids": [
                     "289_025_001",
@@ -2983,21 +2960,19 @@
                 "transfer_lines_all": [
                     "2号线",
                     "9号线",
-                    "10号线(基隆路-虹桥火车站)",
+                    "10号线(虹桥火车站-基隆路)",
                     "15号线",
-                    "磁悬浮",
                     "市域机场线"
                 ],
-                "transfer_lines_all_count": 126,
+                "transfer_lines_all_count": 127,
                 "transfer_lines": [
                     "2号线",
                     "9号线",
-                    "10号线(基隆路-虹桥火车站)",
-                    "15号线",
-                    "磁悬浮"
+                    "10号线(虹桥火车站-基隆路)",
+                    "15号线"
                 ],
-                "transfer_lines_count": 5,
-                "chart_ratio": 1.22
+                "transfer_lines_count": 4,
+                "chart_ratio": 1.06
             }
         ]
     },
@@ -3005,7 +2980,7 @@
         "city_id": "257",
         "city_name": "广州",
         "city_line_count": 32,
-        "city_st_count": 453,
+        "city_st_count": 452,
         "lines_data": [
             {
                 "line_name_full": "地铁1号线",
@@ -3143,7 +3118,7 @@
                 "line_color": "#EEB56E",
                 "line_order": 3,
                 "st_count": 20,
-                "transfer_st_count": 11,
+                "transfer_st_count": 12,
                 "transfer_sts": [
                     "天河客运站",
                     "华师",
@@ -3153,6 +3128,7 @@
                     "客村",
                     "大塘",
                     "沥滘",
+                    "大石",
                     "汉溪长隆",
                     "番禺广场",
                     "海傍"
@@ -3166,6 +3142,7 @@
                     "257_003_009",
                     "257_003_010",
                     "257_003_011",
+                    "257_003_013",
                     "257_003_014",
                     "257_003_016",
                     "257_003_020"
@@ -3215,7 +3192,7 @@
                 "line_color": "#EEB56E",
                 "line_order": 4,
                 "st_count": 15,
-                "transfer_st_count": 7,
+                "transfer_st_count": 8,
                 "transfer_sts": [
                     "体育西路",
                     "林和西",
@@ -3223,6 +3200,7 @@
                     "燕塘",
                     "嘉禾望岗",
                     "高增",
+                    "机场南(1号航站楼)",
                     "机场北(2号航站楼)"
                 ],
                 "transfer_sts_ids": [
@@ -3232,6 +3210,7 @@
                     "257_004_004",
                     "257_004_010",
                     "257_004_013",
+                    "257_004_014",
                     "257_004_015"
                 ],
                 "transfer_lines_all": [
@@ -3241,20 +3220,22 @@
                     "3号线(体育西路-机场北(2号航站楼))",
                     "6号线",
                     "9号线",
+                    "11号线",
                     "14号线",
                     "APM线"
                 ],
-                "transfer_lines_all_count": 133,
+                "transfer_lines_all_count": 156,
                 "transfer_lines": [
                     "1号线",
                     "2号线",
                     "3号线(海傍-天河客运站)",
                     "6号线",
                     "9号线",
+                    "11号线",
                     "14号线",
                     "APM线"
                 ],
-                "transfer_lines_count": 7,
+                "transfer_lines_count": 8,
                 "chart_ratio": 1.02
             },
             {
@@ -3682,12 +3663,13 @@
                 "line_name_main": "11号线",
                 "line_color": "#ECC040",
                 "line_order": 12,
-                "st_count": 29,
-                "transfer_st_count": 16,
+                "st_count": 30,
+                "transfer_st_count": 17,
                 "transfer_sts": [
                     "中山八",
                     "彩虹桥",
                     "沙河",
+                    "广州东站",
                     "华师",
                     "天河公园",
                     "员村",
@@ -3706,24 +3688,26 @@
                     "257_012_001",
                     "257_012_002",
                     "257_012_008",
-                    "257_012_010",
-                    "257_012_012",
+                    "257_012_009",
+                    "257_012_011",
                     "257_012_013",
                     "257_012_014",
                     "257_012_015",
                     "257_012_016",
                     "257_012_017",
-                    "257_012_020",
+                    "257_012_018",
                     "257_012_021",
                     "257_012_022",
-                    "257_012_025",
-                    "257_012_027",
-                    "257_012_029"
+                    "257_012_023",
+                    "257_012_026",
+                    "257_012_028",
+                    "257_012_030"
                 ],
                 "transfer_lines_all": [
                     "1号线",
                     "2号线",
                     "3号线(海傍-天河客运站)",
+                    "3号线(体育西路-机场北(2号航站楼))",
                     "5号线",
                     "6号线",
                     "8号线",
@@ -3737,11 +3721,12 @@
                     "东环城际线",
                     "琶莲城际线"
                 ],
-                "transfer_lines_all_count": 235,
+                "transfer_lines_all_count": 246,
                 "transfer_lines": [
                     "1号线",
                     "2号线",
                     "3号线(海傍-天河客运站)",
+                    "3号线(体育西路-机场北(2号航站楼))",
                     "5号线",
                     "6号线",
                     "8号线",
@@ -3754,7 +3739,7 @@
                     "东环城际线",
                     "琶莲城际线"
                 ],
-                "transfer_lines_count": 14,
+                "transfer_lines_count": 15,
                 "chart_ratio": 1.1
             },
             {
@@ -3825,7 +3810,7 @@
                     "11号线",
                     "12号线(二沙岛-大学城南)"
                 ],
-                "transfer_lines_all_count": 107,
+                "transfer_lines_all_count": 108,
                 "transfer_lines": [
                     "4号线",
                     "7号线",
@@ -3866,7 +3851,7 @@
                     "13号线",
                     "21号线"
                 ],
-                "transfer_lines_all_count": 131,
+                "transfer_lines_all_count": 132,
                 "transfer_lines": [
                     "4号线",
                     "5号线",
@@ -3915,7 +3900,7 @@
                     "东环城际线"
                 ],
                 "transfer_lines_count": 5,
-                "chart_ratio": 0.95
+                "chart_ratio": 0.98
             },
             {
                 "line_name_full": "地铁14号线支线",
@@ -3974,20 +3959,18 @@
                     "8号线",
                     "11号线",
                     "18号线",
-                    "22号线",
-                    "东环城际线"
+                    "22号线"
                 ],
-                "transfer_lines_all_count": 118,
+                "transfer_lines_all_count": 105,
                 "transfer_lines": [
                     "3号线(海傍-天河客运站)",
                     "7号线",
                     "8号线",
                     "11号线",
-                    "22号线",
-                    "东环城际线"
+                    "22号线"
                 ],
-                "transfer_lines_count": 6,
-                "chart_ratio": 0.83
+                "transfer_lines_count": 5,
+                "chart_ratio": 0.98
             },
             {
                 "line_name_full": "地铁21号线",
@@ -4023,7 +4006,7 @@
                     "14号线支线(知识城线)",
                     "21号线"
                 ],
-                "transfer_lines_all_count": 144,
+                "transfer_lines_all_count": 145,
                 "transfer_lines": [
                     "4号线",
                     "6号线",
@@ -4058,20 +4041,18 @@
                     "7号线",
                     "18号线",
                     "22号线",
-                    "佛山2号线",
-                    "东环城际线"
+                    "佛山2号线"
                 ],
-                "transfer_lines_all_count": 107,
+                "transfer_lines_all_count": 92,
                 "transfer_lines": [
                     "2号线",
                     "3号线(海傍-天河客运站)",
                     "7号线",
                     "18号线",
-                    "佛山2号线",
-                    "东环城际线"
+                    "佛山2号线"
                 ],
-                "transfer_lines_count": 6,
-                "chart_ratio": 1.0
+                "transfer_lines_count": 5,
+                "chart_ratio": 1.28
             },
             {
                 "line_name_full": "佛山地铁2号线",
@@ -4260,7 +4241,7 @@
                     "海珠有轨电车1号线"
                 ],
                 "transfer_lines_count": 3,
-                "chart_ratio": 0.54
+                "chart_ratio": 0.56
             },
             {
                 "line_name_full": "海珠有轨电车1号线",
@@ -4362,22 +4343,28 @@
                 "line_color": "#5C82BD",
                 "line_order": 29,
                 "st_count": 16,
-                "transfer_st_count": 7,
+                "transfer_st_count": 10,
                 "transfer_sts": [
-                    "番禺广场",
+                    "番禺站",
+                    "大石东",
+                    "大石",
                     "琶洲",
                     "科韵路",
                     "龙洞",
                     "竹料",
-                    "白云机场北",
+                    "机场南",
+                    "机场北",
                     "花都"
                 ],
                 "transfer_sts_ids": [
                     "257_029_001",
-                    "257_029_004",
+                    "257_029_002",
+                    "257_029_003",
                     "257_029_005",
-                    "257_029_007",
-                    "257_029_010",
+                    "257_029_006",
+                    "257_029_008",
+                    "257_029_011",
+                    "257_029_012",
                     "257_029_013",
                     "257_029_016"
                 ],
@@ -4388,13 +4375,12 @@
                     "8号线",
                     "11号线",
                     "14号线",
-                    "18号线",
-                    "22号线",
                     "东环城际线",
                     "广清城际线",
+                    "广肇广惠城际线",
                     "琶莲城际线"
                 ],
-                "transfer_lines_all_count": 174,
+                "transfer_lines_all_count": 205,
                 "transfer_lines": [
                     "3号线(海傍-天河客运站)",
                     "5号线",
@@ -4402,13 +4388,12 @@
                     "8号线",
                     "11号线",
                     "14号线",
-                    "18号线",
-                    "22号线",
                     "广清城际线",
+                    "广肇广惠城际线",
                     "琶莲城际线"
                 ],
-                "transfer_lines_count": 10,
-                "chart_ratio": 0.93
+                "transfer_lines_count": 9,
+                "chart_ratio": 1.33
             },
             {
                 "line_name_full": "广清城际线",
@@ -4471,18 +4456,20 @@
                     "7号线",
                     "佛山2号线",
                     "佛山3号线(中山公园-顺德学院站)",
+                    "东环城际线",
                     "广肇广惠城际线",
                     "琶莲城际线"
                 ],
-                "transfer_lines_all_count": 107,
+                "transfer_lines_all_count": 121,
                 "transfer_lines": [
                     "7号线",
                     "佛山2号线",
                     "佛山3号线(中山公园-顺德学院站)",
+                    "东环城际线",
                     "琶莲城际线"
                 ],
-                "transfer_lines_count": 4,
-                "chart_ratio": 1.74
+                "transfer_lines_count": 5,
+                "chart_ratio": 1.32
             },
             {
                 "line_name_full": "琶莲城际线",
@@ -4534,7 +4521,7 @@
         "city_id": "340",
         "city_name": "深圳",
         "city_line_count": 19,
-        "city_st_count": 354,
+        "city_st_count": 365,
         "lines_data": [
             {
                 "line_name_full": "地铁1号线(罗宝线)",
@@ -4729,7 +4716,7 @@
                     "14号线",
                     "16号线"
                 ],
-                "transfer_lines_all_count": 286,
+                "transfer_lines_all_count": 294,
                 "transfer_lines": [
                     "1号线(罗宝线)",
                     "2号线(8号线)",
@@ -4915,7 +4902,7 @@
                     "11号线",
                     "12号线(南宝线)"
                 ],
-                "transfer_lines_all_count": 237,
+                "transfer_lines_all_count": 240,
                 "transfer_lines": [
                     "1号线(罗宝线)",
                     "3号线(龙岗线)",
@@ -4937,19 +4924,19 @@
                 "line_name_main": "6号线",
                 "line_color": "#6B9F97",
                 "line_order": 7,
-                "st_count": 4,
+                "st_count": 7,
                 "transfer_st_count": 1,
                 "transfer_sts": [
                     "光明"
                 ],
                 "transfer_sts_ids": [
-                    "340_007_001"
+                    "340_007_004"
                 ],
                 "transfer_lines_all": [
                     "6号线",
                     "6号线支线"
                 ],
-                "transfer_lines_all_count": 30,
+                "transfer_lines_all_count": 33,
                 "transfer_lines": [
                     "6号线"
                 ],
@@ -5342,7 +5329,7 @@
                     "16号线",
                     "坪山云巴1号线"
                 ],
-                "transfer_lines_all_count": 213,
+                "transfer_lines_all_count": 221,
                 "transfer_lines": [
                     "2号线(8号线)",
                     "3号线(龙岗线)",
@@ -5363,26 +5350,26 @@
                 "line_name_main": "16号线",
                 "line_color": "#7B5F99",
                 "line_order": 15,
-                "st_count": 24,
+                "st_count": 32,
                 "transfer_st_count": 4,
                 "transfer_sts": [
                     "大运",
                     "双龙",
-                    "坪山站",
+                    "坪山",
                     "坪山围"
                 ],
                 "transfer_sts_ids": [
-                    "340_015_001",
-                    "340_015_010",
-                    "340_015_014",
-                    "340_015_017"
+                    "340_015_009",
+                    "340_015_018",
+                    "340_015_022",
+                    "340_015_025"
                 ],
                 "transfer_lines_all": [
                     "3号线(龙岗线)",
                     "14号线",
                     "16号线"
                 ],
-                "transfer_lines_all_count": 75,
+                "transfer_lines_all_count": 83,
                 "transfer_lines": [
                     "3号线(龙岗线)",
                     "14号线"
@@ -11107,7 +11094,7 @@
         "city_id": "53",
         "city_name": "长春",
         "city_line_count": 6,
-        "city_st_count": 111,
+        "city_st_count": 117,
         "lines_data": [
             {
                 "line_name_full": "轨道交通1号线",
@@ -11142,7 +11129,7 @@
                     "6号线",
                     "8号线"
                 ],
-                "transfer_lines_all_count": 111,
+                "transfer_lines_all_count": 117,
                 "transfer_lines": [
                     "2号线",
                     "3号线",
@@ -11151,7 +11138,7 @@
                     "8号线"
                 ],
                 "transfer_lines_count": 5,
-                "chart_ratio": 0.92
+                "chart_ratio": 1.48
             },
             {
                 "line_name_full": "轨道交通2号线",
@@ -11160,7 +11147,7 @@
                 "line_name_main": "2号线",
                 "line_color": "#1B8FDD",
                 "line_order": 2,
-                "st_count": 21,
+                "st_count": 27,
                 "transfer_st_count": 5,
                 "transfer_sts": [
                     "双丰",
@@ -11183,7 +11170,7 @@
                     "4号线",
                     "6号线"
                 ],
-                "transfer_lines_all_count": 100,
+                "transfer_lines_all_count": 106,
                 "transfer_lines": [
                     "1号线",
                     "3号线",
@@ -11191,7 +11178,7 @@
                     "6号线"
                 ],
                 "transfer_lines_count": 4,
-                "chart_ratio": 0.99
+                "chart_ratio": 1.6
             },
             {
                 "line_name_full": "轨道交通3号线",
@@ -11225,7 +11212,7 @@
                     "4号线",
                     "6号线"
                 ],
-                "transfer_lines_all_count": 100,
+                "transfer_lines_all_count": 106,
                 "transfer_lines": [
                     "1号线",
                     "2号线",
@@ -11233,7 +11220,7 @@
                     "6号线"
                 ],
                 "transfer_lines_count": 4,
-                "chart_ratio": 0.99
+                "chart_ratio": 1.6
             },
             {
                 "line_name_full": "轨道交通4号线",
@@ -11301,7 +11288,7 @@
                     "4号线",
                     "6号线"
                 ],
-                "transfer_lines_all_count": 100,
+                "transfer_lines_all_count": 106,
                 "transfer_lines": [
                     "1号线",
                     "2号线",
@@ -11309,7 +11296,7 @@
                     "4号线"
                 ],
                 "transfer_lines_count": 4,
-                "chart_ratio": 0.99
+                "chart_ratio": 1.6
             },
             {
                 "line_name_full": "轨道交通8号线",
@@ -14547,7 +14534,7 @@
                 "line_name": "1号线",
                 "line_name_branch": "1号线",
                 "line_name_main": "1号线",
-                "line_color": "#3C8D63",
+                "line_color": "#67B368",
                 "line_order": 1,
                 "st_count": 25,
                 "transfer_st_count": 4,
@@ -14576,14 +14563,14 @@
                     "5号线"
                 ],
                 "transfer_lines_count": 3,
-                "chart_ratio": 1.19
+                "chart_ratio": 1.82
             },
             {
                 "line_name_full": "轨道交通2号线",
                 "line_name": "2号线",
                 "line_name_branch": "2号线",
                 "line_name_main": "2号线",
-                "line_color": "#CA4329",
+                "line_color": "#EF4141",
                 "line_order": 2,
                 "st_count": 23,
                 "transfer_st_count": 6,
@@ -14618,14 +14605,14 @@
                     "5号线"
                 ],
                 "transfer_lines_count": 4,
-                "chart_ratio": 1.42
+                "chart_ratio": 2.07
             },
             {
                 "line_name_full": "轨道交通3号线",
                 "line_name": "3号线",
                 "line_name_branch": "3号线",
                 "line_name_main": "3号线",
-                "line_color": "#8F4C9A",
+                "line_color": "#A1419F",
                 "line_order": 3,
                 "st_count": 23,
                 "transfer_st_count": 5,
@@ -14658,14 +14645,14 @@
                     "5号线"
                 ],
                 "transfer_lines_count": 4,
-                "chart_ratio": 1.42
+                "chart_ratio": 2.07
             },
             {
                 "line_name_full": "轨道交通4号线",
                 "line_name": "4号线",
                 "line_name_branch": "4号线",
                 "line_name_main": "4号线",
-                "line_color": "#CDD30A",
+                "line_color": "#E5ED75",
                 "line_order": 4,
                 "st_count": 18,
                 "transfer_st_count": 3,
@@ -14692,14 +14679,14 @@
                     "5号线"
                 ],
                 "transfer_lines_count": 3,
-                "chart_ratio": 1.26
+                "chart_ratio": 1.63
             },
             {
                 "line_name_full": "轨道交通5号线",
                 "line_name": "5号线",
                 "line_name_branch": "5号线",
                 "line_name_main": "5号线",
-                "line_color": "#4587BF",
+                "line_color": "#688CD2",
                 "line_order": 5,
                 "st_count": 17,
                 "transfer_st_count": 4,
@@ -14730,7 +14717,7 @@
                     "4号线"
                 ],
                 "transfer_lines_count": 4,
-                "chart_ratio": 1.42
+                "chart_ratio": 2.07
             }
         ]
     },

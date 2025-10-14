@@ -18,9 +18,9 @@
         "line_name_main_count": 28,
         "line_name_full_count": 32,
         "has_branch_line": 1,
-        "station_count": 453,
-        "transfer_station_count": 100,
-        "transfer_station_ratio": 0.2208,
+        "station_count": 452,
+        "transfer_station_count": 104,
+        "transfer_station_ratio": 0.2301,
         "city_order": 2
     },
     "30016": {
@@ -51,12 +51,12 @@
         "city_id": "289",
         "city_name": "上海",
         "city_name_e": "Shanghai",
-        "line_name_main_count": 22,
+        "line_name_main_count": 23,
         "line_name_full_count": 25,
         "has_branch_line": 1,
-        "station_count": 420,
-        "transfer_station_count": 92,
-        "transfer_station_ratio": 0.219,
+        "station_count": 427,
+        "transfer_station_count": 103,
+        "transfer_station_ratio": 0.2412,
         "city_order": 5
     },
     "51271": {
@@ -78,9 +78,9 @@
         "line_name_main_count": 17,
         "line_name_full_count": 19,
         "has_branch_line": 1,
-        "station_count": 354,
+        "station_count": 365,
         "transfer_station_count": 68,
-        "transfer_station_ratio": 0.1921,
+        "transfer_station_ratio": 0.1863,
         "city_order": 7
     },
     "75": {
@@ -438,9 +438,9 @@
         "line_name_main_count": 6,
         "line_name_full_count": 6,
         "has_branch_line": 0,
-        "station_count": 111,
+        "station_count": 117,
         "transfer_station_count": 14,
-        "transfer_station_ratio": 0.1261,
+        "transfer_station_ratio": 0.1197,
         "city_order": 37
     },
     "30001": {
