@@ -10,7 +10,7 @@
                 "line_name": "1号线八通线",
                 "line_name_branch": "1号线八通线",
                 "line_name_main": "1号线八通线",
-                "line_color": "#c03935",
+                "line_color": "#D3746E",
                 "line_order": 1,
                 "st_count": 35,
                 "transfer_st_count": 12,
@@ -67,14 +67,14 @@
                     "16号线"
                 ],
                 "transfer_lines_count": 9,
-                "chart_ratio": 1.24
+                "chart_ratio": 1.01
             },
             {
                 "line_name_full": "地铁2号线",
                 "line_name": "2号线",
                 "line_name_branch": "2号线",
                 "line_name_main": "2号线",
-                "line_color": "#005f98",
+                "line_color": "#568BB2",
                 "line_order": 2,
                 "st_count": 18,
                 "transfer_st_count": 13,
@@ -133,14 +133,14 @@
                     "首都机场线"
                 ],
                 "transfer_lines_count": 9,
-                "chart_ratio": 1.5
+                "chart_ratio": 1.18
             },
             {
                 "line_name_full": "地铁3号线",
                 "line_name": "3号线",
                 "line_name_branch": "3号线",
                 "line_name_main": "3号线",
-                "line_color": "#942413",
+                "line_color": "#F05771",
                 "line_order": 3,
                 "st_count": 10,
                 "transfer_st_count": 5,
@@ -175,14 +175,14 @@
                     "17号线(未来科学城北-工人体育场)"
                 ],
                 "transfer_lines_count": 5,
-                "chart_ratio": 1.39
+                "chart_ratio": 1.06
             },
             {
                 "line_name_full": "地铁4号线大兴线",
                 "line_name": "4号线大兴线",
                 "line_name_branch": "4号线大兴线",
                 "line_name_main": "4号线大兴线",
-                "line_color": "#008e9c",
+                "line_color": "#49ACBD",
                 "line_order": 4,
                 "st_count": 35,
                 "transfer_st_count": 12,
@@ -243,14 +243,14 @@
                     "19号线"
                 ],
                 "transfer_lines_count": 11,
-                "chart_ratio": 1.53
+                "chart_ratio": 1.17
             },
             {
                 "line_name_full": "地铁5号线",
                 "line_name": "5号线",
                 "line_name_branch": "5号线",
                 "line_name_main": "5号线",
-                "line_color": "#a6217f",
+                "line_color": "#C162A1",
                 "line_order": 5,
                 "st_count": 23,
                 "transfer_st_count": 12,
@@ -311,14 +311,14 @@
                     "首都机场线"
                 ],
                 "transfer_lines_count": 11,
-                "chart_ratio": 1.73
+                "chart_ratio": 1.34
             },
             {
                 "line_name_full": "地铁6号线",
                 "line_name": "6号线",
                 "line_name_branch": "6号线",
                 "line_name_main": "6号线",
-                "line_color": "#d29700",
+                "line_color": "#DDB25B",
                 "line_order": 6,
                 "st_count": 34,
                 "transfer_st_count": 12,
@@ -379,14 +379,14 @@
                     "S1线"
                 ],
                 "transfer_lines_count": 11,
-                "chart_ratio": 1.92
+                "chart_ratio": 1.3
             },
             {
                 "line_name_full": "地铁7号线",
                 "line_name": "7号线",
                 "line_name_branch": "7号线",
                 "line_name_main": "7号线",
-                "line_color": "#f5c587",
+                "line_color": "#F7D49B",
                 "line_order": 7,
                 "st_count": 30,
                 "transfer_st_count": 9,
@@ -435,14 +435,14 @@
                     "16号线"
                 ],
                 "transfer_lines_count": 8,
-                "chart_ratio": 1.24
+                "chart_ratio": 1.01
             },
             {
                 "line_name_full": "地铁8号线",
                 "line_name": "8号线",
                 "line_name_branch": "8号线",
                 "line_name_main": "8号线",
-                "line_color": "#169a6c",
+                "line_color": "#4EAB85",
                 "line_order": 8,
                 "st_count": 34,
                 "transfer_st_count": 11,
@@ -499,14 +499,14 @@
                     "昌平线"
                 ],
                 "transfer_lines_count": 10,
-                "chart_ratio": 1.37
+                "chart_ratio": 1.12
             },
             {
                 "line_name_full": "地铁9号线",
                 "line_name": "9号线",
                 "line_name_branch": "9号线",
                 "line_name_main": "9号线",
-                "line_color": "#90c232",
+                "line_color": "#ADD362",
                 "line_order": 9,
                 "st_count": 13,
                 "transfer_st_count": 8,
@@ -553,14 +553,14 @@
                     "房山线"
                 ],
                 "transfer_lines_count": 8,
-                "chart_ratio": 1.58
+                "chart_ratio": 1.17
             },
             {
                 "line_name_full": "地铁10号线",
                 "line_name": "10号线",
                 "line_name_branch": "10号线",
                 "line_name_main": "10号线",
-                "line_color": "#189cbe",
+                "line_color": "#4FB4D5",
                 "line_order": 10,
                 "st_count": 45,
                 "transfer_st_count": 26,
@@ -634,8 +634,8 @@
                     "13号线",
                     "14号线",
                     "16号线",
-                    "17号线(十里河-嘉会湖)",
                     "17号线(未来科学城北-工人体育场)",
+                    "17号线(十里河-嘉会湖)",
                     "19号线",
                     "大兴机场线",
                     "昌平线",
@@ -658,8 +658,8 @@
                     "13号线",
                     "14号线",
                     "16号线",
-                    "17号线(十里河-嘉会湖)",
                     "17号线(未来科学城北-工人体育场)",
+                    "17号线(十里河-嘉会湖)",
                     "19号线",
                     "大兴机场线",
                     "昌平线",
@@ -669,14 +669,14 @@
                     "西郊线"
                 ],
                 "transfer_lines_count": 21,
-                "chart_ratio": 1.08
+                "chart_ratio": 1.01
             },
             {
                 "line_name_full": "地铁11号线",
                 "line_name": "11号线",
                 "line_name_branch": "11号线",
                 "line_name_main": "11号线",
-                "line_color": "#E7AF92",
+                "line_color": "#F09E94",
                 "line_order": 11,
                 "st_count": 4,
                 "transfer_st_count": 1,
@@ -697,14 +697,14 @@
                     "S1线"
                 ],
                 "transfer_lines_count": 2,
-                "chart_ratio": 6.36
+                "chart_ratio": 12.44
             },
             {
                 "line_name_full": "地铁12号线",
                 "line_name": "12号线",
                 "line_name_branch": "12号线",
                 "line_name_main": "12号线",
-                "line_color": "#835634",
+                "line_color": "#CD934F",
                 "line_order": 12,
                 "st_count": 20,
                 "transfer_st_count": 12,
@@ -765,14 +765,14 @@
                     "首都机场线"
                 ],
                 "transfer_lines_count": 11,
-                "chart_ratio": 0.95
+                "chart_ratio": 0.73
             },
             {
                 "line_name_full": "地铁13号线",
                 "line_name": "13号线",
                 "line_name_branch": "13号线",
                 "line_name_main": "13号线",
-                "line_color": "#E6D42F",
+                "line_color": "#F8EB54",
                 "line_order": 13,
                 "st_count": 17,
                 "transfer_st_count": 11,
@@ -827,14 +827,14 @@
                     "首都机场线"
                 ],
                 "transfer_lines_count": 9,
-                "chart_ratio": 0.86
+                "chart_ratio": 0.66
             },
             {
                 "line_name_full": "地铁14号线(张郭庄-善各庄)",
                 "line_name": "14号线",
                 "line_name_branch": "14号线",
                 "line_name_main": "14号线",
-                "line_color": "#D4a7a2",
+                "line_color": "#DBB1A9",
                 "line_order": 14,
                 "st_count": 33,
                 "transfer_st_count": 13,
@@ -901,14 +901,14 @@
                     "19号线"
                 ],
                 "transfer_lines_count": 13,
-                "chart_ratio": 1.47
+                "chart_ratio": 1.14
             },
             {
                 "line_name_full": "地铁15号线",
                 "line_name": "15号线",
                 "line_name_branch": "15号线",
                 "line_name_main": "15号线",
-                "line_color": "#5b2e67",
+                "line_color": "#84628E",
                 "line_order": 15,
                 "st_count": 20,
                 "transfer_st_count": 5,
@@ -943,14 +943,14 @@
                     "昌平线"
                 ],
                 "transfer_lines_count": 5,
-                "chart_ratio": 0.85
+                "chart_ratio": 0.87
             },
             {
                 "line_name_full": "地铁16号线",
                 "line_name": "16号线",
                 "line_name_branch": "16号线",
                 "line_name_main": "16号线",
-                "line_color": "#77a237",
+                "line_color": "#87B15C",
                 "line_order": 16,
                 "st_count": 30,
                 "transfer_st_count": 11,
@@ -1005,38 +1005,6 @@
                     "房山线"
                 ],
                 "transfer_lines_count": 9,
-                "chart_ratio": 1.58
-            },
-            {
-                "line_name_full": "地铁17号线(十里河-嘉会湖)",
-                "line_name": "17号线(十里河-嘉会湖)",
-                "line_name_branch": "17号线(十里河-嘉会湖)",
-                "line_name_main": "17号线",
-                "line_color": "#25989A",
-                "line_order": 17,
-                "st_count": 7,
-                "transfer_st_count": 2,
-                "transfer_sts": [
-                    "十里河",
-                    "次渠"
-                ],
-                "transfer_sts_ids": [
-                    "131_017_001",
-                    "131_017_006"
-                ],
-                "transfer_lines_all": [
-                    "10号线",
-                    "14号线",
-                    "17号线(十里河-嘉会湖)",
-                    "亦庄线"
-                ],
-                "transfer_lines_all_count": 94,
-                "transfer_lines": [
-                    "10号线",
-                    "14号线",
-                    "亦庄线"
-                ],
-                "transfer_lines_count": 3,
                 "chart_ratio": 1.17
             },
             {
@@ -1044,8 +1012,8 @@
                 "line_name": "17号线(未来科学城北-工人体育场)",
                 "line_name_branch": "17号线(未来科学城北-工人体育场)",
                 "line_name_main": "17号线",
-                "line_color": "#25989A",
-                "line_order": 18,
+                "line_color": "#4EBFC1",
+                "line_order": 17,
                 "st_count": 9,
                 "transfer_st_count": 3,
                 "transfer_sts": [
@@ -1054,9 +1022,9 @@
                     "太阳宫"
                 ],
                 "transfer_sts_ids": [
-                    "131_018_001",
-                    "131_018_003",
-                    "131_018_004"
+                    "131_017_001",
+                    "131_017_003",
+                    "131_017_004"
                 ],
                 "transfer_lines_all": [
                     "3号线",
@@ -1071,14 +1039,46 @@
                     "12号线"
                 ],
                 "transfer_lines_count": 3,
-                "chart_ratio": 1.27
+                "chart_ratio": 0.86
+            },
+            {
+                "line_name_full": "地铁17号线(十里河-嘉会湖)",
+                "line_name": "17号线(十里河-嘉会湖)",
+                "line_name_branch": "17号线(十里河-嘉会湖)",
+                "line_name_main": "17号线",
+                "line_color": "#4EBFC1",
+                "line_order": 18,
+                "st_count": 7,
+                "transfer_st_count": 2,
+                "transfer_sts": [
+                    "十里河",
+                    "次渠"
+                ],
+                "transfer_sts_ids": [
+                    "131_018_001",
+                    "131_018_006"
+                ],
+                "transfer_lines_all": [
+                    "10号线",
+                    "14号线",
+                    "17号线(十里河-嘉会湖)",
+                    "亦庄线"
+                ],
+                "transfer_lines_all_count": 94,
+                "transfer_lines": [
+                    "10号线",
+                    "14号线",
+                    "亦庄线"
+                ],
+                "transfer_lines_count": 3,
+                "chart_ratio": 1.2
             },
             {
                 "line_name_full": "地铁19号线",
                 "line_name": "19号线",
                 "line_name_branch": "19号线",
                 "line_name_main": "19号线",
-                "line_color": "#CF9CC2",
+                "line_color": "#E4C2D5",
                 "line_order": 19,
                 "st_count": 10,
                 "transfer_st_count": 7,
@@ -1121,22 +1121,52 @@
                     "大兴机场线"
                 ],
                 "transfer_lines_count": 7,
-                "chart_ratio": 1.26
+                "chart_ratio": 1.32
+            },
+            {
+                "line_name_full": "地铁S1线",
+                "line_name": "S1线",
+                "line_name_branch": "S1线",
+                "line_name_main": "S1线",
+                "line_color": "#C58569",
+                "line_order": 20,
+                "st_count": 8,
+                "transfer_st_count": 2,
+                "transfer_sts": [
+                    "苹果园",
+                    "金安桥"
+                ],
+                "transfer_sts_ids": [
+                    "131_020_001",
+                    "131_020_002"
+                ],
+                "transfer_lines_all": [
+                    "6号线",
+                    "11号线",
+                    "S1线"
+                ],
+                "transfer_lines_all_count": 43,
+                "transfer_lines": [
+                    "6号线",
+                    "11号线"
+                ],
+                "transfer_lines_count": 2,
+                "chart_ratio": 12.44
             },
             {
                 "line_name_full": "大兴机场线",
                 "line_name": "大兴机场线",
                 "line_name_branch": "大兴机场线",
                 "line_name_main": "大兴机场线",
-                "line_color": "#094d9b",
-                "line_order": 20,
+                "line_color": "#476CAB",
+                "line_order": 21,
                 "st_count": 3,
                 "transfer_st_count": 1,
                 "transfer_sts": [
                     "草桥"
                 ],
                 "transfer_sts_ids": [
-                    "131_020_001"
+                    "131_021_001"
                 ],
                 "transfer_lines_all": [
                     "10号线",
@@ -1149,15 +1179,15 @@
                     "19号线"
                 ],
                 "transfer_lines_count": 2,
-                "chart_ratio": 0.57
+                "chart_ratio": 0.66
             },
             {
                 "line_name_full": "地铁昌平线",
                 "line_name": "昌平线",
                 "line_name_branch": "昌平线",
                 "line_name_main": "昌平线",
-                "line_color": "#dd84b2",
-                "line_order": 21,
+                "line_color": "#E6A0C5",
+                "line_order": 22,
                 "st_count": 20,
                 "transfer_st_count": 6,
                 "transfer_sts": [
@@ -1169,12 +1199,12 @@
                     "朱辛庄"
                 ],
                 "transfer_sts_ids": [
-                    "131_021_001",
-                    "131_021_002",
-                    "131_021_004",
-                    "131_021_008",
-                    "131_021_009",
-                    "131_021_011"
+                    "131_022_001",
+                    "131_022_002",
+                    "131_022_004",
+                    "131_022_008",
+                    "131_022_009",
+                    "131_022_011"
                 ],
                 "transfer_lines_all": [
                     "8号线",
@@ -1193,15 +1223,15 @@
                     "15号线"
                 ],
                 "transfer_lines_count": 5,
-                "chart_ratio": 0.8
+                "chart_ratio": 0.72
             },
             {
                 "line_name_full": "地铁亦庄线",
                 "line_name": "亦庄线",
                 "line_name_branch": "亦庄线",
                 "line_name_main": "亦庄线",
-                "line_color": "#e21278",
-                "line_order": 22,
+                "line_color": "#E34090",
+                "line_order": 23,
                 "st_count": 14,
                 "transfer_st_count": 3,
                 "transfer_sts": [
@@ -1210,9 +1240,9 @@
                     "次渠"
                 ],
                 "transfer_sts_ids": [
-                    "131_022_001",
-                    "131_022_009",
-                    "131_022_013"
+                    "131_023_001",
+                    "131_023_009",
+                    "131_023_013"
                 ],
                 "transfer_lines_all": [
                     "5号线",
@@ -1229,15 +1259,15 @@
                     "亦庄T1线"
                 ],
                 "transfer_lines_count": 4,
-                "chart_ratio": 0.63
+                "chart_ratio": 0.73
             },
             {
                 "line_name_full": "地铁房山线",
                 "line_name": "房山线",
                 "line_name_branch": "房山线",
                 "line_name_main": "房山线",
-                "line_color": "#e2612e",
-                "line_order": 23,
+                "line_color": "#E68D69",
+                "line_order": 24,
                 "st_count": 16,
                 "transfer_st_count": 4,
                 "transfer_sts": [
@@ -1247,10 +1277,10 @@
                     "阎村东"
                 ],
                 "transfer_sts_ids": [
-                    "131_023_001",
-                    "131_023_002",
-                    "131_023_005",
-                    "131_023_016"
+                    "131_024_001",
+                    "131_024_002",
+                    "131_024_005",
+                    "131_024_016"
                 ],
                 "transfer_lines_all": [
                     "9号线",
@@ -1267,27 +1297,52 @@
                     "燕房线"
                 ],
                 "transfer_lines_count": 4,
-                "chart_ratio": 1.73
+                "chart_ratio": 0.96
+            },
+            {
+                "line_name_full": "地铁燕房线",
+                "line_name": "燕房线",
+                "line_name_branch": "燕房线",
+                "line_name_main": "燕房线",
+                "line_color": "#E68D69",
+                "line_order": 25,
+                "st_count": 9,
+                "transfer_st_count": 1,
+                "transfer_sts": [
+                    "阎村东"
+                ],
+                "transfer_sts_ids": [
+                    "131_025_001"
+                ],
+                "transfer_lines_all": [
+                    "房山线",
+                    "燕房线"
+                ],
+                "transfer_lines_all_count": 24,
+                "transfer_lines": [
+                    "房山线"
+                ],
+                "transfer_lines_count": 1,
+                "chart_ratio": 2.08
             },
             {
                 "line_name_full": "首都机场线",
                 "line_name": "首都机场线",
                 "line_name_branch": "首都机场线",
                 "line_name_main": "首都机场线",
-                "line_color": "#a29bbb",
-                "line_order": 24,
+                "line_color": "#AEA7C4",
+                "line_order": 26,
                 "st_count": 5,
-                "transfer_st_count": 4,
+                "transfer_st_count": 3,
                 "transfer_sts": [
                     "北新桥",
                     "东直门",
                     "三元桥"
                 ],
                 "transfer_sts_ids": [
-                    "131_024_001",
-                    "131_024_002",
-                    "131_024_003",
-                    "131_024_006"
+                    "131_026_001",
+                    "131_026_002",
+                    "131_026_003"
                 ],
                 "transfer_lines_all": [
                     "2号线",
@@ -1306,70 +1361,14 @@
                     "13号线"
                 ],
                 "transfer_lines_count": 5,
-                "chart_ratio": 1.51
-            },
-            {
-                "line_name_full": "地铁S1线",
-                "line_name": "S1线",
-                "line_name_branch": "S1线",
-                "line_name_main": "S1线",
-                "line_color": "#b35a20",
-                "line_order": 25,
-                "st_count": 8,
-                "transfer_st_count": 2,
-                "transfer_sts": [
-                    "苹果园",
-                    "金安桥"
-                ],
-                "transfer_sts_ids": [
-                    "131_025_001",
-                    "131_025_002"
-                ],
-                "transfer_lines_all": [
-                    "6号线",
-                    "11号线",
-                    "S1线"
-                ],
-                "transfer_lines_all_count": 43,
-                "transfer_lines": [
-                    "6号线",
-                    "11号线"
-                ],
-                "transfer_lines_count": 2,
-                "chart_ratio": 6.36
-            },
-            {
-                "line_name_full": "地铁燕房线",
-                "line_name": "燕房线",
-                "line_name_branch": "燕房线",
-                "line_name_main": "燕房线",
-                "line_color": "#e2612e",
-                "line_order": 26,
-                "st_count": 9,
-                "transfer_st_count": 1,
-                "transfer_sts": [
-                    "阎村东"
-                ],
-                "transfer_sts_ids": [
-                    "131_026_001"
-                ],
-                "transfer_lines_all": [
-                    "房山线",
-                    "燕房线"
-                ],
-                "transfer_lines_all_count": 24,
-                "transfer_lines": [
-                    "房山线"
-                ],
-                "transfer_lines_count": 1,
-                "chart_ratio": 3.64
+                "chart_ratio": 1.02
             },
             {
                 "line_name_full": "地铁西郊线",
                 "line_name": "西郊线",
                 "line_name_branch": "西郊线",
                 "line_name_main": "西郊线",
-                "line_color": "#e31025",
+                "line_color": "#E6465A",
                 "line_order": 27,
                 "st_count": 6,
                 "transfer_st_count": 1,
@@ -1388,14 +1387,14 @@
                     "10号线"
                 ],
                 "transfer_lines_count": 1,
-                "chart_ratio": 1.84
+                "chart_ratio": 1.21
             },
             {
                 "line_name_full": "地铁亦庄T1线",
                 "line_name": "亦庄T1线",
                 "line_name_branch": "亦庄T1线",
                 "line_name_main": "亦庄T1线",
-                "line_color": "#e4071c",
+                "line_color": "#D74F5B",
                 "line_order": 28,
                 "st_count": 14,
                 "transfer_st_count": 1,
@@ -1414,7 +1413,7 @@
                     "亦庄线"
                 ],
                 "transfer_lines_count": 1,
-                "chart_ratio": 0.53
+                "chart_ratio": 1.37
             }
         ]
     },
@@ -3091,7 +3090,7 @@
                     "佛山2号线",
                     "广佛线"
                 ],
-                "transfer_lines_all_count": 241,
+                "transfer_lines_all_count": 243,
                 "transfer_lines": [
                     "1号线",
                     "3号线(体育西路-机场北(2号航站楼))",
@@ -3164,7 +3163,7 @@
                     "海珠有轨电车1号线",
                     "东环城际线"
                 ],
-                "transfer_lines_all_count": 243,
+                "transfer_lines_all_count": 245,
                 "transfer_lines": [
                     "1号线",
                     "3号线(体育西路-机场北(2号航站楼))",
@@ -3279,7 +3278,7 @@
                     "海珠有轨电车1号线",
                     "琶莲城际线"
                 ],
-                "transfer_lines_all_count": 163,
+                "transfer_lines_all_count": 165,
                 "transfer_lines": [
                     "3号线(海傍-天河客运站)",
                     "5号线",
@@ -3346,7 +3345,7 @@
                     "13号线",
                     "东环城际线"
                 ],
-                "transfer_lines_all_count": 216,
+                "transfer_lines_all_count": 218,
                 "transfer_lines": [
                     "1号线",
                     "2号线",
@@ -3422,7 +3421,7 @@
                     "21号线",
                     "东环城际线"
                 ],
-                "transfer_lines_all_count": 227,
+                "transfer_lines_all_count": 229,
                 "transfer_lines": [
                     "1号线",
                     "2号线",
@@ -3447,8 +3446,8 @@
                 "line_name_main": "7号线",
                 "line_color": "#8FC322",
                 "line_order": 8,
-                "st_count": 27,
-                "transfer_st_count": 12,
+                "st_count": 29,
+                "transfer_st_count": 14,
                 "transfer_sts": [
                     "北滘公园",
                     "陈村",
@@ -3461,6 +3460,8 @@
                     "裕丰围",
                     "大沙东",
                     "萝岗",
+                    "市民广场",
+                    "地铁水西",
                     "水西"
                 ],
                 "transfer_sts_ids": [
@@ -3475,7 +3476,9 @@
                     "257_008_020",
                     "257_008_021",
                     "257_008_025",
-                    "257_008_026"
+                    "257_008_026",
+                    "257_008_027",
+                    "257_008_028"
                 ],
                 "transfer_lines_all": [
                     "2号线",
@@ -3491,10 +3494,11 @@
                     "22号线",
                     "佛山2号线",
                     "佛山3号线(中山公园-顺德学院站)",
+                    "黄埔有轨电车1号线",
                     "广肇广惠城际线",
                     "琶莲城际线"
                 ],
-                "transfer_lines_all_count": 262,
+                "transfer_lines_all_count": 281,
                 "transfer_lines": [
                     "2号线",
                     "3号线(海傍-天河客运站)",
@@ -3508,10 +3512,11 @@
                     "22号线",
                     "佛山2号线",
                     "佛山3号线(中山公园-顺德学院站)",
+                    "黄埔有轨电车1号线",
                     "广肇广惠城际线",
                     "琶莲城际线"
                 ],
-                "transfer_lines_count": 14,
+                "transfer_lines_count": 15,
                 "chart_ratio": 1.52
             },
             {
@@ -3810,7 +3815,7 @@
                     "11号线",
                     "12号线(二沙岛-大学城南)"
                 ],
-                "transfer_lines_all_count": 108,
+                "transfer_lines_all_count": 110,
                 "transfer_lines": [
                     "4号线",
                     "7号线",
@@ -3851,7 +3856,7 @@
                     "13号线",
                     "21号线"
                 ],
-                "transfer_lines_all_count": 132,
+                "transfer_lines_all_count": 134,
                 "transfer_lines": [
                     "4号线",
                     "5号线",
@@ -3961,7 +3966,7 @@
                     "18号线",
                     "22号线"
                 ],
-                "transfer_lines_all_count": 105,
+                "transfer_lines_all_count": 107,
                 "transfer_lines": [
                     "3号线(海傍-天河客运站)",
                     "7号线",
@@ -4006,7 +4011,7 @@
                     "14号线支线(知识城线)",
                     "21号线"
                 ],
-                "transfer_lines_all_count": 145,
+                "transfer_lines_all_count": 147,
                 "transfer_lines": [
                     "4号线",
                     "6号线",
@@ -4043,7 +4048,7 @@
                     "22号线",
                     "佛山2号线"
                 ],
-                "transfer_lines_all_count": 92,
+                "transfer_lines_all_count": 94,
                 "transfer_lines": [
                     "2号线",
                     "3号线(海傍-天河客运站)",
@@ -4084,7 +4089,7 @@
                     "广佛线",
                     "广肇广惠城际线"
                 ],
-                "transfer_lines_all_count": 150,
+                "transfer_lines_all_count": 152,
                 "transfer_lines": [
                     "2号线",
                     "7号线",
@@ -4123,14 +4128,14 @@
                     "佛山3号线(中山公园-顺德学院站)",
                     "广佛线"
                 ],
-                "transfer_lines_all_count": 89,
+                "transfer_lines_all_count": 91,
                 "transfer_lines": [
                     "7号线",
                     "佛山2号线",
                     "广佛线"
                 ],
                 "transfer_lines_count": 3,
-                "chart_ratio": 1.33
+                "chart_ratio": 1.35
             },
             {
                 "line_name_full": "佛山地铁3号线(佛山大学-顺德学院站)",
@@ -4287,27 +4292,31 @@
                 "line_color": "#BF635D",
                 "line_order": 27,
                 "st_count": 19,
-                "transfer_st_count": 3,
+                "transfer_st_count": 4,
                 "transfer_sts": [
                     "地铁香雪",
+                    "市民广场",
                     "地铁水西",
                     "地铁长平"
                 ],
                 "transfer_sts_ids": [
                     "257_027_001",
+                    "257_027_004",
                     "257_027_006",
                     "257_027_010"
                 ],
                 "transfer_lines_all": [
+                    "7号线",
                     "黄埔有轨电车1号线",
                     "黄埔有轨电车2号线"
                 ],
-                "transfer_lines_all_count": 26,
+                "transfer_lines_all_count": 53,
                 "transfer_lines": [
+                    "7号线",
                     "黄埔有轨电车2号线"
                 ],
-                "transfer_lines_count": 1,
-                "chart_ratio": 1.35
+                "transfer_lines_count": 2,
+                "chart_ratio": 1.27
             },
             {
                 "line_name_full": "黄埔有轨电车2号线",
@@ -4460,7 +4469,7 @@
                     "广肇广惠城际线",
                     "琶莲城际线"
                 ],
-                "transfer_lines_all_count": 121,
+                "transfer_lines_all_count": 123,
                 "transfer_lines": [
                     "7号线",
                     "佛山2号线",
@@ -4502,7 +4511,7 @@
                     "广肇广惠城际线",
                     "琶莲城际线"
                 ],
-                "transfer_lines_all_count": 168,
+                "transfer_lines_all_count": 170,
                 "transfer_lines": [
                     "4号线",
                     "7号线",
@@ -10410,7 +10419,7 @@
         "city_st_count": 236,
         "lines_data": [
             {
-                "line_name_full": "轨道交通1号线",
+                "line_name_full": "地铁1号线",
                 "line_name": "1号线",
                 "line_name_branch": "1号线",
                 "line_name_main": "1号线",
@@ -10462,7 +10471,7 @@
                 "chart_ratio": 1.26
             },
             {
-                "line_name_full": "轨道交通2号线",
+                "line_name_full": "地铁2号线",
                 "line_name": "2号线",
                 "line_name_branch": "2号线",
                 "line_name_main": "2号线",
@@ -10520,7 +10529,7 @@
                 "chart_ratio": 1.26
             },
             {
-                "line_name_full": "轨道交通3号线",
+                "line_name_full": "地铁3号线",
                 "line_name": "3号线",
                 "line_name_branch": "3号线",
                 "line_name_main": "3号线",
@@ -10586,7 +10595,7 @@
                 "chart_ratio": 1.99
             },
             {
-                "line_name_full": "轨道交通4号线",
+                "line_name_full": "地铁4号线",
                 "line_name": "4号线",
                 "line_name_branch": "4号线",
                 "line_name_main": "4号线",
@@ -10638,7 +10647,7 @@
                 "chart_ratio": 1.26
             },
             {
-                "line_name_full": "轨道交通5号线",
+                "line_name_full": "地铁5号线",
                 "line_name": "5号线",
                 "line_name_branch": "5号线",
                 "line_name_main": "5号线",
@@ -10692,7 +10701,7 @@
                 "chart_ratio": 1.26
             },
             {
-                "line_name_full": "轨道交通6号线",
+                "line_name_full": "地铁6号线",
                 "line_name": "6号线",
                 "line_name_branch": "6号线",
                 "line_name_main": "6号线",
@@ -10750,7 +10759,7 @@
                 "chart_ratio": 1.26
             },
             {
-                "line_name_full": "轨道交通7号线",
+                "line_name_full": "地铁7号线",
                 "line_name": "7号线",
                 "line_name_branch": "7号线",
                 "line_name_main": "7号线",
@@ -10800,7 +10809,7 @@
                 "chart_ratio": 1.26
             },
             {
-                "line_name_full": "轨道交通8号线",
+                "line_name_full": "地铁8号线",
                 "line_name": "8号线",
                 "line_name_branch": "8号线",
                 "line_name_main": "8号线",
@@ -10858,7 +10867,7 @@
                 "chart_ratio": 1.26
             },
             {
-                "line_name_full": "轨道交通11号线",
+                "line_name_full": "地铁11号线",
                 "line_name": "11号线",
                 "line_name_branch": "11号线",
                 "line_name_main": "11号线",
@@ -11337,7 +11346,7 @@
                 "line_name": "1号线",
                 "line_name_branch": "1号线",
                 "line_name_main": "1号线",
-                "line_color": "#0070f5",
+                "line_color": "#6199CA",
                 "line_order": 1,
                 "st_count": 30,
                 "transfer_st_count": 7,
@@ -11380,14 +11389,14 @@
                     "16号线"
                 ],
                 "transfer_lines_count": 7,
-                "chart_ratio": 1.31
+                "chart_ratio": 1.72
             },
             {
                 "line_name_full": "地铁2号线",
                 "line_name": "2号线",
                 "line_name_branch": "2号线",
                 "line_name_main": "2号线",
-                "line_color": "#CC5252",
+                "line_color": "#DE6D6A",
                 "line_order": 2,
                 "st_count": 25,
                 "transfer_st_count": 8,
@@ -11432,14 +11441,14 @@
                     "14号线"
                 ],
                 "transfer_lines_count": 7,
-                "chart_ratio": 1.06
+                "chart_ratio": 1.36
             },
             {
                 "line_name_full": "地铁3号线",
                 "line_name": "3号线",
                 "line_name_branch": "3号线",
                 "line_name_main": "3号线",
-                "line_color": "#E261E2",
+                "line_color": "#C7549D",
                 "line_order": 3,
                 "st_count": 26,
                 "transfer_st_count": 10,
@@ -11490,14 +11499,14 @@
                     "高新云巴线"
                 ],
                 "transfer_lines_count": 8,
-                "chart_ratio": 1.06
+                "chart_ratio": 1.36
             },
             {
                 "line_name_full": "地铁4号线",
                 "line_name": "4号线",
                 "line_name_branch": "4号线",
                 "line_name_main": "4号线",
-                "line_color": "#4DC8AC",
+                "line_color": "#6CB6AC",
                 "line_order": 4,
                 "st_count": 29,
                 "transfer_st_count": 8,
@@ -11542,14 +11551,14 @@
                     "14号线"
                 ],
                 "transfer_lines_count": 7,
-                "chart_ratio": 1.06
+                "chart_ratio": 1.36
             },
             {
                 "line_name_full": "地铁5号线",
                 "line_name": "5号线",
                 "line_name_branch": "5号线",
                 "line_name_main": "5号线",
-                "line_color": "#99c856",
+                "line_color": "#B7C66E",
                 "line_order": 5,
                 "st_count": 33,
                 "transfer_st_count": 8,
@@ -11594,14 +11603,14 @@
                     "西户线"
                 ],
                 "transfer_lines_count": 7,
-                "chart_ratio": 1.13
+                "chart_ratio": 1.37
             },
             {
                 "line_name_full": "地铁6号线",
                 "line_name": "6号线",
                 "line_name_branch": "6号线",
                 "line_name_main": "6号线",
-                "line_color": "#737fbd",
+                "line_color": "#8981B5",
                 "line_order": 6,
                 "st_count": 32,
                 "transfer_st_count": 9,
@@ -11650,14 +11659,14 @@
                     "高新云巴线"
                 ],
                 "transfer_lines_count": 8,
-                "chart_ratio": 1.31
+                "chart_ratio": 1.74
             },
             {
                 "line_name_full": "地铁8号线内环",
                 "line_name": "8号线",
                 "line_name_branch": "8号线",
                 "line_name_main": "8号线",
-                "line_color": "#E5B13C",
+                "line_color": "#E7C567",
                 "line_order": 7,
                 "st_count": 37,
                 "transfer_st_count": 13,
@@ -11712,14 +11721,14 @@
                     "10号线"
                 ],
                 "transfer_lines_count": 7,
-                "chart_ratio": 1.32
+                "chart_ratio": 1.31
             },
             {
                 "line_name_full": "地铁9号线",
                 "line_name": "9号线",
                 "line_name_branch": "9号线",
                 "line_name_main": "9号线",
-                "line_color": "#fc9a31",
+                "line_color": "#ECB465",
                 "line_order": 8,
                 "st_count": 15,
                 "transfer_st_count": 1,
@@ -11740,14 +11749,14 @@
                     "6号线"
                 ],
                 "transfer_lines_count": 2,
-                "chart_ratio": 1.47
+                "chart_ratio": 1.97
             },
             {
                 "line_name_full": "地铁10号线",
                 "line_name": "10号线",
                 "line_name_branch": "10号线",
                 "line_name_main": "10号线",
-                "line_color": "#00A353",
+                "line_color": "#72BC90",
                 "line_order": 9,
                 "st_count": 17,
                 "transfer_st_count": 2,
@@ -11770,14 +11779,14 @@
                     "14号线"
                 ],
                 "transfer_lines_count": 2,
-                "chart_ratio": 1.23
+                "chart_ratio": 1.44
             },
             {
                 "line_name_full": "地铁14号线",
                 "line_name": "14号线",
                 "line_name_branch": "14号线",
                 "line_name_main": "14号线",
-                "line_color": "#00C1D5",
+                "line_color": "#4EB5CE",
                 "line_order": 10,
                 "st_count": 18,
                 "transfer_st_count": 3,
@@ -11806,14 +11815,14 @@
                     "10号线"
                 ],
                 "transfer_lines_count": 4,
-                "chart_ratio": 1.01
+                "chart_ratio": 1.12
             },
             {
                 "line_name_full": "地铁16号线",
                 "line_name": "16号线",
                 "line_name_branch": "16号线",
                 "line_name_main": "16号线",
-                "line_color": "#d08c69",
+                "line_color": "#DF947D",
                 "line_order": 11,
                 "st_count": 9,
                 "transfer_st_count": 2,
@@ -11836,14 +11845,14 @@
                     "5号线"
                 ],
                 "transfer_lines_count": 2,
-                "chart_ratio": 2.44
+                "chart_ratio": 2.7
             },
             {
                 "line_name_full": "西户铁路",
                 "line_name": "西户线",
                 "line_name_branch": "西户线",
                 "line_name_main": "西户线",
-                "line_color": "#6B0A74",
+                "line_color": "#A67C9D",
                 "line_order": 12,
                 "st_count": 2,
                 "transfer_st_count": 1,
@@ -11862,14 +11871,14 @@
                     "5号线"
                 ],
                 "transfer_lines_count": 1,
-                "chart_ratio": 3.36
+                "chart_ratio": 2.97
             },
             {
                 "line_name_full": "西安高新云巴线",
                 "line_name": "高新云巴线",
                 "line_name_branch": "高新云巴线",
                 "line_name_main": "高新云巴线",
-                "line_color": "#4990E2",
+                "line_color": "#213781",
                 "line_order": 13,
                 "st_count": 18,
                 "transfer_st_count": 2,
@@ -11892,7 +11901,7 @@
                     "6号线"
                 ],
                 "transfer_lines_count": 2,
-                "chart_ratio": 0.94
+                "chart_ratio": 1.02
             }
         ]
     },
