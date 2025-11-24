@@ -10,8 +10,8 @@ stats_parts_dict = {
     'df_stats': '原始数据统计',
     'graph_metrics': '整体网络图指标',
     'largest_connected_component': '最大连通子图指标',
-    'movie_bipartite_graph_metrics': '电影二分图指标',
-    'movie_bipartite_largest_connected_component': '电影二分图最大连通子图指标',
+    'movie_bipartite_graph_metrics': '作品二分图指标',
+    'movie_bipartite_largest_connected_component': '作品二分图最大连通子图指标',
     'cast_bipartite_graph_metrics': '影人二分图指标',
     'cast_bipartite_largest_connected_component': '影人二分图最大连通子图指标'
 }

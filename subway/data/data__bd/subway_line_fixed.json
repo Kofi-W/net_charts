@@ -34,6 +34,14 @@
     {
         "city_id": "289",
         "city_name": "上海",
+        "line_name_full": "地铁5号线支线(东川路-闵行开发区)",
+        "line_name": "5号线",
+        "line_name_branch": "5号线支线(东川路-闵行开发区)",
+        "line_name_main": "5号线"
+    },
+    {
+        "city_id": "289",
+        "city_name": "上海",
         "line_name_full": "地铁10号线(基隆路-航中路)",
         "line_name": "10号线(基隆路-航中路)",
         "line_name_branch": "10号线(基隆路-航中路)",
@@ -45,6 +53,22 @@
         "line_name_full": "地铁10号线(基隆路-虹桥火车站)",
         "line_name": "10号线(基隆路-虹桥火车站)",
         "line_name_branch": "10号线(基隆路-虹桥火车站)",
+        "line_name_main": "10号线"
+    },
+    {
+        "city_id": "289",
+        "city_name": "上海",
+        "line_name_full": "地铁10号线(航中路-基隆路)",
+        "line_name": "10号线(航中路-基隆路)",
+        "line_name_branch": "10号线(航中路-基隆路)",
+        "line_name_main": "10号线"
+    },
+    {
+        "city_id": "289",
+        "city_name": "上海",
+        "line_name_full": "地铁10号线(虹桥火车站-基隆路)",
+        "line_name": "10号线(虹桥火车站-基隆路)",
+        "line_name_branch": "10号线(虹桥火车站-基隆路)",
         "line_name_main": "10号线"
     },
     {
@@ -150,6 +174,190 @@
         "line_name": "黄埔有轨电车2号线",
         "line_name_branch": "黄埔有轨电车2号线",
         "line_name_main": "黄埔有轨电车2号线"
+    },
+    {
+        "city_id": "257",
+        "city_name": "广州",
+        "line_name_full": "地铁3号线",
+        "line_name": "3号线(海傍-天河客运站)",
+        "line_name_branch": "3号线(海傍-天河客运站)",
+        "line_name_main": "3号线"
+    },
+    {
+        "city_id": "257",
+        "city_name": "广州",
+        "line_name_full": "地铁3号线",
+        "line_name": "3号线(体育西路-机场北(2号航站楼))",
+        "line_name_branch": "3号线(体育西路-机场北(2号航站楼))",
+        "line_name_main": "3号线"
+    },
+    {
+        "city_id": "257",
+        "city_name": "广州",
+        "line_name_full": "地铁12号线",
+        "line_name": "12号线(浔峰岗-广州体育馆)",
+        "line_name_branch": "12号线(浔峰岗-广州体育馆)",
+        "line_name_main": "12号线"
+    },
+    {
+        "city_id": "257",
+        "city_name": "广州",
+        "line_name_full": "地铁12号线",
+        "line_name": "12号线(二沙岛-大学城南)",
+        "line_name_branch": "12号线(二沙岛-大学城南)",
+        "line_name_main": "12号线"
+    },
+    {
+        "city_id": "257",
+        "city_name": "广州",
+        "line_name_full": "佛山地铁3号线",
+        "line_name": "佛山地铁3号线(中山公园-顺德学院站)",
+        "line_name_branch": "佛山3号线(中山公园-顺德学院站)",
+        "line_name_main": "佛山3号线"
+    },
+    {
+        "city_id": "257",
+        "city_name": "广州",
+        "line_name_full": "佛山地铁3号线",
+        "line_name": "佛山地铁3号线(联和-佛山大学)",
+        "line_name_branch": "佛山3号线(联和-佛山大学)",
+        "line_name_main": "佛山3号线"
+    },
+    {
+        "city_id": "257",
+        "city_name": "广州",
+        "line_name_full": "地铁3号线",
+        "line_name": "3号线(体育西路-机场北(2号航站楼))",
+        "line_name_branch": "3号线(体育西路-机场北(2号航站楼))",
+        "line_name_main": "3号线"
+    },
+    {
+        "city_id": "257",
+        "city_name": "广州",
+        "line_name_full": "地铁3号线",
+        "line_name": "3号线(体育西路-机场北(2号航站楼)",
+        "line_name_branch": "3号线(体育西路-机场北(2号航站楼)",
+        "line_name_main": "3号线"
+    },
+    {
+        "city_id": "257",
+        "city_name": "广州",
+        "line_name_full": "3号线(海傍-天河客运站)",
+        "line_name": "3号线(海傍-天河客运站)",
+        "line_name_branch": "3号线(海傍-天河客运站)",
+        "line_name_main": "3号线"
+    },
+    {
+        "city_id": "257",
+        "city_name": "广州",
+        "line_name_full": "3号线(体育西路-机场北(2号航站楼)",
+        "line_name": "3号线(体育西路-机场北(2号航站楼)",
+        "line_name_branch": "3号线(体育西路-机场北(2号航站楼)",
+        "line_name_main": "3号线"
+    },
+    {
+        "city_id": "257",
+        "city_name": "广州",
+        "line_name_full": "12号线(浔峰岗-广州体育馆)",
+        "line_name": "12号线(浔峰岗-广州体育馆)",
+        "line_name_branch": "12号线(浔峰岗-广州体育馆)",
+        "line_name_main": "12号线"
+    },
+    {
+        "city_id": "257",
+        "city_name": "广州",
+        "line_name_full": "12号线(二沙岛-大学城南)",
+        "line_name": "12号线(二沙岛-大学城南)",
+        "line_name_branch": "12号线(二沙岛-大学城南)",
+        "line_name_main": "12号线"
+    },
+    {
+        "city_id": "257",
+        "city_name": "广州",
+        "line_name_full": "佛山地铁3号线(联和-佛山大学)",
+        "line_name": "佛山地铁3号线(联和-佛山大学)",
+        "line_name_branch": "佛山3号线(联和-佛山大学)",
+        "line_name_main": "佛山3号线"
+    },
+    {
+        "city_id": "179",
+        "city_name": "杭州",
+        "line_name_full": "3号线(星桥-吴山前村)",
+        "line_name": "3号线(星桥-吴山前村)",
+        "line_name_branch": "3号线(星桥-吴山前村)",
+        "line_name_main": "3号线"
+    },
+    {
+        "city_id": "179",
+        "city_name": "杭州",
+        "line_name_full": "3号线(星桥-石马)",
+        "line_name": "3号线(星桥-石马)",
+        "line_name_branch": "3号线(星桥-石马)",
+        "line_name_main": "3号线"
+    },
+    {
+        "city_id": "179",
+        "city_name": "杭州",
+        "line_name_full": "6号线(枸桔弄-桂花西路)",
+        "line_name": "6号线(枸桔弄-桂花西路)",
+        "line_name_branch": "6号线(枸桔弄-桂花西路)",
+        "line_name_main": "6号线"
+    },
+    {
+        "city_id": "179",
+        "city_name": "杭州",
+        "line_name_full": "6号线(枸桔弄-双浦)",
+        "line_name": "6号线(枸桔弄-双浦)",
+        "line_name_branch": "6号线(枸桔弄-双浦)",
+        "line_name_main": "6号线"
+    },
+    {
+        "city_id": "132",
+        "city_name": "重庆",
+        "line_name_full": "轨道交通6号线延伸段",
+        "line_name": "6号线",
+        "line_name_branch": "轨道交通6号线延伸段",
+        "line_name_main": "6号线"
+    },
+    {
+        "city_id": "332",
+        "city_name": "天津",
+        "line_name_full": "轨道交通6号线二期",
+        "line_name": "6号线二期",
+        "line_name_branch": "6号线二期",
+        "line_name_main": "6号线"
+    },
+    {
+        "city_id": "179",
+        "city_name": "杭州",
+        "line_name_full": "地铁3号线",
+        "line_name": "3号线(星桥-吴山前村)",
+        "line_name_branch": "3号线(星桥-吴山前村)",
+        "line_name_main": "3号线"
+    },
+    {
+        "city_id": "179",
+        "city_name": "杭州",
+        "line_name_full": "地铁3号线",
+        "line_name": "3号线(星桥-石马)",
+        "line_name_branch": "3号线(星桥-石马)",
+        "line_name_main": "3号线"
+    },
+    {
+        "city_id": "179",
+        "city_name": "杭州",
+        "line_name_full": "地铁6号线",
+        "line_name": "6号线(枸桔弄-桂花西路)",
+        "line_name_branch": "6号线(枸桔弄-桂花西路)",
+        "line_name_main": "6号线"
+    },
+    {
+        "city_id": "179",
+        "city_name": "杭州",
+        "line_name_full": "地铁6号线",
+        "line_name": "6号线(枸桔弄-双浦)",
+        "line_name_branch": "6号线(枸桔弄-双浦)",
+        "line_name_main": "6号线"
     },
     {
         "city_id": "340",
