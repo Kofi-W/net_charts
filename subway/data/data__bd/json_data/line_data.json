@@ -15154,8 +15154,8 @@
     "127": {
         "city_id": "127",
         "city_name": "合肥",
-        "city_line_count": 6,
-        "city_st_count": 174,
+        "city_line_count": 7,
+        "city_st_count": 184,
         "lines_data": [
             {
                 "line_name_full": "轨道交通1号线",
@@ -15270,18 +15270,20 @@
                     "3号线",
                     "4号线",
                     "5号线",
-                    "6号线"
+                    "6号线",
+                    "8号线"
                 ],
-                "transfer_lines_all_count": 174,
+                "transfer_lines_all_count": 184,
                 "transfer_lines": [
                     "1号线",
                     "2号线",
                     "4号线",
                     "5号线",
-                    "6号线"
+                    "6号线",
+                    "8号线"
                 ],
-                "transfer_lines_count": 5,
-                "chart_ratio": 1.25
+                "transfer_lines_count": 6,
+                "chart_ratio": 1.05
             },
             {
                 "line_name_full": "轨道交通4号线",
@@ -15356,18 +15358,20 @@
                     "3号线",
                     "4号线",
                     "5号线",
-                    "6号线"
+                    "6号线",
+                    "8号线"
                 ],
-                "transfer_lines_all_count": 174,
+                "transfer_lines_all_count": 184,
                 "transfer_lines": [
                     "1号线",
                     "2号线",
                     "3号线",
                     "4号线",
-                    "6号线"
+                    "6号线",
+                    "8号线"
                 ],
-                "transfer_lines_count": 5,
-                "chart_ratio": 1.25
+                "transfer_lines_count": 6,
+                "chart_ratio": 1.05
             },
             {
                 "line_name_full": "轨道交通6号线",
@@ -15408,6 +15412,36 @@
                 ],
                 "transfer_lines_count": 4,
                 "chart_ratio": 1.18
+            },
+            {
+                "line_name_full": "轨道交通8号线",
+                "line_name": "8号线",
+                "line_name_branch": "8号线",
+                "line_name_main": "8号线",
+                "line_color": "#76ACDE",
+                "line_order": 7,
+                "st_count": 12,
+                "transfer_st_count": 2,
+                "transfer_sts": [
+                    "一里井",
+                    "六中菱湖校区"
+                ],
+                "transfer_sts_ids": [
+                    "127_007_001",
+                    "127_007_004"
+                ],
+                "transfer_lines_all": [
+                    "3号线",
+                    "5号线",
+                    "8号线"
+                ],
+                "transfer_lines_all_count": 82,
+                "transfer_lines": [
+                    "3号线",
+                    "5号线"
+                ],
+                "transfer_lines_count": 2,
+                "chart_ratio": 0.68
             }
         ]
     },
@@ -17364,17 +17398,15 @@
                 "line_color": "#415CA1",
                 "line_order": 3,
                 "st_count": 18,
-                "transfer_st_count": 5,
+                "transfer_st_count": 4,
                 "transfer_sts": [
                     "济南东站",
-                    "王舍人",
                     "八涧堡",
                     "安成街",
                     "奥体中心"
                 ],
                 "transfer_sts_ids": [
                     "288_003_007",
-                    "288_003_009",
                     "288_003_011",
                     "288_003_014",
                     "288_003_015"
@@ -17488,17 +17520,15 @@
                 "line_color": "#5FCCF2",
                 "line_order": 6,
                 "st_count": 17,
-                "transfer_st_count": 4,
+                "transfer_st_count": 3,
                 "transfer_sts": [
                     "安成街",
                     "凤凰北路",
-                    "王舍人立交桥",
                     "济南东站"
                 ],
                 "transfer_sts_ids": [
                     "288_006_006",
                     "288_006_012",
-                    "288_006_013",
                     "288_006_015"
                 ],
                 "transfer_lines_all": [

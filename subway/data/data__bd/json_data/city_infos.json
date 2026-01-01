@@ -32,13 +32,13 @@
         "236",
         "104",
         "138",
+        "127",
         "167",
         "180",
         "58",
         "30001",
         "300",
         "26001",
-        "127",
         "20508",
         "53",
         "317",
@@ -114,13 +114,13 @@
         "青岛",
         "昆明",
         "佛山",
+        "合肥",
         "大连",
         "宁波",
         "沈阳",
         "釜山",
         "福州",
         "名古屋",
-        "合肥",
         "曼谷",
         "长春",
         "无锡",
@@ -200,11 +200,11 @@
             "236",
             "104",
             "138",
+            "127",
             "167",
             "180",
             "58",
             "300",
-            "127",
             "53",
             "317",
             "261",
@@ -604,6 +604,16 @@
             "country_e": "China",
             "city_order": 32
         },
+        "127": {
+            "city_id": "127",
+            "city_name": "合肥",
+            "city_name_e": "Hefei",
+            "province": "安徽省",
+            "province_e": "Anhui Sheng",
+            "country": "中国",
+            "country_e": "China",
+            "city_order": 33
+        },
         "167": {
             "city_id": "167",
             "city_name": "大连",
@@ -612,7 +622,7 @@
             "province_e": "Liaoning Sheng",
             "country": "中国",
             "country_e": "China",
-            "city_order": 33
+            "city_order": 34
         },
         "180": {
             "city_id": "180",
@@ -622,7 +632,7 @@
             "province_e": "Zhejiang Sheng",
             "country": "中国",
             "country_e": "China",
-            "city_order": 34
+            "city_order": 35
         },
         "58": {
             "city_id": "58",
@@ -632,7 +642,7 @@
             "province_e": "Liaoning Sheng",
             "country": "中国",
             "country_e": "China",
-            "city_order": 35
+            "city_order": 36
         },
         "30001": {
             "city_id": "30001",
@@ -642,7 +652,7 @@
             "province_e": "Busan Metropolitan City",
             "country": "韩国",
             "country_e": "South Korea",
-            "city_order": 36
+            "city_order": 37
         },
         "300": {
             "city_id": "300",
@@ -652,7 +662,7 @@
             "province_e": "Fujian Sheng",
             "country": "中国",
             "country_e": "China",
-            "city_order": 37
+            "city_order": 38
         },
         "26001": {
             "city_id": "26001",
@@ -662,16 +672,6 @@
             "province_e": "Aichi Prefecture",
             "country": "日本",
             "country_e": "Japan",
-            "city_order": 38
-        },
-        "127": {
-            "city_id": "127",
-            "city_name": "合肥",
-            "city_name_e": "Hefei",
-            "province": "安徽省",
-            "province_e": "Anhui Sheng",
-            "country": "中国",
-            "country_e": "China",
             "city_order": 39
         },
         "20508": {
