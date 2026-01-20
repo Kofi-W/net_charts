@@ -39,6 +39,8 @@ test.*
 imgs
 # *.json
 *.csv
+*.xlsx
+
 **/data_temp
 **/docs
 temp

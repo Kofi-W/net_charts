@@ -1,0 +1,52 @@
+{
+    "df_stats": {
+        "works_count": 30,
+        "director_count": 11,
+        "writer_count": 25,
+        "actor_count": 1196,
+        "cast_count": 1228,
+        "rating_max": 9.4,
+        "rating_min": 4.9,
+        "rating_mean": 7.45,
+        "rating_people_num": 7411323
+    },
+    "graph_metrics": {
+        "num_nodes": 1258,
+        "num_edges": 2086,
+        "num_cast_nodes": 1228,
+        "max_cast_degree": 17,
+        "max_cast_degree_node_names": "冯晖",
+        "max_cast_betweenness": 0.056916,
+        "max_cast_betweenness_node_names": "冯晖",
+        "num_movie_nodes": 30,
+        "max_movie_degree": 140,
+        "max_movie_degree_node_names": "清平乐",
+        "max_movie_betweenness": 0.160563,
+        "max_movie_betweenness_node_names": "清平乐",
+        "density": 0.002638,
+        "is_connected": "是",
+        "diameter": 6
+    },
+    "movie_bipartite_graph_metrics": {
+        "num_nodes": 30,
+        "num_edges": 399,
+        "max_degree": 29,
+        "max_degree_node_names": "山海情,知否知否应是绿肥红瘦,都挺好,县委大院,欢乐颂2",
+        "max_betweenness": 0.004988,
+        "max_betweenness_node_names": "山海情,知否知否应是绿肥红瘦,都挺好,县委大院,欢乐颂2",
+        "density": 0.917241,
+        "is_connected": "是",
+        "diameter": 2
+    },
+    "cast_bipartite_graph_metrics": {
+        "num_nodes": 1228,
+        "num_edges": 76799,
+        "max_degree": 812,
+        "max_degree_node_names": "冯晖",
+        "max_betweenness": 0.046843,
+        "max_betweenness_node_names": "冯晖",
+        "density": 0.10194,
+        "is_connected": "是",
+        "diameter": 3
+    }
+}

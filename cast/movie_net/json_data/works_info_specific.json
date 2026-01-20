@@ -1,0 +1,272 @@
+[
+    {
+        "k_movie_id":"51740629",
+        "k_title":"温州两家人",
+        "rating_num":7.8,
+        "k_movie_year":2015,
+        "k_rating_people":7118,
+        "k_type":"电视剧",
+        "main_cast":"郭涛, 任程伟, 袁咏仪, 陈丽娜, 刘奕君"
+    },
+    {
+        "k_movie_id":"52176963",
+        "k_title":"他来了，请闭眼",
+        "rating_num":6.7,
+        "k_movie_year":2015,
+        "k_rating_people":74395,
+        "k_type":"电视剧",
+        "main_cast":"霍建华, 马思纯, 张鲁一, 王凯, 尹正"
+    },
+    {
+        "k_movie_id":"51509745",
+        "k_title":"琅琊榜",
+        "rating_num":9.4,
+        "k_movie_year":2015,
+        "k_rating_people":919060,
+        "k_type":"电视剧",
+        "main_cast":"胡歌, 刘涛, 王凯, 陈龙, 黄维德"
+    },
+    {
+        "k_movie_id":"51989473",
+        "k_title":"伪装者",
+        "rating_num":8.6,
+        "k_movie_year":2015,
+        "k_rating_people":382758,
+        "k_type":"电视剧",
+        "main_cast":"胡歌, 靳东, 刘敏涛, 王凯, 宋轶"
+    },
+    {
+        "k_movie_id":"52597919",
+        "k_title":"鬼吹灯之精绝古城",
+        "rating_num":7.9,
+        "k_movie_year":2016,
+        "k_rating_people":274802,
+        "k_type":"电视剧",
+        "main_cast":"靳东, 陈乔恩, 赵达, 岳旸, 王永泉"
+    },
+    {
+        "k_movie_id":"52690323",
+        "k_title":"如果蜗牛有爱情",
+        "rating_num":7.2,
+        "k_movie_year":2016,
+        "k_rating_people":105271,
+        "k_type":"电视剧",
+        "main_cast":"王凯, 王子文, 徐悦, 于恒, 赵圆瑗"
+    },
+    {
+        "k_movie_id":"52860233",
+        "k_title":"欢乐颂",
+        "rating_num":7.5,
+        "k_movie_year":2016,
+        "k_rating_people":353514,
+        "k_type":"电视剧",
+        "main_cast":"刘涛, 蒋欣, 王子文, 杨紫, 乔欣"
+    },
+    {
+        "k_movie_id":"53487195",
+        "k_title":"欢乐颂2",
+        "rating_num":5.4,
+        "k_movie_year":2017,
+        "k_rating_people":154450,
+        "k_type":"电视剧",
+        "main_cast":"刘涛, 蒋欣, 王子文, 杨紫, 乔欣"
+    },
+    {
+        "k_movie_id":"53367499",
+        "k_title":"外科风云",
+        "rating_num":7.3,
+        "k_movie_year":2017,
+        "k_rating_people":94754,
+        "k_type":"电视剧",
+        "main_cast":"靳东, 白百何, 李佳航, 马少骅, 蓝盈莹"
+    },
+    {
+        "k_movie_id":"53330179",
+        "k_title":"琅琊榜之风起长林",
+        "rating_num":8.4,
+        "k_movie_year":2017,
+        "k_rating_people":210088,
+        "k_type":"电视剧",
+        "main_cast":"黄晓明, 刘昊然, 佟丽娅, 张慧雯, 梅婷"
+    },
+    {
+        "k_movie_id":"53595429",
+        "k_title":"大江大河",
+        "rating_num":8.8,
+        "k_movie_year":2018,
+        "k_rating_people":260126,
+        "k_type":"电视剧",
+        "main_cast":"王凯, 杨烁, 杨烁, 董子健, 童瑶"
+    },
+    {
+        "k_movie_id":"53856501",
+        "k_title":"知否知否应是绿肥红瘦",
+        "rating_num":8.0,
+        "k_movie_year":2018,
+        "k_rating_people":695224,
+        "k_type":"电视剧",
+        "main_cast":"赵丽颖, 冯绍峰, 朱一龙, 施诗, 张佳宁"
+    },
+    {
+        "k_movie_id":"54178035",
+        "k_title":"都挺好",
+        "rating_num":7.7,
+        "k_movie_year":2019,
+        "k_rating_people":394106,
+        "k_type":"电视剧",
+        "main_cast":"姚晨, 倪大红, 郭京飞, 杨祐宁, 李念"
+    },
+    {
+        "k_movie_id":"53519865",
+        "k_title":"清平乐",
+        "rating_num":6.4,
+        "k_movie_year":2020,
+        "k_rating_people":173456,
+        "k_type":"电视剧",
+        "main_cast":"王凯, 江疏影, 任敏, 杨玏, 边程"
+    },
+    {
+        "k_movie_id":"66884711",
+        "k_title":"我是余欢水",
+        "rating_num":7.3,
+        "k_movie_year":2020,
+        "k_rating_people":324953,
+        "k_type":"电视剧",
+        "main_cast":"郭京飞, 苗苗, 高露, 岳旸, 高叶"
+    },
+    {
+        "k_movie_id":"60847859",
+        "k_title":"大江大河2",
+        "rating_num":8.7,
+        "k_movie_year":2020,
+        "k_rating_people":208072,
+        "k_type":"电视剧",
+        "main_cast":"王凯, 杨烁, 董子健, 杨采钰, 周放"
+    },
+    {
+        "k_movie_id":"70067357",
+        "k_title":"山海情",
+        "rating_num":9.2,
+        "k_movie_year":2021,
+        "k_rating_people":481571,
+        "k_type":"电视剧",
+        "main_cast":"黄轩, 张嘉益, 闫妮, 黄觉, 姚晨"
+    },
+    {
+        "k_movie_id":"69584639",
+        "k_title":"乔家的儿女",
+        "rating_num":7.7,
+        "k_movie_year":2021,
+        "k_rating_people":235622,
+        "k_type":"电视剧",
+        "main_cast":"白宇, 宋祖儿, 毛晓彤, 张晚意, 周翊然"
+    },
+    {
+        "k_movie_id":"71226531",
+        "k_title":"县委大院",
+        "rating_num":6.8,
+        "k_movie_year":2022,
+        "k_rating_people":109693,
+        "k_type":"电视剧",
+        "main_cast":"胡歌, 吴越, 张新成, 黄磊, 李光洁"
+    },
+    {
+        "k_movie_id":"69584645",
+        "k_title":"相逢时节",
+        "rating_num":4.9,
+        "k_movie_year":2022,
+        "k_rating_people":33169,
+        "k_type":"电视剧",
+        "main_cast":"雷佳音, 袁泉, 张艺兴, 贾乃亮, 罗海琼"
+    },
+    {
+        "k_movie_id":"69584641",
+        "k_title":"欢迎光临",
+        "rating_num":6.4,
+        "k_movie_year":2022,
+        "k_rating_people":56516,
+        "k_type":"电视剧",
+        "main_cast":"黄轩, 白百何, 朱雨辰, 白宇帆, 丁嘉丽"
+    },
+    {
+        "k_movie_id":"70664627",
+        "k_title":"开端",
+        "rating_num":7.9,
+        "k_movie_year":2022,
+        "k_rating_people":968506,
+        "k_type":"电视剧",
+        "main_cast":"白敬亭, 赵今麦, 刘奕君, 刘涛, 黄觉"
+    },
+    {
+        "k_movie_id":"53558901",
+        "k_title":"欢乐颂3",
+        "rating_num":4.9,
+        "k_movie_year":2022,
+        "k_rating_people":41716,
+        "k_type":"电视剧",
+        "main_cast":"江疏影, 杨采钰, 张佳宁, 张慧雯, 李浩菲"
+    },
+    {
+        "k_movie_id":"73069549",
+        "k_title":"小巷人家",
+        "rating_num":8.4,
+        "k_movie_year":2024,
+        "k_rating_people":287902,
+        "k_type":"电视剧",
+        "main_cast":"闫妮, 李光洁, 郭晓东, 蒋欣, 范丞丞"
+    },
+    {
+        "k_movie_id":"72378459",
+        "k_title":"凡人歌",
+        "rating_num":7.7,
+        "k_movie_year":2024,
+        "k_rating_people":77700,
+        "k_type":"电视剧",
+        "main_cast":"殷桃, 王骁, 章若楠, 秦俊杰, 张哲华"
+    },
+    {
+        "k_movie_id":"70642941",
+        "k_title":"大江大河之岁月如歌",
+        "rating_num":8.0,
+        "k_movie_year":2024,
+        "k_rating_people":72953,
+        "k_type":"电视剧",
+        "main_cast":"王凯, 杨烁, 董子健, 杨采钰, 张佳宁"
+    },
+    {
+        "k_movie_id":"71176579",
+        "k_title":"樱桃琥珀",
+        "rating_num":5.7,
+        "k_movie_year":2025,
+        "k_rating_people":38891,
+        "k_type":"电视剧",
+        "main_cast":"赵今麦, 张凌赫, 董洁, 保剑锋, 董璇"
+    },
+    {
+        "k_movie_id":"60843855",
+        "k_title":"淬火年代",
+        "rating_num":7.0,
+        "k_movie_year":2025,
+        "k_rating_people":21373,
+        "k_type":"电视剧",
+        "main_cast":"张新成, 宋祖儿, 王彦霖, 任程伟, 张月"
+    },
+    {
+        "k_movie_id":"73143841",
+        "k_title":"命悬一生",
+        "rating_num":7.7,
+        "k_movie_year":2025,
+        "k_rating_people":85010,
+        "k_type":"电视剧",
+        "main_cast":"黄轩, 李庚希, 张哲华, 白宇帆, 尹昉"
+    },
+    {
+        "k_movie_id":"53342721",
+        "k_title":"得闲谨制",
+        "rating_num":6.9,
+        "k_movie_year":2025,
+        "k_rating_people":268554,
+        "k_type":"电影",
+        "main_cast":"肖战, 彭昱畅, 周依然, 杨新鸣, 阿如那"
+    }
+]

@@ -1,0 +1,220 @@
+{
+    "df_stats": {
+        "works_count": {
+            "value": 30,
+            "ch_index": "作品数量",
+            "description": "电影/电视剧数量"
+        },
+        "director_count": {
+            "value": 11,
+            "ch_index": "导演数量",
+            "description": "导演总数"
+        },
+        "writer_count": {
+            "value": 25,
+            "ch_index": "编剧数量",
+            "description": "编剧总数"
+        },
+        "actor_count": {
+            "value": 1196,
+            "ch_index": "演员数量",
+            "description": "演员总数"
+        },
+        "cast_count": {
+            "value": 1228,
+            "ch_index": "影人数量",
+            "description": "统计中涉及的影人总数"
+        },
+        "rating_max": {
+            "value": 9.4,
+            "ch_index": "最高评分",
+            "description": "所有作品中的最高评分值"
+        },
+        "rating_min": {
+            "value": 4.9,
+            "ch_index": "最低评分",
+            "description": "所有作品中的最低评分值"
+        },
+        "rating_mean": {
+            "value": 7.45,
+            "ch_index": "平均评分",
+            "description": "所有作品评分的平均值"
+        },
+        "rating_people_num": {
+            "value": 7411323,
+            "ch_index": "评分总人次",
+            "description": "所有作品评分人次的总和"
+        }
+    },
+    "graph_metrics": {
+        "num_nodes": {
+            "value": 1258,
+            "ch_index": "节点数",
+            "description": "网络中节点的总数量"
+        },
+        "num_edges": {
+            "value": 2086,
+            "ch_index": "边数",
+            "description": "网络中边的总数量"
+        },
+        "num_cast_nodes": {
+            "value": 1228,
+            "ch_index": "影人节点数",
+            "description": "影人类型节点的数量"
+        },
+        "max_cast_degree": {
+            "value": 17,
+            "ch_index": "影人最大度",
+            "description": "影人节点中最大的度值（度：节点连接的边数，这里是影人参与的作品数量）"
+        },
+        "max_cast_degree_node_names": {
+            "value": "冯晖",
+            "ch_index": "影人最大度节点名称",
+            "description": "具有最大度值的影人姓名"
+        },
+        "max_cast_betweenness": {
+            "value": 0.056916,
+            "ch_index": "影人最大介数中心性",
+            "description": "影人节点中最大的介数中心性值（介数中心性：衡量节点作为桥梁的重要性）"
+        },
+        "max_cast_betweenness_node_names": {
+            "value": "冯晖",
+            "ch_index": "影人最大介数中心性节点名称",
+            "description": "具有最大介数中心性的影人姓名"
+        },
+        "num_movie_nodes": {
+            "value": 30,
+            "ch_index": "作品节点数",
+            "description": "作品类型节点的数量"
+        },
+        "max_movie_degree": {
+            "value": 140,
+            "ch_index": "作品最大度",
+            "description": "作品节点中最大的度值（度：节点连接的边数，反映合作影人数量）"
+        },
+        "max_movie_degree_node_names": {
+            "value": "清平乐",
+            "ch_index": "作品最大度节点名称",
+            "description": "具有最大度值的作品名称"
+        },
+        "max_movie_betweenness": {
+            "value": 0.160563,
+            "ch_index": "作品最大介数中心性",
+            "description": "作品节点中最大的介数中心性值（介数中心性：衡量节点在网络连通中的关键程度）"
+        },
+        "max_movie_betweenness_node_names": {
+            "value": "清平乐",
+            "ch_index": "作品最大介数中心性节点名称",
+            "description": "具有最大介数中心性的作品名称"
+        },
+        "density": {
+            "value": 0.002638,
+            "ch_index": "密度",
+            "description": "网络的密度，表示实际边数与可能最大边数的比值"
+        },
+        "is_connected": {
+            "value": "是",
+            "ch_index": "是否连通",
+            "description": "判断网络是否连通（即任意两个节点间都存在路径）"
+        },
+        "diameter": {
+            "value": 6,
+            "ch_index": "直径",
+            "description": "网络的直径，即所有节点对之间最短路径的最大长度"
+        }
+    },
+    "movie_bipartite_graph_metrics": {
+        "num_nodes": {
+            "value": 30,
+            "ch_index": "节点数",
+            "description": "网络中节点的总数量"
+        },
+        "num_edges": {
+            "value": 399,
+            "ch_index": "边数",
+            "description": "网络中边的总数量"
+        },
+        "max_degree": {
+            "value": 29,
+            "ch_index": "最大度",
+            "description": "节点中最大的度值（度：节点连接的边数，反映直接影响力）"
+        },
+        "max_degree_node_names": {
+            "value": "山海情,知否知否应是绿肥红瘦,都挺好,县委大院,欢乐颂2",
+            "ch_index": "最大度节点名称",
+            "description": "具有最大度值的节点名称"
+        },
+        "max_betweenness": {
+            "value": 0.004988,
+            "ch_index": "最大介数中心性",
+            "description": "节点中最大的介数中心性值（介数中心性：衡量节点作为桥梁的重要性）"
+        },
+        "max_betweenness_node_names": {
+            "value": "山海情,知否知否应是绿肥红瘦,都挺好,县委大院,欢乐颂2",
+            "ch_index": "最大介数中心性节点名称",
+            "description": "具有最大介数中心性的节点名称"
+        },
+        "density": {
+            "value": 0.917241,
+            "ch_index": "密度",
+            "description": "网络的密度，表示实际边数与可能最大边数的比值"
+        },
+        "is_connected": {
+            "value": "是",
+            "ch_index": "是否连通",
+            "description": "判断网络是否连通（即任意两个节点间都存在路径）"
+        },
+        "diameter": {
+            "value": 2,
+            "ch_index": "直径",
+            "description": "网络的直径，即所有节点对之间最短路径的最大长度"
+        }
+    },
+    "cast_bipartite_graph_metrics": {
+        "num_nodes": {
+            "value": 1228,
+            "ch_index": "节点数",
+            "description": "网络中节点的总数量"
+        },
+        "num_edges": {
+            "value": 76799,
+            "ch_index": "边数",
+            "description": "网络中边的总数量"
+        },
+        "max_degree": {
+            "value": 812,
+            "ch_index": "最大度",
+            "description": "节点中最大的度值（度：节点连接的边数，反映直接影响力）"
+        },
+        "max_degree_node_names": {
+            "value": "冯晖",
+            "ch_index": "最大度节点名称",
+            "description": "具有最大度值的节点名称"
+        },
+        "max_betweenness": {
+            "value": 0.046843,
+            "ch_index": "最大介数中心性",
+            "description": "节点中最大的介数中心性值（介数中心性：衡量节点作为桥梁的重要性）"
+        },
+        "max_betweenness_node_names": {
+            "value": "冯晖",
+            "ch_index": "最大介数中心性节点名称",
+            "description": "具有最大介数中心性的节点名称"
+        },
+        "density": {
+            "value": 0.10194,
+            "ch_index": "密度",
+            "description": "网络的密度，表示实际边数与可能最大边数的比值"
+        },
+        "is_connected": {
+            "value": "是",
+            "ch_index": "是否连通",
+            "description": "判断网络是否连通（即任意两个节点间都存在路径）"
+        },
+        "diameter": {
+            "value": 3,
+            "ch_index": "直径",
+            "description": "网络的直径，即所有节点对之间最短路径的最大长度"
+        }
+    }
+}
