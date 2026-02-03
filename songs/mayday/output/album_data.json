@@ -118,7 +118,7 @@
         "album_fixed": "知足 最真杰作选",
         "songs_num": 30,
         "instrumental_num": 1.0,
-        "new_songs_num": 12
+        "new_songs_num": 11
     },
     {
         "index": 160,
@@ -129,6 +129,6 @@
         "album_fixed": "步步 自选作品辑",
         "songs_num": 30,
         "instrumental_num": 0.0,
-        "new_songs_num": 10
+        "new_songs_num": 7
     }
 ]
