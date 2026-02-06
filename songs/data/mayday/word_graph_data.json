@@ -1,0 +1,7020 @@
+{
+    "nodes": [
+        {
+            "id": "word218",
+            "size": 24,
+            "x": 0,
+            "y": -342.11,
+            "label": "风",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "song4930732",
+            "size": 3,
+            "x": 444.46,
+            "y": 665.18,
+            "label": "I Love You 无望",
+            "node_type": "song",
+            "album_id": "album96215",
+            "album": "第一张创作专辑",
+            "album_order": 0,
+            "tv_name": "",
+            "data": {
+                "cluster": "第一张创作专辑"
+            }
+        },
+        {
+            "id": "word1150",
+            "size": 8,
+            "x": 0,
+            "y": 122.78,
+            "label": "黑夜",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "song4930724",
+            "size": 6,
+            "x": 464.97,
+            "y": 651.0,
+            "label": "拥抱",
+            "node_type": "song",
+            "album_id": "album96215",
+            "album": "第一张创作专辑",
+            "album_order": 0,
+            "tv_name": "",
+            "data": {
+                "cluster": "第一张创作专辑"
+            }
+        },
+        {
+            "id": "word485",
+            "size": 10,
+            "x": 0,
+            "y": -39.65,
+            "label": "手",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "word125",
+            "size": 67,
+            "x": 0,
+            "y": -598.66,
+            "label": "人",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "word13",
+            "size": 33,
+            "x": 0,
+            "y": -519.7,
+            "label": "心",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "song4930725",
+            "size": 4,
+            "x": 485.03,
+            "y": 636.2,
+            "label": "透露",
+            "node_type": "song",
+            "album_id": "album96215",
+            "album": "第一张创作专辑",
+            "album_order": 0,
+            "tv_name": "",
+            "data": {
+                "cluster": "第一张创作专辑"
+            }
+        },
+        {
+            "id": "word593",
+            "size": 28,
+            "x": 0,
+            "y": -426.6,
+            "label": "梦",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "word85",
+            "size": 8,
+            "x": 0,
+            "y": 145.43,
+            "label": "眼睛",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "word244",
+            "size": 7,
+            "x": 0,
+            "y": 430.33,
+            "label": "笑容",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "song4930729",
+            "size": 4,
+            "x": 504.62,
+            "y": 620.77,
+            "label": "轧车",
+            "node_type": "song",
+            "album_id": "album96215",
+            "album": "第一张创作专辑",
+            "album_order": 0,
+            "tv_name": "",
+            "data": {
+                "cluster": "第一张创作专辑"
+            }
+        },
+        {
+            "id": "word1270",
+            "size": 12,
+            "x": 0,
+            "y": -87.54,
+            "label": "家",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "word127",
+            "size": 51,
+            "x": 0,
+            "y": -554.85,
+            "label": "世界",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "song4930731",
+            "size": 7,
+            "x": 523.72,
+            "y": 604.75,
+            "label": "黑白讲",
+            "node_type": "song",
+            "album_id": "album96215",
+            "album": "第一张创作专辑",
+            "album_order": 0,
+            "tv_name": "",
+            "data": {
+                "cluster": "第一张创作专辑"
+            }
+        },
+        {
+            "id": "word89",
+            "size": 7,
+            "x": 0,
+            "y": 451.62,
+            "label": "声音",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "word367",
+            "size": 18,
+            "x": 0,
+            "y": -288.53,
+            "label": "青春",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "word282",
+            "size": 27,
+            "x": 0,
+            "y": -397.76,
+            "label": "天",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "word1074",
+            "size": 7,
+            "x": 0,
+            "y": 472.84,
+            "label": "路",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "song4930730",
+            "size": 7,
+            "x": 542.31,
+            "y": 588.13,
+            "label": "HoSee",
+            "node_type": "song",
+            "album_id": "album96215",
+            "album": "第一张创作专辑",
+            "album_order": 0,
+            "tv_name": "",
+            "data": {
+                "cluster": "第一张创作专辑"
+            }
+        },
+        {
+            "id": "word73",
+            "size": 10,
+            "x": 0,
+            "y": -15.98,
+            "label": "空气",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "word2",
+            "size": 33,
+            "x": 0,
+            "y": -487.2,
+            "label": "人生",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "word75",
+            "size": 14,
+            "x": 0,
+            "y": -136.23,
+            "label": "朋友",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "word30",
+            "size": 13,
+            "x": 0,
+            "y": -111.78,
+            "label": "日子",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "word35",
+            "size": 26,
+            "x": 0,
+            "y": -369.64,
+            "label": "眼泪",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "word1177",
+            "size": 9,
+            "x": 0,
+            "y": 77.1,
+            "label": "感觉",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "song102667865",
+            "size": 5,
+            "x": 560.37,
+            "y": 570.95,
+            "label": "爱情的模样",
+            "node_type": "song",
+            "album_id": "album96215",
+            "album": "第一张创作专辑",
+            "album_order": 0,
+            "tv_name": "",
+            "data": {
+                "cluster": "第一张创作专辑"
+            }
+        },
+        {
+            "id": "song4830147",
+            "size": 5,
+            "x": 577.89,
+            "y": 553.21,
+            "label": "志明与春娇",
+            "node_type": "song",
+            "album_id": "album96215",
+            "album": "第一张创作专辑",
+            "album_order": 0,
+            "tv_name": "",
+            "data": {
+                "cluster": "第一张创作专辑"
+            }
+        },
+        {
+            "id": "word645",
+            "size": 29,
+            "x": 0,
+            "y": -456.33,
+            "label": "爱情",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "word436",
+            "size": 12,
+            "x": 0,
+            "y": -63.5,
+            "label": "心情",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "song4930728",
+            "size": 1,
+            "x": 594.85,
+            "y": 534.93,
+            "label": "嘿！我要走了",
+            "node_type": "song",
+            "album_id": "album96215",
+            "album": "第一张创作专辑",
+            "album_order": 0,
+            "tv_name": "",
+            "data": {
+                "cluster": "第一张创作专辑"
+            }
+        },
+        {
+            "id": "song4930723",
+            "size": 4,
+            "x": 611.23,
+            "y": 516.14,
+            "label": "疯狂世界",
+            "node_type": "song",
+            "album_id": "album96215",
+            "album": "第一张创作专辑",
+            "album_order": 0,
+            "tv_name": "",
+            "data": {
+                "cluster": "第一张创作专辑"
+            }
+        },
+        {
+            "id": "song4930726",
+            "size": 9,
+            "x": 627.02,
+            "y": 496.84,
+            "label": "生活",
+            "node_type": "song",
+            "album_id": "album96215",
+            "album": "第一张创作专辑",
+            "album_order": 0,
+            "tv_name": "",
+            "data": {
+                "cluster": "第一张创作专辑"
+            }
+        },
+        {
+            "id": "word331",
+            "size": 17,
+            "x": 0,
+            "y": -185.85,
+            "label": "时间",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "word503",
+            "size": 22,
+            "x": 0,
+            "y": -315.1,
+            "label": "生命",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "word17",
+            "size": 6,
+            "x": 0,
+            "y": 577.86,
+            "label": "肩",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "word1638",
+            "size": 10,
+            "x": 0,
+            "y": 7.52,
+            "label": "雨",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "word251",
+            "size": 8,
+            "x": 0,
+            "y": 167.96,
+            "label": "星星",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "word434",
+            "size": 8,
+            "x": 0,
+            "y": 190.38,
+            "label": "电话",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "song4930733",
+            "size": 5,
+            "x": 642.19,
+            "y": 477.06,
+            "label": "风若吹",
+            "node_type": "song",
+            "album_id": "album96215",
+            "album": "第一张创作专辑",
+            "album_order": 0,
+            "tv_name": "",
+            "data": {
+                "cluster": "第一张创作专辑"
+            }
+        },
+        {
+            "id": "word546",
+            "size": 16,
+            "x": 0,
+            "y": -160.91,
+            "label": "命运",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "word2949",
+            "size": 7,
+            "x": 0,
+            "y": 493.98,
+            "label": "价",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "song4931119",
+            "size": 10,
+            "x": 656.75,
+            "y": 456.82,
+            "label": "心中无别人",
+            "node_type": "song",
+            "album_id": "album96252",
+            "album": "爱情万岁",
+            "album_order": 1,
+            "tv_name": "",
+            "data": {
+                "cluster": "爱情万岁"
+            }
+        },
+        {
+            "id": "song4931117",
+            "size": 4,
+            "x": 670.66,
+            "y": 436.13,
+            "label": "为什么（今日的爱情）",
+            "node_type": "song",
+            "album_id": "album96252",
+            "album": "爱情万岁",
+            "album_order": 1,
+            "tv_name": "",
+            "data": {
+                "cluster": "爱情万岁"
+            }
+        },
+        {
+            "id": "word1630",
+            "size": 8,
+            "x": 0,
+            "y": 212.68,
+            "label": "风雨",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "word569",
+            "size": 10,
+            "x": 0,
+            "y": 30.86,
+            "label": "灵魂",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "song4931126",
+            "size": 1,
+            "x": 683.93,
+            "y": 415.02,
+            "label": "爱情万岁",
+            "node_type": "song",
+            "album_id": "album96252",
+            "album": "爱情万岁",
+            "album_order": 1,
+            "tv_name": "",
+            "data": {
+                "cluster": "爱情万岁"
+            }
+        },
+        {
+            "id": "song4931121",
+            "size": 10,
+            "x": 696.53,
+            "y": 393.5,
+            "label": "憨人",
+            "node_type": "song",
+            "album_id": "album96252",
+            "album": "爱情万岁",
+            "album_order": 1,
+            "tv_name": "",
+            "data": {
+                "cluster": "爱情万岁"
+            }
+        },
+        {
+            "id": "song4931120",
+            "size": 6,
+            "x": 708.45,
+            "y": 371.61,
+            "label": "有你的将来",
+            "node_type": "song",
+            "album_id": "album96252",
+            "album": "爱情万岁",
+            "album_order": 1,
+            "tv_name": "",
+            "data": {
+                "cluster": "爱情万岁"
+            }
+        },
+        {
+            "id": "song4931122",
+            "size": 4,
+            "x": 719.69,
+            "y": 349.35,
+            "label": "叫我第一名",
+            "node_type": "song",
+            "album_id": "album96252",
+            "album": "爱情万岁",
+            "album_order": 1,
+            "tv_name": "",
+            "data": {
+                "cluster": "爱情万岁"
+            }
+        },
+        {
+            "id": "song4931118",
+            "size": 6,
+            "x": 730.23,
+            "y": 326.76,
+            "label": "终结孤单",
+            "node_type": "song",
+            "album_id": "album96252",
+            "album": "爱情万岁",
+            "album_order": 1,
+            "tv_name": "",
+            "data": {
+                "cluster": "爱情万岁"
+            }
+        },
+        {
+            "id": "word1438",
+            "size": 8,
+            "x": 0,
+            "y": 234.87,
+            "label": "太阳",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "word1883",
+            "size": 10,
+            "x": 0,
+            "y": 54.05,
+            "label": "地球",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "song4931124",
+            "size": 6,
+            "x": 740.05,
+            "y": 303.84,
+            "label": "罗密欧与茱丽叶",
+            "node_type": "song",
+            "album_id": "album96252",
+            "album": "爱情万岁",
+            "album_order": 1,
+            "tv_name": "",
+            "data": {
+                "cluster": "爱情万岁"
+            }
+        },
+        {
+            "id": "word1680",
+            "size": 8,
+            "x": 0,
+            "y": 256.96,
+            "label": "话",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "song4931123",
+            "size": 7,
+            "x": 749.16,
+            "y": 280.63,
+            "label": "雨眠",
+            "node_type": "song",
+            "album_id": "album96252",
+            "album": "爱情万岁",
+            "album_order": 1,
+            "tv_name": "",
+            "data": {
+                "cluster": "爱情万岁"
+            }
+        },
+        {
+            "id": "song5199848",
+            "size": 6,
+            "x": 757.54,
+            "y": 257.15,
+            "label": "温柔",
+            "node_type": "song",
+            "album_id": "album96252",
+            "album": "爱情万岁",
+            "album_order": 1,
+            "tv_name": "",
+            "data": {
+                "cluster": "爱情万岁"
+            }
+        },
+        {
+            "id": "word666",
+            "size": 8,
+            "x": 0,
+            "y": 278.95,
+            "label": "阳光",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "word3449",
+            "size": 7,
+            "x": 0,
+            "y": 515.05,
+            "label": "人们",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "word9",
+            "size": 18,
+            "x": 0,
+            "y": -262.36,
+            "label": "故事",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "song1128641",
+            "size": 5,
+            "x": 765.19,
+            "y": 233.42,
+            "label": "明白",
+            "node_type": "song",
+            "album_id": "album96252",
+            "album": "爱情万岁",
+            "album_order": 1,
+            "tv_name": "",
+            "data": {
+                "cluster": "爱情万岁"
+            }
+        },
+        {
+            "id": "word479",
+            "size": 8,
+            "x": 0,
+            "y": 300.84,
+            "label": "地方",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "song4931454",
+            "size": 10,
+            "x": 772.09,
+            "y": 209.46,
+            "label": "相信",
+            "node_type": "song",
+            "album_id": "album96291",
+            "album": "人生海海",
+            "album_order": 2,
+            "tv_name": "",
+            "data": {
+                "cluster": "人生海海"
+            }
+        },
+        {
+            "id": "song4931461",
+            "size": 3,
+            "x": 778.24,
+            "y": 185.3,
+            "label": "人生海海",
+            "node_type": "song",
+            "album_id": "album96291",
+            "album": "人生海海",
+            "album_order": 2,
+            "tv_name": "",
+            "data": {
+                "cluster": "人生海海"
+            }
+        },
+        {
+            "id": "word257",
+            "size": 8,
+            "x": 0,
+            "y": 322.64,
+            "label": "歌",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "song4931460",
+            "size": 7,
+            "x": 783.64,
+            "y": 160.96,
+            "label": "候鸟",
+            "node_type": "song",
+            "album_id": "album96291",
+            "album": "人生海海",
+            "album_order": 2,
+            "tv_name": "",
+            "data": {
+                "cluster": "人生海海"
+            }
+        },
+        {
+            "id": "song4931456",
+            "size": 5,
+            "x": 788.28,
+            "y": 136.46,
+            "label": "借问众神明",
+            "node_type": "song",
+            "album_id": "album96291",
+            "album": "人生海海",
+            "album_order": 2,
+            "tv_name": "",
+            "data": {
+                "cluster": "人生海海"
+            }
+        },
+        {
+            "id": "song4931452",
+            "size": 5,
+            "x": 792.14,
+            "y": 111.83,
+            "label": "能不能不要说",
+            "node_type": "song",
+            "album_id": "album96291",
+            "album": "人生海海",
+            "album_order": 2,
+            "tv_name": "",
+            "data": {
+                "cluster": "人生海海"
+            }
+        },
+        {
+            "id": "song4931457",
+            "size": 4,
+            "x": 795.25,
+            "y": 87.09,
+            "label": "永远的永远",
+            "node_type": "song",
+            "album_id": "album96291",
+            "album": "人生海海",
+            "album_order": 2,
+            "tv_name": "",
+            "data": {
+                "cluster": "人生海海"
+            }
+        },
+        {
+            "id": "song1129073",
+            "size": 8,
+            "x": 797.57,
+            "y": 62.27,
+            "label": "纯真",
+            "node_type": "song",
+            "album_id": "album96291",
+            "album": "人生海海",
+            "album_order": 2,
+            "tv_name": "",
+            "data": {
+                "cluster": "人生海海"
+            }
+        },
+        {
+            "id": "song4931451",
+            "size": 7,
+            "x": 799.13,
+            "y": 37.39,
+            "label": "一颗苹果",
+            "node_type": "song",
+            "album_id": "album96291",
+            "album": "人生海海",
+            "album_order": 2,
+            "tv_name": "",
+            "data": {
+                "cluster": "人生海海"
+            }
+        },
+        {
+            "id": "song4931458",
+            "size": 10,
+            "x": 799.9,
+            "y": 12.47,
+            "label": "彩虹",
+            "node_type": "song",
+            "album_id": "album96291",
+            "album": "人生海海",
+            "album_order": 2,
+            "tv_name": "",
+            "data": {
+                "cluster": "人生海海"
+            }
+        },
+        {
+            "id": "song4931455",
+            "size": 4,
+            "x": 799.9,
+            "y": -12.47,
+            "label": "OK 啦",
+            "node_type": "song",
+            "album_id": "album96291",
+            "album": "人生海海",
+            "album_order": 2,
+            "tv_name": "",
+            "data": {
+                "cluster": "人生海海"
+            }
+        },
+        {
+            "id": "song4931459",
+            "size": 3,
+            "x": 799.13,
+            "y": -37.39,
+            "label": "啾啾啾",
+            "node_type": "song",
+            "album_id": "album96291",
+            "album": "人生海海",
+            "album_order": 2,
+            "tv_name": "",
+            "data": {
+                "cluster": "人生海海"
+            }
+        },
+        {
+            "id": "song4931453",
+            "size": 8,
+            "x": 797.57,
+            "y": -62.27,
+            "label": "好不好",
+            "node_type": "song",
+            "album_id": "album96291",
+            "album": "人生海海",
+            "album_order": 2,
+            "tv_name": "",
+            "data": {
+                "cluster": "人生海海"
+            }
+        },
+        {
+            "id": "word156",
+            "size": 18,
+            "x": 0,
+            "y": -236.54,
+            "label": "天空",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "word448",
+            "size": 18,
+            "x": 0,
+            "y": -211.05,
+            "label": "一生",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "song4830231",
+            "size": 6,
+            "x": 795.25,
+            "y": -87.09,
+            "label": "时光机",
+            "node_type": "song",
+            "album_id": "album96353",
+            "album": "时光机",
+            "album_order": 3,
+            "tv_name": "",
+            "data": {
+                "cluster": "时光机"
+            }
+        },
+        {
+            "id": "song4932219",
+            "size": 4,
+            "x": 792.14,
+            "y": -111.83,
+            "label": "阿姆斯壮",
+            "node_type": "song",
+            "album_id": "album96353",
+            "album": "时光机",
+            "album_order": 3,
+            "tv_name": "",
+            "data": {
+                "cluster": "时光机"
+            }
+        },
+        {
+            "id": "song4830223",
+            "size": 10,
+            "x": 788.28,
+            "y": -136.46,
+            "label": "恒星的恒心",
+            "node_type": "song",
+            "album_id": "album96353",
+            "album": "时光机",
+            "album_order": 3,
+            "tv_name": "",
+            "data": {
+                "cluster": "时光机"
+            }
+        },
+        {
+            "id": "song4830226",
+            "size": 2,
+            "x": 783.64,
+            "y": -160.96,
+            "label": "雌雄同体",
+            "node_type": "song",
+            "album_id": "album96353",
+            "album": "时光机",
+            "album_order": 3,
+            "tv_name": "",
+            "data": {
+                "cluster": "时光机"
+            }
+        },
+        {
+            "id": "song4830229",
+            "size": 6,
+            "x": 778.24,
+            "y": -185.3,
+            "label": "九号球",
+            "node_type": "song",
+            "album_id": "album96353",
+            "album": "时光机",
+            "album_order": 3,
+            "tv_name": "",
+            "data": {
+                "cluster": "时光机"
+            }
+        },
+        {
+            "id": "song4830227",
+            "size": 4,
+            "x": 772.09,
+            "y": -209.46,
+            "label": "小时候",
+            "node_type": "song",
+            "album_id": "album96353",
+            "album": "时光机",
+            "album_order": 3,
+            "tv_name": "",
+            "data": {
+                "cluster": "时光机"
+            }
+        },
+        {
+            "id": "song4932220",
+            "size": 4,
+            "x": 765.19,
+            "y": -233.42,
+            "label": "而我知道",
+            "node_type": "song",
+            "album_id": "album96353",
+            "album": "时光机",
+            "album_order": 3,
+            "tv_name": "",
+            "data": {
+                "cluster": "时光机"
+            }
+        },
+        {
+            "id": "song2551520",
+            "size": 1,
+            "x": 757.54,
+            "y": -257.15,
+            "label": "我们",
+            "node_type": "song",
+            "album_id": "album96353",
+            "album": "时光机",
+            "album_order": 3,
+            "tv_name": "",
+            "data": {
+                "cluster": "时光机"
+            }
+        },
+        {
+            "id": "song4932221",
+            "size": 2,
+            "x": 749.16,
+            "y": -280.63,
+            "label": "别惹我",
+            "node_type": "song",
+            "album_id": "album96353",
+            "album": "时光机",
+            "album_order": 3,
+            "tv_name": "",
+            "data": {
+                "cluster": "时光机"
+            }
+        },
+        {
+            "id": "word129",
+            "size": 7,
+            "x": 0,
+            "y": 536.06,
+            "label": "街",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "song4830230",
+            "size": 6,
+            "x": 740.05,
+            "y": -303.84,
+            "label": "武装",
+            "node_type": "song",
+            "album_id": "album96353",
+            "album": "时光机",
+            "album_order": 3,
+            "tv_name": "",
+            "data": {
+                "cluster": "时光机"
+            }
+        },
+        {
+            "id": "song4932058",
+            "size": 6,
+            "x": 730.23,
+            "y": -326.76,
+            "label": "生命有一种绝对",
+            "node_type": "song",
+            "album_id": "album96353",
+            "album": "时光机",
+            "album_order": 3,
+            "tv_name": "",
+            "data": {
+                "cluster": "时光机"
+            }
+        },
+        {
+            "id": "song4830228",
+            "size": 7,
+            "x": 719.69,
+            "y": -349.35,
+            "label": "赌神",
+            "node_type": "song",
+            "album_id": "album96353",
+            "album": "时光机",
+            "album_order": 3,
+            "tv_name": "",
+            "data": {
+                "cluster": "时光机"
+            }
+        },
+        {
+            "id": "song4830222",
+            "size": 5,
+            "x": 708.45,
+            "y": -371.61,
+            "label": "在这一秒",
+            "node_type": "song",
+            "album_id": "album96353",
+            "album": "时光机",
+            "album_order": 3,
+            "tv_name": "",
+            "data": {
+                "cluster": "时光机"
+            }
+        },
+        {
+            "id": "word1420",
+            "size": 8,
+            "x": 0,
+            "y": 344.35,
+            "label": "泪",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "word122",
+            "size": 8,
+            "x": 0,
+            "y": 365.97,
+            "label": "风景",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "song4830225",
+            "size": 6,
+            "x": 696.53,
+            "y": -393.5,
+            "label": "王子面",
+            "node_type": "song",
+            "album_id": "album96353",
+            "album": "时光机",
+            "album_order": 3,
+            "tv_name": "",
+            "data": {
+                "cluster": "时光机"
+            }
+        },
+        {
+            "id": "song4932218",
+            "size": 6,
+            "x": 683.93,
+            "y": -415.02,
+            "label": "轻功",
+            "node_type": "song",
+            "album_id": "album96353",
+            "album": "时光机",
+            "album_order": 3,
+            "tv_name": "",
+            "data": {
+                "cluster": "时光机"
+            }
+        },
+        {
+            "id": "song4834459",
+            "size": 4,
+            "x": 670.66,
+            "y": -436.13,
+            "label": "Enrich Your Life",
+            "node_type": "song",
+            "album_id": "album96368",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4,
+            "tv_name": "",
+            "data": {
+                "cluster": "神的孩子都在跳舞"
+            }
+        },
+        {
+            "id": "song4932450",
+            "size": 4,
+            "x": 656.75,
+            "y": -456.82,
+            "label": "孙悟空",
+            "node_type": "song",
+            "album_id": "album96368",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4,
+            "tv_name": "",
+            "data": {
+                "cluster": "神的孩子都在跳舞"
+            }
+        },
+        {
+            "id": "song4932455",
+            "size": 5,
+            "x": 642.19,
+            "y": -477.06,
+            "label": "晚安 地球人",
+            "node_type": "song",
+            "album_id": "album96368",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4,
+            "tv_name": "",
+            "data": {
+                "cluster": "神的孩子都在跳舞"
+            }
+        },
+        {
+            "id": "song4830251",
+            "size": 9,
+            "x": 627.02,
+            "y": -496.84,
+            "label": "让我照顾你",
+            "node_type": "song",
+            "album_id": "album96368",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4,
+            "tv_name": "",
+            "data": {
+                "cluster": "神的孩子都在跳舞"
+            }
+        },
+        {
+            "id": "song4932451",
+            "size": 5,
+            "x": 611.23,
+            "y": -516.14,
+            "label": "倔强",
+            "node_type": "song",
+            "album_id": "album96368",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4,
+            "tv_name": "",
+            "data": {
+                "cluster": "神的孩子都在跳舞"
+            }
+        },
+        {
+            "id": "song1130313",
+            "size": 3,
+            "x": 594.85,
+            "y": -534.93,
+            "label": "垃圾车",
+            "node_type": "song",
+            "album_id": "album96368",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4,
+            "tv_name": "",
+            "data": {
+                "cluster": "神的孩子都在跳舞"
+            }
+        },
+        {
+            "id": "song4932454",
+            "size": 7,
+            "x": 577.89,
+            "y": -553.21,
+            "label": "回来吧",
+            "node_type": "song",
+            "album_id": "album96368",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4,
+            "tv_name": "",
+            "data": {
+                "cluster": "神的孩子都在跳舞"
+            }
+        },
+        {
+            "id": "song4932456",
+            "size": 1,
+            "x": 560.37,
+            "y": -570.95,
+            "label": "垃圾车 (朋友版)",
+            "node_type": "song",
+            "album_id": "album96368",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4,
+            "tv_name": "",
+            "data": {
+                "cluster": "神的孩子都在跳舞"
+            }
+        },
+        {
+            "id": "song4932452",
+            "size": 2,
+            "x": 542.31,
+            "y": -588.13,
+            "label": "小护士",
+            "node_type": "song",
+            "album_id": "album96368",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4,
+            "tv_name": "",
+            "data": {
+                "cluster": "神的孩子都在跳舞"
+            }
+        },
+        {
+            "id": "song4830254",
+            "size": 8,
+            "x": 523.72,
+            "y": -604.75,
+            "label": "圣诞夜惊魂",
+            "node_type": "song",
+            "album_id": "album96368",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4,
+            "tv_name": "",
+            "data": {
+                "cluster": "神的孩子都在跳舞"
+            }
+        },
+        {
+            "id": "song4932453",
+            "size": 7,
+            "x": 504.62,
+            "y": -620.77,
+            "label": "约翰蓝侬",
+            "node_type": "song",
+            "album_id": "album96368",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4,
+            "tv_name": "",
+            "data": {
+                "cluster": "神的孩子都在跳舞"
+            }
+        },
+        {
+            "id": "song4830253",
+            "size": 7,
+            "x": 485.03,
+            "y": -636.2,
+            "label": "超人",
+            "node_type": "song",
+            "album_id": "album96368",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4,
+            "tv_name": "",
+            "data": {
+                "cluster": "神的孩子都在跳舞"
+            }
+        },
+        {
+            "id": "word294",
+            "size": 8,
+            "x": 0,
+            "y": 387.5,
+            "label": "吉他",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "song4830252",
+            "size": 5,
+            "x": 464.97,
+            "y": -651.0,
+            "label": "错错错",
+            "node_type": "song",
+            "album_id": "album96368",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4,
+            "tv_name": "",
+            "data": {
+                "cluster": "神的孩子都在跳舞"
+            }
+        },
+        {
+            "id": "song4830289",
+            "size": 6,
+            "x": 444.46,
+            "y": -665.18,
+            "label": "听不到",
+            "node_type": "song",
+            "album_id": "album96397",
+            "album": "知足 最真杰作选",
+            "album_order": 5,
+            "tv_name": "",
+            "data": {
+                "cluster": "知足 最真杰作选"
+            }
+        },
+        {
+            "id": "song4932766",
+            "size": 3,
+            "x": -444.46,
+            "y": 665.18,
+            "label": "乱世浮生",
+            "node_type": "song",
+            "album_id": "album96397",
+            "album": "知足 最真杰作选",
+            "album_order": 5,
+            "tv_name": "",
+            "data": {
+                "cluster": "知足 最真杰作选"
+            }
+        },
+        {
+            "id": "song4932770",
+            "size": 4,
+            "x": -464.65,
+            "y": 651.23,
+            "label": "OK啦",
+            "node_type": "song",
+            "album_id": "album96397",
+            "album": "知足 最真杰作选",
+            "album_order": 5,
+            "tv_name": "",
+            "data": {
+                "cluster": "知足 最真杰作选"
+            }
+        },
+        {
+            "id": "song4830288",
+            "size": 5,
+            "x": -484.41,
+            "y": 636.67,
+            "label": "恋爱ing",
+            "node_type": "song",
+            "album_id": "album96397",
+            "album": "知足 最真杰作选",
+            "album_order": 5,
+            "tv_name": "",
+            "data": {
+                "cluster": "知足 最真杰作选"
+            }
+        },
+        {
+            "id": "song4830287",
+            "size": 4,
+            "x": -503.71,
+            "y": 621.51,
+            "label": "金多虾",
+            "node_type": "song",
+            "album_id": "album96397",
+            "album": "知足 最真杰作选",
+            "album_order": 5,
+            "tv_name": "",
+            "data": {
+                "cluster": "知足 最真杰作选"
+            }
+        },
+        {
+            "id": "song4932764",
+            "size": 1,
+            "x": -522.54,
+            "y": 605.77,
+            "label": "牙关",
+            "node_type": "song",
+            "album_id": "album96397",
+            "album": "知足 最真杰作选",
+            "album_order": 5,
+            "tv_name": "",
+            "data": {
+                "cluster": "知足 最真杰作选"
+            }
+        },
+        {
+            "id": "song4830285",
+            "size": 5,
+            "x": -540.87,
+            "y": 589.45,
+            "label": "咸鱼",
+            "node_type": "song",
+            "album_id": "album96397",
+            "album": "知足 最真杰作选",
+            "album_order": 5,
+            "tv_name": "",
+            "data": {
+                "cluster": "知足 最真杰作选"
+            }
+        },
+        {
+            "id": "song4932765",
+            "size": 6,
+            "x": -558.7,
+            "y": 572.58,
+            "label": "麦来乱",
+            "node_type": "song",
+            "album_id": "album96397",
+            "album": "知足 最真杰作选",
+            "album_order": 5,
+            "tv_name": "",
+            "data": {
+                "cluster": "知足 最真杰作选"
+            }
+        },
+        {
+            "id": "song4830242",
+            "size": 7,
+            "x": -576.0,
+            "y": 555.18,
+            "label": "温柔 (还你自由版)",
+            "node_type": "song",
+            "album_id": "album96397",
+            "album": "知足 最真杰作选",
+            "album_order": 5,
+            "tv_name": "",
+            "data": {
+                "cluster": "知足 最真杰作选"
+            }
+        },
+        {
+            "id": "song4830286",
+            "size": 6,
+            "x": -592.76,
+            "y": 537.25,
+            "label": "知足",
+            "node_type": "song",
+            "album_id": "album96397",
+            "album": "知足 最真杰作选",
+            "album_order": 5,
+            "tv_name": "",
+            "data": {
+                "cluster": "知足 最真杰作选"
+            }
+        },
+        {
+            "id": "song182036",
+            "size": 4,
+            "x": -608.96,
+            "y": 518.81,
+            "label": "为爱而生",
+            "node_type": "song",
+            "album_id": "album15702",
+            "album": "为爱而生",
+            "album_order": 6,
+            "tv_name": "",
+            "data": {
+                "cluster": "为爱而生"
+            }
+        },
+        {
+            "id": "song182050",
+            "size": 5,
+            "x": -624.59,
+            "y": 499.89,
+            "label": "一千个世纪",
+            "node_type": "song",
+            "album_id": "album15702",
+            "album": "为爱而生",
+            "album_order": 6,
+            "tv_name": "",
+            "data": {
+                "cluster": "为爱而生"
+            }
+        },
+        {
+            "id": "song102331616",
+            "size": 5,
+            "x": -639.63,
+            "y": 480.49,
+            "label": "摩托车日记",
+            "node_type": "song",
+            "album_id": "album15702",
+            "album": "为爱而生",
+            "album_order": 6,
+            "tv_name": "",
+            "data": {
+                "cluster": "为爱而生"
+            }
+        },
+        {
+            "id": "song182044",
+            "size": 5,
+            "x": -654.07,
+            "y": 460.65,
+            "label": "快乐很伟大",
+            "node_type": "song",
+            "album_id": "album15702",
+            "album": "为爱而生",
+            "album_order": 6,
+            "tv_name": "",
+            "data": {
+                "cluster": "为爱而生"
+            }
+        },
+        {
+            "id": "word432",
+            "size": 9,
+            "x": 0,
+            "y": 100.01,
+            "label": "孩子",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "song182048",
+            "size": 5,
+            "x": -667.89,
+            "y": 440.37,
+            "label": "米老鼠",
+            "node_type": "song",
+            "album_id": "album15702",
+            "album": "为爱而生",
+            "album_order": 6,
+            "tv_name": "",
+            "data": {
+                "cluster": "为爱而生"
+            }
+        },
+        {
+            "id": "song182047",
+            "size": 2,
+            "x": -681.08,
+            "y": 419.67,
+            "label": "宠上天",
+            "node_type": "song",
+            "album_id": "album15702",
+            "album": "为爱而生",
+            "album_order": 6,
+            "tv_name": "",
+            "data": {
+                "cluster": "为爱而生"
+            }
+        },
+        {
+            "id": "song182039",
+            "size": 7,
+            "x": -693.64,
+            "y": 398.58,
+            "label": "香水",
+            "node_type": "song",
+            "album_id": "album15702",
+            "album": "为爱而生",
+            "album_order": 6,
+            "tv_name": "",
+            "data": {
+                "cluster": "为爱而生"
+            }
+        },
+        {
+            "id": "word449",
+            "size": 8,
+            "x": 0,
+            "y": 408.95,
+            "label": "人间",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "song182043",
+            "size": 6,
+            "x": -705.54,
+            "y": 377.12,
+            "label": "最重要的小事",
+            "node_type": "song",
+            "album_id": "album15702",
+            "album": "为爱而生",
+            "album_order": 6,
+            "tv_name": "",
+            "data": {
+                "cluster": "为爱而生"
+            }
+        },
+        {
+            "id": "song182037",
+            "size": 4,
+            "x": -716.77,
+            "y": 355.3,
+            "label": "天使",
+            "node_type": "song",
+            "album_id": "album15702",
+            "album": "为爱而生",
+            "album_order": 6,
+            "tv_name": "",
+            "data": {
+                "cluster": "为爱而生"
+            }
+        },
+        {
+            "id": "song182038",
+            "size": 2,
+            "x": -727.33,
+            "y": 333.14,
+            "label": "我又初恋了",
+            "node_type": "song",
+            "album_id": "album15702",
+            "album": "为爱而生",
+            "album_order": 6,
+            "tv_name": "",
+            "data": {
+                "cluster": "为爱而生"
+            }
+        },
+        {
+            "id": "song447810",
+            "size": 5,
+            "x": -737.21,
+            "y": 310.68,
+            "label": "你不是真正的快乐",
+            "node_type": "song",
+            "album_id": "album36459",
+            "album": "后青春期的诗",
+            "album_order": 7,
+            "tv_name": "",
+            "data": {
+                "cluster": "后青春期的诗"
+            }
+        },
+        {
+            "id": "song447815",
+            "size": 5,
+            "x": -746.39,
+            "y": 287.92,
+            "label": "出头天",
+            "node_type": "song",
+            "album_id": "album36459",
+            "album": "后青春期的诗",
+            "album_order": 7,
+            "tv_name": "",
+            "data": {
+                "cluster": "后青春期的诗"
+            }
+        },
+        {
+            "id": "song447807",
+            "size": 5,
+            "x": -754.87,
+            "y": 264.89,
+            "label": "突然好想你",
+            "node_type": "song",
+            "album_id": "album36459",
+            "album": "后青春期的诗",
+            "album_order": 7,
+            "tv_name": "",
+            "data": {
+                "cluster": "后青春期的诗"
+            }
+        },
+        {
+            "id": "song447822",
+            "size": 16,
+            "x": -762.64,
+            "y": 241.6,
+            "label": "如烟",
+            "node_type": "song",
+            "album_id": "album36459",
+            "album": "后青春期的诗",
+            "album_order": 7,
+            "tv_name": "",
+            "data": {
+                "cluster": "后青春期的诗"
+            }
+        },
+        {
+            "id": "song447809",
+            "size": 8,
+            "x": -769.7,
+            "y": 218.1,
+            "label": "生存以上生活以下",
+            "node_type": "song",
+            "album_id": "album36459",
+            "album": "后青春期的诗",
+            "album_order": 7,
+            "tv_name": "",
+            "data": {
+                "cluster": "后青春期的诗"
+            }
+        },
+        {
+            "id": "song447820",
+            "size": 10,
+            "x": -776.03,
+            "y": 194.38,
+            "label": "夜访吸血鬼",
+            "node_type": "song",
+            "album_id": "album36459",
+            "album": "后青春期的诗",
+            "album_order": 7,
+            "tv_name": "",
+            "data": {
+                "cluster": "后青春期的诗"
+            }
+        },
+        {
+            "id": "song447824",
+            "size": 7,
+            "x": -781.62,
+            "y": 170.49,
+            "label": "笑忘歌",
+            "node_type": "song",
+            "album_id": "album36459",
+            "album": "后青春期的诗",
+            "album_order": 7,
+            "tv_name": "",
+            "data": {
+                "cluster": "后青春期的诗"
+            }
+        },
+        {
+            "id": "song447811",
+            "size": 5,
+            "x": -786.48,
+            "y": 146.43,
+            "label": "爆肝",
+            "node_type": "song",
+            "album_id": "album36459",
+            "album": "后青春期的诗",
+            "album_order": 7,
+            "tv_name": "",
+            "data": {
+                "cluster": "后青春期的诗"
+            }
+        },
+        {
+            "id": "song447819",
+            "size": 7,
+            "x": -790.61,
+            "y": 122.24,
+            "label": "春天的呐喊",
+            "node_type": "song",
+            "album_id": "album36459",
+            "album": "后青春期的诗",
+            "album_order": 7,
+            "tv_name": "",
+            "data": {
+                "cluster": "后青春期的诗"
+            }
+        },
+        {
+            "id": "song447816",
+            "size": 8,
+            "x": -793.98,
+            "y": 97.93,
+            "label": "我心中尚未崩坏的地方",
+            "node_type": "song",
+            "album_id": "album36459",
+            "album": "后青春期的诗",
+            "album_order": 7,
+            "tv_name": "",
+            "data": {
+                "cluster": "后青春期的诗"
+            }
+        },
+        {
+            "id": "word148",
+            "size": 6,
+            "x": 0,
+            "y": 598.66,
+            "label": "时光",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "song447823",
+            "size": 5,
+            "x": -796.61,
+            "y": 73.53,
+            "label": "后青春期的诗",
+            "node_type": "song",
+            "album_id": "album36459",
+            "album": "后青春期的诗",
+            "album_order": 7,
+            "tv_name": "",
+            "data": {
+                "cluster": "后青春期的诗"
+            }
+        },
+        {
+            "id": "song447813",
+            "size": 8,
+            "x": -798.49,
+            "y": 49.06,
+            "label": "噢买尬",
+            "node_type": "song",
+            "album_id": "album36459",
+            "album": "后青春期的诗",
+            "album_order": 7,
+            "tv_name": "",
+            "data": {
+                "cluster": "后青春期的诗"
+            }
+        },
+        {
+            "id": "word389",
+            "size": 7,
+            "x": 0,
+            "y": 556.99,
+            "label": "岁月",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            }
+        },
+        {
+            "id": "song519403016",
+            "size": 9,
+            "x": -799.62,
+            "y": 24.54,
+            "label": "我不愿让你一个人",
+            "node_type": "song",
+            "album_id": "album90142",
+            "album": "第二人生",
+            "album_order": 8,
+            "tv_name": "",
+            "data": {
+                "cluster": "第二人生"
+            }
+        },
+        {
+            "id": "song1056869",
+            "size": 3,
+            "x": -800.0,
+            "y": 0.0,
+            "label": "T1 21 31 21",
+            "node_type": "song",
+            "album_id": "album90142",
+            "album": "第二人生",
+            "album_order": 8,
+            "tv_name": "",
+            "data": {
+                "cluster": "第二人生"
+            }
+        },
+        {
+            "id": "song1056504",
+            "size": 3,
+            "x": -799.62,
+            "y": -24.54,
+            "label": "OAOA (丢掉名字性别)",
+            "node_type": "song",
+            "album_id": "album90142",
+            "album": "第二人生",
+            "album_order": 8,
+            "tv_name": "",
+            "data": {
+                "cluster": "第二人生"
+            }
+        },
+        {
+            "id": "song1056382",
+            "size": 13,
+            "x": -798.49,
+            "y": -49.06,
+            "label": "干杯",
+            "node_type": "song",
+            "album_id": "album90142",
+            "album": "第二人生",
+            "album_order": 8,
+            "tv_name": "",
+            "data": {
+                "cluster": "第二人生"
+            }
+        },
+        {
+            "id": "song1056505",
+            "size": 11,
+            "x": -796.61,
+            "y": -73.53,
+            "label": "第二人生",
+            "node_type": "song",
+            "album_id": "album90142",
+            "album": "第二人生",
+            "album_order": 8,
+            "tv_name": "",
+            "data": {
+                "cluster": "第二人生"
+            }
+        },
+        {
+            "id": "song1056520",
+            "size": 4,
+            "x": -793.98,
+            "y": -97.93,
+            "label": "诺亚方舟",
+            "node_type": "song",
+            "album_id": "album90142",
+            "album": "第二人生",
+            "album_order": 8,
+            "tv_name": "",
+            "data": {
+                "cluster": "第二人生"
+            }
+        },
+        {
+            "id": "song1056501",
+            "size": 8,
+            "x": -790.61,
+            "y": -122.24,
+            "label": "星空",
+            "node_type": "song",
+            "album_id": "album90142",
+            "album": "第二人生",
+            "album_order": 8,
+            "tv_name": "",
+            "data": {
+                "cluster": "第二人生"
+            }
+        },
+        {
+            "id": "song1056383",
+            "size": 5,
+            "x": -786.48,
+            "y": -146.43,
+            "label": "仓颉",
+            "node_type": "song",
+            "album_id": "album90142",
+            "album": "第二人生",
+            "album_order": 8,
+            "tv_name": "",
+            "data": {
+                "cluster": "第二人生"
+            }
+        },
+        {
+            "id": "song1056507",
+            "size": 3,
+            "x": -781.62,
+            "y": -170.49,
+            "label": "有些事现在不做 一辈子都不会做了",
+            "node_type": "song",
+            "album_id": "album90142",
+            "album": "第二人生",
+            "album_order": 8,
+            "tv_name": "",
+            "data": {
+                "cluster": "第二人生"
+            }
+        },
+        {
+            "id": "song1056380",
+            "size": 12,
+            "x": -776.03,
+            "y": -194.38,
+            "label": "三个傻瓜",
+            "node_type": "song",
+            "album_id": "album90142",
+            "album": "第二人生",
+            "album_order": 8,
+            "tv_name": "",
+            "data": {
+                "cluster": "第二人生"
+            }
+        },
+        {
+            "id": "song1056381",
+            "size": 3,
+            "x": -769.7,
+            "y": -218.1,
+            "label": "歪腰",
+            "node_type": "song",
+            "album_id": "album90142",
+            "album": "第二人生",
+            "album_order": 8,
+            "tv_name": "",
+            "data": {
+                "cluster": "第二人生"
+            }
+        },
+        {
+            "id": "song1056519",
+            "size": 3,
+            "x": -762.64,
+            "y": -241.6,
+            "label": "OAOA (现在就是永远)",
+            "node_type": "song",
+            "album_id": "album90142",
+            "album": "第二人生",
+            "album_order": 8,
+            "tv_name": "",
+            "data": {
+                "cluster": "第二人生"
+            }
+        },
+        {
+            "id": "song1056495",
+            "size": 8,
+            "x": -754.87,
+            "y": -264.89,
+            "label": "2012",
+            "node_type": "song",
+            "album_id": "album90142",
+            "album": "第二人生",
+            "album_order": 8,
+            "tv_name": "",
+            "data": {
+                "cluster": "第二人生"
+            }
+        },
+        {
+            "id": "song1056497",
+            "size": 6,
+            "x": -746.39,
+            "y": -287.92,
+            "label": "洗衣机",
+            "node_type": "song",
+            "album_id": "album90142",
+            "album": "第二人生",
+            "album_order": 8,
+            "tv_name": "",
+            "data": {
+                "cluster": "第二人生"
+            }
+        },
+        {
+            "id": "song5132097",
+            "size": 2,
+            "x": -737.21,
+            "y": -310.68,
+            "label": "你是唯一 (2013新录制作品)",
+            "node_type": "song",
+            "album_id": "album451706",
+            "album": "步步 自选作品辑",
+            "album_order": 9,
+            "tv_name": "",
+            "data": {
+                "cluster": "步步 自选作品辑"
+            }
+        },
+        {
+            "id": "song5131914",
+            "size": 5,
+            "x": -727.33,
+            "y": -333.14,
+            "label": "伤心的人别听慢歌 (贯彻快乐)",
+            "node_type": "song",
+            "album_id": "album451706",
+            "album": "步步 自选作品辑",
+            "album_order": 9,
+            "tv_name": "",
+            "data": {
+                "cluster": "步步 自选作品辑"
+            }
+        },
+        {
+            "id": "song5131923",
+            "size": 8,
+            "x": -716.77,
+            "y": -355.3,
+            "label": "步步",
+            "node_type": "song",
+            "album_id": "album451706",
+            "album": "步步 自选作品辑",
+            "album_order": 9,
+            "tv_name": "",
+            "data": {
+                "cluster": "步步 自选作品辑"
+            }
+        },
+        {
+            "id": "song5132091",
+            "size": 2,
+            "x": -705.54,
+            "y": -377.12,
+            "label": "盛夏光年",
+            "node_type": "song",
+            "album_id": "album451706",
+            "album": "步步 自选作品辑",
+            "album_order": 9,
+            "tv_name": "",
+            "data": {
+                "cluster": "步步 自选作品辑"
+            }
+        },
+        {
+            "id": "song4996096",
+            "size": 4,
+            "x": -693.64,
+            "y": -398.58,
+            "label": "入阵曲",
+            "node_type": "song",
+            "album_id": "album451706",
+            "album": "步步 自选作品辑",
+            "album_order": 9,
+            "tv_name": "",
+            "data": {
+                "cluster": "步步 自选作品辑"
+            }
+        },
+        {
+            "id": "song405385",
+            "size": 3,
+            "x": -681.08,
+            "y": -419.67,
+            "label": "离开地球表面",
+            "node_type": "song",
+            "album_id": "album451706",
+            "album": "步步 自选作品辑",
+            "album_order": 9,
+            "tv_name": "",
+            "data": {
+                "cluster": "步步 自选作品辑"
+            }
+        },
+        {
+            "id": "song5131912",
+            "size": 4,
+            "x": -667.89,
+            "y": -440.37,
+            "label": "洋葱 (2013新录制作品)",
+            "node_type": "song",
+            "album_id": "album451706",
+            "album": "步步 自选作品辑",
+            "album_order": 9,
+            "tv_name": "",
+            "data": {
+                "cluster": "步步 自选作品辑"
+            }
+        },
+        {
+            "id": "song107726177",
+            "size": 7,
+            "x": -654.07,
+            "y": -460.65,
+            "label": "任意门",
+            "node_type": "song",
+            "album_id": "album1393445",
+            "album": "自传",
+            "album_order": 10,
+            "tv_name": "",
+            "data": {
+                "cluster": "自传"
+            }
+        },
+        {
+            "id": "song107726176",
+            "size": 6,
+            "x": -639.63,
+            "y": -480.49,
+            "label": "人生有限公司",
+            "node_type": "song",
+            "album_id": "album1393445",
+            "album": "自传",
+            "album_order": 10,
+            "tv_name": "",
+            "data": {
+                "cluster": "自传"
+            }
+        },
+        {
+            "id": "song107514892",
+            "size": 7,
+            "x": -624.59,
+            "y": -499.89,
+            "label": "如果我们不曾相遇",
+            "node_type": "song",
+            "album_id": "album1393445",
+            "album": "自传",
+            "album_order": 10,
+            "tv_name": "",
+            "data": {
+                "cluster": "自传"
+            }
+        },
+        {
+            "id": "song107709592",
+            "size": 6,
+            "x": -608.96,
+            "y": -518.81,
+            "label": "后来的我们",
+            "node_type": "song",
+            "album_id": "album1393445",
+            "album": "自传",
+            "album_order": 10,
+            "tv_name": "",
+            "data": {
+                "cluster": "自传"
+            }
+        },
+        {
+            "id": "song106528423",
+            "size": 5,
+            "x": -592.76,
+            "y": -537.25,
+            "label": "派对动物",
+            "node_type": "song",
+            "album_id": "album1393445",
+            "album": "自传",
+            "album_order": 10,
+            "tv_name": "",
+            "data": {
+                "cluster": "自传"
+            }
+        },
+        {
+            "id": "song107726179",
+            "size": 6,
+            "x": -576.0,
+            "y": -555.18,
+            "label": "顽固",
+            "node_type": "song",
+            "album_id": "album1393445",
+            "album": "自传",
+            "album_order": 10,
+            "tv_name": "",
+            "data": {
+                "cluster": "自传"
+            }
+        },
+        {
+            "id": "song107726182",
+            "size": 11,
+            "x": -558.7,
+            "y": -572.58,
+            "label": "转眼",
+            "node_type": "song",
+            "album_id": "album1393445",
+            "album": "自传",
+            "album_order": 10,
+            "tv_name": "",
+            "data": {
+                "cluster": "自传"
+            }
+        },
+        {
+            "id": "song107726181",
+            "size": 8,
+            "x": -540.87,
+            "y": -589.45,
+            "label": "终于结束的起点",
+            "node_type": "song",
+            "album_id": "album1393445",
+            "album": "自传",
+            "album_order": 10,
+            "tv_name": "",
+            "data": {
+                "cluster": "自传"
+            }
+        },
+        {
+            "id": "song107726183",
+            "size": 7,
+            "x": -522.54,
+            "y": -605.77,
+            "label": "最好的一天",
+            "node_type": "song",
+            "album_id": "album1393445",
+            "album": "自传",
+            "album_order": 10,
+            "tv_name": "",
+            "data": {
+                "cluster": "自传"
+            }
+        },
+        {
+            "id": "song107726178",
+            "size": 8,
+            "x": -503.71,
+            "y": -621.51,
+            "label": "少年他的奇幻漂流",
+            "node_type": "song",
+            "album_id": "album1393445",
+            "album": "自传",
+            "album_order": 10,
+            "tv_name": "",
+            "data": {
+                "cluster": "自传"
+            }
+        },
+        {
+            "id": "song107726180",
+            "size": 5,
+            "x": -484.41,
+            "y": -636.67,
+            "label": "兄弟",
+            "node_type": "song",
+            "album_id": "album1393445",
+            "album": "自传",
+            "album_order": 10,
+            "tv_name": "",
+            "data": {
+                "cluster": "自传"
+            }
+        },
+        {
+            "id": "song107726201",
+            "size": 11,
+            "x": -464.65,
+            "y": -651.23,
+            "label": "成名在望",
+            "node_type": "song",
+            "album_id": "album1393445",
+            "album": "自传",
+            "album_order": 10,
+            "tv_name": "",
+            "data": {
+                "cluster": "自传"
+            }
+        },
+        {
+            "id": "song107726174",
+            "size": 9,
+            "x": -444.46,
+            "y": -665.18,
+            "label": "好好 (想把你写成一首歌)",
+            "node_type": "song",
+            "album_id": "album1393445",
+            "album": "自传",
+            "album_order": 10,
+            "tv_name": "",
+            "data": {
+                "cluster": "自传"
+            }
+        }
+    ],
+    "edges": [
+        {
+            "source": "word218",
+            "target": "song4930732",
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "word218",
+            "target": "song4930731",
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "word218",
+            "target": "song4830147",
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "word218",
+            "target": "song4931121",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word218",
+            "target": "song4931123",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word218",
+            "target": "song5199848",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word218",
+            "target": "song4931117",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word218",
+            "target": "song4931460",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word218",
+            "target": "song4931453",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word218",
+            "target": "song4931451",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word218",
+            "target": "song4931458",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word218",
+            "target": "song4830223",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word218",
+            "target": "song4932058",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word218",
+            "target": "song4830228",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word218",
+            "target": "song4932451",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word218",
+            "target": "song4830253",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word218",
+            "target": "song4932766",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word218",
+            "target": "song4830285",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word218",
+            "target": "song4830286",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word218",
+            "target": "song4830242",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word218",
+            "target": "song447824",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word218",
+            "target": "song447809",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word218",
+            "target": "song107514892",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word218",
+            "target": "song107726181",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "song4930732",
+            "target": "word125",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "song4930732",
+            "target": "word593",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "word1150",
+            "target": "song4930724",
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "word1150",
+            "target": "song4931454",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word1150",
+            "target": "song1129073",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word1150",
+            "target": "song4931458",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word1150",
+            "target": "song4830223",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word1150",
+            "target": "song4830289",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word1150",
+            "target": "song447820",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word1150",
+            "target": "song107726178",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "song4930724",
+            "target": "word485",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "song4930724",
+            "target": "word125",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "song4930724",
+            "target": "word35",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "song4930724",
+            "target": "word1177",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "song4930724",
+            "target": "word127",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "word485",
+            "target": "song4930730",
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "word485",
+            "target": "song4931119",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word485",
+            "target": "song4931117",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word485",
+            "target": "song4931452",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word485",
+            "target": "song1129073",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word485",
+            "target": "song4931459",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word485",
+            "target": "song4931458",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word485",
+            "target": "song4932451",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word485",
+            "target": "song447824",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word125",
+            "target": "song4930729",
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "word125",
+            "target": "song4930731",
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "word125",
+            "target": "song4930730",
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "word125",
+            "target": "song4830147",
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "word125",
+            "target": "song4930723",
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "word125",
+            "target": "song4930733",
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "word125",
+            "target": "song4931117",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word125",
+            "target": "song4931119",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word125",
+            "target": "song4931122",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word125",
+            "target": "song4931123",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word125",
+            "target": "song4931124",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word125",
+            "target": "song4931121",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word125",
+            "target": "song4931120",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word125",
+            "target": "song1128641",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word125",
+            "target": "song4931460",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word125",
+            "target": "song4931451",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word125",
+            "target": "song4931455",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word125",
+            "target": "song4931457",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word125",
+            "target": "song4931453",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word125",
+            "target": "song4931458",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word125",
+            "target": "song4830231",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word125",
+            "target": "song4830229",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word125",
+            "target": "song4830228",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word125",
+            "target": "song4830222",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word125",
+            "target": "song4830225",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word125",
+            "target": "song4932218",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word125",
+            "target": "song4932450",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word125",
+            "target": "song4932455",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word125",
+            "target": "song4932451",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word125",
+            "target": "song4932454",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word125",
+            "target": "song4932452",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word125",
+            "target": "song4830254",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word125",
+            "target": "song4932453",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word125",
+            "target": "song4932770",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word125",
+            "target": "song4932765",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word125",
+            "target": "song4830286",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word125",
+            "target": "song182048",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word125",
+            "target": "song182043",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word125",
+            "target": "song182050",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word125",
+            "target": "song447815",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word125",
+            "target": "song447810",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word125",
+            "target": "song447816",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word125",
+            "target": "song447820",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word125",
+            "target": "song447819",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word125",
+            "target": "song1056869",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word125",
+            "target": "song519403016",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word125",
+            "target": "song1056382",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word125",
+            "target": "song1056505",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word125",
+            "target": "song1056383",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word125",
+            "target": "song1056501",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word125",
+            "target": "song1056495",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word125",
+            "target": "song1056497",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word125",
+            "target": "song5132091",
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "word125",
+            "target": "song5131914",
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "word125",
+            "target": "song5131923",
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "word125",
+            "target": "song4996096",
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "word125",
+            "target": "song405385",
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "word125",
+            "target": "song107514892",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word125",
+            "target": "song107726181",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word125",
+            "target": "song107726178",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word125",
+            "target": "song107726176",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word125",
+            "target": "song107726174",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word125",
+            "target": "song107726182",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word125",
+            "target": "song107726201",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word125",
+            "target": "song107726179",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word13",
+            "target": "song4930725",
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "word13",
+            "target": "song4930729",
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "word13",
+            "target": "song4931120",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word13",
+            "target": "song4931121",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word13",
+            "target": "song5199848",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word13",
+            "target": "song1128641",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word13",
+            "target": "song4931461",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word13",
+            "target": "song4830227",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word13",
+            "target": "song4932219",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word13",
+            "target": "song4830230",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word13",
+            "target": "song4932058",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word13",
+            "target": "song4932218",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word13",
+            "target": "song4830251",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word13",
+            "target": "song4830253",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word13",
+            "target": "song4932452",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word13",
+            "target": "song4830252",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word13",
+            "target": "song4932765",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word13",
+            "target": "song4830287",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word13",
+            "target": "song4830242",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word13",
+            "target": "song182050",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word13",
+            "target": "song182038",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word13",
+            "target": "song447816",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word13",
+            "target": "song1056505",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word13",
+            "target": "song1056380",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word13",
+            "target": "song1056497",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word13",
+            "target": "song5131914",
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "word13",
+            "target": "song405385",
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "word13",
+            "target": "song5131912",
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "word13",
+            "target": "song107709592",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word13",
+            "target": "song107726179",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word13",
+            "target": "song107726181",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word13",
+            "target": "song107726178",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word13",
+            "target": "song107726201",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "song4930725",
+            "target": "word593",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "song4930725",
+            "target": "word85",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "song4930725",
+            "target": "word244",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "word593",
+            "target": "song4930726",
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "word593",
+            "target": "song4931119",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word593",
+            "target": "song5199848",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word593",
+            "target": "song4931121",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word593",
+            "target": "song4931454",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word593",
+            "target": "song4931452",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word593",
+            "target": "song4931457",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word593",
+            "target": "song4931451",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word593",
+            "target": "song4931458",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word593",
+            "target": "song4830229",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word593",
+            "target": "song4932221",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word593",
+            "target": "song4932453",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word593",
+            "target": "song4932765",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word593",
+            "target": "song4830285",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word593",
+            "target": "song4830242",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word593",
+            "target": "song102331616",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word593",
+            "target": "song182044",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word593",
+            "target": "song182048",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word593",
+            "target": "song182043",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word593",
+            "target": "song447810",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word593",
+            "target": "song447820",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word593",
+            "target": "song447809",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word593",
+            "target": "song1056501",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word593",
+            "target": "song1056495",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word593",
+            "target": "song107726178",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word593",
+            "target": "song107726201",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word85",
+            "target": "song4930728",
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "word85",
+            "target": "song4931454",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word85",
+            "target": "song4931461",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word85",
+            "target": "song4830223",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word85",
+            "target": "song4830225",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word85",
+            "target": "song4932454",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word85",
+            "target": "song447807",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word244",
+            "target": "song4931451",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word244",
+            "target": "song4931453",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word244",
+            "target": "song4830229",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word244",
+            "target": "song4830252",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word244",
+            "target": "song4830286",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word244",
+            "target": "song1056501",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "song4930729",
+            "target": "word1270",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "song4930729",
+            "target": "word1177",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "word1270",
+            "target": "song4930733",
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "word1270",
+            "target": "song4931118",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word1270",
+            "target": "song4830228",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word1270",
+            "target": "song4830251",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word1270",
+            "target": "song447809",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word1270",
+            "target": "song447813",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word1270",
+            "target": "song1056505",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word1270",
+            "target": "song1056380",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word1270",
+            "target": "song5131912",
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "word1270",
+            "target": "song107726176",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word1270",
+            "target": "song107726174",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word127",
+            "target": "song4930731",
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "word127",
+            "target": "song4930730",
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "word127",
+            "target": "song102667865",
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "word127",
+            "target": "song4930723",
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "word127",
+            "target": "song4930726",
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "word127",
+            "target": "song4931119",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word127",
+            "target": "song4931124",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word127",
+            "target": "song4931121",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word127",
+            "target": "song5199848",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word127",
+            "target": "song1128641",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word127",
+            "target": "song4931120",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word127",
+            "target": "song4931454",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word127",
+            "target": "song4931461",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word127",
+            "target": "song4931455",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word127",
+            "target": "song4931451",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word127",
+            "target": "song1129073",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word127",
+            "target": "song4830227",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word127",
+            "target": "song4932220",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word127",
+            "target": "song4830223",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word127",
+            "target": "song4932218",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word127",
+            "target": "song4932058",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word127",
+            "target": "song4932451",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word127",
+            "target": "song4830254",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word127",
+            "target": "song4830253",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word127",
+            "target": "song4932453",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word127",
+            "target": "song4932766",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word127",
+            "target": "song4830289",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word127",
+            "target": "song4932770",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word127",
+            "target": "song4830242",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word127",
+            "target": "song182036",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word127",
+            "target": "song182048",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word127",
+            "target": "song182039",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word127",
+            "target": "song182037",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word127",
+            "target": "song182043",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word127",
+            "target": "song447810",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word127",
+            "target": "song447820",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word127",
+            "target": "song447819",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word127",
+            "target": "song447813",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word127",
+            "target": "song447822",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word127",
+            "target": "song519403016",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word127",
+            "target": "song1056520",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word127",
+            "target": "song1056382",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word127",
+            "target": "song1056383",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word127",
+            "target": "song1056380",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word127",
+            "target": "song5131923",
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "word127",
+            "target": "song107726177",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word127",
+            "target": "song107726178",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word127",
+            "target": "song107726180",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word127",
+            "target": "song107726174",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word127",
+            "target": "song107726182",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "song4930731",
+            "target": "word89",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "song4930731",
+            "target": "word367",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "song4930731",
+            "target": "word282",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "song4930731",
+            "target": "word1074",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "word89",
+            "target": "song4830231",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word89",
+            "target": "song4932058",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word89",
+            "target": "song4830230",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word89",
+            "target": "song4830289",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word89",
+            "target": "song447807",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word89",
+            "target": "song5131912",
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "word367",
+            "target": "song4930723",
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "word367",
+            "target": "song4931452",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word367",
+            "target": "song4830225",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word367",
+            "target": "song4932765",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word367",
+            "target": "song447824",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word367",
+            "target": "song447811",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word367",
+            "target": "song447823",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word367",
+            "target": "song447820",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word367",
+            "target": "song447822",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word367",
+            "target": "song1056382",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word367",
+            "target": "song1056505",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word367",
+            "target": "song1056501",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word367",
+            "target": "song1056380",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word367",
+            "target": "song1056495",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word367",
+            "target": "song5132091",
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "word367",
+            "target": "song107726180",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word367",
+            "target": "song107726174",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word282",
+            "target": "song4930726",
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "word282",
+            "target": "song4931121",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word282",
+            "target": "song4931122",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word282",
+            "target": "song4931124",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word282",
+            "target": "song1128641",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word282",
+            "target": "song4931454",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word282",
+            "target": "song4931452",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word282",
+            "target": "song4931453",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word282",
+            "target": "song4932220",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word282",
+            "target": "song4830223",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word282",
+            "target": "song4932218",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word282",
+            "target": "song4932455",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word282",
+            "target": "song1130313",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word282",
+            "target": "song4830253",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word282",
+            "target": "song4830242",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word282",
+            "target": "song182047",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word282",
+            "target": "song182044",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word282",
+            "target": "song447822",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word282",
+            "target": "song447820",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word282",
+            "target": "song447813",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word282",
+            "target": "song447816",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word282",
+            "target": "song1056383",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word282",
+            "target": "song4996096",
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "word282",
+            "target": "song106528423",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word282",
+            "target": "song107726181",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word282",
+            "target": "song107726201",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word1074",
+            "target": "song4931119",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word1074",
+            "target": "song4931122",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word1074",
+            "target": "song4931121",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word1074",
+            "target": "song4931453",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word1074",
+            "target": "song107726179",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word1074",
+            "target": "song107726201",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "song4930730",
+            "target": "word73",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "song4930730",
+            "target": "word2",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "song4930730",
+            "target": "word75",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "song4930730",
+            "target": "word30",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "word73",
+            "target": "song4830231",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word73",
+            "target": "song4830289",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word73",
+            "target": "song4830288",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word73",
+            "target": "song182039",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word73",
+            "target": "song447807",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word73",
+            "target": "song519403016",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word73",
+            "target": "song1056501",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word73",
+            "target": "song5131912",
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "word73",
+            "target": "song106528423",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word2",
+            "target": "song4931119",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word2",
+            "target": "song4931118",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word2",
+            "target": "song4931123",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word2",
+            "target": "song4931121",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word2",
+            "target": "song4931122",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word2",
+            "target": "song4931456",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word2",
+            "target": "song4931455",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word2",
+            "target": "song4931459",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word2",
+            "target": "song4830229",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word2",
+            "target": "song4830222",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word2",
+            "target": "song4830225",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word2",
+            "target": "song4834459",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word2",
+            "target": "song4932770",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word2",
+            "target": "song4830285",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word2",
+            "target": "song182036",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word2",
+            "target": "song447815",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word2",
+            "target": "song447824",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word2",
+            "target": "song447809",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word2",
+            "target": "song447822",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word2",
+            "target": "song1056504",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word2",
+            "target": "song1056382",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word2",
+            "target": "song1056505",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word2",
+            "target": "song1056381",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word2",
+            "target": "song1056519",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word2",
+            "target": "song519403016",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word2",
+            "target": "song5131914",
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "word2",
+            "target": "song106528423",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word2",
+            "target": "song107514892",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word2",
+            "target": "song107726183",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word2",
+            "target": "song107726180",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word2",
+            "target": "song107726176",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word2",
+            "target": "song107709592",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word75",
+            "target": "song4930733",
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "word75",
+            "target": "song4931118",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word75",
+            "target": "song1129073",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word75",
+            "target": "song4932450",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word75",
+            "target": "song1130313",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word75",
+            "target": "song4932456",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word75",
+            "target": "song4830254",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word75",
+            "target": "song4830252",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word75",
+            "target": "song182048",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word75",
+            "target": "song182047",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word75",
+            "target": "song447807",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word75",
+            "target": "song1056507",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word75",
+            "target": "song106528423",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word30",
+            "target": "song4931120",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word30",
+            "target": "song4931453",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word30",
+            "target": "song4830254",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word30",
+            "target": "song182043",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word30",
+            "target": "song447815",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word30",
+            "target": "song447809",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word30",
+            "target": "song1056505",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word30",
+            "target": "song107709592",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word30",
+            "target": "song107726183",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word30",
+            "target": "song107726176",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word30",
+            "target": "song107726174",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word30",
+            "target": "song107726182",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word35",
+            "target": "song4930726",
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "word35",
+            "target": "song4931119",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word35",
+            "target": "song4931458",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word35",
+            "target": "song4830223",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word35",
+            "target": "song4830230",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word35",
+            "target": "song4830222",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word35",
+            "target": "song4932454",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word35",
+            "target": "song4830251",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word35",
+            "target": "song4932765",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word35",
+            "target": "song182039",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word35",
+            "target": "song182037",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word35",
+            "target": "song447810",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word35",
+            "target": "song447807",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word35",
+            "target": "song447813",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word35",
+            "target": "song447822",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word35",
+            "target": "song519403016",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word35",
+            "target": "song1056504",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word35",
+            "target": "song1056382",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word35",
+            "target": "song1056507",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word35",
+            "target": "song1056380",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word35",
+            "target": "song1056381",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word35",
+            "target": "song1056519",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word35",
+            "target": "song5131923",
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "word35",
+            "target": "song107709592",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word35",
+            "target": "song107726181",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word1177",
+            "target": "song4830147",
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "word1177",
+            "target": "song4930723",
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "word1177",
+            "target": "song102667865",
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "word1177",
+            "target": "song4931121",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word1177",
+            "target": "song4931452",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word1177",
+            "target": "song4931457",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word1177",
+            "target": "song182039",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "song102667865",
+            "target": "word1638",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "song102667865",
+            "target": "word645",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "song102667865",
+            "target": "word251",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "song4830147",
+            "target": "word645",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "song4830147",
+            "target": "word436",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "word645",
+            "target": "song4930726",
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "word645",
+            "target": "song4931123",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word645",
+            "target": "song4931124",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word645",
+            "target": "song5199848",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word645",
+            "target": "song4931117",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word645",
+            "target": "song4931120",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word645",
+            "target": "song4931454",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word645",
+            "target": "song4931456",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word645",
+            "target": "song4932220",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word645",
+            "target": "song4830226",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word645",
+            "target": "song4932219",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word645",
+            "target": "song4932218",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word645",
+            "target": "song1130313",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word645",
+            "target": "song4830254",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word645",
+            "target": "song4830253",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word645",
+            "target": "song4830242",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word645",
+            "target": "song182050",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word645",
+            "target": "song182039",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word645",
+            "target": "song182038",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word645",
+            "target": "song447823",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word645",
+            "target": "song519403016",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word645",
+            "target": "song1056519",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word645",
+            "target": "song1056380",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word645",
+            "target": "song1056497",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word645",
+            "target": "song5131914",
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "word645",
+            "target": "song107726181",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word645",
+            "target": "song107726182",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word436",
+            "target": "song4931118",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word436",
+            "target": "song4931456",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word436",
+            "target": "song4931455",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word436",
+            "target": "song4830222",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word436",
+            "target": "song4830225",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word436",
+            "target": "song4834459",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word436",
+            "target": "song4932770",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word436",
+            "target": "song4830288",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word436",
+            "target": "song447811",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word436",
+            "target": "song447819",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word436",
+            "target": "song1056382",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "song4930726",
+            "target": "word331",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "song4930726",
+            "target": "word503",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "song4930726",
+            "target": "word17",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "song4930726",
+            "target": "word434",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "word331",
+            "target": "song4931120",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word331",
+            "target": "song4931451",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word331",
+            "target": "song4830222",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word331",
+            "target": "song4830225",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word331",
+            "target": "song4932450",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word331",
+            "target": "song4932454",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word331",
+            "target": "song447822",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word331",
+            "target": "song1056869",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word331",
+            "target": "song1056382",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word331",
+            "target": "song1056383",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word331",
+            "target": "song1056501",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word331",
+            "target": "song1056495",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word331",
+            "target": "song1056380",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word331",
+            "target": "song1056497",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word331",
+            "target": "song107726182",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word331",
+            "target": "song107726174",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word503",
+            "target": "song4930733",
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "word503",
+            "target": "song4931460",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word503",
+            "target": "song4931456",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word503",
+            "target": "song4830230",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word503",
+            "target": "song4932058",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word503",
+            "target": "song4932454",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word503",
+            "target": "song4830251",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word503",
+            "target": "song4932455",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word503",
+            "target": "song4834459",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word503",
+            "target": "song4830288",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word503",
+            "target": "song4830287",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word503",
+            "target": "song102331616",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word503",
+            "target": "song447823",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word503",
+            "target": "song447822",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word503",
+            "target": "song447809",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word503",
+            "target": "song1056505",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word503",
+            "target": "song5132097",
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "word503",
+            "target": "song107514892",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word503",
+            "target": "song107726183",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word503",
+            "target": "song107726174",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word503",
+            "target": "song107726182",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word17",
+            "target": "song182039",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word17",
+            "target": "song447820",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word17",
+            "target": "song5131923",
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "word17",
+            "target": "song107726177",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word17",
+            "target": "song107709592",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word1638",
+            "target": "song4931123",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word1638",
+            "target": "song4931458",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word1638",
+            "target": "song4931453",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word1638",
+            "target": "song4830223",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word1638",
+            "target": "song4830228",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word1638",
+            "target": "song4830251",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word1638",
+            "target": "song4932764",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word1638",
+            "target": "song182044",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word1638",
+            "target": "song5132097",
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "word251",
+            "target": "song4931454",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word251",
+            "target": "song1129073",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word251",
+            "target": "song4830223",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word251",
+            "target": "song4830286",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word251",
+            "target": "song447811",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word251",
+            "target": "song447822",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word251",
+            "target": "song1056495",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word434",
+            "target": "song4931460",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word434",
+            "target": "song4932221",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word434",
+            "target": "song4830289",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word434",
+            "target": "song4932765",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word434",
+            "target": "song447813",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word434",
+            "target": "song1056520",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word434",
+            "target": "song1056382",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "song4930733",
+            "target": "word546",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "word546",
+            "target": "song4931119",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word546",
+            "target": "song4931123",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word546",
+            "target": "song4931456",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word546",
+            "target": "song4830228",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word546",
+            "target": "song4830230",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word546",
+            "target": "song4932766",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word546",
+            "target": "song447815",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word546",
+            "target": "song519403016",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word546",
+            "target": "song1056520",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word546",
+            "target": "song1056505",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word546",
+            "target": "song1056501",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word546",
+            "target": "song1056381",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word546",
+            "target": "song107514892",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word546",
+            "target": "song107726178",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word546",
+            "target": "song107726182",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word2949",
+            "target": "song4931119",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word2949",
+            "target": "song4932454",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word2949",
+            "target": "song182044",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word2949",
+            "target": "song447816",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word2949",
+            "target": "song447813",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word2949",
+            "target": "song1056380",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word2949",
+            "target": "song107726176",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "song4931119",
+            "target": "word1630",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "word1630",
+            "target": "song4931454",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word1630",
+            "target": "song4830227",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word1630",
+            "target": "song4834459",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word1630",
+            "target": "song4830251",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word1630",
+            "target": "song4830252",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word1630",
+            "target": "song519403016",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word1630",
+            "target": "song107726178",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word569",
+            "target": "song4931126",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word569",
+            "target": "song4931460",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word569",
+            "target": "song4931459",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word569",
+            "target": "song4830226",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word569",
+            "target": "song4932454",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word569",
+            "target": "song4830254",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word569",
+            "target": "song182036",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word569",
+            "target": "song447810",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word569",
+            "target": "song519403016",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word569",
+            "target": "song1056505",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "song4931121",
+            "target": "word1680",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "song4931118",
+            "target": "word1438",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "song4931118",
+            "target": "word1883",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "word1438",
+            "target": "song4931458",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word1438",
+            "target": "song1129073",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word1438",
+            "target": "song4830251",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word1438",
+            "target": "song4932455",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word1438",
+            "target": "song182050",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word1438",
+            "target": "song447811",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word1438",
+            "target": "song447822",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word1883",
+            "target": "song1129073",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word1883",
+            "target": "song4932219",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word1883",
+            "target": "song4932450",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word1883",
+            "target": "song4830253",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word1883",
+            "target": "song4830287",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word1883",
+            "target": "song182050",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word1883",
+            "target": "song1056495",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word1883",
+            "target": "song405385",
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "word1883",
+            "target": "song107726183",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "song4931124",
+            "target": "word3449",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "song4931124",
+            "target": "word9",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "word1680",
+            "target": "song4931123",
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word1680",
+            "target": "song4931457",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word1680",
+            "target": "song2551520",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word1680",
+            "target": "song4932220",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word1680",
+            "target": "song4830251",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word1680",
+            "target": "song4830254",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word1680",
+            "target": "song107726176",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "song5199848",
+            "target": "word666",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "word666",
+            "target": "song4931460",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word666",
+            "target": "song4830231",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word666",
+            "target": "song4830288",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word666",
+            "target": "song4830242",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word666",
+            "target": "song447811",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word666",
+            "target": "song447819",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word666",
+            "target": "song1056520",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word3449",
+            "target": "song4932455",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word3449",
+            "target": "song4932453",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word3449",
+            "target": "song1056507",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word3449",
+            "target": "song1056380",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word3449",
+            "target": "song4996096",
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "word3449",
+            "target": "song107726178",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word9",
+            "target": "song4931454",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word9",
+            "target": "song4931460",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word9",
+            "target": "song4931458",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word9",
+            "target": "song4830231",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word9",
+            "target": "song4830223",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word9",
+            "target": "song4830254",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word9",
+            "target": "song182036",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word9",
+            "target": "song182043",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word9",
+            "target": "song447822",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word9",
+            "target": "song1056501",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word9",
+            "target": "song1056380",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word9",
+            "target": "song107726177",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word9",
+            "target": "song107709592",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word9",
+            "target": "song107514892",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word9",
+            "target": "song107726179",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word9",
+            "target": "song107726183",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word9",
+            "target": "song107726201",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "song1128641",
+            "target": "word479",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "word479",
+            "target": "song4830231",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word479",
+            "target": "song4932451",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word479",
+            "target": "song447816",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word479",
+            "target": "song447813",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word479",
+            "target": "song107726177",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word479",
+            "target": "song107726182",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word479",
+            "target": "song107726201",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "song4931454",
+            "target": "word257",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "word257",
+            "target": "song4931451",
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word257",
+            "target": "song4932453",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word257",
+            "target": "song4830286",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word257",
+            "target": "song447824",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word257",
+            "target": "song1056495",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word257",
+            "target": "song5131914",
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "word257",
+            "target": "song107726174",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "song1129073",
+            "target": "word156",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "song4931458",
+            "target": "word156",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "song4931453",
+            "target": "word448",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "word156",
+            "target": "song4830229",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word156",
+            "target": "song4830227",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word156",
+            "target": "song4830230",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word156",
+            "target": "song4932453",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word156",
+            "target": "song4830285",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word156",
+            "target": "song4830286",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word156",
+            "target": "song102331616",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word156",
+            "target": "song182044",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word156",
+            "target": "song447819",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word156",
+            "target": "song447824",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word156",
+            "target": "song447823",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word156",
+            "target": "song447813",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word156",
+            "target": "song447809",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word156",
+            "target": "song1056382",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word156",
+            "target": "song1056495",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word156",
+            "target": "song5131923",
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "word448",
+            "target": "song4830229",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word448",
+            "target": "song4830223",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word448",
+            "target": "song4830228",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word448",
+            "target": "song4932218",
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word448",
+            "target": "song4830251",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word448",
+            "target": "song4830252",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word448",
+            "target": "song4830285",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word448",
+            "target": "song102331616",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word448",
+            "target": "song447815",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word448",
+            "target": "song447824",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word448",
+            "target": "song447809",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word448",
+            "target": "song447816",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word448",
+            "target": "song447819",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word448",
+            "target": "song447822",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word448",
+            "target": "song1056504",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word448",
+            "target": "song1056382",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word448",
+            "target": "song107726182",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "song4932219",
+            "target": "word129",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "word129",
+            "target": "song4830253",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word129",
+            "target": "song4830288",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word129",
+            "target": "song447820",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word129",
+            "target": "song447822",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word129",
+            "target": "song5131923",
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "word129",
+            "target": "song107726177",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "song4932058",
+            "target": "word1420",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "song4830228",
+            "target": "word122",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "word1420",
+            "target": "song4830289",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word1420",
+            "target": "song447820",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word1420",
+            "target": "song447819",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word1420",
+            "target": "song447822",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word1420",
+            "target": "song1056505",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word1420",
+            "target": "song4996096",
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "word1420",
+            "target": "song107726201",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word122",
+            "target": "song1056505",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word122",
+            "target": "song1056497",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word122",
+            "target": "song5131923",
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "word122",
+            "target": "song107726181",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word122",
+            "target": "song107726179",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word122",
+            "target": "song107726174",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word122",
+            "target": "song107726182",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "song4932453",
+            "target": "word294",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "word294",
+            "target": "song4830287",
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "word294",
+            "target": "song447816",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word294",
+            "target": "song447822",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word294",
+            "target": "song1056869",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word294",
+            "target": "song1056380",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word294",
+            "target": "song106528423",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word294",
+            "target": "song107726201",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "song102331616",
+            "target": "word432",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "word432",
+            "target": "song182048",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word432",
+            "target": "song182043",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word432",
+            "target": "song182037",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word432",
+            "target": "song447816",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word432",
+            "target": "song1056382",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word432",
+            "target": "song1056497",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word432",
+            "target": "song107726177",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word432",
+            "target": "song107726181",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "song182039",
+            "target": "word449",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "word449",
+            "target": "song182037",
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word449",
+            "target": "song447820",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word449",
+            "target": "song447822",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word449",
+            "target": "song1056382",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word449",
+            "target": "song107514892",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word449",
+            "target": "song107726183",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word449",
+            "target": "song107726201",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "song447822",
+            "target": "word389",
+            "album": "",
+            "album_order": ""
+        },
+        {
+            "source": "word148",
+            "target": "song447823",
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word148",
+            "target": "song5131923",
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "word148",
+            "target": "song107726179",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word148",
+            "target": "song107726180",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word148",
+            "target": "song107726201",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word148",
+            "target": "song107726182",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word389",
+            "target": "song1056382",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word389",
+            "target": "song1056383",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word389",
+            "target": "song1056380",
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word389",
+            "target": "song107726177",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word389",
+            "target": "song107726183",
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word389",
+            "target": "song107726180",
+            "album": "自传",
+            "album_order": 10
+        }
+    ],
+    "data_info": {
+        "singer": "五月天",
+        "title": "五月天录音室&精选辑",
+        "pos": "名词",
+        "all_songs_num": 131,
+        "pos_songs_num": 129
+    }
+}
