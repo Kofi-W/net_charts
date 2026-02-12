@@ -1,0 +1,1934 @@
+{
+    "nodes": [
+        {
+            "id": "word0",
+            "size": 11,
+            "x": 0.39908316226057927,
+            "y": -0.27969830903536685,
+            "label": "来",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            },
+            "song_id_count": 75
+        },
+        {
+            "id": "album1393445",
+            "size": 20,
+            "x": -0.09493010561768282,
+            "y": 0.19894859880691523,
+            "label": "自传",
+            "node_type": "album",
+            "album_id": "album1393445",
+            "album": "自传",
+            "album_order": 10,
+            "data": {
+                "cluster": "自传"
+            }
+        },
+        {
+            "id": "album15702",
+            "size": 19,
+            "x": -0.27107547202638943,
+            "y": 0.30736902958443435,
+            "label": "为爱而生",
+            "node_type": "album",
+            "album_id": "album15702",
+            "album": "为爱而生",
+            "album_order": 6,
+            "data": {
+                "cluster": "为爱而生"
+            }
+        },
+        {
+            "id": "album36459",
+            "size": 20,
+            "x": 0.1324530958875582,
+            "y": -0.011599370188619836,
+            "label": "后青春期的诗",
+            "node_type": "album",
+            "album_id": "album36459",
+            "album": "后青春期的诗",
+            "album_order": 7,
+            "data": {
+                "cluster": "后青春期的诗"
+            }
+        },
+        {
+            "id": "album451706",
+            "size": 18,
+            "x": 0.6822830699221845,
+            "y": -0.07214225274726219,
+            "label": "步步 自选作品辑",
+            "node_type": "album",
+            "album_id": "album451706",
+            "album": "步步 自选作品辑",
+            "album_order": 9,
+            "data": {
+                "cluster": "步步 自选作品辑"
+            }
+        },
+        {
+            "id": "album90142",
+            "size": 20,
+            "x": -0.06802705373230712,
+            "y": 0.0198118337221928,
+            "label": "第二人生",
+            "node_type": "album",
+            "album_id": "album90142",
+            "album": "第二人生",
+            "album_order": 8,
+            "data": {
+                "cluster": "第二人生"
+            }
+        },
+        {
+            "id": "album96215",
+            "size": 20,
+            "x": 0.16376085121641024,
+            "y": -0.4435119067035769,
+            "label": "第一张创作专辑",
+            "node_type": "album",
+            "album_id": "album96215",
+            "album": "第一张创作专辑",
+            "album_order": 0,
+            "data": {
+                "cluster": "第一张创作专辑"
+            }
+        },
+        {
+            "id": "album96252",
+            "size": 19,
+            "x": 0.09170827918509876,
+            "y": -0.2769416363271734,
+            "label": "爱情万岁",
+            "node_type": "album",
+            "album_id": "album96252",
+            "album": "爱情万岁",
+            "album_order": 1,
+            "data": {
+                "cluster": "爱情万岁"
+            }
+        },
+        {
+            "id": "album96291",
+            "size": 20,
+            "x": -0.0338808900018428,
+            "y": -0.14990436575287566,
+            "label": "人生海海",
+            "node_type": "album",
+            "album_id": "album96291",
+            "album": "人生海海",
+            "album_order": 2,
+            "data": {
+                "cluster": "人生海海"
+            }
+        },
+        {
+            "id": "album96353",
+            "size": 20,
+            "x": 0.12619587717100897,
+            "y": 0.1718170799444328,
+            "label": "时光机",
+            "node_type": "album",
+            "album_id": "album96353",
+            "album": "时光机",
+            "album_order": 3,
+            "data": {
+                "cluster": "时光机"
+            }
+        },
+        {
+            "id": "album96368",
+            "size": 18,
+            "x": -0.23180278903701373,
+            "y": 0.1357830985976426,
+            "label": "神的孩子都在跳舞",
+            "node_type": "album",
+            "album_id": "album96368",
+            "album": "神的孩子都在跳舞",
+            "album_order": 4,
+            "data": {
+                "cluster": "神的孩子都在跳舞"
+            }
+        },
+        {
+            "id": "album96397",
+            "size": 18,
+            "x": -0.2643973818709548,
+            "y": -0.07320633887599685,
+            "label": "知足 最真杰作选",
+            "node_type": "album",
+            "album_id": "album96397",
+            "album": "知足 最真杰作选",
+            "album_order": 5,
+            "data": {
+                "cluster": "知足 最真杰作选"
+            }
+        },
+        {
+            "id": "word1",
+            "size": 11,
+            "x": -0.43956084486393154,
+            "y": -0.40794538363991806,
+            "label": "能",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            },
+            "song_id_count": 63
+        },
+        {
+            "id": "word105",
+            "size": 11,
+            "x": -0.2319885581285322,
+            "y": 0.783792301964718,
+            "label": "像",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            },
+            "song_id_count": 40
+        },
+        {
+            "id": "word1261",
+            "size": 9,
+            "x": -0.15426819209664488,
+            "y": -1.0,
+            "label": "变",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            },
+            "song_id_count": 25
+        },
+        {
+            "id": "word127",
+            "size": 9,
+            "x": 0.45550891305937846,
+            "y": -0.7497390823894795,
+            "label": "去",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            },
+            "song_id_count": 36
+        },
+        {
+            "id": "word15",
+            "size": 10,
+            "x": 0.1332599795869999,
+            "y": 0.9464277345183707,
+            "label": "回忆",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            },
+            "song_id_count": 30
+        },
+        {
+            "id": "word154",
+            "size": 10,
+            "x": 0.8359174351864445,
+            "y": -0.652724752420897,
+            "label": "无",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            },
+            "song_id_count": 25
+        },
+        {
+            "id": "word17",
+            "size": 10,
+            "x": -0.7501241410066631,
+            "y": -0.5157937849049464,
+            "label": "走",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            },
+            "song_id_count": 36
+        },
+        {
+            "id": "word234",
+            "size": 11,
+            "x": 0.42426161888860486,
+            "y": 0.8107314501542778,
+            "label": "笑",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            },
+            "song_id_count": 31
+        },
+        {
+            "id": "word25",
+            "size": 11,
+            "x": -0.56347440994995,
+            "y": 0.4714039941438284,
+            "label": "说",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            },
+            "song_id_count": 44
+        },
+        {
+            "id": "word327",
+            "size": 10,
+            "x": -0.8969555032328901,
+            "y": 0.42733801154039264,
+            "label": "出",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            },
+            "song_id_count": 27
+        },
+        {
+            "id": "word4",
+            "size": 11,
+            "x": 0.0643323516528905,
+            "y": 0.46055921716171294,
+            "label": "有",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            },
+            "song_id_count": 87
+        },
+        {
+            "id": "word5",
+            "size": 11,
+            "x": -0.15839077784930908,
+            "y": -0.33032067771675894,
+            "label": "是",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            },
+            "song_id_count": 117
+        },
+        {
+            "id": "word50",
+            "size": 11,
+            "x": -0.6453355211439362,
+            "y": 0.009350202547079117,
+            "label": "到",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            },
+            "song_id_count": 65
+        },
+        {
+            "id": "word6",
+            "size": 11,
+            "x": 0.4171223788798999,
+            "y": -0.009932416623361206,
+            "label": "要",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            },
+            "song_id_count": 91
+        },
+        {
+            "id": "word63",
+            "size": 11,
+            "x": 0.7874932058315883,
+            "y": 0.21565903659052366,
+            "label": "看",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            },
+            "song_id_count": 39
+        },
+        {
+            "id": "word67",
+            "size": 11,
+            "x": 0.4372259395750459,
+            "y": 0.26201082531997244,
+            "label": "爱",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            },
+            "song_id_count": 70
+        },
+        {
+            "id": "word7",
+            "size": 11,
+            "x": 0.40207930731541575,
+            "y": 0.530338487564481,
+            "label": "让",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            },
+            "song_id_count": 53
+        },
+        {
+            "id": "word78",
+            "size": 11,
+            "x": -0.1966455234002139,
+            "y": -0.5998063635169232,
+            "label": "会",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            },
+            "song_id_count": 64
+        },
+        {
+            "id": "word9",
+            "size": 11,
+            "x": -0.5518283016608653,
+            "y": -0.1780742613178444,
+            "label": "想",
+            "node_type": "word",
+            "album_id": "",
+            "album": "",
+            "data": {
+                "cluster": "词"
+            },
+            "song_id_count": 68
+        }
+    ],
+    "edges": [
+        {
+            "source": "word0",
+            "target": "album1393445",
+            "weight": 10,
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "word0",
+            "target": "album15702",
+            "weight": 4,
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "word0",
+            "target": "album36459",
+            "weight": 7,
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "word0",
+            "target": "album451706",
+            "weight": 3,
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "word0",
+            "target": "album90142",
+            "weight": 10,
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "word0",
+            "target": "album96215",
+            "weight": 4,
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "word0",
+            "target": "album96252",
+            "weight": 8,
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "word0",
+            "target": "album96291",
+            "weight": 6,
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "word0",
+            "target": "album96353",
+            "weight": 7,
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "word0",
+            "target": "album96368",
+            "weight": 10,
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "word0",
+            "target": "album96397",
+            "weight": 6,
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "album1393445",
+            "target": "word1",
+            "weight": 9,
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "album1393445",
+            "target": "word105",
+            "weight": 6,
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "album1393445",
+            "target": "word1261",
+            "weight": 1,
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "album1393445",
+            "target": "word127",
+            "weight": 3,
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "album1393445",
+            "target": "word15",
+            "weight": 5,
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "album1393445",
+            "target": "word154",
+            "weight": 1,
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "album1393445",
+            "target": "word17",
+            "weight": 6,
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "album1393445",
+            "target": "word234",
+            "weight": 3,
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "album1393445",
+            "target": "word25",
+            "weight": 6,
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "album1393445",
+            "target": "word327",
+            "weight": 4,
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "album1393445",
+            "target": "word4",
+            "weight": 12,
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "album1393445",
+            "target": "word5",
+            "weight": 13,
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "album1393445",
+            "target": "word50",
+            "weight": 9,
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "album1393445",
+            "target": "word6",
+            "weight": 7,
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "album1393445",
+            "target": "word63",
+            "weight": 5,
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "album1393445",
+            "target": "word67",
+            "weight": 5,
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "album1393445",
+            "target": "word7",
+            "weight": 6,
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "album1393445",
+            "target": "word78",
+            "weight": 8,
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "album1393445",
+            "target": "word9",
+            "weight": 8,
+            "album": "自传",
+            "album_order": 10
+        },
+        {
+            "source": "album15702",
+            "target": "word1",
+            "weight": 4,
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "album15702",
+            "target": "word105",
+            "weight": 3,
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "album15702",
+            "target": "word1261",
+            "weight": 2,
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "album15702",
+            "target": "word15",
+            "weight": 1,
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "album15702",
+            "target": "word154",
+            "weight": 2,
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "album15702",
+            "target": "word17",
+            "weight": 1,
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "album15702",
+            "target": "word234",
+            "weight": 4,
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "album15702",
+            "target": "word25",
+            "weight": 1,
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "album15702",
+            "target": "word327",
+            "weight": 3,
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "album15702",
+            "target": "word4",
+            "weight": 7,
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "album15702",
+            "target": "word5",
+            "weight": 10,
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "album15702",
+            "target": "word50",
+            "weight": 5,
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "album15702",
+            "target": "word6",
+            "weight": 8,
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "album15702",
+            "target": "word63",
+            "weight": 3,
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "album15702",
+            "target": "word67",
+            "weight": 7,
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "album15702",
+            "target": "word7",
+            "weight": 4,
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "album15702",
+            "target": "word78",
+            "weight": 5,
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "album15702",
+            "target": "word9",
+            "weight": 6,
+            "album": "为爱而生",
+            "album_order": 6
+        },
+        {
+            "source": "album36459",
+            "target": "word1",
+            "weight": 8,
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "album36459",
+            "target": "word105",
+            "weight": 4,
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "album36459",
+            "target": "word1261",
+            "weight": 2,
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "album36459",
+            "target": "word127",
+            "weight": 3,
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "album36459",
+            "target": "word15",
+            "weight": 6,
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "album36459",
+            "target": "word154",
+            "weight": 4,
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "album36459",
+            "target": "word17",
+            "weight": 5,
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "album36459",
+            "target": "word234",
+            "weight": 3,
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "album36459",
+            "target": "word25",
+            "weight": 3,
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "album36459",
+            "target": "word327",
+            "weight": 2,
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "album36459",
+            "target": "word4",
+            "weight": 8,
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "album36459",
+            "target": "word5",
+            "weight": 10,
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "album36459",
+            "target": "word50",
+            "weight": 8,
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "album36459",
+            "target": "word6",
+            "weight": 9,
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "album36459",
+            "target": "word63",
+            "weight": 5,
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "album36459",
+            "target": "word67",
+            "weight": 4,
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "album36459",
+            "target": "word7",
+            "weight": 7,
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "album36459",
+            "target": "word78",
+            "weight": 6,
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "album36459",
+            "target": "word9",
+            "weight": 5,
+            "album": "后青春期的诗",
+            "album_order": 7
+        },
+        {
+            "source": "album451706",
+            "target": "word1",
+            "weight": 3,
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "album451706",
+            "target": "word105",
+            "weight": 2,
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "album451706",
+            "target": "word127",
+            "weight": 3,
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "album451706",
+            "target": "word15",
+            "weight": 2,
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "album451706",
+            "target": "word154",
+            "weight": 2,
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "album451706",
+            "target": "word234",
+            "weight": 1,
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "album451706",
+            "target": "word25",
+            "weight": 1,
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "album451706",
+            "target": "word327",
+            "weight": 1,
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "album451706",
+            "target": "word4",
+            "weight": 3,
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "album451706",
+            "target": "word5",
+            "weight": 6,
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "album451706",
+            "target": "word50",
+            "weight": 1,
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "album451706",
+            "target": "word6",
+            "weight": 4,
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "album451706",
+            "target": "word63",
+            "weight": 1,
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "album451706",
+            "target": "word67",
+            "weight": 5,
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "album451706",
+            "target": "word7",
+            "weight": 4,
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "album451706",
+            "target": "word78",
+            "weight": 2,
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "album451706",
+            "target": "word9",
+            "weight": 2,
+            "album": "步步 自选作品辑",
+            "album_order": 9
+        },
+        {
+            "source": "album90142",
+            "target": "word1",
+            "weight": 10,
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "album90142",
+            "target": "word105",
+            "weight": 6,
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "album90142",
+            "target": "word1261",
+            "weight": 4,
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "album90142",
+            "target": "word127",
+            "weight": 6,
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "album90142",
+            "target": "word15",
+            "weight": 6,
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "album90142",
+            "target": "word154",
+            "weight": 2,
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "album90142",
+            "target": "word17",
+            "weight": 4,
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "album90142",
+            "target": "word234",
+            "weight": 2,
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "album90142",
+            "target": "word25",
+            "weight": 7,
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "album90142",
+            "target": "word327",
+            "weight": 7,
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "album90142",
+            "target": "word4",
+            "weight": 10,
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "album90142",
+            "target": "word5",
+            "weight": 14,
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "album90142",
+            "target": "word50",
+            "weight": 8,
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "album90142",
+            "target": "word6",
+            "weight": 10,
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "album90142",
+            "target": "word63",
+            "weight": 6,
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "album90142",
+            "target": "word67",
+            "weight": 8,
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "album90142",
+            "target": "word7",
+            "weight": 8,
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "album90142",
+            "target": "word78",
+            "weight": 11,
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "album90142",
+            "target": "word9",
+            "weight": 9,
+            "album": "第二人生",
+            "album_order": 8
+        },
+        {
+            "source": "album96215",
+            "target": "word1",
+            "weight": 2,
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "album96215",
+            "target": "word105",
+            "weight": 1,
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "album96215",
+            "target": "word1261",
+            "weight": 4,
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "album96215",
+            "target": "word127",
+            "weight": 4,
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "album96215",
+            "target": "word15",
+            "weight": 1,
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "album96215",
+            "target": "word154",
+            "weight": 4,
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "album96215",
+            "target": "word17",
+            "weight": 3,
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "album96215",
+            "target": "word234",
+            "weight": 1,
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "album96215",
+            "target": "word25",
+            "weight": 3,
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "album96215",
+            "target": "word327",
+            "weight": 1,
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "album96215",
+            "target": "word4",
+            "weight": 6,
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "album96215",
+            "target": "word5",
+            "weight": 11,
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "album96215",
+            "target": "word50",
+            "weight": 7,
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "album96215",
+            "target": "word6",
+            "weight": 8,
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "album96215",
+            "target": "word63",
+            "weight": 5,
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "album96215",
+            "target": "word67",
+            "weight": 7,
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "album96215",
+            "target": "word7",
+            "weight": 2,
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "album96215",
+            "target": "word78",
+            "weight": 6,
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "album96215",
+            "target": "word9",
+            "weight": 5,
+            "album": "第一张创作专辑",
+            "album_order": 0
+        },
+        {
+            "source": "album96252",
+            "target": "word1",
+            "weight": 3,
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "album96252",
+            "target": "word105",
+            "weight": 2,
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "album96252",
+            "target": "word1261",
+            "weight": 2,
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "album96252",
+            "target": "word127",
+            "weight": 3,
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "album96252",
+            "target": "word154",
+            "weight": 5,
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "album96252",
+            "target": "word17",
+            "weight": 3,
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "album96252",
+            "target": "word234",
+            "weight": 2,
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "album96252",
+            "target": "word25",
+            "weight": 5,
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "album96252",
+            "target": "word327",
+            "weight": 2,
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "album96252",
+            "target": "word4",
+            "weight": 8,
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "album96252",
+            "target": "word5",
+            "weight": 10,
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "album96252",
+            "target": "word50",
+            "weight": 6,
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "album96252",
+            "target": "word6",
+            "weight": 8,
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "album96252",
+            "target": "word63",
+            "weight": 3,
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "album96252",
+            "target": "word67",
+            "weight": 8,
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "album96252",
+            "target": "word7",
+            "weight": 4,
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "album96252",
+            "target": "word78",
+            "weight": 6,
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "album96252",
+            "target": "word9",
+            "weight": 4,
+            "album": "爱情万岁",
+            "album_order": 1
+        },
+        {
+            "source": "album96291",
+            "target": "word1",
+            "weight": 5,
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "album96291",
+            "target": "word105",
+            "weight": 5,
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "album96291",
+            "target": "word1261",
+            "weight": 4,
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "album96291",
+            "target": "word127",
+            "weight": 5,
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "album96291",
+            "target": "word15",
+            "weight": 1,
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "album96291",
+            "target": "word154",
+            "weight": 2,
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "album96291",
+            "target": "word17",
+            "weight": 6,
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "album96291",
+            "target": "word234",
+            "weight": 2,
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "album96291",
+            "target": "word25",
+            "weight": 5,
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "album96291",
+            "target": "word327",
+            "weight": 2,
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "album96291",
+            "target": "word4",
+            "weight": 11,
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "album96291",
+            "target": "word5",
+            "weight": 12,
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "album96291",
+            "target": "word50",
+            "weight": 5,
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "album96291",
+            "target": "word6",
+            "weight": 9,
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "album96291",
+            "target": "word63",
+            "weight": 4,
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "album96291",
+            "target": "word67",
+            "weight": 4,
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "album96291",
+            "target": "word7",
+            "weight": 2,
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "album96291",
+            "target": "word78",
+            "weight": 6,
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "album96291",
+            "target": "word9",
+            "weight": 10,
+            "album": "人生海海",
+            "album_order": 2
+        },
+        {
+            "source": "album96353",
+            "target": "word1",
+            "weight": 6,
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "album96353",
+            "target": "word105",
+            "weight": 6,
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "album96353",
+            "target": "word1261",
+            "weight": 3,
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "album96353",
+            "target": "word127",
+            "weight": 6,
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "album96353",
+            "target": "word15",
+            "weight": 5,
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "album96353",
+            "target": "word154",
+            "weight": 1,
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "album96353",
+            "target": "word17",
+            "weight": 2,
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "album96353",
+            "target": "word234",
+            "weight": 4,
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "album96353",
+            "target": "word25",
+            "weight": 3,
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "album96353",
+            "target": "word327",
+            "weight": 3,
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "album96353",
+            "target": "word4",
+            "weight": 9,
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "album96353",
+            "target": "word5",
+            "weight": 12,
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "album96353",
+            "target": "word50",
+            "weight": 4,
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "album96353",
+            "target": "word6",
+            "weight": 13,
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "album96353",
+            "target": "word63",
+            "weight": 4,
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "album96353",
+            "target": "word67",
+            "weight": 6,
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "album96353",
+            "target": "word7",
+            "weight": 6,
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "album96353",
+            "target": "word78",
+            "weight": 3,
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "album96353",
+            "target": "word9",
+            "weight": 8,
+            "album": "时光机",
+            "album_order": 3
+        },
+        {
+            "source": "album96368",
+            "target": "word1",
+            "weight": 9,
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "album96368",
+            "target": "word105",
+            "weight": 3,
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "album96368",
+            "target": "word1261",
+            "weight": 3,
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "album96368",
+            "target": "word15",
+            "weight": 1,
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "album96368",
+            "target": "word17",
+            "weight": 2,
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "album96368",
+            "target": "word234",
+            "weight": 5,
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "album96368",
+            "target": "word25",
+            "weight": 7,
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "album96368",
+            "target": "word327",
+            "weight": 2,
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "album96368",
+            "target": "word4",
+            "weight": 6,
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "album96368",
+            "target": "word5",
+            "weight": 11,
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "album96368",
+            "target": "word50",
+            "weight": 6,
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "album96368",
+            "target": "word6",
+            "weight": 8,
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "album96368",
+            "target": "word63",
+            "weight": 2,
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "album96368",
+            "target": "word67",
+            "weight": 13,
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "album96368",
+            "target": "word7",
+            "weight": 7,
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "album96368",
+            "target": "word78",
+            "weight": 5,
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "album96368",
+            "target": "word9",
+            "weight": 6,
+            "album": "神的孩子都在跳舞",
+            "album_order": 4
+        },
+        {
+            "source": "album96397",
+            "target": "word1",
+            "weight": 4,
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "album96397",
+            "target": "word105",
+            "weight": 2,
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "album96397",
+            "target": "word127",
+            "weight": 3,
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "album96397",
+            "target": "word15",
+            "weight": 2,
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "album96397",
+            "target": "word154",
+            "weight": 2,
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "album96397",
+            "target": "word17",
+            "weight": 4,
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "album96397",
+            "target": "word234",
+            "weight": 4,
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "album96397",
+            "target": "word25",
+            "weight": 3,
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "album96397",
+            "target": "word4",
+            "weight": 7,
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "album96397",
+            "target": "word5",
+            "weight": 8,
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "album96397",
+            "target": "word50",
+            "weight": 6,
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "album96397",
+            "target": "word6",
+            "weight": 7,
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "album96397",
+            "target": "word63",
+            "weight": 1,
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "album96397",
+            "target": "word67",
+            "weight": 3,
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "album96397",
+            "target": "word7",
+            "weight": 3,
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "album96397",
+            "target": "word78",
+            "weight": 6,
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        },
+        {
+            "source": "album96397",
+            "target": "word9",
+            "weight": 5,
+            "album": "知足 最真杰作选",
+            "album_order": 5
+        }
+    ],
+    "data_info": {
+        "singer": "五月天",
+        "title": "录音室&精选辑",
+        "pos": "动词",
+        "word_num": 20,
+        "all_num": 11,
+        "has_pos_num": 11,
+        "num_unit": "专辑",
+        "nodes_type": "动词-专辑"
+    }
+}
