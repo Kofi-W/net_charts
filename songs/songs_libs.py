@@ -40,5 +40,17 @@ def id_process(df, is_ost=False, is_words=True):
     return df
 
 
+# 常量
+class LyricProcessConstants:
+    STOP_WORDS = [
+        "是", "要", "有", "来", "到", "会", "能", "让", "像", "在", "无", "上", "么", "没",
+        "当", "出", "变", "起", "给", "过", "回", "成", "为", "如", "开", "知", "管", "住",
+        "讲", "算", "吹", "看", "走", "去", "说", "找", "坐", "停", "懂", "吃", "叫", "落",
+        "下", '放'
+    ]
+
+
 if __name__ == "__main__":
-    print("This is a library of functions for processing song data, not meant to be run directly.")
+    print(
+        "This is a library of functions for processing song data, not meant to be run directly."
+    )
