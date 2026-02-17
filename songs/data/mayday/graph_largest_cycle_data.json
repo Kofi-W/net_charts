@@ -1,0 +1,1226 @@
+{
+    "n": {
+        "nodes": [
+            {
+                "id": "word573",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.9999999914850508,
+                "y": 1.901690784043941e-08,
+                "label": "命运",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 16
+            },
+            {
+                "id": "song107514892",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.9009688415656395,
+                "y": 0.43388377356881347,
+                "node_type": "song",
+                "label": "如果我们不曾相遇",
+                "album_id": "album1393445",
+                "album": "自传",
+                "album_order": 10,
+                "data": {
+                    "cluster": "自传"
+                }
+            },
+            {
+                "id": "word233",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.6234897902033594,
+                "y": 0.7818315186027088,
+                "label": "风",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 25
+            },
+            {
+                "id": "song4830286",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.22252097205383023,
+                "y": 0.9749279170878568,
+                "node_type": "song",
+                "label": "知足",
+                "album_id": "album96397",
+                "album": "知足 最真杰作选",
+                "album_order": 5,
+                "data": {
+                    "cluster": "知足 最真杰作选"
+                }
+            },
+            {
+                "id": "word14",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.2225209507664572,
+                "y": 0.9749279170878568,
+                "label": "心",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 34
+            },
+            {
+                "id": "song107726201",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.6234897987183086,
+                "y": 0.7818315186027088,
+                "node_type": "song",
+                "label": "成名在望",
+                "album_id": "album1393445",
+                "album": "自传",
+                "album_order": 10,
+                "data": {
+                    "cluster": "自传"
+                }
+            },
+            {
+                "id": "word291",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.9009688500805887,
+                "y": 0.43388383317345797,
+                "label": "天",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 28
+            },
+            {
+                "id": "song106528423",
+                "size": 2,
+                "size_show": 3,
+                "x": -1.0,
+                "y": -6.840586836083619e-08,
+                "node_type": "song",
+                "label": "派对动物",
+                "album_id": "album1393445",
+                "album": "自传",
+                "album_order": 10,
+                "data": {
+                    "cluster": "自传"
+                }
+            },
+            {
+                "id": "word82",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.9009688500805887,
+                "y": -0.43388373553499776,
+                "label": "朋友",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 14
+            },
+            {
+                "id": "song4931118",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.623489619904375,
+                "y": -0.7818315997781822,
+                "node_type": "song",
+                "label": "终结孤单",
+                "album_id": "album96252",
+                "album": "爱情万岁",
+                "album_order": 1,
+                "data": {
+                    "cluster": "爱情万岁"
+                }
+            },
+            {
+                "id": "word459",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.2225210103711017,
+                "y": -0.9749278790540411,
+                "label": "心情",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 12
+            },
+            {
+                "id": "song1056382",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.22252103165847475,
+                "y": -0.9749278790540411,
+                "node_type": "song",
+                "label": "干杯",
+                "album_id": "album90142",
+                "album": "第二人生",
+                "album_order": 8,
+                "data": {
+                    "cluster": "第二人生"
+                }
+            },
+            {
+                "id": "word471",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.6234896113894258,
+                "y": -0.7818315997781822,
+                "label": "一生",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 18
+            },
+            {
+                "id": "song107726182",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.9009688415656395,
+                "y": -0.43388373553499776,
+                "node_type": "song",
+                "label": "转眼",
+                "album_id": "album1393445",
+                "album": "自传",
+                "album_order": 10,
+                "data": {
+                    "cluster": "自传"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "source": "word573",
+                "target": "song107514892",
+                "album": "自传",
+                "album_order": 10
+            },
+            {
+                "source": "word573",
+                "target": "song107726182",
+                "album": "自传",
+                "album_order": 10
+            },
+            {
+                "source": "song107514892",
+                "target": "word233",
+                "album": "自传",
+                "album_order": 10
+            },
+            {
+                "source": "word233",
+                "target": "song4830286",
+                "album": "知足 最真杰作选",
+                "album_order": 5
+            },
+            {
+                "source": "song4830286",
+                "target": "word14",
+                "album": "知足 最真杰作选",
+                "album_order": 5
+            },
+            {
+                "source": "word14",
+                "target": "song107726201",
+                "album": "自传",
+                "album_order": 10
+            },
+            {
+                "source": "song107726201",
+                "target": "word291",
+                "album": "自传",
+                "album_order": 10
+            },
+            {
+                "source": "word291",
+                "target": "song106528423",
+                "album": "自传",
+                "album_order": 10
+            },
+            {
+                "source": "song106528423",
+                "target": "word82",
+                "album": "自传",
+                "album_order": 10
+            },
+            {
+                "source": "word82",
+                "target": "song4931118",
+                "album": "爱情万岁",
+                "album_order": 1
+            },
+            {
+                "source": "song4931118",
+                "target": "word459",
+                "album": "爱情万岁",
+                "album_order": 1
+            },
+            {
+                "source": "word459",
+                "target": "song1056382",
+                "album": "第二人生",
+                "album_order": 8
+            },
+            {
+                "source": "song1056382",
+                "target": "word471",
+                "album": "第二人生",
+                "album_order": 8
+            },
+            {
+                "source": "word471",
+                "target": "song107726182",
+                "album": "自传",
+                "album_order": 10
+            }
+        ],
+        "data_info": {
+            "singer": "五月天",
+            "title": "录音室&精选辑 (最大环)",
+            "pos": "名词",
+            "all_num": 131,
+            "has_pos_num": 125,
+            "word_num": "Largest Cycle",
+            "num_unit": "首",
+            "nodes_type": "名词-歌曲",
+            "chart_title": "五月天歌词 高频名词-歌曲关系图",
+            "chart_sub_title": "共统计131首歌曲，覆盖量(含该词的歌曲数)最高的Largest Cycle个名词，涵盖125首歌曲。",
+            "cycle_length": 14,
+            "cycle_desc": "最大环图",
+            "description": "该最大环长度为 14，包含 7 个名词节点和 7 首歌曲，涉及 4 张专辑。这种闭合结构反映了词汇在不同歌曲间的高频共现与其形成的语义闭环。",
+            "word_node_count": 7,
+            "song_node_count": 7,
+            "covered_album_count": 4,
+            "all_nodes_num": 14,
+            "cycle_node_count": 14
+        }
+    },
+    "a": {
+        "nodes": [
+            {
+                "id": "song107726174",
+                "size": 2,
+                "size_show": 3,
+                "x": 1.0,
+                "y": 2.803640458229225e-08,
+                "node_type": "song",
+                "label": "好好 (想把你写成一首歌)",
+                "album_id": "album1393445",
+                "album": "自传",
+                "album_order": 10,
+                "data": {
+                    "cluster": "自传"
+                }
+            },
+            {
+                "id": "word278",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.9396926173613576,
+                "y": 0.34202014713691387,
+                "label": "寂寞",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 12
+            },
+            {
+                "id": "song4830289",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.766044441371494,
+                "y": 0.6427875941798642,
+                "node_type": "song",
+                "label": "听不到",
+                "album_id": "album96397",
+                "album": "知足 最真杰作选",
+                "album_order": 5,
+                "data": {
+                    "cluster": "知足 最真杰作选"
+                }
+            },
+            {
+                "id": "word872",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.49999997764825854,
+                "y": 0.8660254629770789,
+                "label": "伤心",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 10
+            },
+            {
+                "id": "song5131914",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.1736482355945075,
+                "y": 0.9848077430826954,
+                "node_type": "song",
+                "label": "伤心的人别听慢歌 (贯彻快乐)",
+                "album_id": "album451706",
+                "album": "步步 自选作品辑",
+                "album_order": 9,
+                "data": {
+                    "cluster": "步步 自选作品辑"
+                }
+            },
+            {
+                "id": "word8",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.17364817598986362,
+                "y": 0.9848077430826954,
+                "label": "快乐",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 22
+            },
+            {
+                "id": "song107709592",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.5000000372529024,
+                "y": 0.866025403372435,
+                "node_type": "song",
+                "label": "后来的我们",
+                "album_id": "album1393445",
+                "album": "自传",
+                "album_order": 10,
+                "data": {
+                    "cluster": "自传"
+                }
+            },
+            {
+                "id": "word58",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.766044411569172,
+                "y": 0.6427876537845081,
+                "label": "多",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 39
+            },
+            {
+                "id": "song1056497",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.9396925875590356,
+                "y": 0.3420202365438797,
+                "node_type": "song",
+                "label": "洗衣机",
+                "album_id": "album90142",
+                "album": "第二人生",
+                "album_order": 8,
+                "data": {
+                    "cluster": "第二人生"
+                }
+            },
+            {
+                "id": "word72",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.9999999701976781,
+                "y": -5.9386370688482745e-08,
+                "label": "突然",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 17
+            },
+            {
+                "id": "song1056495",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.9396925875590356,
+                "y": -0.3420201208664267,
+                "node_type": "song",
+                "label": "2012",
+                "album_id": "album90142",
+                "album": "第二人生",
+                "album_order": 8,
+                "data": {
+                    "cluster": "第二人生"
+                }
+            },
+            {
+                "id": "word1373",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.7660444711738159,
+                "y": -0.642787538107055,
+                "label": "灿烂",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 12
+            },
+            {
+                "id": "song107726178",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.4999998882412927,
+                "y": -0.8660254069042698,
+                "node_type": "song",
+                "label": "少年他的奇幻漂流",
+                "album_id": "album1393445",
+                "album": "自传",
+                "album_order": 10,
+                "data": {
+                    "cluster": "自传"
+                }
+            },
+            {
+                "id": "word145",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.17364811638521974,
+                "y": -0.9848077466145302,
+                "label": "孤单",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 20
+            },
+            {
+                "id": "song107726182",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.17364817598986362,
+                "y": -0.9848076870098863,
+                "node_type": "song",
+                "label": "转眼",
+                "album_id": "album1393445",
+                "album": "自传",
+                "album_order": 10,
+                "data": {
+                    "cluster": "自传"
+                }
+            },
+            {
+                "id": "word941",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.49999991804361466,
+                "y": -0.8660254069042698,
+                "label": "平凡",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 11
+            },
+            {
+                "id": "song107726183",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.7660443221622062,
+                "y": -0.6427877169209867,
+                "node_type": "song",
+                "label": "最好的一天",
+                "album_id": "album1393445",
+                "album": "自传",
+                "album_order": 10,
+                "data": {
+                    "cluster": "自传"
+                }
+            },
+            {
+                "id": "word75",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.9396925577567137,
+                "y": -0.3420203294826803,
+                "label": "好",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 35
+            }
+        ],
+        "edges": [
+            {
+                "source": "song107726174",
+                "target": "word278",
+                "album": "自传",
+                "album_order": 10
+            },
+            {
+                "source": "song107726174",
+                "target": "word75",
+                "album": "自传",
+                "album_order": 10
+            },
+            {
+                "source": "word278",
+                "target": "song4830289",
+                "album": "知足 最真杰作选",
+                "album_order": 5
+            },
+            {
+                "source": "song4830289",
+                "target": "word872",
+                "album": "知足 最真杰作选",
+                "album_order": 5
+            },
+            {
+                "source": "word872",
+                "target": "song5131914",
+                "album": "步步 自选作品辑",
+                "album_order": 9
+            },
+            {
+                "source": "song5131914",
+                "target": "word8",
+                "album": "步步 自选作品辑",
+                "album_order": 9
+            },
+            {
+                "source": "word8",
+                "target": "song107709592",
+                "album": "自传",
+                "album_order": 10
+            },
+            {
+                "source": "song107709592",
+                "target": "word58",
+                "album": "自传",
+                "album_order": 10
+            },
+            {
+                "source": "word58",
+                "target": "song1056497",
+                "album": "第二人生",
+                "album_order": 8
+            },
+            {
+                "source": "song1056497",
+                "target": "word72",
+                "album": "第二人生",
+                "album_order": 8
+            },
+            {
+                "source": "word72",
+                "target": "song1056495",
+                "album": "第二人生",
+                "album_order": 8
+            },
+            {
+                "source": "song1056495",
+                "target": "word1373",
+                "album": "第二人生",
+                "album_order": 8
+            },
+            {
+                "source": "word1373",
+                "target": "song107726178",
+                "album": "自传",
+                "album_order": 10
+            },
+            {
+                "source": "song107726178",
+                "target": "word145",
+                "album": "自传",
+                "album_order": 10
+            },
+            {
+                "source": "word145",
+                "target": "song107726182",
+                "album": "自传",
+                "album_order": 10
+            },
+            {
+                "source": "song107726182",
+                "target": "word941",
+                "album": "自传",
+                "album_order": 10
+            },
+            {
+                "source": "word941",
+                "target": "song107726183",
+                "album": "自传",
+                "album_order": 10
+            },
+            {
+                "source": "song107726183",
+                "target": "word75",
+                "album": "自传",
+                "album_order": 10
+            }
+        ],
+        "data_info": {
+            "singer": "五月天",
+            "title": "录音室&精选辑 (最大环)",
+            "pos": "形容词",
+            "all_num": 131,
+            "has_pos_num": 118,
+            "word_num": "Largest Cycle",
+            "num_unit": "首",
+            "nodes_type": "形容词-歌曲",
+            "chart_title": "五月天歌词 高频形容词-歌曲关系图",
+            "chart_sub_title": "共统计131首歌曲，覆盖量(含该词的歌曲数)最高的Largest Cycle个形容词，涵盖118首歌曲。",
+            "cycle_length": 18,
+            "cycle_desc": "最大环图",
+            "description": "该最大环长度为 18，包含 9 个形容词节点和 9 首歌曲，涉及 4 张专辑。这种闭合结构反映了词汇在不同歌曲间的高频共现与其形成的语义闭环。",
+            "word_node_count": 9,
+            "song_node_count": 9,
+            "covered_album_count": 4,
+            "all_nodes_num": 18,
+            "cycle_node_count": 18
+        }
+    },
+    "v": {
+        "nodes": [
+            {
+                "id": "word67",
+                "size": 2,
+                "size_show": 3,
+                "x": 1.0,
+                "y": 1.9702865314610762e-08,
+                "label": "爱",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 70
+            },
+            {
+                "id": "song1056495",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.8660253909248031,
+                "y": 0.5000000096860836,
+                "node_type": "song",
+                "label": "2012",
+                "album_id": "album90142",
+                "album": "第二人生",
+                "album_order": 8,
+                "data": {
+                    "cluster": "第二人生"
+                }
+            },
+            {
+                "id": "word358",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.4999999802144599,
+                "y": 0.8660254501987487,
+                "label": "等",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 20
+            },
+            {
+                "id": "song447813",
+                "size": 2,
+                "size_show": 3,
+                "x": -2.3677824115544895e-08,
+                "y": 0.9999999996693021,
+                "node_type": "song",
+                "label": "噢买尬",
+                "album_id": "album36459",
+                "album": "后青春期的诗",
+                "album_order": 7,
+                "data": {
+                    "cluster": "后青春期的诗"
+                }
+            },
+            {
+                "id": "word255",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.5000000295542987,
+                "y": 0.8660253905941051,
+                "label": "哭",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 17
+            },
+            {
+                "id": "song106528423",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.8660253508576765,
+                "y": 0.5000000692907273,
+                "node_type": "song",
+                "label": "派对动物",
+                "album_id": "album1393445",
+                "album": "自传",
+                "album_order": 10,
+                "data": {
+                    "cluster": "自传"
+                }
+            },
+            {
+                "id": "word234",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.9999999599328735,
+                "y": -6.771990950747537e-08,
+                "label": "笑",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 31
+            },
+            {
+                "id": "song107726174",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.8660254104623201,
+                "y": -0.49999994047803126,
+                "node_type": "song",
+                "label": "好好 (想把你写成一首歌)",
+                "album_id": "album1393445",
+                "album": "自传",
+                "album_order": 10,
+                "data": {
+                    "cluster": "自传"
+                }
+            },
+            {
+                "id": "word9",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.4999998805426897,
+                "y": -0.8660254107930181,
+                "label": "想",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 68
+            },
+            {
+                "id": "song107726177",
+                "size": 2,
+                "size_show": 3,
+                "x": 3.195844369510338e-08,
+                "y": -0.9999999602635715,
+                "node_type": "song",
+                "label": "任意门",
+                "album_id": "album1393445",
+                "album": "自传",
+                "album_order": 10,
+                "data": {
+                    "cluster": "自传"
+                }
+            },
+            {
+                "id": "word935",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.4999999206098163,
+                "y": -0.8660254107930181,
+                "label": "离开",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 15
+            },
+            {
+                "id": "song107726182",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.8660253313201596,
+                "y": -0.5000001490942838,
+                "node_type": "song",
+                "label": "转眼",
+                "album_id": "album1393445",
+                "album": "自传",
+                "album_order": 10,
+                "data": {
+                    "cluster": "自传"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "source": "word67",
+                "target": "song1056495",
+                "album": "第二人生",
+                "album_order": 8
+            },
+            {
+                "source": "word67",
+                "target": "song107726182",
+                "album": "自传",
+                "album_order": 10
+            },
+            {
+                "source": "song1056495",
+                "target": "word358",
+                "album": "第二人生",
+                "album_order": 8
+            },
+            {
+                "source": "word358",
+                "target": "song447813",
+                "album": "后青春期的诗",
+                "album_order": 7
+            },
+            {
+                "source": "song447813",
+                "target": "word255",
+                "album": "后青春期的诗",
+                "album_order": 7
+            },
+            {
+                "source": "word255",
+                "target": "song106528423",
+                "album": "自传",
+                "album_order": 10
+            },
+            {
+                "source": "song106528423",
+                "target": "word234",
+                "album": "自传",
+                "album_order": 10
+            },
+            {
+                "source": "word234",
+                "target": "song107726174",
+                "album": "自传",
+                "album_order": 10
+            },
+            {
+                "source": "song107726174",
+                "target": "word9",
+                "album": "自传",
+                "album_order": 10
+            },
+            {
+                "source": "word9",
+                "target": "song107726177",
+                "album": "自传",
+                "album_order": 10
+            },
+            {
+                "source": "song107726177",
+                "target": "word935",
+                "album": "自传",
+                "album_order": 10
+            },
+            {
+                "source": "word935",
+                "target": "song107726182",
+                "album": "自传",
+                "album_order": 10
+            }
+        ],
+        "data_info": {
+            "singer": "五月天",
+            "title": "录音室&精选辑 (最大环)",
+            "pos": "动词",
+            "all_num": 131,
+            "has_pos_num": 126,
+            "word_num": "Largest Cycle",
+            "num_unit": "首",
+            "nodes_type": "动词-歌曲",
+            "chart_title": "五月天歌词 高频动词-歌曲关系图",
+            "chart_sub_title": "共统计131首歌曲，覆盖量(含该词的歌曲数)最高的Largest Cycle个动词，涵盖126首歌曲。",
+            "cycle_length": 12,
+            "cycle_desc": "最大环图",
+            "description": "该最大环长度为 12，包含 6 个动词节点和 6 首歌曲，涉及 3 张专辑。这种闭合结构反映了词汇在不同歌曲间的高频共现与其形成的语义闭环。",
+            "word_node_count": 6,
+            "song_node_count": 6,
+            "covered_album_count": 3,
+            "all_nodes_num": 12,
+            "cycle_node_count": 12
+        }
+    },
+    "t": {
+        "nodes": [
+            {
+                "id": "song4931454",
+                "size": 2,
+                "size_show": 3,
+                "x": 1.0,
+                "y": 1.9702865314610762e-08,
+                "node_type": "song",
+                "label": "相信",
+                "album_id": "album96291",
+                "album": "人生海海",
+                "album_order": 2,
+                "data": {
+                    "cluster": "人生海海"
+                }
+            },
+            {
+                "id": "word673",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.8660253909248031,
+                "y": 0.5000000096860836,
+                "label": "黎明",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 6
+            },
+            {
+                "id": "song4830288",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.4999999802144599,
+                "y": 0.8660254501987487,
+                "node_type": "song",
+                "label": "恋爱ing",
+                "album_id": "album96397",
+                "album": "知足 最真杰作选",
+                "album_order": 5,
+                "data": {
+                    "cluster": "知足 最真杰作选"
+                }
+            },
+            {
+                "id": "word717",
+                "size": 2,
+                "size_show": 3,
+                "x": -2.3677824115544895e-08,
+                "y": 0.9999999996693021,
+                "label": "黄昏",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 2
+            },
+            {
+                "id": "song1056505",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.5000000295542987,
+                "y": 0.8660253905941051,
+                "node_type": "song",
+                "label": "第二人生",
+                "album_id": "album90142",
+                "album": "第二人生",
+                "album_order": 8,
+                "data": {
+                    "cluster": "第二人生"
+                }
+            },
+            {
+                "id": "word886",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.8660253508576765,
+                "y": 0.5000000692907273,
+                "label": "末日",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 4
+            },
+            {
+                "id": "song1056495",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.9999999599328735,
+                "y": -6.771990950747537e-08,
+                "node_type": "song",
+                "label": "2012",
+                "album_id": "album90142",
+                "album": "第二人生",
+                "album_order": 8,
+                "data": {
+                    "cluster": "第二人生"
+                }
+            },
+            {
+                "id": "word386",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.8660254104623201,
+                "y": -0.49999994047803126,
+                "label": "今天",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 12
+            },
+            {
+                "id": "song107726183",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.4999998805426897,
+                "y": -0.8660254107930181,
+                "node_type": "song",
+                "label": "最好的一天",
+                "album_id": "album1393445",
+                "album": "自传",
+                "album_order": 10,
+                "data": {
+                    "cluster": "自传"
+                }
+            },
+            {
+                "id": "word798",
+                "size": 2,
+                "size_show": 3,
+                "x": 3.195844369510338e-08,
+                "y": -0.9999999602635715,
+                "label": "瞬间",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 6
+            },
+            {
+                "id": "song447822",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.4999999206098163,
+                "y": -0.8660254107930181,
+                "node_type": "song",
+                "label": "如烟",
+                "album_id": "album36459",
+                "album": "后青春期的诗",
+                "album_order": 7,
+                "data": {
+                    "cluster": "后青春期的诗"
+                }
+            },
+            {
+                "id": "word394",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.8660253313201596,
+                "y": -0.5000001490942838,
+                "label": "那年",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 5
+            }
+        ],
+        "edges": [
+            {
+                "source": "song4931454",
+                "target": "word673",
+                "album": "人生海海",
+                "album_order": 2
+            },
+            {
+                "source": "song4931454",
+                "target": "word394",
+                "album": "人生海海",
+                "album_order": 2
+            },
+            {
+                "source": "word673",
+                "target": "song4830288",
+                "album": "知足 最真杰作选",
+                "album_order": 5
+            },
+            {
+                "source": "song4830288",
+                "target": "word717",
+                "album": "知足 最真杰作选",
+                "album_order": 5
+            },
+            {
+                "source": "word717",
+                "target": "song1056505",
+                "album": "第二人生",
+                "album_order": 8
+            },
+            {
+                "source": "song1056505",
+                "target": "word886",
+                "album": "第二人生",
+                "album_order": 8
+            },
+            {
+                "source": "word886",
+                "target": "song1056495",
+                "album": "第二人生",
+                "album_order": 8
+            },
+            {
+                "source": "song1056495",
+                "target": "word386",
+                "album": "第二人生",
+                "album_order": 8
+            },
+            {
+                "source": "word386",
+                "target": "song107726183",
+                "album": "自传",
+                "album_order": 10
+            },
+            {
+                "source": "song107726183",
+                "target": "word798",
+                "album": "自传",
+                "album_order": 10
+            },
+            {
+                "source": "word798",
+                "target": "song447822",
+                "album": "后青春期的诗",
+                "album_order": 7
+            },
+            {
+                "source": "song447822",
+                "target": "word394",
+                "album": "后青春期的诗",
+                "album_order": 7
+            }
+        ],
+        "data_info": {
+            "singer": "五月天",
+            "title": "录音室&精选辑 (最大环)",
+            "pos": "时间词",
+            "all_num": 131,
+            "has_pos_num": 65,
+            "word_num": "Largest Cycle",
+            "num_unit": "首",
+            "nodes_type": "时间词-歌曲",
+            "chart_title": "五月天歌词 高频时间词-歌曲关系图",
+            "chart_sub_title": "共统计131首歌曲，覆盖量(含该词的歌曲数)最高的Largest Cycle个时间词，涵盖65首歌曲。",
+            "cycle_length": 12,
+            "cycle_desc": "最大环图",
+            "description": "该最大环长度为 12，包含 6 个时间词节点和 6 首歌曲，涉及 5 张专辑。这种闭合结构反映了词汇在不同歌曲间的高频共现与其形成的语义闭环。",
+            "word_node_count": 6,
+            "song_node_count": 6,
+            "covered_album_count": 5,
+            "all_nodes_num": 12,
+            "cycle_node_count": 12
+        }
+    }
+}
