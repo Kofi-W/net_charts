@@ -1,0 +1,767 @@
+{
+  "song_id": 4996096,
+  "res": [
+    {
+      "text": "未",
+      "pos": "adv",
+      "pos_desc": "副词",
+      "freq": 8
+    },
+    {
+      "text": "夜",
+      "pos": "time",
+      "pos_desc": "时间词",
+      "freq": 6
+    },
+    {
+      "text": "天",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 6
+    },
+    {
+      "text": "入阵曲",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 5
+    },
+    {
+      "text": "我",
+      "pos": "pron",
+      "pos_desc": "代词",
+      "freq": 5
+    },
+    {
+      "text": "在",
+      "pos": "prep",
+      "pos_desc": "介词",
+      "freq": 5
+    },
+    {
+      "text": "只",
+      "pos": "adv",
+      "pos_desc": "副词",
+      "freq": 5
+    },
+    {
+      "text": "当",
+      "pos": "conj",
+      "pos_desc": "连词",
+      "freq": 4
+    },
+    {
+      "text": "一",
+      "pos": "num",
+      "pos_desc": "数词",
+      "freq": 4
+    },
+    {
+      "text": "份",
+      "pos": "m",
+      "pos_desc": "量词",
+      "freq": 4
+    },
+    {
+      "text": "无",
+      "pos": "v",
+      "pos_desc": "动词",
+      "freq": 4
+    },
+    {
+      "text": "的",
+      "pos": "part",
+      "pos_desc": "助词",
+      "freq": 4
+    },
+    {
+      "text": "央",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 4
+    },
+    {
+      "text": "亮",
+      "pos": "adj",
+      "pos_desc": "形容词",
+      "freq": 4
+    },
+    {
+      "text": "沙场",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 4
+    },
+    {
+      "text": "盼望",
+      "pos": "v",
+      "pos_desc": "动词",
+      "freq": 4
+    },
+    {
+      "text": "此生",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 4
+    },
+    {
+      "text": "再",
+      "pos": "adv",
+      "pos_desc": "副词",
+      "freq": 4
+    },
+    {
+      "text": "奔向",
+      "pos": "v",
+      "pos_desc": "动词",
+      "freq": 4
+    },
+    {
+      "text": "思念",
+      "pos": "v",
+      "pos_desc": "动词",
+      "freq": 4
+    },
+    {
+      "text": "脸庞",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 4
+    },
+    {
+      "text": "泪",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 4
+    },
+    {
+      "text": "干",
+      "pos": "adj",
+      "pos_desc": "形容词",
+      "freq": 4
+    },
+    {
+      "text": "心",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 4
+    },
+    {
+      "text": "凉",
+      "pos": "adj",
+      "pos_desc": "形容词",
+      "freq": 4
+    },
+    {
+      "text": "是",
+      "pos": "v",
+      "pos_desc": "动词",
+      "freq": 4
+    },
+    {
+      "text": "什么",
+      "pos": "pron",
+      "pos_desc": "代词",
+      "freq": 4
+    },
+    {
+      "text": "依然",
+      "pos": "adv",
+      "pos_desc": "副词",
+      "freq": 4
+    },
+    {
+      "text": "滚烫",
+      "pos": "adj",
+      "pos_desc": "形容词",
+      "freq": 4
+    },
+    {
+      "text": "伴",
+      "pos": "v",
+      "pos_desc": "动词",
+      "freq": 4
+    },
+    {
+      "text": "无悔",
+      "pos": "adj",
+      "pos_desc": "形容词",
+      "freq": 4
+    },
+    {
+      "text": "狂妄",
+      "pos": "adj",
+      "pos_desc": "形容词",
+      "freq": 4
+    },
+    {
+      "text": "座",
+      "pos": "m",
+      "pos_desc": "量词",
+      "freq": 3
+    },
+    {
+      "text": "城墙",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 3
+    },
+    {
+      "text": "为了",
+      "pos": "prep",
+      "pos_desc": "介词",
+      "freq": 3
+    },
+    {
+      "text": "阻挡",
+      "pos": "v",
+      "pos_desc": "动词",
+      "freq": 3
+    },
+    {
+      "text": "所有",
+      "pos": "pron",
+      "pos_desc": "代词",
+      "freq": 3
+    },
+    {
+      "text": "自由",
+      "pos": "adj",
+      "pos_desc": "形容词",
+      "freq": 3
+    },
+    {
+      "text": "渴望",
+      "pos": "v",
+      "pos_desc": "动词",
+      "freq": 3
+    },
+    {
+      "text": "信仰",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 3
+    },
+    {
+      "text": "不能",
+      "pos": "v",
+      "pos_desc": "动词",
+      "freq": 3
+    },
+    {
+      "text": "抵抗",
+      "pos": "v",
+      "pos_desc": "动词",
+      "freq": 3
+    },
+    {
+      "text": "遍地",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 3
+    },
+    {
+      "text": "战乱",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 3
+    },
+    {
+      "text": "饥荒",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 3
+    },
+    {
+      "text": "兰陵",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 3
+    },
+    {
+      "text": "缭乱",
+      "pos": "adj",
+      "pos_desc": "形容词",
+      "freq": 3
+    },
+    {
+      "text": "茫",
+      "pos": "adj",
+      "pos_desc": "形容词",
+      "freq": 3
+    },
+    {
+      "text": "天地",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 3
+    },
+    {
+      "text": "离人",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 3
+    },
+    {
+      "text": "忘",
+      "pos": "v",
+      "pos_desc": "动词",
+      "freq": 3
+    },
+    {
+      "text": "无畏",
+      "pos": "adj",
+      "pos_desc": "形容词",
+      "freq": 3
+    },
+    {
+      "text": "孤冢",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 3
+    },
+    {
+      "text": "葬",
+      "pos": "v",
+      "pos_desc": "动词",
+      "freq": 3
+    },
+    {
+      "text": "只怕",
+      "pos": "v",
+      "pos_desc": "动词",
+      "freq": 3
+    },
+    {
+      "text": "苍生",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 3
+    },
+    {
+      "text": "殇",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 3
+    },
+    {
+      "text": "幸存的",
+      "pos": "adj",
+      "pos_desc": "形容词",
+      "freq": 3
+    },
+    {
+      "text": "真相",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 3
+    },
+    {
+      "text": "只手",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 3
+    },
+    {
+      "text": "能",
+      "pos": "v",
+      "pos_desc": "动词",
+      "freq": 3
+    },
+    {
+      "text": "隐藏",
+      "pos": "v",
+      "pos_desc": "动词",
+      "freq": 3
+    },
+    {
+      "text": "直到",
+      "pos": "prep",
+      "pos_desc": "介词",
+      "freq": 3
+    },
+    {
+      "text": "人们",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 3
+    },
+    {
+      "text": "遗忘",
+      "pos": "v",
+      "pos_desc": "动词",
+      "freq": 3
+    },
+    {
+      "text": "写",
+      "pos": "v",
+      "pos_desc": "动词",
+      "freq": 3
+    },
+    {
+      "text": "一页",
+      "pos": "m",
+      "pos_desc": "量词",
+      "freq": 3
+    },
+    {
+      "text": "莽撞",
+      "pos": "adj",
+      "pos_desc": "形容词",
+      "freq": 3
+    },
+    {
+      "text": "我们",
+      "pos": "pron",
+      "pos_desc": "代词",
+      "freq": 3
+    },
+    {
+      "text": "篇章",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 3
+    },
+    {
+      "text": "曾经",
+      "pos": "adv",
+      "pos_desc": "副词",
+      "freq": 3
+    },
+    {
+      "text": "如此",
+      "pos": "adv",
+      "pos_desc": "副词",
+      "freq": 3
+    },
+    {
+      "text": "辉煌",
+      "pos": "adj",
+      "pos_desc": "形容词",
+      "freq": 3
+    },
+    {
+      "text": "丹青",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 3
+    },
+    {
+      "text": "千秋",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 3
+    },
+    {
+      "text": "酿",
+      "pos": "v",
+      "pos_desc": "动词",
+      "freq": 3
+    },
+    {
+      "text": "一醉",
+      "pos": "v",
+      "pos_desc": "动词",
+      "freq": 3
+    },
+    {
+      "text": "解",
+      "pos": "v",
+      "pos_desc": "动词",
+      "freq": 3
+    },
+    {
+      "text": "愁肠",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 3
+    },
+    {
+      "text": "少年",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 3
+    },
+    {
+      "text": "枉",
+      "pos": "adj",
+      "pos_desc": "形容词",
+      "freq": 3
+    },
+    {
+      "text": "只愿",
+      "pos": "v",
+      "pos_desc": "动词",
+      "freq": 3
+    },
+    {
+      "text": "壮志",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 3
+    },
+    {
+      "text": "狂",
+      "pos": "adj",
+      "pos_desc": "形容词",
+      "freq": 3
+    },
+    {
+      "text": "忘不记",
+      "pos": "v",
+      "pos_desc": "动词",
+      "freq": 3
+    },
+    {
+      "text": "原不谅",
+      "pos": "v",
+      "pos_desc": "动词",
+      "freq": 3
+    },
+    {
+      "text": "愤恨",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 3
+    },
+    {
+      "text": "无疆",
+      "pos": "adj",
+      "pos_desc": "形容词",
+      "freq": 3
+    },
+    {
+      "text": "肃不清",
+      "pos": "v",
+      "pos_desc": "动词",
+      "freq": 3
+    },
+    {
+      "text": "除不尽",
+      "pos": "v",
+      "pos_desc": "动词",
+      "freq": 3
+    },
+    {
+      "text": "魑魅魍魉",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 3
+    },
+    {
+      "text": "幼",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 3
+    },
+    {
+      "text": "无粮",
+      "pos": "v",
+      "pos_desc": "动词",
+      "freq": 3
+    },
+    {
+      "text": "民",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 3
+    },
+    {
+      "text": "无房",
+      "pos": "v",
+      "pos_desc": "动词",
+      "freq": 3
+    },
+    {
+      "text": "谁",
+      "pos": "pron",
+      "pos_desc": "代词",
+      "freq": 3
+    },
+    {
+      "text": "分赃",
+      "pos": "v",
+      "pos_desc": "动词",
+      "freq": 3
+    },
+    {
+      "text": "千年",
+      "pos": "num",
+      "pos_desc": "数词",
+      "freq": 3
+    },
+    {
+      "text": "后",
+      "pos": "prep",
+      "pos_desc": "介词",
+      "freq": 3
+    },
+    {
+      "text": "你",
+      "pos": "pron",
+      "pos_desc": "代词",
+      "freq": 3
+    },
+    {
+      "text": "我",
+      "pos": "pron",
+      "pos_desc": "代词",
+      "freq": 3
+    },
+    {
+      "text": "都",
+      "pos": "adv",
+      "pos_desc": "副词",
+      "freq": 3
+    },
+    {
+      "text": "仍",
+      "pos": "adv",
+      "pos_desc": "副词",
+      "freq": 3
+    },
+    {
+      "text": "被",
+      "pos": "prep",
+      "pos_desc": "介词",
+      "freq": 3
+    },
+    {
+      "text": "豢养",
+      "pos": "v",
+      "pos_desc": "动词",
+      "freq": 3
+    },
+    {
+      "text": "四面楚歌",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 3
+    },
+    {
+      "text": "谁",
+      "pos": "pron",
+      "pos_desc": "代词",
+      "freq": 3
+    },
+    {
+      "text": "独唱",
+      "pos": "v",
+      "pos_desc": "动词",
+      "freq": 3
+    },
+    {
+      "text": "已",
+      "pos": "adv",
+      "pos_desc": "副词",
+      "freq": 3
+    },
+    {
+      "text": "白昼",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 3
+    },
+    {
+      "text": "隐没",
+      "pos": "v",
+      "pos_desc": "动词",
+      "freq": 3
+    },
+    {
+      "text": "了",
+      "pos": "part",
+      "pos_desc": "助词",
+      "freq": 3
+    },
+    {
+      "text": "星光",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 3
+    },
+    {
+      "text": "像",
+      "pos": "prep",
+      "pos_desc": "介词",
+      "freq": 3
+    },
+    {
+      "text": "我们",
+      "pos": "pron",
+      "pos_desc": "代词",
+      "freq": 3
+    },
+    {
+      "text": "都",
+      "pos": "adv",
+      "pos_desc": "副词",
+      "freq": 3
+    },
+    {
+      "text": "终将",
+      "pos": "adv",
+      "pos_desc": "副词",
+      "freq": 3
+    },
+    {
+      "text": "葬身",
+      "pos": "v",
+      "pos_desc": "动词",
+      "freq": 3
+    },
+    {
+      "text": "历史",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 3
+    },
+    {
+      "text": "洪荒",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 3
+    },
+    {
+      "text": "世人",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 3
+    },
+    {
+      "text": "血液",
+      "pos": "n",
+      "pos_desc": "名词",
+      "freq": 3
+    },
+    {
+      "text": "曾",
+      "pos": "adv",
+      "pos_desc": "副词",
+      "freq": 3
+    },
+    {
+      "text": "为",
+      "pos": "prep",
+      "pos_desc": "介词",
+      "freq": 3
+    },
+    {
+      "text": "入阵去",
+      "pos": "v",
+      "pos_desc": "动词",
+      "freq": 3
+    },
+    {
+      "text": "只因",
+      "pos": "conj",
+      "pos_desc": "连词",
+      "freq": 3
+    },
+    {
+      "text": "恨铁不成钢",
+      "pos": "other",
+      "pos_desc": "其他",
+      "freq": 3
+    }
+  ]
+}

@@ -1,0 +1,1386 @@
+{
+    "n": {
+        "nodes": [
+            {
+                "id": "song102065754",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.9999999999999996,
+                "y": -5.7119473269171585e-09,
+                "node_type": "song",
+                "label": "止战之殇",
+                "album_id": "album20612",
+                "album": "七里香",
+                "album_order": 4,
+                "data": {
+                    "cluster": "七里香"
+                }
+            },
+            {
+                "id": "word134",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.9238795046385923,
+                "y": 0.3826834480462462,
+                "label": "家",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 29
+            },
+            {
+                "id": "song361947418",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.7071067707579207,
+                "y": 0.7071067593340264,
+                "node_type": "song",
+                "label": "最伟大的作品",
+                "album_id": "album28791467",
+                "album": "最伟大的作品",
+                "album_order": 14,
+                "data": {
+                    "cluster": "最伟大的作品"
+                }
+            },
+            {
+                "id": "word2330",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.38268345947014054,
+                "y": 0.923879493214698,
+                "label": "音乐",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 18
+            },
+            {
+                "id": "song101787868",
+                "size": 2,
+                "size_show": 3,
+                "x": -3.7999441043210525e-08,
+                "y": 0.9999999885761053,
+                "node_type": "song",
+                "label": "一口气全念对",
+                "album_id": "album852856",
+                "album": "哎呦，不错哦",
+                "album_order": 12,
+                "data": {
+                    "cluster": "哎呦，不错哦"
+                }
+            },
+            {
+                "id": "word225",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.3826833884416021,
+                "y": 0.9238795528193424,
+                "label": "心",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 33
+            },
+            {
+                "id": "song718479",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.7071067593340268,
+                "y": 0.7071067593340264,
+                "node_type": "song",
+                "label": "枫",
+                "album_id": "album60671",
+                "album": "十一月的萧邦",
+                "album_order": 5,
+                "data": {
+                    "cluster": "十一月的萧邦"
+                }
+            },
+            {
+                "id": "word884",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.9238794932146983,
+                "y": 0.38268347784856843,
+                "label": "眼泪",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 19
+            },
+            {
+                "id": "song107192080",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.9999999885761056,
+                "y": -9.313472340103871e-08,
+                "node_type": "song",
+                "label": "爱情废柴",
+                "album_id": "album1458791",
+                "album": "周杰伦的床边故事",
+                "album_order": 13,
+                "data": {
+                    "cluster": "周杰伦的床边故事"
+                }
+            },
+            {
+                "id": "word389",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.9238794932146983,
+                "y": -0.3826834594701409,
+                "label": "笑容",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 18
+            },
+            {
+                "id": "song107192071",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.7071068189386712,
+                "y": -0.7071067111532767,
+                "node_type": "song",
+                "label": "床边故事",
+                "album_id": "album1458791",
+                "album": "周杰伦的床边故事",
+                "album_order": 13,
+                "data": {
+                    "cluster": "周杰伦的床边故事"
+                }
+            },
+            {
+                "id": "word163",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.3826835672555354,
+                "y": -0.9238794450339481,
+                "label": "人",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 64
+            },
+            {
+                "id": "song213922043",
+                "size": 2,
+                "size_show": 3,
+                "x": 1.7636827564239016e-08,
+                "y": -1.0,
+                "node_type": "song",
+                "label": "不爱我就拉倒",
+                "album_id": "album28791467",
+                "album": "最伟大的作品",
+                "album_order": 14,
+                "data": {
+                    "cluster": "最伟大的作品"
+                }
+            },
+            {
+                "id": "word17",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.38268357867942937,
+                "y": -0.9238794450339481,
+                "label": "手",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 37
+            },
+            {
+                "id": "song107192078",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.707106651548632,
+                "y": -0.7071068899672099,
+                "node_type": "song",
+                "label": "告白气球",
+                "album_id": "album1458791",
+                "album": "周杰伦的床边故事",
+                "album_order": 13,
+                "data": {
+                    "cluster": "周杰伦的床边故事"
+                }
+            },
+            {
+                "id": "word44",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.9238795642432367,
+                "y": -0.38268342966781865,
+                "label": "风",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 45
+            }
+        ],
+        "edges": [
+            {
+                "source": "song102065754",
+                "target": "word134",
+                "album": "七里香",
+                "album_order": 4
+            },
+            {
+                "source": "song102065754",
+                "target": "word44",
+                "album": "七里香",
+                "album_order": 4
+            },
+            {
+                "source": "word134",
+                "target": "song361947418",
+                "album": "最伟大的作品",
+                "album_order": 14
+            },
+            {
+                "source": "song361947418",
+                "target": "word2330",
+                "album": "最伟大的作品",
+                "album_order": 14
+            },
+            {
+                "source": "word2330",
+                "target": "song101787868",
+                "album": "哎呦，不错哦",
+                "album_order": 12
+            },
+            {
+                "source": "song101787868",
+                "target": "word225",
+                "album": "哎呦，不错哦",
+                "album_order": 12
+            },
+            {
+                "source": "word225",
+                "target": "song718479",
+                "album": "十一月的萧邦",
+                "album_order": 5
+            },
+            {
+                "source": "song718479",
+                "target": "word884",
+                "album": "十一月的萧邦",
+                "album_order": 5
+            },
+            {
+                "source": "word884",
+                "target": "song107192080",
+                "album": "周杰伦的床边故事",
+                "album_order": 13
+            },
+            {
+                "source": "song107192080",
+                "target": "word389",
+                "album": "周杰伦的床边故事",
+                "album_order": 13
+            },
+            {
+                "source": "word389",
+                "target": "song107192071",
+                "album": "周杰伦的床边故事",
+                "album_order": 13
+            },
+            {
+                "source": "song107192071",
+                "target": "word163",
+                "album": "周杰伦的床边故事",
+                "album_order": 13
+            },
+            {
+                "source": "word163",
+                "target": "song213922043",
+                "album": "最伟大的作品",
+                "album_order": 14
+            },
+            {
+                "source": "song213922043",
+                "target": "word17",
+                "album": "最伟大的作品",
+                "album_order": 14
+            },
+            {
+                "source": "word17",
+                "target": "song107192078",
+                "album": "周杰伦的床边故事",
+                "album_order": 13
+            },
+            {
+                "source": "song107192078",
+                "target": "word44",
+                "album": "周杰伦的床边故事",
+                "album_order": 13
+            }
+        ],
+        "data_info": {
+            "singer": "周杰伦",
+            "title": "录音室专辑 (最大环)",
+            "pos": "名词",
+            "all_num": 161,
+            "has_pos_num": 154,
+            "word_num": "Largest Cycle",
+            "num_unit": "首",
+            "nodes_type": "名词-歌曲",
+            "chart_title": "周杰伦歌词 高频名词-歌曲关系图",
+            "chart_sub_title": "共统计161首歌曲，覆盖量(含该词的歌曲数)最高的Largest Cycle个名词，涵盖154首歌曲。",
+            "cycle_length": 16,
+            "cycle_desc": "最大环图",
+            "description": "该最大环长度为 16，包含 8 个名词节点和 8 首歌曲，涉及 5 张专辑。这种闭合结构反映了词汇在不同歌曲间的高频共现与其形成的语义闭环。",
+            "word_node_count": 8,
+            "song_node_count": 8,
+            "covered_album_count": 5,
+            "all_nodes_num": 16,
+            "cycle_node_count": 16
+        }
+    },
+    "a": {
+        "nodes": [
+            {
+                "id": "song101369814",
+                "size": 2,
+                "size_show": 3,
+                "x": 1.0,
+                "y": 1.1590888104312498e-09,
+                "node_type": "song",
+                "label": "算什么男人",
+                "album_id": "album852856",
+                "album": "哎呦，不错哦",
+                "album_order": 12,
+                "data": {
+                    "cluster": "哎呦，不错哦"
+                }
+            },
+            {
+                "id": "word862",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.9659258131471902,
+                "y": 0.2588190415600929,
+                "label": "难过",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 11
+            },
+            {
+                "id": "song97755",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.866025389915538,
+                "y": 0.4999999949089345,
+                "node_type": "song",
+                "label": "黑色幽默",
+                "album_id": "album8218",
+                "album": "Jay",
+                "album_order": 0,
+                "data": {
+                    "cluster": "Jay"
+                }
+            },
+            {
+                "id": "word23",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.707106772746186,
+                "y": 0.7071067614049663,
+                "label": "久",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 16
+            },
+            {
+                "id": "song680280",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.49999997644783223,
+                "y": 0.8660254381789624,
+                "node_type": "song",
+                "label": "免费教学录影带",
+                "album_id": "album56705",
+                "album": "跨时代",
+                "album_order": 9,
+                "data": {
+                    "cluster": "跨时代"
+                }
+            },
+            {
+                "id": "word18",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.2588190827036347,
+                "y": 0.9659258018059704,
+                "label": "大",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 19
+            },
+            {
+                "id": "song102065749",
+                "size": 2,
+                "size_show": 3,
+                "x": -3.121107918252761e-08,
+                "y": 0.9999999886587801,
+                "node_type": "song",
+                "label": "将军",
+                "album_id": "album20612",
+                "album": "七里香",
+                "album_order": 4,
+                "data": {
+                    "cluster": "七里香"
+                }
+            },
+            {
+                "id": "word2026",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.2588189980983735,
+                "y": 0.9659258018059704,
+                "label": "沉默",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 14
+            },
+            {
+                "id": "song101787866",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.5000000408541811,
+                "y": 0.8660253785743184,
+                "node_type": "song",
+                "label": "天涯过客",
+                "album_id": "album852856",
+                "album": "哎呦，不错哦",
+                "album_order": 12,
+                "data": {
+                    "cluster": "哎呦，不错哦"
+                }
+            },
+            {
+                "id": "word403",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.707106747745569,
+                "y": 0.7071067614049663,
+                "label": "温柔",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 16
+            },
+            {
+                "id": "song361947418",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.866025364914921,
+                "y": 0.5000000545135785,
+                "node_type": "song",
+                "label": "最伟大的作品",
+                "album_id": "album28791467",
+                "album": "最伟大的作品",
+                "album_order": 14,
+                "data": {
+                    "cluster": "最伟大的作品"
+                }
+            },
+            {
+                "id": "word129",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.9659257881465731,
+                "y": 0.25881913096705894,
+                "label": "美",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 18
+            },
+            {
+                "id": "song97780",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.9999999749993828,
+                "y": -8.626368667023292e-08,
+                "node_type": "song",
+                "label": "梯田",
+                "album_id": "album8220",
+                "album": "叶惠美",
+                "album_order": 3,
+                "data": {
+                    "cluster": "叶惠美"
+                }
+            },
+            {
+                "id": "word46",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.9659257881465731,
+                "y": -0.2588190690442373,
+                "label": "小",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 18
+            },
+            {
+                "id": "song101787864",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.866025424519565,
+                "y": -0.49999996278843484,
+                "node_type": "song",
+                "label": "阳明山",
+                "album_id": "album852856",
+                "album": "哎呦，不错哦",
+                "album_order": 12,
+                "data": {
+                    "cluster": "哎呦，不错哦"
+                }
+            },
+            {
+                "id": "word823",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.707106807350213,
+                "y": -0.7071066994821447,
+                "label": "满",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 13
+            },
+            {
+                "id": "song5177680",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.49999989184257104,
+                "y": -0.8660254358607847,
+                "node_type": "song",
+                "label": "红尘客栈",
+                "album_id": "album194021",
+                "album": "十二新作",
+                "album_order": 11,
+                "data": {
+                    "cluster": "十二新作"
+                }
+            },
+            {
+                "id": "word324",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.2588189682960515,
+                "y": -0.9659257994877928,
+                "label": "快",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 13
+            },
+            {
+                "id": "song107192076",
+                "size": 2,
+                "size_show": 3,
+                "x": 2.4425189047242842e-08,
+                "y": -0.9999999863406025,
+                "node_type": "song",
+                "label": "不该",
+                "album_id": "album1458791",
+                "album": "周杰伦的床边故事",
+                "album_order": 13,
+                "data": {
+                    "cluster": "周杰伦的床边故事"
+                }
+            },
+            {
+                "id": "word792",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.25881899329666863,
+                "y": -0.9659257994877928,
+                "label": "安静",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 19
+            },
+            {
+                "id": "song361947427",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.4999999168431882,
+                "y": -0.8660254358607847,
+                "node_type": "song",
+                "label": "倒影",
+                "album_id": "album28791467",
+                "album": "最伟大的作品",
+                "album_order": 14,
+                "data": {
+                    "cluster": "最伟大的作品"
+                }
+            },
+            {
+                "id": "word25",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.7071066535368979,
+                "y": -0.7071068782960768,
+                "label": "远",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 20
+            },
+            {
+                "id": "song212877900",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.866025330310894,
+                "y": -0.5000001714046889,
+                "node_type": "song",
+                "label": "等你下课",
+                "album_id": "album28791467",
+                "album": "最伟大的作品",
+                "album_order": 14,
+                "data": {
+                    "cluster": "最伟大的作品"
+                }
+            },
+            {
+                "id": "word0",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.9659258727518342,
+                "y": -0.2588188306256612,
+                "label": "好",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 52
+            }
+        ],
+        "edges": [
+            {
+                "source": "song101369814",
+                "target": "word862",
+                "album": "哎呦，不错哦",
+                "album_order": 12
+            },
+            {
+                "source": "song101369814",
+                "target": "word0",
+                "album": "哎呦，不错哦",
+                "album_order": 12
+            },
+            {
+                "source": "word862",
+                "target": "song97755",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "song97755",
+                "target": "word23",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "word23",
+                "target": "song680280",
+                "album": "跨时代",
+                "album_order": 9
+            },
+            {
+                "source": "song680280",
+                "target": "word18",
+                "album": "跨时代",
+                "album_order": 9
+            },
+            {
+                "source": "word18",
+                "target": "song102065749",
+                "album": "七里香",
+                "album_order": 4
+            },
+            {
+                "source": "song102065749",
+                "target": "word2026",
+                "album": "七里香",
+                "album_order": 4
+            },
+            {
+                "source": "word2026",
+                "target": "song101787866",
+                "album": "哎呦，不错哦",
+                "album_order": 12
+            },
+            {
+                "source": "song101787866",
+                "target": "word403",
+                "album": "哎呦，不错哦",
+                "album_order": 12
+            },
+            {
+                "source": "word403",
+                "target": "song361947418",
+                "album": "最伟大的作品",
+                "album_order": 14
+            },
+            {
+                "source": "song361947418",
+                "target": "word129",
+                "album": "最伟大的作品",
+                "album_order": 14
+            },
+            {
+                "source": "word129",
+                "target": "song97780",
+                "album": "叶惠美",
+                "album_order": 3
+            },
+            {
+                "source": "song97780",
+                "target": "word46",
+                "album": "叶惠美",
+                "album_order": 3
+            },
+            {
+                "source": "word46",
+                "target": "song101787864",
+                "album": "哎呦，不错哦",
+                "album_order": 12
+            },
+            {
+                "source": "song101787864",
+                "target": "word823",
+                "album": "哎呦，不错哦",
+                "album_order": 12
+            },
+            {
+                "source": "word823",
+                "target": "song5177680",
+                "album": "十二新作",
+                "album_order": 11
+            },
+            {
+                "source": "song5177680",
+                "target": "word324",
+                "album": "十二新作",
+                "album_order": 11
+            },
+            {
+                "source": "word324",
+                "target": "song107192076",
+                "album": "周杰伦的床边故事",
+                "album_order": 13
+            },
+            {
+                "source": "song107192076",
+                "target": "word792",
+                "album": "周杰伦的床边故事",
+                "album_order": 13
+            },
+            {
+                "source": "word792",
+                "target": "song361947427",
+                "album": "最伟大的作品",
+                "album_order": 14
+            },
+            {
+                "source": "song361947427",
+                "target": "word25",
+                "album": "最伟大的作品",
+                "album_order": 14
+            },
+            {
+                "source": "word25",
+                "target": "song212877900",
+                "album": "最伟大的作品",
+                "album_order": 14
+            },
+            {
+                "source": "song212877900",
+                "target": "word0",
+                "album": "最伟大的作品",
+                "album_order": 14
+            }
+        ],
+        "data_info": {
+            "singer": "周杰伦",
+            "title": "录音室专辑 (最大环)",
+            "pos": "形容词",
+            "all_num": 161,
+            "has_pos_num": 145,
+            "word_num": "Largest Cycle",
+            "num_unit": "首",
+            "nodes_type": "形容词-歌曲",
+            "chart_title": "周杰伦歌词 高频形容词-歌曲关系图",
+            "chart_sub_title": "共统计161首歌曲，覆盖量(含该词的歌曲数)最高的Largest Cycle个形容词，涵盖145首歌曲。",
+            "cycle_length": 24,
+            "cycle_desc": "最大环图",
+            "description": "该最大环长度为 24，包含 12 个形容词节点和 12 首歌曲，涉及 8 张专辑。这种闭合结构反映了词汇在不同歌曲间的高频共现与其形成的语义闭环。",
+            "word_node_count": 12,
+            "song_node_count": 12,
+            "covered_album_count": 8,
+            "all_nodes_num": 24,
+            "cycle_node_count": 24
+        }
+    },
+    "v": {
+        "nodes": [
+            {
+                "id": "word674",
+                "size": 2,
+                "size_show": 3,
+                "x": 1.0,
+                "y": 2.803640458229225e-08,
+                "label": "用",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 30
+            },
+            {
+                "id": "song102066448",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.9396926173613576,
+                "y": 0.34202014713691387,
+                "node_type": "song",
+                "label": "本草纲目",
+                "album_id": "album13004",
+                "album": "依然范特西",
+                "album_order": 6,
+                "data": {
+                    "cluster": "依然范特西"
+                }
+            },
+            {
+                "id": "word410",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.766044441371494,
+                "y": 0.6427875941798642,
+                "label": "听",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 40
+            },
+            {
+                "id": "song3585886",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.49999997764825854,
+                "y": 0.8660254629770789,
+                "node_type": "song",
+                "label": "比较大的大提琴",
+                "album_id": "album194021",
+                "album": "十二新作",
+                "album_order": 11,
+                "data": {
+                    "cluster": "十二新作"
+                }
+            },
+            {
+                "id": "word229",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.1736482355945075,
+                "y": 0.9848077430826954,
+                "label": "等",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 25
+            },
+            {
+                "id": "song101369814",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.17364817598986362,
+                "y": 0.9848077430826954,
+                "node_type": "song",
+                "label": "算什么男人",
+                "album_id": "album852856",
+                "album": "哎呦，不错哦",
+                "album_order": 12,
+                "data": {
+                    "cluster": "哎呦，不错哦"
+                }
+            },
+            {
+                "id": "word718",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.5000000372529024,
+                "y": 0.866025403372435,
+                "label": "开始",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 35
+            },
+            {
+                "id": "song101787869",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.766044411569172,
+                "y": 0.6427876537845081,
+                "node_type": "song",
+                "label": "我要夏天",
+                "album_id": "album852856",
+                "album": "哎呦，不错哦",
+                "album_order": 12,
+                "data": {
+                    "cluster": "哎呦，不错哦"
+                }
+            },
+            {
+                "id": "word138",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.9396925875590356,
+                "y": 0.3420202365438797,
+                "label": "笑",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 34
+            },
+            {
+                "id": "song102340966",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.9999999701976781,
+                "y": -5.9386370688482745e-08,
+                "node_type": "song",
+                "label": "彩虹",
+                "album_id": "album33021",
+                "album": "我很忙",
+                "album_order": 7,
+                "data": {
+                    "cluster": "我很忙"
+                }
+            },
+            {
+                "id": "word42",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.9396925875590356,
+                "y": -0.3420201208664267,
+                "label": "离开",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 31
+            },
+            {
+                "id": "song107192080",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.7660444711738159,
+                "y": -0.642787538107055,
+                "node_type": "song",
+                "label": "爱情废柴",
+                "album_id": "album1458791",
+                "album": "周杰伦的床边故事",
+                "album_order": 13,
+                "data": {
+                    "cluster": "周杰伦的床边故事"
+                }
+            },
+            {
+                "id": "word71",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.4999998882412927,
+                "y": -0.8660254069042698,
+                "label": "写",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 32
+            },
+            {
+                "id": "song361947422",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.17364811638521974,
+                "y": -0.9848077466145302,
+                "node_type": "song",
+                "label": "错过的烟火",
+                "album_id": "album28791467",
+                "album": "最伟大的作品",
+                "album_order": 14,
+                "data": {
+                    "cluster": "最伟大的作品"
+                }
+            },
+            {
+                "id": "word348",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.17364817598986362,
+                "y": -0.9848076870098863,
+                "label": "回忆",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 35
+            },
+            {
+                "id": "song361947427",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.49999991804361466,
+                "y": -0.8660254069042698,
+                "node_type": "song",
+                "label": "倒影",
+                "album_id": "album28791467",
+                "album": "最伟大的作品",
+                "album_order": 14,
+                "data": {
+                    "cluster": "最伟大的作品"
+                }
+            },
+            {
+                "id": "word13",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.7660443221622062,
+                "y": -0.6427877169209867,
+                "label": "想",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 89
+            },
+            {
+                "id": "song361947418",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.9396925577567137,
+                "y": -0.3420203294826803,
+                "node_type": "song",
+                "label": "最伟大的作品",
+                "album_id": "album28791467",
+                "album": "最伟大的作品",
+                "album_order": 14,
+                "data": {
+                    "cluster": "最伟大的作品"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "source": "word674",
+                "target": "song102066448",
+                "album": "依然范特西",
+                "album_order": 6
+            },
+            {
+                "source": "word674",
+                "target": "song361947418",
+                "album": "最伟大的作品",
+                "album_order": 14
+            },
+            {
+                "source": "song102066448",
+                "target": "word410",
+                "album": "依然范特西",
+                "album_order": 6
+            },
+            {
+                "source": "word410",
+                "target": "song3585886",
+                "album": "十二新作",
+                "album_order": 11
+            },
+            {
+                "source": "song3585886",
+                "target": "word229",
+                "album": "十二新作",
+                "album_order": 11
+            },
+            {
+                "source": "word229",
+                "target": "song101369814",
+                "album": "哎呦，不错哦",
+                "album_order": 12
+            },
+            {
+                "source": "song101369814",
+                "target": "word718",
+                "album": "哎呦，不错哦",
+                "album_order": 12
+            },
+            {
+                "source": "word718",
+                "target": "song101787869",
+                "album": "哎呦，不错哦",
+                "album_order": 12
+            },
+            {
+                "source": "song101787869",
+                "target": "word138",
+                "album": "哎呦，不错哦",
+                "album_order": 12
+            },
+            {
+                "source": "word138",
+                "target": "song102340966",
+                "album": "我很忙",
+                "album_order": 7
+            },
+            {
+                "source": "song102340966",
+                "target": "word42",
+                "album": "我很忙",
+                "album_order": 7
+            },
+            {
+                "source": "word42",
+                "target": "song107192080",
+                "album": "周杰伦的床边故事",
+                "album_order": 13
+            },
+            {
+                "source": "song107192080",
+                "target": "word71",
+                "album": "周杰伦的床边故事",
+                "album_order": 13
+            },
+            {
+                "source": "word71",
+                "target": "song361947422",
+                "album": "最伟大的作品",
+                "album_order": 14
+            },
+            {
+                "source": "song361947422",
+                "target": "word348",
+                "album": "最伟大的作品",
+                "album_order": 14
+            },
+            {
+                "source": "word348",
+                "target": "song361947427",
+                "album": "最伟大的作品",
+                "album_order": 14
+            },
+            {
+                "source": "song361947427",
+                "target": "word13",
+                "album": "最伟大的作品",
+                "album_order": 14
+            },
+            {
+                "source": "word13",
+                "target": "song361947418",
+                "album": "最伟大的作品",
+                "album_order": 14
+            }
+        ],
+        "data_info": {
+            "singer": "周杰伦",
+            "title": "录音室专辑 (最大环)",
+            "pos": "动词",
+            "all_num": 161,
+            "has_pos_num": 159,
+            "word_num": "Largest Cycle",
+            "num_unit": "首",
+            "nodes_type": "动词-歌曲",
+            "chart_title": "周杰伦歌词 高频动词-歌曲关系图",
+            "chart_sub_title": "共统计161首歌曲，覆盖量(含该词的歌曲数)最高的Largest Cycle个动词，涵盖159首歌曲。",
+            "cycle_length": 18,
+            "cycle_desc": "最大环图",
+            "description": "该最大环长度为 18，包含 9 个动词节点和 9 首歌曲，涉及 6 张专辑。这种闭合结构反映了词汇在不同歌曲间的高频共现与其形成的语义闭环。",
+            "word_node_count": 9,
+            "song_node_count": 9,
+            "covered_album_count": 6,
+            "all_nodes_num": 18,
+            "cycle_node_count": 18
+        }
+    },
+    "t": {
+        "nodes": [
+            {
+                "id": "song449205",
+                "size": 2,
+                "size_show": 3,
+                "x": 1.0,
+                "y": 2.4504569859664533e-08,
+                "node_type": "song",
+                "label": "稻香",
+                "album_id": "album36062",
+                "album": "魔杰座",
+                "album_order": 8,
+                "data": {
+                    "cluster": "魔杰座"
+                }
+            },
+            {
+                "id": "word219",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.49999997764825854,
+                "y": 0.8660254594452442,
+                "label": "午后",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 3
+            },
+            {
+                "id": "song101787870",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.5000000372529024,
+                "y": 0.8660253998406003,
+                "node_type": "song",
+                "label": "手写的从前",
+                "album_id": "album852856",
+                "album": "哎呦，不错哦",
+                "album_order": 12,
+                "data": {
+                    "cluster": "哎呦，不错哦"
+                }
+            },
+            {
+                "id": "word49",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.9999999701976781,
+                "y": -6.291820541111046e-08,
+                "label": "那年",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 6
+            },
+            {
+                "id": "song361947419",
+                "size": 2,
+                "size_show": 3,
+                "x": -0.4999998882412927,
+                "y": -0.8660254104361045,
+                "node_type": "song",
+                "label": "还在流浪",
+                "album_id": "album28791467",
+                "album": "最伟大的作品",
+                "album_order": 14,
+                "data": {
+                    "cluster": "最伟大的作品"
+                }
+            },
+            {
+                "id": "word56",
+                "size": 2,
+                "size_show": 3,
+                "x": 0.49999991804361466,
+                "y": -0.8660254104361045,
+                "label": "现在",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 17
+            }
+        ],
+        "edges": [
+            {
+                "source": "song449205",
+                "target": "word219",
+                "album": "魔杰座",
+                "album_order": 8
+            },
+            {
+                "source": "song449205",
+                "target": "word56",
+                "album": "魔杰座",
+                "album_order": 8
+            },
+            {
+                "source": "word219",
+                "target": "song101787870",
+                "album": "哎呦，不错哦",
+                "album_order": 12
+            },
+            {
+                "source": "song101787870",
+                "target": "word49",
+                "album": "哎呦，不错哦",
+                "album_order": 12
+            },
+            {
+                "source": "word49",
+                "target": "song361947419",
+                "album": "最伟大的作品",
+                "album_order": 14
+            },
+            {
+                "source": "song361947419",
+                "target": "word56",
+                "album": "最伟大的作品",
+                "album_order": 14
+            }
+        ],
+        "data_info": {
+            "singer": "周杰伦",
+            "title": "录音室专辑 (最大环)",
+            "pos": "时间词",
+            "all_num": 161,
+            "has_pos_num": 70,
+            "word_num": "Largest Cycle",
+            "num_unit": "首",
+            "nodes_type": "时间词-歌曲",
+            "chart_title": "周杰伦歌词 高频时间词-歌曲关系图",
+            "chart_sub_title": "共统计161首歌曲，覆盖量(含该词的歌曲数)最高的Largest Cycle个时间词，涵盖70首歌曲。",
+            "cycle_length": 6,
+            "cycle_desc": "最大环图",
+            "description": "该最大环长度为 6，包含 3 个时间词节点和 3 首歌曲，涉及 3 张专辑。这种闭合结构反映了词汇在不同歌曲间的高频共现与其形成的语义闭环。",
+            "word_node_count": 3,
+            "song_node_count": 3,
+            "covered_album_count": 3,
+            "all_nodes_num": 6,
+            "cycle_node_count": 6
+        }
+    }
+}

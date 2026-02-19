@@ -1,0 +1,3006 @@
+{
+    "n": {
+        "nodes": [
+            {
+                "id": "song97755",
+                "size": 1,
+                "size_show": 1.0,
+                "x": -550.0,
+                "y": 350.0,
+                "node_type": "song",
+                "label": "黑色幽默",
+                "album_id": "album8218",
+                "album": "Jay",
+                "album_order": 0,
+                "data": {
+                    "cluster": "Jay"
+                }
+            },
+            {
+                "id": "word884",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -450.0,
+                "y": 350.0,
+                "label": "眼泪",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 19
+            },
+            {
+                "id": "song97741",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -350.0,
+                "y": 350.0,
+                "node_type": "song",
+                "label": "爸，我回来了",
+                "album_id": "album8217",
+                "album": "范特西",
+                "album_order": 1,
+                "data": {
+                    "cluster": "范特西"
+                }
+            },
+            {
+                "id": "word134",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -250.0,
+                "y": 350.0,
+                "label": "家",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 29
+            },
+            {
+                "id": "song97756",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -150.0,
+                "y": 350.0,
+                "node_type": "song",
+                "label": "伊斯坦堡",
+                "album_id": "album8218",
+                "album": "Jay",
+                "album_order": 0,
+                "data": {
+                    "cluster": "Jay"
+                }
+            },
+            {
+                "id": "word139",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -50.0,
+                "y": 350.0,
+                "label": "梦",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 24
+            },
+            {
+                "id": "song97759",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 50.0,
+                "y": 350.0,
+                "node_type": "song",
+                "label": "反方向的钟",
+                "album_id": "album8218",
+                "album": "Jay",
+                "album_order": 0,
+                "data": {
+                    "cluster": "Jay"
+                }
+            },
+            {
+                "id": "word44",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 150.0,
+                "y": 350.0,
+                "label": "风",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 45
+            },
+            {
+                "id": "song97752",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 250.0,
+                "y": 350.0,
+                "node_type": "song",
+                "label": "星晴",
+                "album_id": "album8218",
+                "album": "Jay",
+                "album_order": 0,
+                "data": {
+                    "cluster": "Jay"
+                }
+            },
+            {
+                "id": "word17",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 350.0,
+                "y": 350.0,
+                "label": "手",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 37
+            },
+            {
+                "id": "song97754",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 450.0,
+                "y": 350.0,
+                "node_type": "song",
+                "label": "斗牛",
+                "album_id": "album8218",
+                "album": "Jay",
+                "album_order": 0,
+                "data": {
+                    "cluster": "Jay"
+                }
+            },
+            {
+                "id": "word952",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 450.0,
+                "y": 250.0,
+                "label": "话",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 24
+            },
+            {
+                "id": "song97751",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 350.0,
+                "y": 250.0,
+                "node_type": "song",
+                "label": "完美主义",
+                "album_id": "album8218",
+                "album": "Jay",
+                "album_order": 0,
+                "data": {
+                    "cluster": "Jay"
+                }
+            },
+            {
+                "id": "word163",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 250.0,
+                "y": 250.0,
+                "label": "人",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 64
+            },
+            {
+                "id": "song97753",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 150.0,
+                "y": 250.0,
+                "node_type": "song",
+                "label": "娘子",
+                "album_id": "album8218",
+                "album": "Jay",
+                "album_order": 0,
+                "data": {
+                    "cluster": "Jay"
+                }
+            },
+            {
+                "id": "word225",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 50.0,
+                "y": 250.0,
+                "label": "心",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 33
+            },
+            {
+                "id": "song97762",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -50.0,
+                "y": 250.0,
+                "node_type": "song",
+                "label": "暗号",
+                "album_id": "album8219",
+                "album": "八度空间",
+                "album_order": 2,
+                "data": {
+                    "cluster": "八度空间"
+                }
+            },
+            {
+                "id": "word167",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -150.0,
+                "y": 250.0,
+                "label": "世界",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 33
+            },
+            {
+                "id": "song97758",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -250.0,
+                "y": 250.0,
+                "node_type": "song",
+                "label": "龙卷风",
+                "album_id": "album8218",
+                "album": "Jay",
+                "album_order": 0,
+                "data": {
+                    "cluster": "Jay"
+                }
+            },
+            {
+                "id": "word646",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -350.0,
+                "y": 250.0,
+                "label": "爱情",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 20
+            },
+            {
+                "id": "song97761",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -450.0,
+                "y": 250.0,
+                "node_type": "song",
+                "label": "半岛铁盒",
+                "album_id": "album8219",
+                "album": "八度空间",
+                "album_order": 2,
+                "data": {
+                    "cluster": "八度空间"
+                }
+            },
+            {
+                "id": "word329",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -550.0,
+                "y": 250.0,
+                "label": "时间",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 26
+            },
+            {
+                "id": "song97765",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -550.0,
+                "y": 150.0,
+                "node_type": "song",
+                "label": "分裂",
+                "album_id": "album8219",
+                "album": "八度空间",
+                "album_order": 2,
+                "data": {
+                    "cluster": "八度空间"
+                }
+            },
+            {
+                "id": "word14",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -450.0,
+                "y": 150.0,
+                "label": "雨",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 27
+            },
+            {
+                "id": "song5244390",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -350.0,
+                "y": 150.0,
+                "node_type": "song",
+                "label": "你听得到",
+                "album_id": "album8220",
+                "album": "叶惠美",
+                "album_order": 3,
+                "data": {
+                    "cluster": "叶惠美"
+                }
+            },
+            {
+                "id": "word59",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -250.0,
+                "y": 150.0,
+                "label": "天空",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 21
+            },
+            {
+                "id": "song97773",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -150.0,
+                "y": 150.0,
+                "node_type": "song",
+                "label": "晴天",
+                "album_id": "album8220",
+                "album": "叶惠美",
+                "album_order": 3,
+                "data": {
+                    "cluster": "叶惠美"
+                }
+            },
+            {
+                "id": "word7",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -50.0,
+                "y": 150.0,
+                "label": "故事",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 25
+            },
+            {
+                "id": "song97767",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 50.0,
+                "y": 150.0,
+                "node_type": "song",
+                "label": "回到过去",
+                "album_id": "album8219",
+                "album": "八度空间",
+                "album_order": 2,
+                "data": {
+                    "cluster": "八度空间"
+                }
+            },
+            {
+                "id": "word878",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 150.0,
+                "y": 150.0,
+                "label": "脸",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 20
+            },
+            {
+                "id": "song718479",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 250.0,
+                "y": 150.0,
+                "node_type": "song",
+                "label": "枫",
+                "album_id": "album60671",
+                "album": "十一月的萧邦",
+                "album_order": 5,
+                "data": {
+                    "cluster": "十一月的萧邦"
+                }
+            },
+            {
+                "id": "word726",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 350.0,
+                "y": 150.0,
+                "label": "风景",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 18
+            },
+            {
+                "id": "song97764",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 450.0,
+                "y": 150.0,
+                "node_type": "song",
+                "label": "火车叨位去",
+                "album_id": "album8219",
+                "album": "八度空间",
+                "album_order": 2,
+                "data": {
+                    "cluster": "八度空间"
+                }
+            },
+            {
+                "id": "word389",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 450.0,
+                "y": 50.0,
+                "label": "笑容",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 18
+            },
+            {
+                "id": "song102066450",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 350.0,
+                "y": 50.0,
+                "node_type": "song",
+                "label": "菊花台",
+                "album_id": "album13004",
+                "album": "依然范特西",
+                "album_order": 6,
+                "data": {
+                    "cluster": "依然范特西"
+                }
+            },
+            {
+                "id": "word364",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 250.0,
+                "y": 50.0,
+                "label": "天",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 16
+            },
+            {
+                "id": "song97780",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 150.0,
+                "y": 50.0,
+                "node_type": "song",
+                "label": "梯田",
+                "album_id": "album8220",
+                "album": "叶惠美",
+                "album_order": 3,
+                "data": {
+                    "cluster": "叶惠美"
+                }
+            },
+            {
+                "id": "word217",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 50.0,
+                "y": 50.0,
+                "label": "歌",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 17
+            },
+            {
+                "id": "song718476",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -50.0,
+                "y": 50.0,
+                "node_type": "song",
+                "label": "四面楚歌",
+                "album_id": "album60671",
+                "album": "十一月的萧邦",
+                "album_order": 5,
+                "data": {
+                    "cluster": "十一月的萧邦"
+                }
+            },
+            {
+                "id": "word2330",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -150.0,
+                "y": 50.0,
+                "label": "音乐",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 18
+            },
+            {
+                "id": "song97777",
+                "size": 1,
+                "size_show": 1.0,
+                "x": -250.0,
+                "y": 50.0,
+                "node_type": "song",
+                "label": "同一种调调",
+                "album_id": "album8220",
+                "album": "叶惠美",
+                "album_order": 3,
+                "data": {
+                    "cluster": "叶惠美"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "source": "song97755",
+                "target": "word884",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "word884",
+                "target": "song97741",
+                "album": "范特西",
+                "album_order": 1
+            },
+            {
+                "source": "song97741",
+                "target": "word134",
+                "album": "范特西",
+                "album_order": 1
+            },
+            {
+                "source": "word134",
+                "target": "song97756",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "song97756",
+                "target": "word139",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "word139",
+                "target": "song97759",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "song97759",
+                "target": "word44",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "word44",
+                "target": "song97752",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "song97752",
+                "target": "word17",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "word17",
+                "target": "song97754",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "song97754",
+                "target": "word952",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "word952",
+                "target": "song97751",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "song97751",
+                "target": "word163",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "word163",
+                "target": "song97753",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "song97753",
+                "target": "word225",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "word225",
+                "target": "song97762",
+                "album": "八度空间",
+                "album_order": 2
+            },
+            {
+                "source": "song97762",
+                "target": "word167",
+                "album": "八度空间",
+                "album_order": 2
+            },
+            {
+                "source": "word167",
+                "target": "song97758",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "song97758",
+                "target": "word646",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "word646",
+                "target": "song97761",
+                "album": "八度空间",
+                "album_order": 2
+            },
+            {
+                "source": "song97761",
+                "target": "word329",
+                "album": "八度空间",
+                "album_order": 2
+            },
+            {
+                "source": "word329",
+                "target": "song97765",
+                "album": "八度空间",
+                "album_order": 2
+            },
+            {
+                "source": "song97765",
+                "target": "word14",
+                "album": "八度空间",
+                "album_order": 2
+            },
+            {
+                "source": "word14",
+                "target": "song5244390",
+                "album": "叶惠美",
+                "album_order": 3
+            },
+            {
+                "source": "song5244390",
+                "target": "word59",
+                "album": "叶惠美",
+                "album_order": 3
+            },
+            {
+                "source": "word59",
+                "target": "song97773",
+                "album": "叶惠美",
+                "album_order": 3
+            },
+            {
+                "source": "song97773",
+                "target": "word7",
+                "album": "叶惠美",
+                "album_order": 3
+            },
+            {
+                "source": "word7",
+                "target": "song97767",
+                "album": "八度空间",
+                "album_order": 2
+            },
+            {
+                "source": "song97767",
+                "target": "word878",
+                "album": "八度空间",
+                "album_order": 2
+            },
+            {
+                "source": "word878",
+                "target": "song718479",
+                "album": "十一月的萧邦",
+                "album_order": 5
+            },
+            {
+                "source": "song718479",
+                "target": "word726",
+                "album": "十一月的萧邦",
+                "album_order": 5
+            },
+            {
+                "source": "word726",
+                "target": "song97764",
+                "album": "八度空间",
+                "album_order": 2
+            },
+            {
+                "source": "song97764",
+                "target": "word389",
+                "album": "八度空间",
+                "album_order": 2
+            },
+            {
+                "source": "word389",
+                "target": "song102066450",
+                "album": "依然范特西",
+                "album_order": 6
+            },
+            {
+                "source": "song102066450",
+                "target": "word364",
+                "album": "依然范特西",
+                "album_order": 6
+            },
+            {
+                "source": "word364",
+                "target": "song97780",
+                "album": "叶惠美",
+                "album_order": 3
+            },
+            {
+                "source": "song97780",
+                "target": "word217",
+                "album": "叶惠美",
+                "album_order": 3
+            },
+            {
+                "source": "word217",
+                "target": "song718476",
+                "album": "十一月的萧邦",
+                "album_order": 5
+            },
+            {
+                "source": "song718476",
+                "target": "word2330",
+                "album": "十一月的萧邦",
+                "album_order": 5
+            },
+            {
+                "source": "word2330",
+                "target": "song97777",
+                "album": "叶惠美",
+                "album_order": 3
+            }
+        ],
+        "data_info": {
+            "singer": "周杰伦",
+            "title": "录音室专辑 (最长路径)",
+            "pos": "名词",
+            "all_num": 161,
+            "has_pos_num": 154,
+            "word_num": "Longest Path",
+            "num_unit": "首",
+            "nodes_type": "名词-歌曲",
+            "chart_title": "周杰伦歌词 高频名词-歌曲关系图",
+            "chart_sub_title": "共统计161首歌曲，覆盖量(含该词的歌曲数)最高的Longest Path个名词，涵盖154首歌曲。",
+            "path_length": 40,
+            "path_desc": "最长路径图",
+            "description": "该最长路径长度为 40，连接了 20 个名词节点和 21 首歌曲，跨越了 6 张专辑。路径展示了词汇与歌曲之间的深度关联链条。",
+            "word_node_count": 20,
+            "song_node_count": 21,
+            "covered_album_count": 6,
+            "all_nodes_num": 41,
+            "path_node_count": 41
+        }
+    },
+    "a": {
+        "nodes": [
+            {
+                "id": "song97759",
+                "size": 1,
+                "size_show": 1.0,
+                "x": -550.0,
+                "y": 350.0,
+                "node_type": "song",
+                "label": "反方向的钟",
+                "album_id": "album8218",
+                "album": "Jay",
+                "album_order": 0,
+                "data": {
+                    "cluster": "Jay"
+                }
+            },
+            {
+                "id": "word486",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -450.0,
+                "y": 350.0,
+                "label": "真",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 24
+            },
+            {
+                "id": "song97751",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -350.0,
+                "y": 350.0,
+                "node_type": "song",
+                "label": "完美主义",
+                "album_id": "album8218",
+                "album": "Jay",
+                "album_order": 0,
+                "data": {
+                    "cluster": "Jay"
+                }
+            },
+            {
+                "id": "word530",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -250.0,
+                "y": 350.0,
+                "label": "难",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 21
+            },
+            {
+                "id": "song97745",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -150.0,
+                "y": 350.0,
+                "node_type": "song",
+                "label": "开不了口",
+                "album_id": "album8217",
+                "album": "范特西",
+                "album_order": 1,
+                "data": {
+                    "cluster": "范特西"
+                }
+            },
+            {
+                "id": "word792",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -50.0,
+                "y": 350.0,
+                "label": "安静",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 19
+            },
+            {
+                "id": "song97743",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 50.0,
+                "y": 350.0,
+                "node_type": "song",
+                "label": "安静",
+                "album_id": "album8217",
+                "album": "范特西",
+                "album_order": 1,
+                "data": {
+                    "cluster": "范特西"
+                }
+            },
+            {
+                "id": "word862",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 150.0,
+                "y": 350.0,
+                "label": "难过",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 11
+            },
+            {
+                "id": "song97753",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 250.0,
+                "y": 350.0,
+                "node_type": "song",
+                "label": "娘子",
+                "album_id": "album8218",
+                "album": "Jay",
+                "album_order": 0,
+                "data": {
+                    "cluster": "Jay"
+                }
+            },
+            {
+                "id": "word46",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 350.0,
+                "y": 350.0,
+                "label": "小",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 18
+            },
+            {
+                "id": "song97756",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 450.0,
+                "y": 350.0,
+                "node_type": "song",
+                "label": "伊斯坦堡",
+                "album_id": "album8218",
+                "album": "Jay",
+                "album_order": 0,
+                "data": {
+                    "cluster": "Jay"
+                }
+            },
+            {
+                "id": "word129",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 450.0,
+                "y": 250.0,
+                "label": "美",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 18
+            },
+            {
+                "id": "song97761",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 350.0,
+                "y": 250.0,
+                "node_type": "song",
+                "label": "半岛铁盒",
+                "album_id": "album8219",
+                "album": "八度空间",
+                "album_order": 2,
+                "data": {
+                    "cluster": "八度空间"
+                }
+            },
+            {
+                "id": "word0",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 250.0,
+                "y": 250.0,
+                "label": "好",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 52
+            },
+            {
+                "id": "song97742",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 150.0,
+                "y": 250.0,
+                "node_type": "song",
+                "label": "上海一九四三",
+                "album_id": "album8217",
+                "album": "范特西",
+                "album_order": 1,
+                "data": {
+                    "cluster": "范特西"
+                }
+            },
+            {
+                "id": "word427",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 50.0,
+                "y": 250.0,
+                "label": "老",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 15
+            },
+            {
+                "id": "song97757",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -50.0,
+                "y": 250.0,
+                "node_type": "song",
+                "label": "印第安老斑鸠",
+                "album_id": "album8218",
+                "album": "Jay",
+                "album_order": 0,
+                "data": {
+                    "cluster": "Jay"
+                }
+            },
+            {
+                "id": "word27",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -150.0,
+                "y": 250.0,
+                "label": "多",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 41
+            },
+            {
+                "id": "song97755",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -250.0,
+                "y": 250.0,
+                "node_type": "song",
+                "label": "黑色幽默",
+                "album_id": "album8218",
+                "album": "Jay",
+                "album_order": 0,
+                "data": {
+                    "cluster": "Jay"
+                }
+            },
+            {
+                "id": "word23",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -350.0,
+                "y": 250.0,
+                "label": "久",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 16
+            },
+            {
+                "id": "song97773",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -450.0,
+                "y": 250.0,
+                "node_type": "song",
+                "label": "晴天",
+                "album_id": "album8220",
+                "album": "叶惠美",
+                "album_order": 3,
+                "data": {
+                    "cluster": "叶惠美"
+                }
+            },
+            {
+                "id": "word25",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -550.0,
+                "y": 250.0,
+                "label": "远",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 20
+            },
+            {
+                "id": "song97777",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -550.0,
+                "y": 150.0,
+                "node_type": "song",
+                "label": "同一种调调",
+                "album_id": "album8220",
+                "album": "叶惠美",
+                "album_order": 3,
+                "data": {
+                    "cluster": "叶惠美"
+                }
+            },
+            {
+                "id": "word324",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -450.0,
+                "y": 150.0,
+                "label": "快",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 13
+            },
+            {
+                "id": "song102066257",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -350.0,
+                "y": 150.0,
+                "node_type": "song",
+                "label": "听妈妈的话",
+                "album_id": "album13004",
+                "album": "依然范特西",
+                "album_order": 6,
+                "data": {
+                    "cluster": "依然范特西"
+                }
+            },
+            {
+                "id": "word18",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -250.0,
+                "y": 150.0,
+                "label": "大",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 19
+            },
+            {
+                "id": "song97750",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -150.0,
+                "y": 150.0,
+                "node_type": "song",
+                "label": "可爱女人",
+                "album_id": "album8218",
+                "album": "Jay",
+                "album_order": 0,
+                "data": {
+                    "cluster": "Jay"
+                }
+            },
+            {
+                "id": "word403",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -50.0,
+                "y": 150.0,
+                "label": "温柔",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 16
+            },
+            {
+                "id": "song97771",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 50.0,
+                "y": 150.0,
+                "node_type": "song",
+                "label": "以父之名",
+                "album_id": "album8220",
+                "album": "叶惠美",
+                "album_order": 3,
+                "data": {
+                    "cluster": "叶惠美"
+                }
+            },
+            {
+                "id": "word2026",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 150.0,
+                "y": 150.0,
+                "label": "沉默",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 14
+            },
+            {
+                "id": "song101787867",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 250.0,
+                "y": 150.0,
+                "node_type": "song",
+                "label": "怎么了",
+                "album_id": "album852856",
+                "album": "哎呦，不错哦",
+                "album_order": 12,
+                "data": {
+                    "cluster": "哎呦，不错哦"
+                }
+            },
+            {
+                "id": "word161",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 350.0,
+                "y": 150.0,
+                "label": "快乐",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 15
+            },
+            {
+                "id": "song718483",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 450.0,
+                "y": 150.0,
+                "node_type": "song",
+                "label": "麦芽糖",
+                "album_id": "album60671",
+                "album": "十一月的萧邦",
+                "album_order": 5,
+                "data": {
+                    "cluster": "十一月的萧邦"
+                }
+            },
+            {
+                "id": "word120",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 450.0,
+                "y": 50.0,
+                "label": "幸福",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 13
+            },
+            {
+                "id": "song102320103",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 350.0,
+                "y": 50.0,
+                "node_type": "song",
+                "label": "白色风车",
+                "album_id": "album13004",
+                "album": "依然范特西",
+                "album_order": 6,
+                "data": {
+                    "cluster": "依然范特西"
+                }
+            },
+            {
+                "id": "word1223",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 250.0,
+                "y": 50.0,
+                "label": "自由",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 13
+            },
+            {
+                "id": "song97762",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 150.0,
+                "y": 50.0,
+                "node_type": "song",
+                "label": "暗号",
+                "album_id": "album8219",
+                "album": "八度空间",
+                "album_order": 2,
+                "data": {
+                    "cluster": "八度空间"
+                }
+            },
+            {
+                "id": "word206",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 50.0,
+                "y": 50.0,
+                "label": "累",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 12
+            },
+            {
+                "id": "song718481",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -50.0,
+                "y": 50.0,
+                "node_type": "song",
+                "label": "蓝色风暴",
+                "album_id": "album60671",
+                "album": "十一月的萧邦",
+                "album_order": 5,
+                "data": {
+                    "cluster": "十一月的萧邦"
+                }
+            },
+            {
+                "id": "word823",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -150.0,
+                "y": 50.0,
+                "label": "满",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 13
+            },
+            {
+                "id": "song97748",
+                "size": 1,
+                "size_show": 1.0,
+                "x": -250.0,
+                "y": 50.0,
+                "node_type": "song",
+                "label": "威廉古堡",
+                "album_id": "album8217",
+                "album": "范特西",
+                "album_order": 1,
+                "data": {
+                    "cluster": "范特西"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "source": "song97759",
+                "target": "word486",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "word486",
+                "target": "song97751",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "song97751",
+                "target": "word530",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "word530",
+                "target": "song97745",
+                "album": "范特西",
+                "album_order": 1
+            },
+            {
+                "source": "song97745",
+                "target": "word792",
+                "album": "范特西",
+                "album_order": 1
+            },
+            {
+                "source": "word792",
+                "target": "song97743",
+                "album": "范特西",
+                "album_order": 1
+            },
+            {
+                "source": "song97743",
+                "target": "word862",
+                "album": "范特西",
+                "album_order": 1
+            },
+            {
+                "source": "word862",
+                "target": "song97753",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "song97753",
+                "target": "word46",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "word46",
+                "target": "song97756",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "song97756",
+                "target": "word129",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "word129",
+                "target": "song97761",
+                "album": "八度空间",
+                "album_order": 2
+            },
+            {
+                "source": "song97761",
+                "target": "word0",
+                "album": "八度空间",
+                "album_order": 2
+            },
+            {
+                "source": "word0",
+                "target": "song97742",
+                "album": "范特西",
+                "album_order": 1
+            },
+            {
+                "source": "song97742",
+                "target": "word427",
+                "album": "范特西",
+                "album_order": 1
+            },
+            {
+                "source": "word427",
+                "target": "song97757",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "song97757",
+                "target": "word27",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "word27",
+                "target": "song97755",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "song97755",
+                "target": "word23",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "word23",
+                "target": "song97773",
+                "album": "叶惠美",
+                "album_order": 3
+            },
+            {
+                "source": "song97773",
+                "target": "word25",
+                "album": "叶惠美",
+                "album_order": 3
+            },
+            {
+                "source": "word25",
+                "target": "song97777",
+                "album": "叶惠美",
+                "album_order": 3
+            },
+            {
+                "source": "song97777",
+                "target": "word324",
+                "album": "叶惠美",
+                "album_order": 3
+            },
+            {
+                "source": "word324",
+                "target": "song102066257",
+                "album": "依然范特西",
+                "album_order": 6
+            },
+            {
+                "source": "song102066257",
+                "target": "word18",
+                "album": "依然范特西",
+                "album_order": 6
+            },
+            {
+                "source": "word18",
+                "target": "song97750",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "song97750",
+                "target": "word403",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "word403",
+                "target": "song97771",
+                "album": "叶惠美",
+                "album_order": 3
+            },
+            {
+                "source": "song97771",
+                "target": "word2026",
+                "album": "叶惠美",
+                "album_order": 3
+            },
+            {
+                "source": "word2026",
+                "target": "song101787867",
+                "album": "哎呦，不错哦",
+                "album_order": 12
+            },
+            {
+                "source": "song101787867",
+                "target": "word161",
+                "album": "哎呦，不错哦",
+                "album_order": 12
+            },
+            {
+                "source": "word161",
+                "target": "song718483",
+                "album": "十一月的萧邦",
+                "album_order": 5
+            },
+            {
+                "source": "song718483",
+                "target": "word120",
+                "album": "十一月的萧邦",
+                "album_order": 5
+            },
+            {
+                "source": "word120",
+                "target": "song102320103",
+                "album": "依然范特西",
+                "album_order": 6
+            },
+            {
+                "source": "song102320103",
+                "target": "word1223",
+                "album": "依然范特西",
+                "album_order": 6
+            },
+            {
+                "source": "word1223",
+                "target": "song97762",
+                "album": "八度空间",
+                "album_order": 2
+            },
+            {
+                "source": "song97762",
+                "target": "word206",
+                "album": "八度空间",
+                "album_order": 2
+            },
+            {
+                "source": "word206",
+                "target": "song718481",
+                "album": "十一月的萧邦",
+                "album_order": 5
+            },
+            {
+                "source": "song718481",
+                "target": "word823",
+                "album": "十一月的萧邦",
+                "album_order": 5
+            },
+            {
+                "source": "word823",
+                "target": "song97748",
+                "album": "范特西",
+                "album_order": 1
+            }
+        ],
+        "data_info": {
+            "singer": "周杰伦",
+            "title": "录音室专辑 (最长路径)",
+            "pos": "形容词",
+            "all_num": 161,
+            "has_pos_num": 145,
+            "word_num": "Longest Path",
+            "num_unit": "首",
+            "nodes_type": "形容词-歌曲",
+            "chart_title": "周杰伦歌词 高频形容词-歌曲关系图",
+            "chart_sub_title": "共统计161首歌曲，覆盖量(含该词的歌曲数)最高的Longest Path个形容词，涵盖145首歌曲。",
+            "path_length": 40,
+            "path_desc": "最长路径图",
+            "description": "该最长路径长度为 40，连接了 20 个形容词节点和 21 首歌曲，跨越了 7 张专辑。路径展示了词汇与歌曲之间的深度关联链条。",
+            "word_node_count": 20,
+            "song_node_count": 21,
+            "covered_album_count": 7,
+            "all_nodes_num": 41,
+            "path_node_count": 41
+        }
+    },
+    "v": {
+        "nodes": [
+            {
+                "id": "song97753",
+                "size": 1,
+                "size_show": 1.0,
+                "x": -550.0,
+                "y": 350.0,
+                "node_type": "song",
+                "label": "娘子",
+                "album_id": "album8218",
+                "album": "Jay",
+                "album_order": 0,
+                "data": {
+                    "cluster": "Jay"
+                }
+            },
+            {
+                "id": "word229",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -450.0,
+                "y": 350.0,
+                "label": "等",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 25
+            },
+            {
+                "id": "song97760",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -350.0,
+                "y": 350.0,
+                "node_type": "song",
+                "label": "半兽人",
+                "album_id": "album8219",
+                "album": "八度空间",
+                "album_order": 2,
+                "data": {
+                    "cluster": "八度空间"
+                }
+            },
+            {
+                "id": "word71",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -250.0,
+                "y": 350.0,
+                "label": "写",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 32
+            },
+            {
+                "id": "song97751",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -150.0,
+                "y": 350.0,
+                "node_type": "song",
+                "label": "完美主义",
+                "album_id": "album8218",
+                "album": "Jay",
+                "album_order": 0,
+                "data": {
+                    "cluster": "Jay"
+                }
+            },
+            {
+                "id": "word348",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -50.0,
+                "y": 350.0,
+                "label": "回忆",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 35
+            },
+            {
+                "id": "song97759",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 50.0,
+                "y": 350.0,
+                "node_type": "song",
+                "label": "反方向的钟",
+                "album_id": "album8218",
+                "album": "Jay",
+                "album_order": 0,
+                "data": {
+                    "cluster": "Jay"
+                }
+            },
+            {
+                "id": "word13",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 150.0,
+                "y": 350.0,
+                "label": "想",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 89
+            },
+            {
+                "id": "song97758",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 250.0,
+                "y": 350.0,
+                "node_type": "song",
+                "label": "龙卷风",
+                "album_id": "album8218",
+                "album": "Jay",
+                "album_order": 0,
+                "data": {
+                    "cluster": "Jay"
+                }
+            },
+            {
+                "id": "word42",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 350.0,
+                "y": 350.0,
+                "label": "离开",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 31
+            },
+            {
+                "id": "song97745",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 450.0,
+                "y": 350.0,
+                "node_type": "song",
+                "label": "开不了口",
+                "album_id": "album8217",
+                "album": "范特西",
+                "album_order": 1,
+                "data": {
+                    "cluster": "范特西"
+                }
+            },
+            {
+                "id": "word138",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 450.0,
+                "y": 250.0,
+                "label": "笑",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 34
+            },
+            {
+                "id": "song97748",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 350.0,
+                "y": 250.0,
+                "node_type": "song",
+                "label": "威廉古堡",
+                "album_id": "album8217",
+                "album": "范特西",
+                "album_order": 1,
+                "data": {
+                    "cluster": "范特西"
+                }
+            },
+            {
+                "id": "word166",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 250.0,
+                "y": 250.0,
+                "label": "怕",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 23
+            },
+            {
+                "id": "song97755",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 150.0,
+                "y": 250.0,
+                "node_type": "song",
+                "label": "黑色幽默",
+                "album_id": "album8218",
+                "album": "Jay",
+                "album_order": 0,
+                "data": {
+                    "cluster": "Jay"
+                }
+            },
+            {
+                "id": "word410",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 50.0,
+                "y": 250.0,
+                "label": "听",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 40
+            },
+            {
+                "id": "song97752",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -50.0,
+                "y": 250.0,
+                "node_type": "song",
+                "label": "星晴",
+                "album_id": "album8218",
+                "album": "Jay",
+                "album_order": 0,
+                "data": {
+                    "cluster": "Jay"
+                }
+            },
+            {
+                "id": "word851",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -150.0,
+                "y": 250.0,
+                "label": "牵",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 20
+            },
+            {
+                "id": "song97743",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -250.0,
+                "y": 250.0,
+                "node_type": "song",
+                "label": "安静",
+                "album_id": "album8217",
+                "album": "范特西",
+                "album_order": 1,
+                "data": {
+                    "cluster": "范特西"
+                }
+            },
+            {
+                "id": "word149",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -350.0,
+                "y": 250.0,
+                "label": "知道",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 38
+            },
+            {
+                "id": "song97756",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -450.0,
+                "y": 250.0,
+                "node_type": "song",
+                "label": "伊斯坦堡",
+                "album_id": "album8218",
+                "album": "Jay",
+                "album_order": 0,
+                "data": {
+                    "cluster": "Jay"
+                }
+            },
+            {
+                "id": "word680",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -550.0,
+                "y": 250.0,
+                "label": "微笑",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 35
+            },
+            {
+                "id": "song97765",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -550.0,
+                "y": 150.0,
+                "node_type": "song",
+                "label": "分裂",
+                "album_id": "album8219",
+                "album": "八度空间",
+                "album_order": 2,
+                "data": {
+                    "cluster": "八度空间"
+                }
+            },
+            {
+                "id": "word718",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -450.0,
+                "y": 150.0,
+                "label": "开始",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 35
+            },
+            {
+                "id": "song97762",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -350.0,
+                "y": 150.0,
+                "node_type": "song",
+                "label": "暗号",
+                "album_id": "album8219",
+                "album": "八度空间",
+                "album_order": 2,
+                "data": {
+                    "cluster": "八度空间"
+                }
+            },
+            {
+                "id": "word2",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -250.0,
+                "y": 150.0,
+                "label": "爱",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 76
+            },
+            {
+                "id": "song97740",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -150.0,
+                "y": 150.0,
+                "node_type": "song",
+                "label": "爱在西元前",
+                "album_id": "album8217",
+                "album": "范特西",
+                "album_order": 1,
+                "data": {
+                    "cluster": "范特西"
+                }
+            },
+            {
+                "id": "word196",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -50.0,
+                "y": 150.0,
+                "label": "喜欢",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 21
+            },
+            {
+                "id": "song97774",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 50.0,
+                "y": 150.0,
+                "node_type": "song",
+                "label": "三年二班",
+                "album_id": "album8220",
+                "album": "叶惠美",
+                "album_order": 3,
+                "data": {
+                    "cluster": "叶惠美"
+                }
+            },
+            {
+                "id": "word674",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 150.0,
+                "y": 150.0,
+                "label": "用",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 30
+            },
+            {
+                "id": "song97775",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 250.0,
+                "y": 150.0,
+                "node_type": "song",
+                "label": "东风破",
+                "album_id": "album8220",
+                "album": "叶惠美",
+                "album_order": 3,
+                "data": {
+                    "cluster": "叶惠美"
+                }
+            },
+            {
+                "id": "word142",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 350.0,
+                "y": 150.0,
+                "label": "记得",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 20
+            },
+            {
+                "id": "song102065748",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 450.0,
+                "y": 150.0,
+                "node_type": "song",
+                "label": "外婆",
+                "album_id": "album20612",
+                "album": "七里香",
+                "album_order": 4,
+                "data": {
+                    "cluster": "七里香"
+                }
+            },
+            {
+                "id": "word1347",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 450.0,
+                "y": 50.0,
+                "label": "需要",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 21
+            },
+            {
+                "id": "song102320103",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 350.0,
+                "y": 50.0,
+                "node_type": "song",
+                "label": "白色风车",
+                "album_id": "album13004",
+                "album": "依然范特西",
+                "album_order": 6,
+                "data": {
+                    "cluster": "依然范特西"
+                }
+            },
+            {
+                "id": "word150",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 250.0,
+                "y": 50.0,
+                "label": "哭",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 19
+            },
+            {
+                "id": "song102340967",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 150.0,
+                "y": 50.0,
+                "node_type": "song",
+                "label": "无双",
+                "album_id": "album33021",
+                "album": "我很忙",
+                "album_order": 7,
+                "data": {
+                    "cluster": "我很忙"
+                }
+            },
+            {
+                "id": "word136",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 50.0,
+                "y": 50.0,
+                "label": "继续",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 19
+            },
+            {
+                "id": "song3585886",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -50.0,
+                "y": 50.0,
+                "node_type": "song",
+                "label": "比较大的大提琴",
+                "album_id": "album194021",
+                "album": "十二新作",
+                "album_order": 11,
+                "data": {
+                    "cluster": "十二新作"
+                }
+            },
+            {
+                "id": "word117",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -150.0,
+                "y": 50.0,
+                "label": "掉",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 20
+            },
+            {
+                "id": "song97769",
+                "size": 1,
+                "size_show": 1.0,
+                "x": -250.0,
+                "y": 50.0,
+                "node_type": "song",
+                "label": "最后的战役",
+                "album_id": "album8219",
+                "album": "八度空间",
+                "album_order": 2,
+                "data": {
+                    "cluster": "八度空间"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "source": "song97753",
+                "target": "word229",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "word229",
+                "target": "song97760",
+                "album": "八度空间",
+                "album_order": 2
+            },
+            {
+                "source": "song97760",
+                "target": "word71",
+                "album": "八度空间",
+                "album_order": 2
+            },
+            {
+                "source": "word71",
+                "target": "song97751",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "song97751",
+                "target": "word348",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "word348",
+                "target": "song97759",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "song97759",
+                "target": "word13",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "word13",
+                "target": "song97758",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "song97758",
+                "target": "word42",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "word42",
+                "target": "song97745",
+                "album": "范特西",
+                "album_order": 1
+            },
+            {
+                "source": "song97745",
+                "target": "word138",
+                "album": "范特西",
+                "album_order": 1
+            },
+            {
+                "source": "word138",
+                "target": "song97748",
+                "album": "范特西",
+                "album_order": 1
+            },
+            {
+                "source": "song97748",
+                "target": "word166",
+                "album": "范特西",
+                "album_order": 1
+            },
+            {
+                "source": "word166",
+                "target": "song97755",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "song97755",
+                "target": "word410",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "word410",
+                "target": "song97752",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "song97752",
+                "target": "word851",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "word851",
+                "target": "song97743",
+                "album": "范特西",
+                "album_order": 1
+            },
+            {
+                "source": "song97743",
+                "target": "word149",
+                "album": "范特西",
+                "album_order": 1
+            },
+            {
+                "source": "word149",
+                "target": "song97756",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "song97756",
+                "target": "word680",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "word680",
+                "target": "song97765",
+                "album": "八度空间",
+                "album_order": 2
+            },
+            {
+                "source": "song97765",
+                "target": "word718",
+                "album": "八度空间",
+                "album_order": 2
+            },
+            {
+                "source": "word718",
+                "target": "song97762",
+                "album": "八度空间",
+                "album_order": 2
+            },
+            {
+                "source": "song97762",
+                "target": "word2",
+                "album": "八度空间",
+                "album_order": 2
+            },
+            {
+                "source": "word2",
+                "target": "song97740",
+                "album": "范特西",
+                "album_order": 1
+            },
+            {
+                "source": "song97740",
+                "target": "word196",
+                "album": "范特西",
+                "album_order": 1
+            },
+            {
+                "source": "word196",
+                "target": "song97774",
+                "album": "叶惠美",
+                "album_order": 3
+            },
+            {
+                "source": "song97774",
+                "target": "word674",
+                "album": "叶惠美",
+                "album_order": 3
+            },
+            {
+                "source": "word674",
+                "target": "song97775",
+                "album": "叶惠美",
+                "album_order": 3
+            },
+            {
+                "source": "song97775",
+                "target": "word142",
+                "album": "叶惠美",
+                "album_order": 3
+            },
+            {
+                "source": "word142",
+                "target": "song102065748",
+                "album": "七里香",
+                "album_order": 4
+            },
+            {
+                "source": "song102065748",
+                "target": "word1347",
+                "album": "七里香",
+                "album_order": 4
+            },
+            {
+                "source": "word1347",
+                "target": "song102320103",
+                "album": "依然范特西",
+                "album_order": 6
+            },
+            {
+                "source": "song102320103",
+                "target": "word150",
+                "album": "依然范特西",
+                "album_order": 6
+            },
+            {
+                "source": "word150",
+                "target": "song102340967",
+                "album": "我很忙",
+                "album_order": 7
+            },
+            {
+                "source": "song102340967",
+                "target": "word136",
+                "album": "我很忙",
+                "album_order": 7
+            },
+            {
+                "source": "word136",
+                "target": "song3585886",
+                "album": "十二新作",
+                "album_order": 11
+            },
+            {
+                "source": "song3585886",
+                "target": "word117",
+                "album": "十二新作",
+                "album_order": 11
+            },
+            {
+                "source": "word117",
+                "target": "song97769",
+                "album": "八度空间",
+                "album_order": 2
+            }
+        ],
+        "data_info": {
+            "singer": "周杰伦",
+            "title": "录音室专辑 (最长路径)",
+            "pos": "动词",
+            "all_num": 161,
+            "has_pos_num": 159,
+            "word_num": "Longest Path",
+            "num_unit": "首",
+            "nodes_type": "动词-歌曲",
+            "chart_title": "周杰伦歌词 高频动词-歌曲关系图",
+            "chart_sub_title": "共统计161首歌曲，覆盖量(含该词的歌曲数)最高的Longest Path个动词，涵盖159首歌曲。",
+            "path_length": 40,
+            "path_desc": "最长路径图",
+            "description": "该最长路径长度为 40，连接了 20 个动词节点和 21 首歌曲，跨越了 8 张专辑。路径展示了词汇与歌曲之间的深度关联链条。",
+            "word_node_count": 20,
+            "song_node_count": 21,
+            "covered_album_count": 8,
+            "all_nodes_num": 41,
+            "path_node_count": 41
+        }
+    },
+    "t": {
+        "nodes": [
+            {
+                "id": "song97745",
+                "size": 1,
+                "size_show": 1.0,
+                "x": -400.0,
+                "y": 250.0,
+                "node_type": "song",
+                "label": "开不了口",
+                "album_id": "album8217",
+                "album": "范特西",
+                "album_order": 1,
+                "data": {
+                    "cluster": "范特西"
+                }
+            },
+            {
+                "id": "word3101",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -300.0,
+                "y": 250.0,
+                "label": "今天",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 3
+            },
+            {
+                "id": "song102065748",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -200.0,
+                "y": 250.0,
+                "node_type": "song",
+                "label": "外婆",
+                "album_id": "album20612",
+                "album": "七里香",
+                "album_order": 4,
+                "data": {
+                    "cluster": "七里香"
+                }
+            },
+            {
+                "id": "word2651",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -100.0,
+                "y": 250.0,
+                "label": "去年",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 4
+            },
+            {
+                "id": "song97769",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 0.0,
+                "y": 250.0,
+                "node_type": "song",
+                "label": "最后的战役",
+                "album_id": "album8219",
+                "album": "八度空间",
+                "album_order": 2,
+                "data": {
+                    "cluster": "八度空间"
+                }
+            },
+            {
+                "id": "word97",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 100.0,
+                "y": 250.0,
+                "label": "夏天",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 4
+            },
+            {
+                "id": "song1018543",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 200.0,
+                "y": 250.0,
+                "node_type": "song",
+                "label": "Mine Mine",
+                "album_id": "album85650",
+                "album": "惊叹号",
+                "album_order": 10,
+                "data": {
+                    "cluster": "惊叹号"
+                }
+            },
+            {
+                "id": "word881",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 300.0,
+                "y": 250.0,
+                "label": "冬天",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 7
+            },
+            {
+                "id": "song718479",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 300.0,
+                "y": 150.0,
+                "node_type": "song",
+                "label": "枫",
+                "album_id": "album60671",
+                "album": "十一月的萧邦",
+                "album_order": 5,
+                "data": {
+                    "cluster": "十一月的萧邦"
+                }
+            },
+            {
+                "id": "word867",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 200.0,
+                "y": 150.0,
+                "label": "秋天",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 6
+            },
+            {
+                "id": "song680284",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 100.0,
+                "y": 150.0,
+                "node_type": "song",
+                "label": "我落泪情绪零碎",
+                "album_id": "album56705",
+                "album": "跨时代",
+                "album_order": 9,
+                "data": {
+                    "cluster": "跨时代"
+                }
+            },
+            {
+                "id": "word1241",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 0.0,
+                "y": 150.0,
+                "label": "过去",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 14
+            },
+            {
+                "id": "song97759",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -100.0,
+                "y": 150.0,
+                "node_type": "song",
+                "label": "反方向的钟",
+                "album_id": "album8218",
+                "album": "Jay",
+                "album_order": 0,
+                "data": {
+                    "cluster": "Jay"
+                }
+            },
+            {
+                "id": "word56",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -200.0,
+                "y": 150.0,
+                "label": "现在",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 17
+            },
+            {
+                "id": "song97766",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -300.0,
+                "y": 150.0,
+                "node_type": "song",
+                "label": "爷爷泡的茶",
+                "album_id": "album8219",
+                "album": "八度空间",
+                "album_order": 2,
+                "data": {
+                    "cluster": "八度空间"
+                }
+            },
+            {
+                "id": "word49",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -400.0,
+                "y": 150.0,
+                "label": "那年",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 6
+            },
+            {
+                "id": "song97773",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -400.0,
+                "y": 50.0,
+                "node_type": "song",
+                "label": "晴天",
+                "album_id": "album8220",
+                "album": "叶惠美",
+                "album_order": 3,
+                "data": {
+                    "cluster": "叶惠美"
+                }
+            },
+            {
+                "id": "word51",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -300.0,
+                "y": 50.0,
+                "label": "童年",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 5
+            },
+            {
+                "id": "song449205",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -200.0,
+                "y": 50.0,
+                "node_type": "song",
+                "label": "稻香",
+                "album_id": "album36062",
+                "album": "魔杰座",
+                "album_order": 8,
+                "data": {
+                    "cluster": "魔杰座"
+                }
+            },
+            {
+                "id": "word148",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -100.0,
+                "y": 50.0,
+                "label": "小时候",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 2
+            },
+            {
+                "id": "song718483",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 0.0,
+                "y": 50.0,
+                "node_type": "song",
+                "label": "麦芽糖",
+                "album_id": "album60671",
+                "album": "十一月的萧邦",
+                "album_order": 5,
+                "data": {
+                    "cluster": "十一月的萧邦"
+                }
+            },
+            {
+                "id": "word4875",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 100.0,
+                "y": 50.0,
+                "label": "眼前",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 3
+            },
+            {
+                "id": "song97760",
+                "size": 1,
+                "size_show": 1.0,
+                "x": 200.0,
+                "y": 50.0,
+                "node_type": "song",
+                "label": "半兽人",
+                "album_id": "album8219",
+                "album": "八度空间",
+                "album_order": 2,
+                "data": {
+                    "cluster": "八度空间"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "source": "song97745",
+                "target": "word3101",
+                "album": "范特西",
+                "album_order": 1
+            },
+            {
+                "source": "word3101",
+                "target": "song102065748",
+                "album": "七里香",
+                "album_order": 4
+            },
+            {
+                "source": "song102065748",
+                "target": "word2651",
+                "album": "七里香",
+                "album_order": 4
+            },
+            {
+                "source": "word2651",
+                "target": "song97769",
+                "album": "八度空间",
+                "album_order": 2
+            },
+            {
+                "source": "song97769",
+                "target": "word97",
+                "album": "八度空间",
+                "album_order": 2
+            },
+            {
+                "source": "word97",
+                "target": "song1018543",
+                "album": "惊叹号",
+                "album_order": 10
+            },
+            {
+                "source": "song1018543",
+                "target": "word881",
+                "album": "惊叹号",
+                "album_order": 10
+            },
+            {
+                "source": "word881",
+                "target": "song718479",
+                "album": "十一月的萧邦",
+                "album_order": 5
+            },
+            {
+                "source": "song718479",
+                "target": "word867",
+                "album": "十一月的萧邦",
+                "album_order": 5
+            },
+            {
+                "source": "word867",
+                "target": "song680284",
+                "album": "跨时代",
+                "album_order": 9
+            },
+            {
+                "source": "song680284",
+                "target": "word1241",
+                "album": "跨时代",
+                "album_order": 9
+            },
+            {
+                "source": "word1241",
+                "target": "song97759",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "song97759",
+                "target": "word56",
+                "album": "Jay",
+                "album_order": 0
+            },
+            {
+                "source": "word56",
+                "target": "song97766",
+                "album": "八度空间",
+                "album_order": 2
+            },
+            {
+                "source": "song97766",
+                "target": "word49",
+                "album": "八度空间",
+                "album_order": 2
+            },
+            {
+                "source": "word49",
+                "target": "song97773",
+                "album": "叶惠美",
+                "album_order": 3
+            },
+            {
+                "source": "song97773",
+                "target": "word51",
+                "album": "叶惠美",
+                "album_order": 3
+            },
+            {
+                "source": "word51",
+                "target": "song449205",
+                "album": "魔杰座",
+                "album_order": 8
+            },
+            {
+                "source": "song449205",
+                "target": "word148",
+                "album": "魔杰座",
+                "album_order": 8
+            },
+            {
+                "source": "word148",
+                "target": "song718483",
+                "album": "十一月的萧邦",
+                "album_order": 5
+            },
+            {
+                "source": "song718483",
+                "target": "word4875",
+                "album": "十一月的萧邦",
+                "album_order": 5
+            },
+            {
+                "source": "word4875",
+                "target": "song97760",
+                "album": "八度空间",
+                "album_order": 2
+            }
+        ],
+        "data_info": {
+            "singer": "周杰伦",
+            "title": "录音室专辑 (最长路径)",
+            "pos": "时间词",
+            "all_num": 161,
+            "has_pos_num": 70,
+            "word_num": "Longest Path",
+            "num_unit": "首",
+            "nodes_type": "时间词-歌曲",
+            "chart_title": "周杰伦歌词 高频时间词-歌曲关系图",
+            "chart_sub_title": "共统计161首歌曲，覆盖量(含该词的歌曲数)最高的Longest Path个时间词，涵盖70首歌曲。",
+            "path_length": 22,
+            "path_desc": "最长路径图",
+            "description": "该最长路径长度为 22，连接了 11 个时间词节点和 12 首歌曲，跨越了 9 张专辑。路径展示了词汇与歌曲之间的深度关联链条。",
+            "word_node_count": 11,
+            "song_node_count": 12,
+            "covered_album_count": 9,
+            "all_nodes_num": 23,
+            "path_node_count": 23
+        }
+    }
+}
