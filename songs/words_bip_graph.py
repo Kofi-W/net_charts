@@ -1336,7 +1336,7 @@ if __name__ == "__main__":
     # file_path_prefix = "data/jaychou/"
     file_path_prefix = "data/mayday/"
     # file_path_prefix = "data/liuyuning/"
-    words_num = None
+    words_num = 20
     is_starts_with = False
     pos_types = ['n', 'a', 'v', 't']
     cloud_words_num = 20  # 词云数据中要显示的高频词数量
