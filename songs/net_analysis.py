@@ -280,7 +280,7 @@ def generate_network_description(data, pos_key, pos_name):
     descriptions = []
     
     # 描述1：网络特征
-    title1 = "网络特征"
+    title1 = f"{pos_name}-歌曲网络特征"
     content1 = f"规模与结构：网络总共包含{full_num_nodes}个节点，总边数为{G.number_of_edges()}条。"
     content1 += f"稀疏性：网络密度为{density:.6f}，属于稀疏网络，实际连接数远小于可能连接数。"
     if connectivity['is_connected']:
@@ -303,7 +303,7 @@ def generate_network_description(data, pos_key, pos_name):
             node_data = G.nodes[node_id]
             label = node_data.get('label', node_id)
             node_type_cn = get_node_type_cn(node_data.get('node_type'))
-            content2 += f" {node_type_cn} '{label}' (度={degree})"
+            content2 += f" {node_type_cn} “{label}” (度={degree})"
     content2 += f"。网络脆弱性：删除这些高度Hub节点会对网络连通性产生显著影响。"
     if robustness:
         content2 += f"删除最高度节点后，最大连通分量规模从{G.number_of_nodes()}降至{robustness[0]['lcc_size']}（降幅{(1-robustness[0]['connectivity_ratio'])*100:.1f}%），表明网络对Hub节点失效较为敏感。"
@@ -324,7 +324,7 @@ def generate_network_description(data, pos_key, pos_name):
             node_data = G.nodes[node_id]
             label = node_data.get('label', node_id)
             node_type_cn = get_node_type_cn(node_data.get('node_type'))
-            content3 += f" {node_type_cn} '{label}' (中心性={centrality:.3f})"
+            content3 += f" {node_type_cn} “{label}” (中心性={centrality:.3f})"
         content3 += "。"
     
     if centrality_analysis['top_betweenness']:
@@ -333,7 +333,7 @@ def generate_network_description(data, pos_key, pos_name):
             node_data = G.nodes[node_id]
             label = node_data.get('label', node_id)
             node_type_cn = get_node_type_cn(node_data.get('node_type'))
-            content3 += f" {node_type_cn} '{label}' (介数={centrality:.3f})"
+            content3 += f" {node_type_cn} “{label}” (介数={centrality:.3f})"
         content3 += "。"
     
     if centrality_analysis['top_closeness']:
@@ -342,7 +342,7 @@ def generate_network_description(data, pos_key, pos_name):
             node_data = G.nodes[node_id]
             label = node_data.get('label', node_id)
             node_type_cn = get_node_type_cn(node_data.get('node_type'))
-            content3 += f" {node_type_cn} '{label}' (接近度={centrality:.3f})"
+            content3 += f" {node_type_cn} “{label}” (接近度={centrality:.3f})"
         content3 += "。"
     
     patterns3 = extract_patterns(content3)
