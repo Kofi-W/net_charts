@@ -25,10 +25,12 @@ def id_process(df, is_ost=False, is_words=True):
         df['legend_type'] = df['album_name']
     # 生成年份排序映射（album_order）
     # 使用 factorize 可以直接一步生成按顺序排列的编码
-    # 如果必须按年份数值排序，则先排序再 factorize
-    unique_years = sorted(df['song_year'].unique())
-    year_to_order = {year: i for i, year in enumerate(unique_years)}
-    df['album_order'] = df['song_year'].map(year_to_order)
+    # 判断是否已存在df['album_order']列
+    if 'album_order' not in df.columns:
+        # 如果必须按年份数值排序，则先排序再 factorize
+        unique_years = sorted(df['song_year'].unique())
+        year_to_order = {year: i for i, year in enumerate(unique_years)}
+        df['album_order'] = df['song_year'].map(year_to_order)
     # df['legend_order'] = df['legend_type']
     # 词唯一id
     if is_words:
@@ -42,15 +44,15 @@ def id_process(df, is_ost=False, is_words=True):
 
 # 常量
 class LyricProcessConstants:
-    
+
     STOP_WORDS_N = []
     STOP_WORDS_V = [
     '是', '在', '有', '了', '着', '被', '把', '让', '使', '得',
     '要', '会', '能', '可以', '应该', '必须', '不要', '不能', '像', '到', '没有', '就是', '不是', '没', '无', '给', '不会'
-]
+    ]
     STOP_WORDS_A = [
     '很', '太', '最', '真', '非常', '十分'
-]
+    ]
     STOP_WORDS_T = ['晚安']
     POS_DICT = {
         'n': '名词',

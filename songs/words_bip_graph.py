@@ -42,9 +42,10 @@ POS_LABELS_MAP = {
 
 # --- 1. 数据加载与基础处理层 ---
 
+
 class LyricsDataLoader:
     """负责数据的读取与基础属性配置"""
-    
+
     def __init__(self, data_path, is_ost=False):
         self.data_path = data_path
         self.is_ost = is_ost
@@ -66,7 +67,9 @@ class LyricsDataLoader:
             return "周杰伦"
         elif "liuyuning" in data_path.lower():
             return "刘宇宁"
-        return "未知歌手"
+        df = self.load()
+        singer = df['artist_name'].values[0]
+        return singer
 
     def _infer_album_type(self, data_path):
         """根据路径推断专辑类型描述"""
@@ -97,9 +100,10 @@ class LyricsDataLoader:
 
 # --- 2. 业务逻辑处理层 ---
 
+
 class MetricsCalculator:
     """负责核心指标计算与子集筛选"""
-    
+
     def __init__(self, data_loader):
         self.loader = data_loader
         # 停用词字典映射，便于统一管理
@@ -179,6 +183,7 @@ class MetricsCalculator:
 
 
 # --- 3. 布局引擎层 ---
+
 
 class LayoutEngine:
     """负责节点坐标计算"""
@@ -378,7 +383,7 @@ class LongestPathCalculator:
         """计算真实的图直径值"""
         if not G.nodes():
             return 0
-            
+
         if nx.is_connected(G):
             G_comp = G
         else:
@@ -463,10 +468,10 @@ class ComplexNetworkCalculator:
         # 2. 度指标
         degrees_dict = dict(G.degree())
         degree_values = list(degrees_dict.values())
-        
+
         if not degree_values:
             return {}
-            
+
         max_degree = max(degree_values)
         avg_degree = sum(degree_values) / num_nodes
 
@@ -693,6 +698,7 @@ class GraphAnalyzer:
 
 # --- 4. 数据构建与导出层 ---
 
+
 class GraphJsonBuilder:
     """负责将图对象转换为前端可视化 JSON 数据"""
 
@@ -707,7 +713,7 @@ class GraphJsonBuilder:
         """构建完整的图数据 JSON 结构"""
         degrees = dict(G.degree())
         word_song_counts = None
-        
+
         if 'song_id' in df_subset.columns:
             word_song_counts = df_subset.groupby('word_id')['song_id'].count().to_dict()
 
@@ -724,7 +730,7 @@ class GraphJsonBuilder:
             info['id'] = node
             s = degrees.get(node, 0)
             info['size'] = s
-            
+
             # 归一化到 1-5
             if max_size > min_size:
                 info['size_show'] = 1 + 4 * (s - min_size) / (max_size - min_size)
@@ -812,41 +818,99 @@ class GraphJsonBuilder:
             pos_cn = '+'.join([POS_LABELS_MAP.get(p, p) for p in pos_list])
         else:
             pos_cn = POS_LABELS_MAP.get(pos_type, pos_type)
-        
-        # 使用中文词性名称
-        nodes_type_str = f"{pos_cn}-歌曲"
-        chart_title_str = f"{self.singer}歌词 高频{pos_cn}-歌曲关系图"
-        
-        word_num_str = f"最高的{word_num}个{pos_cn}" if word_num else f"全部{pos_cn}"
-        chart_sub_title_str = f"共统计{raw_total}{unit_str}歌曲，覆盖量(含该词的歌曲数){word_num_str}，涵盖{stats['song_node_count']}{unit_str}歌曲。"
-        
-        info = {
-            "singer": self.singer,
-            "title": self.album_type + title_suffix,
-            "pos": pos_type,
-            "all_num": raw_total,
-            "has_pos_num": stats['song_node_count'],
-            "word_num": word_num,
-            "num_unit": unit_str,
-            "nodes_type": nodes_type_str,
-            "chart_title": chart_title_str,
-            "chart_sub_title": chart_sub_title_str,
-            "chart_sub_title_lcc": "",
-            "diameter": diameter if diameter else 0,
-            "diameter_desc": "最大连通子图直径",
-            "word_node_count": stats['word_node_count'],
-            "song_node_count": stats['song_node_count'],
-            "covered_album_count": stats['covered_album_count'],
-            "all_nodes_num": stats['all_nodes_num']
+
+        singer = df['artist_name'].values[0] if not df.empty else self.singer
+
+        has_pos_count = 0
+        if unit_str == "张":
+            has_pos_count = df['album_id_unique'].nunique()
+        else:
+            has_pos_count = df['song_id_unique'].nunique()
+
+        is_high_freq = "高频" if word_num else ""
+        unit_str_trans = unit_str.replace("首", "歌曲").replace("张", "专辑")
+        nodes_type = f'{pos_cn}-{unit_str_trans}'
+        chart_title = f"{singer}歌词 {is_high_freq}{nodes_type}关系图"
+        is_cover_all = f"涵盖全部{unit_str_trans}。" if has_pos_count == raw_total else f"涵盖{has_pos_count}{unit_str}{unit_str_trans}。"
+
+        if word_num:
+            chart_sub_title = f"共统计{raw_total}{unit_str}{unit_str_trans}，覆盖量(含该词的歌曲数)最高的{word_num}个{pos_cn}，{is_cover_all}"
+            chart_sub_title_lcc = ""
+        else:
+            if stats:
+                chart_sub_title = f"共统计{raw_total}{unit_str}{unit_str_trans}，全图包含{stats.get('song_node_count', 0)}个歌曲节点和全部的{stats.get('word_node_count', 0)}个{pos_cn}节点，{stats.get('edge_count', 0)}条边"
+                chart_sub_title_lcc = f"共统计{raw_total}{unit_str}{unit_str_trans}，最大连通子图包含{stats.get('song_node_count', 0)}个歌曲节点和{stats.get('word_node_count', 0)}个{pos_cn}节点，{stats.get('edge_count', 0)}条边"
+            else:
+                chart_sub_title = ""
+                chart_sub_title_lcc = ""
+
+        meta = {
+            'singer': singer,
+            'title': self.data_loader.album_type + title_suffix,
+            'pos': pos_type,
+            'all_num': raw_total,
+            'has_pos_num': has_pos_count,
+            'word_num': word_num if word_num else "All",
+            'num_unit': unit_str,
+            'nodes_type': nodes_type,
+            'chart_title': chart_title,
+            'chart_sub_title': chart_sub_title,
+            'chart_sub_title_lcc': chart_sub_title_lcc
         }
-        
+
         # 如果是组合词性，添加额外信息
         if is_combined:
-            info['combined_pos_types'] = pos_type.split('+')
-            info['pos_label'] = pos_type
-            info['pos_label_cn'] = pos_cn
-        
-        return info
+            meta['combined_pos_types'] = pos_type.split('+')
+            meta['pos_label'] = pos_type
+            meta['pos_label_cn'] = pos_cn
+
+        if diameter is not None:
+            if "最长路径" in title_suffix:
+                meta['path_length'] = diameter
+                meta['path_desc'] = "最长路径图"
+                if stats:
+                    wc = stats.get('word_node_count', 0)
+                    sc = stats.get('song_node_count', 0)
+                    ac = stats.get('covered_album_count', 0)
+                    meta['description'] = (
+                        f"该最长路径长度为 {diameter}，连接了 {wc} 个{pos_cn}节点"
+                        f"和 {sc} 首歌曲，跨越了 {ac} 张专辑。路径展示了词汇与歌曲之间的深度关联链条。")
+            elif "最大环" in title_suffix:
+                meta['cycle_length'] = diameter
+                meta['cycle_desc'] = "最大环图"
+                if stats:
+                    wc = stats.get('word_node_count', 0)
+                    sc = stats.get('song_node_count', 0)
+                    ac = stats.get('covered_album_count', 0)
+                    meta['description'] = (
+                        f"该最大环长度为 {diameter}，包含 {wc} 个{pos_cn}节点"
+                        f"和 {sc} 首歌曲，涉及 {ac} 张专辑。这种闭合结构反映了词汇在不同歌曲间的高频共现与其形成的语义闭环。"
+                    )
+            else:
+                meta['diameter'] = diameter
+                meta['diameter_desc'] = "最大连通子图直径"
+
+        if stats:
+            meta.update({
+                'word_node_count': stats.get('word_node_count', 0),
+                'song_node_count': stats.get('song_node_count', 0),
+                'covered_album_count': stats.get('covered_album_count', 0)
+            })
+
+            # 计算总节点数
+            total_nodes = stats.get('word_node_count', 0) + stats.get('song_node_count', 0)
+            if 'node_count' in stats:
+                total_nodes = stats['node_count']
+            meta['all_nodes_num'] = total_nodes
+
+            if 'original_node_count' in stats:
+                meta['nodes_count_diameter'] = stats['original_node_count']
+            if 'path_node_count' in stats:
+                meta['path_node_count'] = stats['path_node_count']
+            if 'cycle_node_count' in stats:
+                meta['cycle_node_count'] = stats['cycle_node_count']
+
+        return meta
 
     def save_json(self, data, filename):
         """保存 JSON 文件"""
@@ -857,6 +921,7 @@ class GraphJsonBuilder:
 
 
 # --- 5. 管道控制层 ---
+
 
 class LyricsAnalysisPipeline:
     """管道控制器：串联数据加载、计算、图构建与导出"""
@@ -875,69 +940,97 @@ class LyricsAnalysisPipeline:
         """根据 words_num 生成文件后缀"""
         return "_full" if not words_num else ""
 
-    def run_word_song_graph_combined_pos(self, pos_types=['n', 'a', 'v', 't'], words_num=None,
-                                         layout_type='spring', stretch_factor=0.8,
-                                         is_starts_with=True, output_filename='graph_word_song_data_combined_pos.json'):
+    def run_word_song_graph_combined_pos(
+            self,
+            pos_types=['n', 'a', 'v', 't'],
+            words_num=None,
+            layout_type='spring',
+            stretch_factor=0.8,
+            is_starts_with=True,
+            output_filename='graph_word_song_data_combined_pos.json'):
         """生成多个词性组合的词-曲二分图"""
         print(f"Processing Combined POS Word-Song Graph: {pos_types}...")
-        
+
         # 合并所有词性的数据
         df_combined = pd.DataFrame()
-        
+
         for pos in pos_types:
-            df_sub = self.metrics.get_subset(pos, words_num, is_starts_with=is_starts_with)
+            df_sub = self.metrics.get_subset(pos,
+                                             words_num,
+                                             is_starts_with=is_starts_with)
             if not df_sub.empty:
                 df_sub_copy = df_sub.copy()
                 df_sub_copy['pos_label'] = pos
-                df_combined = pd.concat([df_combined, df_sub_copy], ignore_index=True)
-        
+                df_combined = pd.concat([df_combined, df_sub_copy],
+                                        ignore_index=True)
+
         if df_combined.empty:
             print("⚠ No data found for the specified POS types.")
             return
-        
+
         # 构建图
-        G = nx.from_pandas_edgelist(df_combined, 'word_id', 'song_id_unique',
-                                    edge_attr=True, create_using=nx.Graph())
-        
-        print(f"  Combined Graph - Nodes: {G.number_of_nodes()}, Edges: {G.number_of_edges()}")
-        
+        G = nx.from_pandas_edgelist(df_combined,
+                                    'word_id',
+                                    'song_id_unique',
+                                    edge_attr=True,
+                                    create_using=nx.Graph())
+
+        print(
+            f"  Combined Graph - Nodes: {G.number_of_nodes()}, Edges: {G.number_of_edges()}"
+        )
+
         # 使用力引导布局，增加节点间距离
         # k参数控制理想距离，iterations增加迭代次数获得更好的布局
         coords_raw = nx.spring_layout(
-            G, 
+            G,
             k=3.0,  # 增加理想距离（默认约0.1-1.0，这里设置为2.0）
             iterations=500,  # 增加迭代次数以获得更稳定的布局
             scale=1500,  # 放大整体坐标范围
             seed=42  # 固定随机种子保证可复现
         )
-        
+
         # 将坐标转换为标准格式（保留两位小数）
-        coords = {node: (round(x * 1.5, 2), round(y * 1.5, 2)) for node, (x, y) in coords_raw.items()}
-        
+        coords = {
+            node: (round(x * 1.5, 2), round(y * 1.5, 2))
+            for node, (x, y) in coords_raw.items()
+        }
+
         # 计算统计信息
         total_counts = self.loader.get_total_counts()
         true_diameter = self.path_calculator.get_diameter_value(G)
         stats = self.analyzer.get_basic_stats(G, df_combined)
-        
+
         # 构建 JSON
         pos_combined_label = '+'.join(pos_types)
-        pos_combined_name = '+'.join([POS_LABELS_MAP.get(p, p) for p in pos_types])
-        
+        pos_combined_name = '+'.join(
+            [POS_LABELS_MAP.get(p, p) for p in pos_types])
+
         json_data = self.exporter.build_json(
-            G, df_combined, coords, pos_combined_label, '首', 
-            total_counts['song_count'], words_num,
-            diameter=true_diameter, stats=stats,
-            title_suffix=f" (组合词性: {pos_combined_name})"
-        )
-        
+            G,
+            df_combined,
+            coords,
+            pos_combined_label,
+            '首',
+            total_counts['song_count'],
+            words_num,
+            diameter=true_diameter,
+            stats=stats,
+            title_suffix=f" (组合词性: {pos_combined_name})")
+
         # 保存文件
         self.exporter.save_json(json_data, output_filename)
-        print(f"✓ Combined POS graph generated with spring layout (k=2.0, scale=1500)")
+        print(
+            f"✓ Combined POS graph generated with spring layout (k=2.0, scale=1500)"
+        )
         return json_data
 
-    def run_word_song_graph(self, pos_types=['n', 'a', 'v', 't'], words_num=None,
-                           layout_type='embracing', stretch_factor=0.8,
-                           output_combined=True, is_starts_with=True):
+    def run_word_song_graph(self,
+                            pos_types=['n', 'a', 'v', 't'],
+                            words_num=None,
+                            layout_type='embracing',
+                            stretch_factor=0.8,
+                            output_combined=True,
+                            is_starts_with=True):
         """生成词-曲二分图（全图和LCC两个版本）"""
         combined_full = {}
         combined_lcc = {}
@@ -946,63 +1039,97 @@ class LyricsAnalysisPipeline:
 
         for pos in pos_types:
             print(f"Processing Word-Song [{pos}]...")
-            df_sub = self.metrics.get_subset(pos, words_num, is_starts_with=is_starts_with)
+            df_sub = self.metrics.get_subset(pos,
+                                             words_num,
+                                             is_starts_with=is_starts_with)
 
             if df_sub.empty:
                 print(f"  ⚠ No data for {pos}, skipping...")
                 continue
 
             # 构建全图
-            G_full = nx.from_pandas_edgelist(df_sub, 'word_id', 'song_id_unique',
-                                            edge_attr=True, create_using=nx.Graph())
+            G_full = nx.from_pandas_edgelist(df_sub,
+                                             'word_id',
+                                             'song_id_unique',
+                                             edge_attr=True,
+                                             create_using=nx.Graph())
 
             # 布局选择
             current_layout = 'spring' if words_num is None else layout_type
 
             # 1. 生成全图版本
             if G_full.number_of_nodes() > 0:
-                print(f"  Full Graph - Nodes: {G_full.number_of_nodes()}, Edges: {G_full.number_of_edges()}")
-                coords_full = self.layout_engine.get_layout(G_full, current_layout, stretch_factor)
-                true_diameter_full = self.path_calculator.get_diameter_value(G_full)
+                print(
+                    f"  Full Graph - Nodes: {G_full.number_of_nodes()}, Edges: {G_full.number_of_edges()}"
+                )
+                coords_full = self.layout_engine.get_layout(
+                    G_full, current_layout, stretch_factor)
+                true_diameter_full = self.path_calculator.get_diameter_value(
+                    G_full)
                 stats_full = self.analyzer.get_basic_stats(G_full, df_sub)
+                stats_full['edge_count'] = G_full.number_of_edges()
 
                 json_data_full = self.exporter.build_json(
-                    G_full, df_sub, coords_full, pos, '首',
-                    total_counts['song_count'], words_num,
-                    diameter=true_diameter_full, stats=stats_full
-                )
+                    G_full,
+                    df_sub,
+                    coords_full,
+                    pos,
+                    '首',
+                    total_counts['song_count'],
+                    words_num,
+                    diameter=true_diameter_full,
+                    stats=stats_full)
 
                 if not output_combined:
-                    self.exporter.save_json(json_data_full, f'{pos}_word_song_graph_data_full{suffix}.json')
+                    self.exporter.save_json(
+                        json_data_full,
+                        f'{pos}_word_song_graph_data_full{suffix}.json')
                 combined_full[pos] = json_data_full
 
             # 2. 生成LCC版本
             if G_full.number_of_nodes() > 0:
-                largest_cc_nodes = max(nx.connected_components(G_full), key=len)
+                largest_cc_nodes = max(nx.connected_components(G_full),
+                                       key=len)
                 G_lcc = G_full.subgraph(largest_cc_nodes).copy()
-                print(f"  LCC Graph - Nodes: {G_lcc.number_of_nodes()}, Edges: {G_lcc.number_of_edges()}")
-
-                coords_lcc = self.layout_engine.get_layout(G_lcc, current_layout, stretch_factor)
-                true_diameter_lcc = self.path_calculator.get_diameter_value(G_lcc)
-                stats_lcc = self.analyzer.get_basic_stats(G_lcc, df_sub)
-
-                json_data_lcc = self.exporter.build_json(
-                    G_lcc, df_sub, coords_lcc, pos, '首',
-                    total_counts['song_count'], words_num,
-                    diameter=true_diameter_lcc, stats=stats_lcc
+                print(
+                    f"  LCC Graph - Nodes: {G_lcc.number_of_nodes()}, Edges: {G_lcc.number_of_edges()}"
                 )
 
+                coords_lcc = self.layout_engine.get_layout(
+                    G_lcc, current_layout, stretch_factor)
+                true_diameter_lcc = self.path_calculator.get_diameter_value(
+                    G_lcc)
+                stats_lcc = self.analyzer.get_basic_stats(G_lcc, df_sub)
+                stats_lcc['edge_count'] = G_lcc.number_of_edges()
+                json_data_lcc = self.exporter.build_json(
+                    G_lcc,
+                    df_sub,
+                    coords_lcc,
+                    pos,
+                    '首',
+                    total_counts['song_count'],
+                    words_num,
+                    diameter=true_diameter_lcc,
+                    stats=stats_lcc)
+
                 if not output_combined:
-                    self.exporter.save_json(json_data_lcc, f'{pos}_word_song_graph_data_full_lcc{suffix}.json')
+                    self.exporter.save_json(
+                        json_data_lcc,
+                        f'{pos}_word_song_graph_data_full_lcc{suffix}.json')
                 combined_lcc[pos] = json_data_lcc
 
         if output_combined:
             full_suffix = suffix if suffix else ""
-            self.exporter.save_json(combined_full, f'graph_word_song_data{full_suffix}.json')
-            self.exporter.save_json(combined_lcc, f'graph_word_song_data{full_suffix}_lcc.json')
+            self.exporter.save_json(combined_full,
+                                    f'graph_word_song_data{full_suffix}.json')
+            self.exporter.save_json(
+                combined_lcc, f'graph_word_song_data{full_suffix}_lcc.json')
 
-    def run_longest_path_graph(self, pos_types=['n', 'a', 'v', 't'], words_num=None,
-                               output_combined=True, is_starts_with=True):
+    def run_longest_path_graph(self,
+                               pos_types=['n', 'a', 'v', 't'],
+                               words_num=None,
+                               output_combined=True,
+                               is_starts_with=True):
         """生成最长路径（直径）子图数据"""
         combined = {}
         total_counts = self.loader.get_total_counts()
@@ -1010,46 +1137,66 @@ class LyricsAnalysisPipeline:
 
         for pos in pos_types:
             print(f"Processing Longest Path Graph [{pos}]...")
-            df_sub = self.metrics.get_subset(pos, words_num, is_starts_with=is_starts_with)
+            df_sub = self.metrics.get_subset(pos,
+                                             words_num,
+                                             is_starts_with=is_starts_with)
 
             if df_sub.empty:
                 combined[pos] = {}
                 continue
 
-            G = nx.from_pandas_edgelist(df_sub, 'word_id', 'song_id_unique',
-                                       edge_attr=True, create_using=nx.Graph())
+            G = nx.from_pandas_edgelist(df_sub,
+                                        'word_id',
+                                        'song_id_unique',
+                                        edge_attr=True,
+                                        create_using=nx.Graph())
 
-            diameter, diameter_path_nodes = self.path_calculator.get_longest_path(G)
+            diameter, diameter_path_nodes = self.path_calculator.get_longest_path(
+                G)
 
             if diameter > 0 and diameter_path_nodes:
                 G_path = nx.Graph()
-                path_edges = list(zip(diameter_path_nodes[:-1], diameter_path_nodes[1:]))
-                
+                path_edges = list(
+                    zip(diameter_path_nodes[:-1], diameter_path_nodes[1:]))
+
                 for u, v in path_edges:
                     edge_attr = G[u][v] if G.has_edge(u, v) else {}
                     G_path.add_edge(u, v, **edge_attr)
 
                 G_path.add_nodes_from(diameter_path_nodes)
                 path_coords = self.layout_engine.get_layout(G_path, 'grid')
-                path_stats = self.path_calculator.get_path_stats(G_path, diameter_path_nodes, df_sub)
+                path_stats = self.path_calculator.get_path_stats(
+                    G_path, diameter_path_nodes, df_sub)
 
                 path_json_data = self.exporter.build_json(
-                    G_path, df_sub, path_coords, pos, '首',
-                    total_counts['song_count'], word_num="Longest Path",
-                    diameter=diameter, stats=path_stats, title_suffix=" (最长路径)"
-                )
+                    G_path,
+                    df_sub,
+                    path_coords,
+                    pos,
+                    '首',
+                    total_counts['song_count'],
+                    word_num="Longest Path",
+                    diameter=diameter,
+                    stats=path_stats,
+                    title_suffix=" (最长路径)")
 
                 if not output_combined:
-                    self.exporter.save_json(path_json_data, f'{pos}_longest_path_graph_data{suffix}.json')
+                    self.exporter.save_json(
+                        path_json_data,
+                        f'{pos}_longest_path_graph_data{suffix}.json')
                 combined[pos] = path_json_data
             else:
                 combined[pos] = {}
 
         if output_combined:
-            self.exporter.save_json(combined, f'graph_longest_path_data{suffix}.json')
+            self.exporter.save_json(combined,
+                                    f'graph_longest_path_data{suffix}.json')
 
-    def run_largest_cycle_graph(self, pos_types=['n', 'a', 'v', 't'], words_num=None,
-                               output_combined=True, is_starts_with=True):
+    def run_largest_cycle_graph(self,
+                                pos_types=['n', 'a', 'v', 't'],
+                                words_num=None,
+                                output_combined=True,
+                                is_starts_with=True):
         """生成最大环（Cycle）子图数据"""
         combined = {}
         total_counts = self.loader.get_total_counts()
@@ -1057,20 +1204,27 @@ class LyricsAnalysisPipeline:
 
         for pos in pos_types:
             print(f"Processing Largest Cycle Graph [{pos}]...")
-            df_sub = self.metrics.get_subset(pos, words_num, is_starts_with=is_starts_with)
+            df_sub = self.metrics.get_subset(pos,
+                                             words_num,
+                                             is_starts_with=is_starts_with)
 
             if df_sub.empty:
                 combined[pos] = {}
                 continue
 
-            G = nx.from_pandas_edgelist(df_sub, 'word_id', 'song_id_unique',
-                                       edge_attr=True, create_using=nx.Graph())
+            G = nx.from_pandas_edgelist(df_sub,
+                                        'word_id',
+                                        'song_id_unique',
+                                        edge_attr=True,
+                                        create_using=nx.Graph())
 
             cycle_len, cycle_nodes = self.cycle_calculator.get_longest_cycle(G)
 
             if cycle_len > 0 and cycle_nodes:
                 G_cycle = nx.Graph()
-                edges = list(zip(cycle_nodes[:-1], cycle_nodes[1:])) + [(cycle_nodes[-1], cycle_nodes[0])]
+                edges = list(zip(cycle_nodes[:-1], cycle_nodes[1:])) + [
+                    (cycle_nodes[-1], cycle_nodes[0])
+                ]
 
                 for u, v in edges:
                     edge_attr = G[u][v] if G.has_edge(u, v) else {}
@@ -1078,51 +1232,75 @@ class LyricsAnalysisPipeline:
 
                 G_cycle.add_nodes_from(cycle_nodes)
                 cycle_coords = nx.circular_layout(G_cycle)
-                cycle_stats = self.cycle_calculator.get_cycle_stats(G_cycle, cycle_nodes, df_sub)
+                cycle_stats = self.cycle_calculator.get_cycle_stats(
+                    G_cycle, cycle_nodes, df_sub)
 
                 cycle_json_data = self.exporter.build_json(
-                    G_cycle, df_sub, cycle_coords, pos, '首',
-                    total_counts['song_count'], word_num="Largest Cycle",
-                    diameter=cycle_len, stats=cycle_stats, title_suffix=" (最大环)"
-                )
+                    G_cycle,
+                    df_sub,
+                    cycle_coords,
+                    pos,
+                    '首',
+                    total_counts['song_count'],
+                    word_num="Largest Cycle",
+                    diameter=cycle_len,
+                    stats=cycle_stats,
+                    title_suffix=" (最大环)")
 
                 if not output_combined:
-                    self.exporter.save_json(cycle_json_data, f'{pos}_largest_cycle_graph_data{suffix}.json')
+                    self.exporter.save_json(
+                        cycle_json_data,
+                        f'{pos}_largest_cycle_graph_data{suffix}.json')
                 combined[pos] = cycle_json_data
             else:
                 combined[pos] = {}
 
         if output_combined:
-            self.exporter.save_json(combined, f'graph_largest_cycle_data{suffix}.json')
+            self.exporter.save_json(combined,
+                                    f'graph_largest_cycle_data{suffix}.json')
 
-    def run_network_metrics_analysis(self, pos_types=['n', 'a', 'v', 't'], words_num=None,
-                                    output_combined=True, is_starts_with=True):
+    def run_network_metrics_analysis(self,
+                                     pos_types=['n', 'a', 'v', 't'],
+                                     words_num=None,
+                                     output_combined=True,
+                                     is_starts_with=True):
         """生成复杂网络指标数据"""
         combined = {}
         suffix = self._get_filename_suffix(words_num)
 
         for pos in pos_types:
             print(f"Calculating Network Metrics [{pos}]...")
-            df_sub = self.metrics.get_subset(pos, words_num, is_starts_with=is_starts_with)
+            df_sub = self.metrics.get_subset(pos,
+                                             words_num,
+                                             is_starts_with=is_starts_with)
 
             if df_sub.empty:
                 combined[pos] = {}
                 continue
 
-            G = nx.from_pandas_edgelist(df_sub, 'word_id', 'song_id_unique',
-                                       edge_attr=True, create_using=nx.Graph())
+            G = nx.from_pandas_edgelist(df_sub,
+                                        'word_id',
+                                        'song_id_unique',
+                                        edge_attr=True,
+                                        create_using=nx.Graph())
 
             metrics = self.metrics_calculator.calculate_metrics(G, df_sub)
 
             if not output_combined:
-                self.exporter.save_json(metrics, f'{pos}_network_metrics{suffix}.json')
+                self.exporter.save_json(metrics,
+                                        f'{pos}_network_metrics{suffix}.json')
             combined[pos] = metrics
 
         if output_combined:
-            self.exporter.save_json(combined, f'network_metrics_data{suffix}.json')
+            self.exporter.save_json(combined,
+                                    f'network_metrics_data{suffix}.json')
 
-    def run_word_album_graph(self, pos_types=['n', 'a', 'v', 't'], words_num=None,
-                            layout_type='spring', output_combined=True, is_starts_with=True):
+    def run_word_album_graph(self,
+                             pos_types=['n', 'a', 'v', 't'],
+                             words_num=None,
+                             layout_type='spring',
+                             output_combined=True,
+                             is_starts_with=True):
         """生成词-专辑二分图"""
         combined = {}
         total_counts = self.loader.get_total_counts()
@@ -1130,55 +1308,80 @@ class LyricsAnalysisPipeline:
 
         for pos in pos_types:
             print(f"Processing Word-Album [{pos}]...")
-            df_sub = self.metrics.get_subset(pos, words_num, is_starts_with=is_starts_with)
+            df_sub = self.metrics.get_subset(pos,
+                                             words_num,
+                                             is_starts_with=is_starts_with)
 
             if df_sub.empty:
                 combined[pos] = {}
                 continue
 
-            df_weighted = df_sub.groupby(['word_id', 'album_id_unique']).size().reset_index(name='weight')
-            G = nx.from_pandas_edgelist(df_weighted, 'word_id', 'album_id_unique',
-                                       edge_attr='weight', create_using=nx.Graph())
+            df_weighted = df_sub.groupby(['word_id', 'album_id_unique'
+                                          ]).size().reset_index(name='weight')
+            G = nx.from_pandas_edgelist(df_weighted,
+                                        'word_id',
+                                        'album_id_unique',
+                                        edge_attr='weight',
+                                        create_using=nx.Graph())
 
-            coords = self.layout_engine.get_layout(G, layout_type, stretch_factor=None)
+            coords = self.layout_engine.get_layout(G,
+                                                   layout_type,
+                                                   stretch_factor=None)
             stats = self.analyzer.get_basic_stats(G, df_sub)
 
-            json_data = self.exporter.build_json(
-                G, df_sub, coords, pos, '张',
-                total_counts['album_count'], words_num,
-                stats=stats
-            )
+            json_data = self.exporter.build_json(G,
+                                                 df_sub,
+                                                 coords,
+                                                 pos,
+                                                 '张',
+                                                 total_counts['album_count'],
+                                                 words_num,
+                                                 stats=stats)
 
             if not output_combined:
-                self.exporter.save_json(json_data, f'{pos}_word_album_graph_data{suffix}.json')
+                self.exporter.save_json(
+                    json_data, f'{pos}_word_album_graph_data{suffix}.json')
             combined[pos] = json_data
 
         if output_combined:
-            self.exporter.save_json(combined, f'graph_word_album_data{suffix}.json')
+            self.exporter.save_json(combined,
+                                    f'graph_word_album_data{suffix}.json')
 
-    def run_matrix_analysis(self, pos_types=['n', 'v', 'a', 't'], words_num=None, is_starts_with=True):
+    def run_matrix_analysis(self,
+                            pos_types=['n', 'v', 'a', 't'],
+                            words_num=None,
+                            is_starts_with=True):
         """生成词频矩阵"""
         print("Generating Matrix...")
         result = {}
 
         for pos in pos_types:
-            df_sub = self.metrics.get_subset(pos, words_num, is_starts_with=is_starts_with)
+            df_sub = self.metrics.get_subset(pos,
+                                             words_num,
+                                             is_starts_with=is_starts_with)
             if df_sub.empty:
-                result[pos] = {'matrixData': [], 'albumNames': [], 'wordNames': []}
+                result[pos] = {
+                    'matrixData': [],
+                    'albumNames': [],
+                    'wordNames': []
+                }
                 continue
 
-            df_matrix = df_sub.groupby(['album_name', 'word']).size().unstack(fill_value=0)
+            df_matrix = df_sub.groupby(['album_name',
+                                        'word']).size().unstack(fill_value=0)
 
             album_dates = df_sub.groupby('album_name')['publish_date'].first()
-            valid_albums = [a for a in album_dates.sort_values().index if a in df_matrix.index]
-            df_matrix = df_matrix.loc[valid_albums]
-            df_matrix = df_matrix[df_matrix.sum().sort_values(ascending=False).index]
-
-            matrix_list = [
-                [col, idx, int(df_matrix.loc[idx, col])]
-                for col in df_matrix.columns
-                for idx in df_matrix.index
+            valid_albums = [
+                a for a in album_dates.sort_values().index
+                if a in df_matrix.index
             ]
+            df_matrix = df_matrix.loc[valid_albums]
+            df_matrix = df_matrix[df_matrix.sum().sort_values(
+                ascending=False).index]
+
+            matrix_list = [[col, idx, int(df_matrix.loc[idx, col])]
+                           for col in df_matrix.columns
+                           for idx in df_matrix.index]
 
             pos_cn = POS_LABELS_MAP.get(pos, pos)
             result[pos] = {
@@ -1190,7 +1393,10 @@ class LyricsAnalysisPipeline:
 
         self.exporter.save_json(result, 'matrix_album_word.json')
 
-    def run_cloud_words_analysis(self, pos_types=['n', 'a', 'v', 't'], words_num=20, is_starts_with=True):
+    def run_cloud_words_analysis(self,
+                                 pos_types=['n', 'a', 'v', 't'],
+                                 words_num=20,
+                                 is_starts_with=True):
         """生成词云数据 (高频词统计)"""
         print("Generating Cloud Words Data...")
         df_raw = self.loader.load()
@@ -1198,21 +1404,27 @@ class LyricsAnalysisPipeline:
         words_dict = defaultdict(dict)
 
         for pos in pos_types:
-            res_df = self.metrics._count_word_stats(df_raw, pos, words_num, is_starts_with, filter_stopwords=True)
+            res_df = self.metrics._count_word_stats(df_raw,
+                                                    pos,
+                                                    words_num,
+                                                    is_starts_with,
+                                                    filter_stopwords=True)
 
             pos_cn = POS_LABELS_MAP.get(pos, pos)
-            
+
             if res_df.empty:
                 words_dict[pos] = {
                     'word': [],
                     'song_num': [],
                     'freq': [],
                     'order': [],
-                    'chart_title': f"{self.loader.singer}-覆盖量(含该词的歌曲数)最高的{words_num}个{pos_cn}"
+                    'chart_title':
+                    f"{self.loader.singer}-覆盖量(含该词的歌曲数)最高的{words_num}个{pos_cn}"
                 }
             else:
                 words_dict[pos] = res_df.to_dict('list')
-                words_dict[pos]['chart_title'] = f"{self.loader.singer}-覆盖量(含该词的歌曲数)最高的{words_num}个{pos_cn}"
+                words_dict[pos][
+                    'chart_title'] = f"{self.loader.singer}-覆盖量(含该词的歌曲数)最高的{words_num}个{pos_cn}"
 
         self.exporter.save_json(dict(words_dict), 'cloud_words_data.json')
 
@@ -1295,30 +1507,28 @@ def main(file_path_prefix="", words_num_=None, is_starts_with_=False,
 if __name__ == "__main__":
     # 配置区
     # file_path_prefix = "data/mayday/"
-    file_path_prefix = "data/jaychou/"
-    words_num = 20
+    # file_path_prefix = "data/jaychou/"
+    file_path_prefix = "data/liyuchun/"
+    words_num = None
     is_starts_with = False
     pos_types = ['n', 'a', 'v', 't']
     cloud_words_num = 20
 
     # 原有功能调用
-    main(
-        file_path_prefix=file_path_prefix,
-        words_num_=words_num,
-        is_starts_with_=is_starts_with,
-        pos_types_=pos_types,
-        cloud_words_num_=cloud_words_num
-    )
-    
+    main(file_path_prefix=file_path_prefix,
+         words_num_=words_num,
+         is_starts_with_=is_starts_with,
+         pos_types_=pos_types,
+         cloud_words_num_=cloud_words_num)
+
     # 新增：生成组合词性图
     script_dir = os.path.dirname(os.path.abspath(__file__))
     full_path_prefix = os.path.join(script_dir, file_path_prefix)
     pipeline = LyricsAnalysisPipeline(full_path_prefix, is_ost=False)
-    
+
     # 示例：名词+形容词+时间词组合（使用力引导布局）
     pipeline.run_word_song_graph_combined_pos(
         pos_types=['n', 'a', 't'],
         words_num=20,
         layout_type='spring',  # 明确指定spring布局
-        output_filename='graph_word_song_data_nat_combined.json'
-    )
+        output_filename='graph_word_song_data_nat_combined.json')
