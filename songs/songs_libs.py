@@ -14,11 +14,11 @@ def id_process(df, is_ost=False, is_words=True):
     # df_album_fixed = df[['album_id', 'album_fixed']].drop_duplicates(subset=['album_fixed'], keep='first').reset_index(drop=True)
     # df_album_fixed['album_id_unique'] = 'album' + df_album_fixed['album_id'].astype(int).astype(str)
     # df_album_fixed = df_album_fixed[['album_id_unique', 'album_fixed']]
-    df['song_year'] = df['publish_date'].str.split('-').str[0]
+    df['song_year'] = df['publish_date'].str.split('-').str[0].astype(int)
     if is_ost:
-        df['album_fixed'] = df['song_year'] + '年'
-        df['album_id_unique'] = 'album' + df['song_year']
-        df['legend_type'] = df['song_year'] + '年'
+        df['album_fixed'] = df['song_year'].astype(str) + '年'
+        df['album_id_unique'] = 'album' + df['song_year'].astype(str)
+        df['legend_type'] = df['song_year'].astype(str) + '年'
     else:
         df['album_fixed'] = df['album_name']
         df['album_id_unique'] = 'album' + df['album_id'].astype(str)

@@ -411,8 +411,8 @@ if __name__ == '__main__':
     sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
     
     # ==================== 配置区 ====================
-    # data_prefix = "jaychou"
-    data_prefix = "mayday"
+    data_prefix = "jaychou"
+    # data_prefix = "mayday"
     # data_prefix = "liuyuning"
     
     # 基于脚本位置构造数据路径
