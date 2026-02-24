@@ -412,10 +412,8 @@ if __name__ == '__main__':
         os.path.abspath(__file__))))
 
     # ==================== 配置区 ====================
-    # data_prefix = "jaychou"
-    # data_prefix = "mayday"
-    # data_prefix = "liuyuning"
-    data_prefix = "liyuchun/"
+    singer_list = ['mayday', 'jaychou', 'liyuchun', 'chenyixun', 'renxianqi', 'linjunjie', 'sunyanzi']
+    data_prefix = f"{singer_list[-1]}/"
 
     # 基于脚本位置构造数据路径
     script_dir = os.path.dirname(os.path.abspath(__file__))

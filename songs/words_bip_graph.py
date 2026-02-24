@@ -1506,10 +1506,10 @@ def main(file_path_prefix="", words_num_=None, is_starts_with_=False,
 
 if __name__ == "__main__":
     # 配置区
-    # file_path_prefix = "data/mayday/"
-    # file_path_prefix = "data/jaychou/"
-    file_path_prefix = "data/liyuchun/"
-    words_num = None
+    singer_list = ['mayday', 'jaychou', 'liyuchun', 'chenyixun', 'renxianqi', 'linjunjie', 'sunyanzi']
+
+    file_path_prefix = f"data/{singer_list[-1]}/"
+    words_num = 20
     is_starts_with = False
     pos_types = ['n', 'a', 'v', 't']
     cloud_words_num = 20

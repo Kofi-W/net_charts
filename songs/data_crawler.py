@@ -24,28 +24,6 @@ import sys
 sys.path.append('..')
 
 
-def format_timestamp(ts, date_format='%Y-%m-%d'):
-    """
-    自动识别秒或毫秒，并转换为指定格式的字符串
-    :param ts: 时间戳 (int 或 float)
-    """
-    if not ts or ts <= 0:
-        return "Unknown"
-
-    # 核心逻辑：判断时间戳位数
-    # 秒级时间戳目前在 10^9 数量级（10位）
-    # 毫秒级时间戳在 10^12 数量级（13位）
-    # 我们以 10^11 (11位) 为界限进行区分
-    if ts > 100000000000:
-        ts = ts / 1000  # 是毫秒，转换为秒
-
-    try:
-        dt = datetime.fromtimestamp(ts)
-        return dt.strftime(date_format)
-    except Exception:
-        return "Invalid Date"
-
-
 def save_to_json_list(file_path, song_data):
     """以列表形式保存所有歌曲，避免字典 key 覆盖的问题"""
     data_list = []
