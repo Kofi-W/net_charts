@@ -944,7 +944,7 @@ class LyricsAnalysisPipeline:
             self,
             pos_types=['n', 'a', 'v', 't'],
             words_num=None,
-            layout_type='spring',
+            layout_type='kamada_kawai',
             stretch_factor=0.8,
             is_starts_with=True,
             output_filename='graph_word_song_data_combined_pos.json'):
@@ -981,14 +981,16 @@ class LyricsAnalysisPipeline:
 
         # 使用力引导布局，增加节点间距离
         # k参数控制理想距离，iterations增加迭代次数获得更好的布局
-        coords_raw = nx.spring_layout(
-            G,
-            k=3.0,  # 增加理想距离（默认约0.1-1.0，这里设置为2.0）
-            iterations=500,  # 增加迭代次数以获得更稳定的布局
-            scale=1500,  # 放大整体坐标范围
-            seed=42  # 固定随机种子保证可复现
-        )
+        # coords_raw = nx.spring_layout(
+        #     G,
+        #     k=3.0,  # 增加理想距离（默认约0.1-1.0，这里设置为2.0）
+        #     iterations=500,  # 增加迭代次数以获得更稳定的布局
+        #     scale=1500,  # 放大整体坐标范围
+        #     seed=42  # 固定随机种子保证可复现
+        # )
 
+        # 使用Kamada-Kawai Layout布局
+        coords_raw = nx.kamada_kawai_layout(G)
         # 将坐标转换为标准格式（保留两位小数）
         coords = {
             node: (round(x * 1.5, 2), round(y * 1.5, 2))
@@ -1526,9 +1528,9 @@ if __name__ == "__main__":
     full_path_prefix = os.path.join(script_dir, file_path_prefix)
     pipeline = LyricsAnalysisPipeline(full_path_prefix, is_ost=False)
 
-    # 示例：名词+形容词+时间词组合（使用力引导布局）
+    # 示例：名词+形容词+时间词组合（使用Kamada-Kawai Layout布局）
     pipeline.run_word_song_graph_combined_pos(
-        pos_types=['n', 'a', 't'],
+        pos_types=['n', 'v', 'a', 't'],
         words_num=20,
-        layout_type='spring',  # 明确指定spring布局
-        output_filename='graph_word_song_data_nat_combined.json')
+        layout_type='spring',
+        output_filename='graph_word_song_data_pos_combined.json')

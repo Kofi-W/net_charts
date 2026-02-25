@@ -137,7 +137,7 @@ class SongDataCleaner:
 # 常量
 class LyricProcessConstants:
 
-    STOP_WORDS_N = []
+    STOP_WORDS_N = ['人', '个人']
     STOP_WORDS_V = [
     '是', '在', '有', '了', '着', '被', '把', '让', '使', '得',
     '要', '会', '能', '可以', '应该', '必须', '不要', '不能', '像', '到', '没有', '就是', '不是', '没', '无', '给', '不会'
