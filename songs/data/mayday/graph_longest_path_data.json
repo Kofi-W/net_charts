@@ -2,25 +2,109 @@
     "n": {
         "nodes": [
             {
-                "id": "song182047",
+                "id": "song4932456",
                 "size": 1,
                 "size_show": 1.0,
                 "x": -550.0,
                 "y": 350.0,
                 "node_type": "song",
-                "label": "宠上天",
-                "album_id": "album15702.0",
-                "album": "为爱而生",
-                "album_order": 6,
+                "label": "垃圾车(朋友版)",
+                "album_id": "album96368.0",
+                "album": "神的孩子都在跳舞",
+                "album_order": 4,
                 "data": {
-                    "cluster": "为爱而生"
+                    "cluster": "神的孩子都在跳舞"
+                }
+            },
+            {
+                "id": "word146",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -450.0,
+                "y": 350.0,
+                "label": "朋友",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 15
+            },
+            {
+                "id": "song4930730",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -350.0,
+                "y": 350.0,
+                "node_type": "song",
+                "label": "HoSee",
+                "album_id": "album96215.0",
+                "album": "第一张创作专辑",
+                "album_order": 0,
+                "data": {
+                    "cluster": "第一张创作专辑"
+                }
+            },
+            {
+                "id": "word64",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -250.0,
+                "y": 350.0,
+                "label": "日子",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 13
+            },
+            {
+                "id": "song4931120",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -150.0,
+                "y": 350.0,
+                "node_type": "song",
+                "label": "有你的将来",
+                "album_id": "album96252.0",
+                "album": "爱情万岁",
+                "album_order": 1,
+                "data": {
+                    "cluster": "爱情万岁"
+                }
+            },
+            {
+                "id": "word52",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -50.0,
+                "y": 350.0,
+                "label": "心",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 28
+            },
+            {
+                "id": "song1128641",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 50.0,
+                "y": 350.0,
+                "node_type": "song",
+                "label": "明白",
+                "album_id": "album96252.0",
+                "album": "爱情万岁",
+                "album_order": 1,
+                "data": {
+                    "cluster": "爱情万岁"
                 }
             },
             {
                 "id": "word1171",
                 "size": 2,
                 "size_show": 5.0,
-                "x": -450.0,
+                "x": 150.0,
                 "y": 350.0,
                 "label": "天",
                 "node_type": "word",
@@ -33,7 +117,7 @@
                 "id": "song4930732",
                 "size": 2,
                 "size_show": 5.0,
-                "x": -350.0,
+                "x": 250.0,
                 "y": 350.0,
                 "node_type": "song",
                 "label": "ILoveYou无望",
@@ -48,7 +132,7 @@
                 "id": "word387",
                 "size": 2,
                 "size_show": 5.0,
-                "x": -250.0,
+                "x": 350.0,
                 "y": 350.0,
                 "label": "风",
                 "node_type": "word",
@@ -58,151 +142,11 @@
                 "song_id_count": 19
             },
             {
-                "id": "song4930733",
-                "size": 2,
-                "size_show": 5.0,
-                "x": -150.0,
-                "y": 350.0,
-                "node_type": "song",
-                "label": "风若吹",
-                "album_id": "album96215.0",
-                "album": "第一张创作专辑",
-                "album_order": 0,
-                "data": {
-                    "cluster": "第一张创作专辑"
-                }
-            },
-            {
-                "id": "word146",
-                "size": 2,
-                "size_show": 5.0,
-                "x": -50.0,
-                "y": 350.0,
-                "label": "朋友",
-                "node_type": "word",
-                "data": {
-                    "cluster": "词"
-                },
-                "song_id_count": 15
-            },
-            {
-                "id": "song4930730",
-                "size": 2,
-                "size_show": 5.0,
-                "x": 50.0,
-                "y": 350.0,
-                "node_type": "song",
-                "label": "HoSee",
-                "album_id": "album96215.0",
-                "album": "第一张创作专辑",
-                "album_order": 0,
-                "data": {
-                    "cluster": "第一张创作专辑"
-                }
-            },
-            {
-                "id": "word247",
-                "size": 2,
-                "size_show": 5.0,
-                "x": 150.0,
-                "y": 350.0,
-                "label": "世界",
-                "node_type": "word",
-                "data": {
-                    "cluster": "词"
-                },
-                "song_id_count": 50
-            },
-            {
-                "id": "song4930724",
-                "size": 2,
-                "size_show": 5.0,
-                "x": 250.0,
-                "y": 350.0,
-                "node_type": "song",
-                "label": "拥抱",
-                "album_id": "album96215.0",
-                "album": "第一张创作专辑",
-                "album_order": 0,
-                "data": {
-                    "cluster": "第一张创作专辑"
-                }
-            },
-            {
-                "id": "word72",
-                "size": 2,
-                "size_show": 5.0,
-                "x": 350.0,
-                "y": 350.0,
-                "label": "眼泪",
-                "node_type": "word",
-                "data": {
-                    "cluster": "词"
-                },
-                "song_id_count": 27
-            },
-            {
-                "id": "song4930726",
-                "size": 2,
-                "size_show": 5.0,
-                "x": 450.0,
-                "y": 350.0,
-                "node_type": "song",
-                "label": "生活",
-                "album_id": "album96215.0",
-                "album": "第一张创作专辑",
-                "album_order": 0,
-                "data": {
-                    "cluster": "第一张创作专辑"
-                }
-            },
-            {
-                "id": "word1158",
-                "size": 2,
-                "size_show": 5.0,
-                "x": 450.0,
-                "y": 250.0,
-                "label": "梦",
-                "node_type": "word",
-                "data": {
-                    "cluster": "词"
-                },
-                "song_id_count": 25
-            },
-            {
-                "id": "song4931121",
-                "size": 2,
-                "size_show": 5.0,
-                "x": 350.0,
-                "y": 250.0,
-                "node_type": "song",
-                "label": "憨人",
-                "album_id": "album96252.0",
-                "album": "爱情万岁",
-                "album_order": 1,
-                "data": {
-                    "cluster": "爱情万岁"
-                }
-            },
-            {
-                "id": "word439",
-                "size": 2,
-                "size_show": 5.0,
-                "x": 250.0,
-                "y": 250.0,
-                "label": "人",
-                "node_type": "word",
-                "data": {
-                    "cluster": "词"
-                },
-                "song_id_count": 48
-            },
-            {
                 "id": "song4930731",
                 "size": 2,
                 "size_show": 5.0,
-                "x": 150.0,
-                "y": 250.0,
+                "x": 450.0,
+                "y": 350.0,
                 "node_type": "song",
                 "label": "黑白讲",
                 "album_id": "album96215.0",
@@ -216,7 +160,7 @@
                 "id": "word636",
                 "size": 2,
                 "size_show": 5.0,
-                "x": 50.0,
+                "x": 450.0,
                 "y": 250.0,
                 "label": "青春",
                 "node_type": "word",
@@ -226,25 +170,53 @@
                 "song_id_count": 18
             },
             {
-                "id": "song4931452",
+                "id": "song4930723",
                 "size": 2,
                 "size_show": 5.0,
-                "x": -50.0,
+                "x": 350.0,
                 "y": 250.0,
                 "node_type": "song",
-                "label": "能不能不要说",
-                "album_id": "album96291.0",
-                "album": "人生海海",
-                "album_order": 2,
+                "label": "疯狂世界",
+                "album_id": "album96215.0",
+                "album": "第一张创作专辑",
+                "album_order": 0,
                 "data": {
-                    "cluster": "人生海海"
+                    "cluster": "第一张创作专辑"
+                }
+            },
+            {
+                "id": "word247",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 250.0,
+                "y": 250.0,
+                "label": "世界",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 50
+            },
+            {
+                "id": "song4930724",
+                "size": 2,
+                "size_show": 5.0,
+                "x": 150.0,
+                "y": 250.0,
+                "node_type": "song",
+                "label": "拥抱",
+                "album_id": "album96215.0",
+                "album": "第一张创作专辑",
+                "album_order": 0,
+                "data": {
+                    "cluster": "第一张创作专辑"
                 }
             },
             {
                 "id": "word832",
                 "size": 2,
                 "size_show": 5.0,
-                "x": -150.0,
+                "x": 50.0,
                 "y": 250.0,
                 "label": "手",
                 "node_type": "word",
@@ -257,7 +229,7 @@
                 "id": "song4931117",
                 "size": 2,
                 "size_show": 5.0,
-                "x": -250.0,
+                "x": -50.0,
                 "y": 250.0,
                 "node_type": "song",
                 "label": "为什么(今日的爱情)",
@@ -272,7 +244,7 @@
                 "id": "word1139",
                 "size": 2,
                 "size_show": 5.0,
-                "x": -350.0,
+                "x": -150.0,
                 "y": 250.0,
                 "label": "爱情",
                 "node_type": "word",
@@ -282,13 +254,13 @@
                 "song_id_count": 29
             },
             {
-                "id": "song4830147",
+                "id": "song4930726",
                 "size": 2,
                 "size_show": 5.0,
-                "x": -450.0,
+                "x": -250.0,
                 "y": 250.0,
                 "node_type": "song",
-                "label": "志明与春娇",
+                "label": "生活",
                 "album_id": "album96215.0",
                 "album": "第一张创作专辑",
                 "album_order": 0,
@@ -297,54 +269,26 @@
                 }
             },
             {
-                "id": "word56",
-                "size": 2,
-                "size_show": 5.0,
-                "x": -550.0,
-                "y": 250.0,
-                "label": "个人",
-                "node_type": "word",
-                "data": {
-                    "cluster": "词"
-                },
-                "song_id_count": 12
-            },
-            {
-                "id": "song4931119",
-                "size": 2,
-                "size_show": 5.0,
-                "x": -550.0,
-                "y": 150.0,
-                "node_type": "song",
-                "label": "心中无别人",
-                "album_id": "album96252.0",
-                "album": "爱情万岁",
-                "album_order": 1,
-                "data": {
-                    "cluster": "爱情万岁"
-                }
-            },
-            {
-                "id": "word959",
-                "size": 2,
-                "size_show": 5.0,
-                "x": -450.0,
-                "y": 150.0,
-                "label": "命运",
-                "node_type": "word",
-                "data": {
-                    "cluster": "词"
-                },
-                "song_id_count": 16
-            },
-            {
-                "id": "song4931123",
+                "id": "word1158",
                 "size": 2,
                 "size_show": 5.0,
                 "x": -350.0,
-                "y": 150.0,
+                "y": 250.0,
+                "label": "梦",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 25
+            },
+            {
+                "id": "song4931121",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -450.0,
+                "y": 250.0,
                 "node_type": "song",
-                "label": "雨眠",
+                "label": "憨人",
                 "album_id": "album96252.0",
                 "album": "爱情万岁",
                 "album_order": 1,
@@ -356,8 +300,8 @@
                 "id": "word9",
                 "size": 2,
                 "size_show": 5.0,
-                "x": -250.0,
-                "y": 150.0,
+                "x": -550.0,
+                "y": 250.0,
                 "label": "人生",
                 "node_type": "word",
                 "data": {
@@ -366,10 +310,38 @@
                 "song_id_count": 32
             },
             {
+                "id": "song4931118",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -550.0,
+                "y": 150.0,
+                "node_type": "song",
+                "label": "终结孤单",
+                "album_id": "album96252.0",
+                "album": "爱情万岁",
+                "album_order": 1,
+                "data": {
+                    "cluster": "爱情万岁"
+                }
+            },
+            {
+                "id": "word736",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -450.0,
+                "y": 150.0,
+                "label": "心情",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 11
+            },
+            {
                 "id": "song4931456",
                 "size": 2,
                 "size_show": 5.0,
-                "x": -150.0,
+                "x": -350.0,
                 "y": 150.0,
                 "node_type": "song",
                 "label": "借问众神明",
@@ -378,6 +350,34 @@
                 "album_order": 2,
                 "data": {
                     "cluster": "人生海海"
+                }
+            },
+            {
+                "id": "word959",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -250.0,
+                "y": 150.0,
+                "label": "命运",
+                "node_type": "word",
+                "data": {
+                    "cluster": "词"
+                },
+                "song_id_count": 16
+            },
+            {
+                "id": "song4930733",
+                "size": 2,
+                "size_show": 5.0,
+                "x": -150.0,
+                "y": 150.0,
+                "node_type": "song",
+                "label": "风若吹",
+                "album_id": "album96215.0",
+                "album": "第一张创作专辑",
+                "album_order": 0,
+                "data": {
+                    "cluster": "第一张创作专辑"
                 }
             },
             {
@@ -478,46 +478,46 @@
                 "song_id_count": 18
             },
             {
-                "id": "song4931453",
+                "id": "song4830223",
                 "size": 2,
                 "size_show": 5.0,
                 "x": 350.0,
                 "y": 50.0,
                 "node_type": "song",
-                "label": "好不好",
-                "album_id": "album96291.0",
-                "album": "人生海海",
-                "album_order": 2,
+                "label": "恒星的恒心",
+                "album_id": "album96353.0",
+                "album": "时光机",
+                "album_order": 3,
                 "data": {
-                    "cluster": "人生海海"
+                    "cluster": "时光机"
                 }
             },
             {
-                "id": "word64",
+                "id": "word72",
                 "size": 2,
                 "size_show": 5.0,
                 "x": 250.0,
                 "y": 50.0,
-                "label": "日子",
+                "label": "眼泪",
                 "node_type": "word",
                 "data": {
                     "cluster": "词"
                 },
-                "song_id_count": 13
+                "song_id_count": 27
             },
             {
-                "id": "song4931120",
+                "id": "song4830222",
                 "size": 2,
                 "size_show": 5.0,
                 "x": 150.0,
                 "y": 50.0,
                 "node_type": "song",
-                "label": "有你的将来",
-                "album_id": "album96252.0",
-                "album": "爱情万岁",
-                "album_order": 1,
+                "label": "在这一秒",
+                "album_id": "album96353.0",
+                "album": "时光机",
+                "album_order": 3,
                 "data": {
-                    "cluster": "爱情万岁"
+                    "cluster": "时光机"
                 }
             },
             {
@@ -534,13 +534,13 @@
                 "song_id_count": 17
             },
             {
-                "id": "song1056497",
+                "id": "song1056501",
                 "size": 2,
                 "size_show": 5.0,
                 "x": -50.0,
                 "y": 50.0,
                 "node_type": "song",
-                "label": "洗衣机",
+                "label": "星空",
                 "album_id": "album90142.0",
                 "album": "第二人生",
                 "album_order": 8,
@@ -549,40 +549,76 @@
                 }
             },
             {
-                "id": "word52",
+                "id": "word143",
                 "size": 2,
                 "size_show": 5.0,
                 "x": -150.0,
                 "y": 50.0,
-                "label": "心",
+                "label": "空气",
                 "node_type": "word",
                 "data": {
                     "cluster": "词"
                 },
-                "song_id_count": 28
+                "song_id_count": 10
             },
             {
-                "id": "song4930725",
+                "id": "song4830231",
                 "size": 1,
                 "size_show": 1.0,
                 "x": -250.0,
                 "y": 50.0,
                 "node_type": "song",
-                "label": "透露",
-                "album_id": "album96215.0",
-                "album": "第一张创作专辑",
-                "album_order": 0,
+                "label": "时光机",
+                "album_id": "album96353.0",
+                "album": "时光机",
+                "album_order": 3,
                 "data": {
-                    "cluster": "第一张创作专辑"
+                    "cluster": "时光机"
                 }
             }
         ],
         "edges": [
             {
-                "source": "song182047",
+                "source": "song4932456",
+                "target": "word146",
+                "album": "神的孩子都在跳舞",
+                "album_order": 4
+            },
+            {
+                "source": "word146",
+                "target": "song4930730",
+                "album": "第一张创作专辑",
+                "album_order": 0
+            },
+            {
+                "source": "song4930730",
+                "target": "word64",
+                "album": "第一张创作专辑",
+                "album_order": 0
+            },
+            {
+                "source": "word64",
+                "target": "song4931120",
+                "album": "爱情万岁",
+                "album_order": 1
+            },
+            {
+                "source": "song4931120",
+                "target": "word52",
+                "album": "爱情万岁",
+                "album_order": 1
+            },
+            {
+                "source": "word52",
+                "target": "song1128641",
+                "album": "爱情万岁",
+                "album_order": 1
+            },
+            {
+                "source": "song1128641",
                 "target": "word1171",
-                "album": "为爱而生",
-                "album_order": 6
+                "album": "爱情万岁",
+                "album_order": 1
             },
             {
                 "source": "word1171",
@@ -598,24 +634,24 @@
             },
             {
                 "source": "word387",
-                "target": "song4930733",
+                "target": "song4930731",
                 "album": "第一张创作专辑",
                 "album_order": 0
             },
             {
-                "source": "song4930733",
-                "target": "word146",
+                "source": "song4930731",
+                "target": "word636",
                 "album": "第一张创作专辑",
                 "album_order": 0
             },
             {
-                "source": "word146",
-                "target": "song4930730",
+                "source": "word636",
+                "target": "song4930723",
                 "album": "第一张创作专辑",
                 "album_order": 0
             },
             {
-                "source": "song4930730",
+                "source": "song4930723",
                 "target": "word247",
                 "album": "第一张创作专辑",
                 "album_order": 0
@@ -628,12 +664,24 @@
             },
             {
                 "source": "song4930724",
-                "target": "word72",
+                "target": "word832",
                 "album": "第一张创作专辑",
                 "album_order": 0
             },
             {
-                "source": "word72",
+                "source": "word832",
+                "target": "song4931117",
+                "album": "爱情万岁",
+                "album_order": 1
+            },
+            {
+                "source": "song4931117",
+                "target": "word1139",
+                "album": "爱情万岁",
+                "album_order": 1
+            },
+            {
+                "source": "word1139",
                 "target": "song4930726",
                 "album": "第一张创作专辑",
                 "album_order": 0
@@ -652,93 +700,45 @@
             },
             {
                 "source": "song4931121",
-                "target": "word439",
-                "album": "爱情万岁",
-                "album_order": 1
-            },
-            {
-                "source": "word439",
-                "target": "song4930731",
-                "album": "第一张创作专辑",
-                "album_order": 0
-            },
-            {
-                "source": "song4930731",
-                "target": "word636",
-                "album": "第一张创作专辑",
-                "album_order": 0
-            },
-            {
-                "source": "word636",
-                "target": "song4931452",
-                "album": "人生海海",
-                "album_order": 2
-            },
-            {
-                "source": "song4931452",
-                "target": "word832",
-                "album": "人生海海",
-                "album_order": 2
-            },
-            {
-                "source": "word832",
-                "target": "song4931117",
-                "album": "爱情万岁",
-                "album_order": 1
-            },
-            {
-                "source": "song4931117",
-                "target": "word1139",
-                "album": "爱情万岁",
-                "album_order": 1
-            },
-            {
-                "source": "word1139",
-                "target": "song4830147",
-                "album": "第一张创作专辑",
-                "album_order": 0
-            },
-            {
-                "source": "song4830147",
-                "target": "word56",
-                "album": "第一张创作专辑",
-                "album_order": 0
-            },
-            {
-                "source": "word56",
-                "target": "song4931119",
-                "album": "爱情万岁",
-                "album_order": 1
-            },
-            {
-                "source": "song4931119",
-                "target": "word959",
-                "album": "爱情万岁",
-                "album_order": 1
-            },
-            {
-                "source": "word959",
-                "target": "song4931123",
-                "album": "爱情万岁",
-                "album_order": 1
-            },
-            {
-                "source": "song4931123",
                 "target": "word9",
                 "album": "爱情万岁",
                 "album_order": 1
             },
             {
                 "source": "word9",
+                "target": "song4931118",
+                "album": "爱情万岁",
+                "album_order": 1
+            },
+            {
+                "source": "song4931118",
+                "target": "word736",
+                "album": "爱情万岁",
+                "album_order": 1
+            },
+            {
+                "source": "word736",
                 "target": "song4931456",
                 "album": "人生海海",
                 "album_order": 2
             },
             {
                 "source": "song4931456",
-                "target": "word886",
+                "target": "word959",
                 "album": "人生海海",
                 "album_order": 2
+            },
+            {
+                "source": "word959",
+                "target": "song4930733",
+                "album": "第一张创作专辑",
+                "album_order": 0
+            },
+            {
+                "source": "song4930733",
+                "target": "word886",
+                "album": "第一张创作专辑",
+                "album_order": 0
             },
             {
                 "source": "word886",
@@ -778,45 +778,45 @@
             },
             {
                 "source": "word750",
-                "target": "song4931453",
-                "album": "人生海海",
-                "album_order": 2
+                "target": "song4830223",
+                "album": "时光机",
+                "album_order": 3
             },
             {
-                "source": "song4931453",
-                "target": "word64",
-                "album": "人生海海",
-                "album_order": 2
+                "source": "song4830223",
+                "target": "word72",
+                "album": "时光机",
+                "album_order": 3
             },
             {
-                "source": "word64",
-                "target": "song4931120",
-                "album": "爱情万岁",
-                "album_order": 1
+                "source": "word72",
+                "target": "song4830222",
+                "album": "时光机",
+                "album_order": 3
             },
             {
-                "source": "song4931120",
+                "source": "song4830222",
                 "target": "word570",
-                "album": "爱情万岁",
-                "album_order": 1
+                "album": "时光机",
+                "album_order": 3
             },
             {
                 "source": "word570",
-                "target": "song1056497",
+                "target": "song1056501",
                 "album": "第二人生",
                 "album_order": 8
             },
             {
-                "source": "song1056497",
-                "target": "word52",
+                "source": "song1056501",
+                "target": "word143",
                 "album": "第二人生",
                 "album_order": 8
             },
             {
-                "source": "word52",
-                "target": "song4930725",
-                "album": "第一张创作专辑",
-                "album_order": 0
+                "source": "word143",
+                "target": "song4830231",
+                "album": "时光机",
+                "album_order": 3
             }
         ],
         "data_info": {
@@ -824,19 +824,21 @@
             "title": "录音室&精选辑 (最长路径)",
             "pos": "n",
             "all_num": 130,
-            "has_pos_num": 21,
+            "has_pos_num": 124,
             "word_num": "Longest Path",
             "num_unit": "首",
             "nodes_type": "名词-歌曲",
             "chart_title": "五月天歌词 高频名词-歌曲关系图",
-            "chart_sub_title": "共统计130首歌曲，覆盖量(含该词的歌曲数)最高的Longest Path个名词，涵盖21首歌曲。",
+            "chart_sub_title": "共统计130首歌曲，覆盖量(含该词的歌曲数)最高的Longest Path个名词，涵盖124首歌曲。",
             "chart_sub_title_lcc": "",
-            "diameter": 40,
-            "diameter_desc": "最大连通子图直径",
+            "path_length": 40,
+            "path_desc": "最长路径图",
+            "description": "该最长路径长度为 40，连接了 20 个名词节点和 21 首歌曲，跨越了 6 张专辑。路径展示了词汇与歌曲之间的深度关联链条。",
             "word_node_count": 20,
             "song_node_count": 21,
             "covered_album_count": 6,
-            "all_nodes_num": 41
+            "all_nodes_num": 41,
+            "path_node_count": 41
         }
     },
     "a": {
@@ -1624,19 +1626,21 @@
             "title": "录音室&精选辑 (最长路径)",
             "pos": "a",
             "all_num": 130,
-            "has_pos_num": 20,
+            "has_pos_num": 101,
             "word_num": "Longest Path",
             "num_unit": "首",
             "nodes_type": "形容词-歌曲",
             "chart_title": "五月天歌词 高频形容词-歌曲关系图",
-            "chart_sub_title": "共统计130首歌曲，覆盖量(含该词的歌曲数)最高的Longest Path个形容词，涵盖20首歌曲。",
+            "chart_sub_title": "共统计130首歌曲，覆盖量(含该词的歌曲数)最高的Longest Path个形容词，涵盖101首歌曲。",
             "chart_sub_title_lcc": "",
-            "diameter": 38,
-            "diameter_desc": "最大连通子图直径",
+            "path_length": 38,
+            "path_desc": "最长路径图",
+            "description": "该最长路径长度为 38，连接了 19 个形容词节点和 20 首歌曲，跨越了 7 张专辑。路径展示了词汇与歌曲之间的深度关联链条。",
             "word_node_count": 19,
             "song_node_count": 20,
             "covered_album_count": 7,
-            "all_nodes_num": 39
+            "all_nodes_num": 39,
+            "path_node_count": 39
         }
     },
     "v": {
@@ -2464,19 +2468,21 @@
             "title": "录音室&精选辑 (最长路径)",
             "pos": "v",
             "all_num": 130,
-            "has_pos_num": 21,
+            "has_pos_num": 125,
             "word_num": "Longest Path",
             "num_unit": "首",
             "nodes_type": "动词-歌曲",
             "chart_title": "五月天歌词 高频动词-歌曲关系图",
-            "chart_sub_title": "共统计130首歌曲，覆盖量(含该词的歌曲数)最高的Longest Path个动词，涵盖21首歌曲。",
+            "chart_sub_title": "共统计130首歌曲，覆盖量(含该词的歌曲数)最高的Longest Path个动词，涵盖125首歌曲。",
             "chart_sub_title_lcc": "",
-            "diameter": 40,
-            "diameter_desc": "最大连通子图直径",
+            "path_length": 40,
+            "path_desc": "最长路径图",
+            "description": "该最长路径长度为 40，连接了 20 个动词节点和 21 首歌曲，跨越了 5 张专辑。路径展示了词汇与歌曲之间的深度关联链条。",
             "word_node_count": 20,
             "song_node_count": 21,
             "covered_album_count": 5,
-            "all_nodes_num": 41
+            "all_nodes_num": 41,
+            "path_node_count": 41
         }
     },
     "t": {
@@ -3184,19 +3190,21 @@
             "title": "录音室&精选辑 (最长路径)",
             "pos": "t",
             "all_num": 130,
-            "has_pos_num": 18,
+            "has_pos_num": 79,
             "word_num": "Longest Path",
             "num_unit": "首",
             "nodes_type": "时间词-歌曲",
             "chart_title": "五月天歌词 高频时间词-歌曲关系图",
-            "chart_sub_title": "共统计130首歌曲，覆盖量(含该词的歌曲数)最高的Longest Path个时间词，涵盖18首歌曲。",
+            "chart_sub_title": "共统计130首歌曲，覆盖量(含该词的歌曲数)最高的Longest Path个时间词，涵盖79首歌曲。",
             "chart_sub_title_lcc": "",
-            "diameter": 34,
-            "diameter_desc": "最大连通子图直径",
+            "path_length": 34,
+            "path_desc": "最长路径图",
+            "description": "该最长路径长度为 34，连接了 17 个时间词节点和 18 首歌曲，跨越了 7 张专辑。路径展示了词汇与歌曲之间的深度关联链条。",
             "word_node_count": 17,
             "song_node_count": 18,
             "covered_album_count": 7,
-            "all_nodes_num": 35
+            "all_nodes_num": 35,
+            "path_node_count": 35
         }
     }
 }

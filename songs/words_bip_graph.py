@@ -60,13 +60,6 @@ class LyricsDataLoader:
         self.album_type = self._infer_album_type(data_path)
 
     def _infer_singer(self, data_path):
-        """根据路径推断歌手名称"""
-        if "mayday" in data_path.lower():
-            return "五月天"
-        elif "jaychou" in data_path.lower():
-            return "周杰伦"
-        elif "liuyuning" in data_path.lower():
-            return "刘宇宁"
         df = self.load()
         singer = df['artist_name'].values[0]
         return singer
@@ -121,13 +114,20 @@ class MetricsCalculator:
             return df[~df['word'].isin(stop_words)]
         return df
 
-    def _count_word_stats(self, df, pos, words_num=None, is_starts_with=True, filter_stopwords=True):
+    def _count_word_stats(self,
+                          df,
+                          pos,
+                          words_num=None,
+                          is_starts_with=True,
+                          filter_stopwords=True):
         """统计词频和歌曲覆盖数"""
         # 可选：过滤停用词
-        df_working = self._filter_stop_words(df, pos) if filter_stopwords else df
+        df_working = self._filter_stop_words(df,
+                                             pos) if words_num != None else df
 
         if is_starts_with:
-            df_pos = df_working[df_working['pos'].str.startswith(pos, na=False)]
+            df_pos = df_working[df_working['pos'].str.startswith(pos,
+                                                                 na=False)]
         else:
             df_pos = df_working[df_working['pos'] == pos]
 
@@ -135,7 +135,8 @@ class MetricsCalculator:
             return pd.DataFrame(columns=['word', 'song_num', 'freq', 'order'])
 
         # 统计覆盖歌曲数 (Document Frequency)
-        word_cnt = df_pos.groupby('word')['song_id'].nunique().reset_index().rename(columns={'song_id': 'song_num'})
+        word_cnt = df_pos.groupby('word')['song_id'].nunique().reset_index(
+        ).rename(columns={'song_id': 'song_num'})
         # 统计词频 (Term Frequency)
         word_sum = df_pos.groupby('word')['freq'].sum().reset_index()
 
@@ -156,10 +157,15 @@ class MetricsCalculator:
         df_working = df_raw.copy()
 
         # 1. 过滤停用词
-        df_working = self._filter_stop_words(df_working, pos)
+        if words_num != None:
+            df_working = self._filter_stop_words(df_working, pos)
 
         # 2. 获取目标高频词
-        stats = self._count_word_stats(df_working, pos, words_num, is_starts_with, filter_stopwords=False)
+        stats = self._count_word_stats(df_working,
+                                       pos,
+                                       words_num,
+                                       is_starts_with,
+                                       filter_stopwords=False)
         target_words = set(stats['word'])
 
         # 3. 筛选行
@@ -874,7 +880,7 @@ class GraphJsonBuilder:
                     ac = stats.get('covered_album_count', 0)
                     meta['description'] = (
                         f"该最长路径长度为 {diameter}，连接了 {wc} 个{pos_cn}节点"
-                        f"和 {sc} 首歌曲，跨越了 {ac} 张专辑。路径展示了词汇与歌曲之间的深度关联链条。")
+                        f"和 {sc} 首歌曲。路径展示了词汇与歌曲之间的深度关联链条。")
             elif "最大环" in title_suffix:
                 meta['cycle_length'] = diameter
                 meta['cycle_desc'] = "最大环图"
@@ -884,7 +890,7 @@ class GraphJsonBuilder:
                     ac = stats.get('covered_album_count', 0)
                     meta['description'] = (
                         f"该最大环长度为 {diameter}，包含 {wc} 个{pos_cn}节点"
-                        f"和 {sc} 首歌曲，涉及 {ac} 张专辑。这种闭合结构反映了词汇在不同歌曲间的高频共现与其形成的语义闭环。"
+                        f"和 {sc} 首歌曲。这种闭合结构反映了词汇在不同歌曲间的高频共现与其形成的语义闭环。"
                     )
             else:
                 meta['diameter'] = diameter
@@ -1508,13 +1514,19 @@ def main(file_path_prefix="", words_num_=None, is_starts_with_=False,
 
 if __name__ == "__main__":
     # 配置区
-    singer_list = ['mayday', 'jaychou', 'liyuchun', 'chenyixun', 'renxianqi', 'linjunjie', 'sunyanzi']
+    singer_list = [
+        'mayday', 'jaychou', 'liyuchun', 'chenyixun', 'renxianqi', 'linjunjie',
+        'sunyanzi', 'remen', 'fangwenshan', 'chenxinhong', 'caiyilin', 'wubai', 'zhoushen', 'zhoushen_pure'
+    ]
 
     file_path_prefix = f"data/{singer_list[-1]}/"
-    words_num = 20
+    file_path_prefix = f"data/renxianqi/"
+    # 优先生成全量数据，即words_num=None，此时不会过滤停用词。
+    words_num = None
+    words_num = 30
     is_starts_with = False
     pos_types = ['n', 'a', 'v', 't']
-    cloud_words_num = 20
+    cloud_words_num = 30
 
     # 原有功能调用
     main(file_path_prefix=file_path_prefix,
@@ -1530,7 +1542,7 @@ if __name__ == "__main__":
 
     # 示例：名词+形容词+时间词组合（使用Kamada-Kawai Layout布局）
     pipeline.run_word_song_graph_combined_pos(
-        pos_types=['n', 'v', 'a', 't'],
-        words_num=20,
+        pos_types=['n', 'a', 't'],
+        words_num=30,
         layout_type='spring',
         output_filename='graph_word_song_data_pos_combined.json')
