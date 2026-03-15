@@ -87,8 +87,8 @@ def merge_network_data(file_path):
 
 
 if __name__ == '__main__':
-    singer_list = ['mayday', 'jaychou', 'liyuchun', 'chenyixun', 'renxianqi', 'linjunjie', 'sunyanzi']
+    singer_list = ['mayday', 'jaychou', 'liyuchun', 'chenyixun', 'renxianqi', 'linjunjie', 'sunyanzi', 'luodayou']
     file_path_prefix = f"{singer_list[-1]}/"
-    file_path_prefix = f"linjunjie/"
+    # file_path_prefix = f"linjunjie/"
 
     merge_network_data(file_path_prefix)

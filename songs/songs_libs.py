@@ -78,7 +78,7 @@ class SongDataCleaner:
         """
         df = df.copy()
         # 歌曲数据，删除歌名中含 + / \ x - 的歌 EP5 Mommy JOLIN × 身体管理的好朋友（下集）｜为它按下暂停键：身体也需要被尊重与
-        forbidden_pattern = r'[+/\\x×\-]'
+        forbidden_pattern = r'[＋+/\\x×\-]'
         df = df[~df['song_name'].str.contains(forbidden_pattern)]
         
         # 歌名清洗

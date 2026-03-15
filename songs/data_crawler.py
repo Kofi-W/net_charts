@@ -44,7 +44,9 @@ def save_to_json_list(file_path, song_data):
 # 按关键词请求数据，每页50条
 def search_song(keyword, page=0):
     """搜索歌曲并返回歌曲ID"""
-    url = "https://c.y.qq.com/soso/fcgi-bin/client_search_cp"
+    # url = "https://c.y.qq.com/soso/fcgi-bin/client_search_cp"
+    # 新版api
+    url = "https://c.y.qq.com/soso/fcgi-bin/search_for_qq_cp"
     params = {
         "w": keyword,
         "format": "json",
@@ -52,7 +54,8 @@ def search_song(keyword, page=0):
         "p": page,
     }
     headers = {
-        "User-Agent":
+        "Referer":
+        "https://y.qq.com/","User-Agent":
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
     }
     response = requests.get(url, params=params, headers=headers)
@@ -62,18 +65,30 @@ def search_song(keyword, page=0):
         res = []
         for song in songs:
             res_d = {
-                "song_id": song["songid"],
-                "song_mid": song["songmid"],
-                "song_name": song["songname"],
-                "song_subname": song["lyric"],
-                "artist_name": ",".join([singer["name"] for singer in song["singer"]]),
-                "artist_id": ",".join([str(singer["id"]) for singer in song["singer"]]),
-                "artist_mid": ",".join([singer["mid"] for singer in song["singer"]]),
-                "album_name": song['albumname'],
-                "album_id": song['albumid'],
-                "album_mid": song['albummid'],
-                "duration": song['interval'],
-                "publish_time": song["pubtime"],
+                "song_id":
+                song["songid"],
+                "song_mid":
+                song["songmid"],
+                "song_name":
+                song["songname"],
+                "song_subname":
+                song["lyric"],
+                "artist_name":
+                ",".join([singer["name"] for singer in song["singer"]]),
+                "artist_id":
+                ",".join([str(singer["id"]) for singer in song["singer"]]),
+                "artist_mid":
+                ",".join([singer["mid"] for singer in song["singer"]]),
+                "album_name":
+                song['albumname'],
+                "album_id":
+                song['albumid'],
+                "album_mid":
+                song['albummid'],
+                "duration":
+                song['interval'],
+                "publish_time":
+                song["pubtime"],
             }
             res.append(res_d)
         return res

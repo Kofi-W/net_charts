@@ -1516,11 +1516,11 @@ if __name__ == "__main__":
     # 配置区
     singer_list = [
         'mayday', 'jaychou', 'liyuchun', 'chenyixun', 'renxianqi', 'linjunjie',
-        'sunyanzi', 'remen', 'fangwenshan', 'chenxinhong', 'caiyilin', 'wubai', 'zhoushen', 'zhoushen_pure'
+        'sunyanzi', 'remen', 'fangwenshan', 'chenxinhong', 'caiyilin', 'wubai', 'zhoushen', 'zhoushen_pure', 'fenghuangchuanqi', 'wanglihong', 'beyond', 'wuyuetian', 'dengziqi', 'luodayou', 'fangdatong'
     ]
 
     file_path_prefix = f"data/{singer_list[-1]}/"
-    file_path_prefix = f"data/renxianqi/"
+    # file_path_prefix = f"data/renxianqi/"
     # 优先生成全量数据，即words_num=None，此时不会过滤停用词。
     words_num = None
     words_num = 30
@@ -1545,4 +1545,5 @@ if __name__ == "__main__":
         pos_types=['n', 'a', 't'],
         words_num=30,
         layout_type='spring',
-        output_filename='graph_word_song_data_pos_combined.json')
+        output_filename='graph_word_song_data_pos_combined.json',
+        is_starts_with=is_starts_with)
