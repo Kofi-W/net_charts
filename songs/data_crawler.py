@@ -337,3 +337,5 @@ def clear_and_save_lyric(path_prefix, songs_df):
 
 if __name__ == '__main__':
     print("歌词采集器已就位！")
+
+    file_path_prefix = "data/maobuyi/"

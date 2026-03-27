@@ -77,10 +77,10 @@ class SongDataCleaner:
         :return: 处理后的DataFrame（新增 song_name_unique 和 song_name_pure 列）
         """
         df = df.copy()
-        # 歌曲数据，删除歌名中含 + / \ x - 的歌 EP5 Mommy JOLIN × 身体管理的好朋友（下集）｜为它按下暂停键：身体也需要被尊重与
+        # 歌曲数据，删除歌名中含 + / \ x - 的歌 
         forbidden_pattern = r'[＋+/\\x×\-]'
         df = df[~df['song_name'].str.contains(forbidden_pattern)]
-        
+
         # 歌名清洗
         df['song_name_unique'] = df['song_name'].astype(str)
         # 清洗song_name_unique，删除空格，将中文括号转为英文括号
@@ -88,21 +88,24 @@ class SongDataCleaner:
         df['song_name_unique'] = df['song_name_unique'].str.replace(
             '（', '(').str.replace('）', ')')
         df['song_name_unique'] = df['song_name_unique'].str.replace('，', ',')
+        df['song_name_unique'] = df['song_name_unique'].str.replace(',', '')
         # df['song_name_unique'] = df['song_name_unique'].apply(lambda x: x.split('-')[0])
-        
+
         # 删除括号内的内容
         df['song_name_unique'] = df['song_name_unique'].str.replace(r'\(.*?\)',
-                                                                  '',
-                                                                  regex=True)
+                                                                    '',
+                                                                    regex=True)
         # 删除空格
         df['song_name_unique'] = df['song_name_unique'].str.replace(' ', '')
+        # 删除 歌曲：
+        df['song_name_unique'] = df['song_name_unique'].str.replace('歌曲：', '')
         # song_name_pure进一步处理，方便去重
         # 英文全部转小写
         df['song_name_pure'] = df['song_name_unique'].str.lower()
         # 删除含feat, live
         df = df[~df['song_name_pure'].str.contains('feat', case=False)]
         df = df[~df['song_name_pure'].str.contains('live', case=False)]
-        
+
         return df
 
     @staticmethod
@@ -132,7 +135,7 @@ class SongDataCleaner:
         for album in albums:
             df = df[~df['album_name_pure'].str.startswith(album)]
         return df
-    
+
     @staticmethod
     def clear_live_songs(df):
         """
@@ -142,9 +145,9 @@ class SongDataCleaner:
         :return: 筛选后的DataFrame
         """
         df = df.copy()
-        df = df[~df['song_name'].str.contains('live')]
-        df = df[~df['song_name'].str.contains('Live')]
-        df = df[~df['song_name'].str.contains('LIVE')]
+        df = df[~df['song_name'].str.contains('live', case=False)]
+        # df = df[~df['song_name'].str.contains('Live')]
+        # df = df[~df['song_name'].str.contains('LIVE')]
         df = df[~df['song_name'].str.contains('口白')]
         return df
 

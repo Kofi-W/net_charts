@@ -29,14 +29,15 @@ except ImportError:
             STOP_WORDS_N = []
             STOP_WORDS_A = []
             STOP_WORDS_T = []
-
+            STOP_WORDS_E = []
 
 # --- 常量定义 ---
 POS_LABELS_MAP = {
     'n': '名词',
     'a': '形容词',
     'v': '动词',
-    't': '时间词'
+    't': '时间词',
+    'e': '感叹词'
 }
 
 
@@ -1516,16 +1517,16 @@ if __name__ == "__main__":
     # 配置区
     singer_list = [
         'mayday', 'jaychou', 'liyuchun', 'chenyixun', 'renxianqi', 'linjunjie',
-        'sunyanzi', 'remen', 'fangwenshan', 'chenxinhong', 'caiyilin', 'wubai', 'zhoushen', 'zhoushen_pure', 'fenghuangchuanqi', 'wanglihong', 'beyond', 'wuyuetian', 'dengziqi', 'luodayou', 'fangdatong'
+        'sunyanzi', 'remen', 'fangwenshan', 'chenxinhong', 'caiyilin', 'wubai', 'zhoushen', 'zhoushen_pure', 'fenghuangchuanqi', 'wanglihong', 'beyond', 'wuyuetian', 'dengziqi', 'luodayou', 'taozhe', 'lizongsheng', 'mowenwei', 'fangdatong', 'wangsulong', 'maobuyi', 'suyoupeng', 'zhoujielun'
     ]
 
     file_path_prefix = f"data/{singer_list[-1]}/"
-    # file_path_prefix = f"data/renxianqi/"
+    file_path_prefix = f"data/maobuyi/"
     # 优先生成全量数据，即words_num=None，此时不会过滤停用词。
     words_num = None
     words_num = 30
     is_starts_with = False
-    pos_types = ['n', 'a', 'v', 't']
+    pos_types = ['n', 'a', 'v', 't', 'e']
     cloud_words_num = 30
 
     # 原有功能调用
@@ -1543,7 +1544,7 @@ if __name__ == "__main__":
     # 示例：名词+形容词+时间词组合（使用Kamada-Kawai Layout布局）
     pipeline.run_word_song_graph_combined_pos(
         pos_types=['n', 'a', 't'],
-        words_num=30,
+        words_num=cloud_words_num,
         layout_type='spring',
         output_filename='graph_word_song_data_pos_combined.json',
         is_starts_with=is_starts_with)

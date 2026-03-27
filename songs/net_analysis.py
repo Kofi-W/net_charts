@@ -412,7 +412,7 @@ if __name__ == '__main__':
         os.path.abspath(__file__))))
 
     # ==================== 配置区 ====================
-    singer_list = ['mayday', 'jaychou', 'liyuchun', 'chenyixun', 'renxianqi', 'linjunjie', 'sunyanzi', 'luodayou']
+    singer_list = ['mayday', 'jaychou', 'liyuchun', 'chenyixun', 'renxianqi', 'linjunjie', 'sunyanzi', 'luodayou', 'suyoupeng']
     data_prefix = f"{singer_list[-1]}/"
     # data_prefix = "linjunjie/"
 
