@@ -1517,11 +1517,11 @@ if __name__ == "__main__":
     # 配置区
     singer_list = [
         'mayday', 'jaychou', 'liyuchun', 'chenyixun', 'renxianqi', 'linjunjie',
-        'sunyanzi', 'remen', 'fangwenshan', 'chenxinhong', 'caiyilin', 'wubai', 'zhoushen', 'zhoushen_pure', 'fenghuangchuanqi', 'wanglihong', 'beyond', 'wuyuetian', 'dengziqi', 'luodayou', 'taozhe', 'lizongsheng', 'mowenwei', 'fangdatong', 'wangsulong', 'maobuyi', 'suyoupeng', 'zhoujielun'
+        'sunyanzi', 'remen', 'fangwenshan', 'chenxinhong', 'caiyilin', 'wubai', 'zhoushen', 'zhoushen_pure', 'fenghuangchuanqi', 'wanglihong', 'beyond', 'wuyuetian', 'dengziqi', 'luodayou', 'taozhe', 'lizongsheng', 'mowenwei', 'fangdatong', 'wangsulong', 'maobuyi', 'suyoupeng', 'zhoujielun', 'liangjingru'
     ]
 
     file_path_prefix = f"data/{singer_list[-1]}/"
-    file_path_prefix = f"data/maobuyi/"
+    # file_path_prefix = f"data/maobuyi/"
     # 优先生成全量数据，即words_num=None，此时不会过滤停用词。
     words_num = None
     words_num = 30
