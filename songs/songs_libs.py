@@ -80,6 +80,9 @@ class SongDataCleaner:
         # 歌曲数据，删除歌名中含 + / \ x - 的歌 
         forbidden_pattern = r'[＋+/\\x×\-]'
         df = df[~df['song_name'].str.contains(forbidden_pattern)]
+        # 删除歌名中的标点符号
+        # df['song_name'] = df['song_name'].str.replace(r'[^\w\s]', '', regex=True)
+
 
         # 歌名清洗
         df['song_name_unique'] = df['song_name'].astype(str)

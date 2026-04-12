@@ -152,6 +152,7 @@ def filter_ost_songs(singger, song_list):
 def get_qq_lyric(song_id):
     """根据歌曲ID获取歌词"""
     url = "https://c.y.qq.com/lyric/fcgi-bin/fcg_query_lyric_yqq.fcg"
+    url = "https://c.y.qq.com/lyric/fcgi-bin/fcg_query_lyric_new.fcg";
     params = {"nobase64": 1, "musicid": song_id, "format": "json"}
     headers = {
         "Referer":
@@ -339,3 +340,5 @@ if __name__ == '__main__':
     print("歌词采集器已就位！")
 
     file_path_prefix = "data/maobuyi/"
+
+    get_qq_lyric(496054946)
