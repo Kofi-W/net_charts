@@ -46,3 +46,6 @@ imgs
 **/docs
 temp
 secure
+
+**/*.gdb
+*.zip
