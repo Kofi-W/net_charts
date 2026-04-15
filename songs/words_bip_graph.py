@@ -37,7 +37,8 @@ POS_LABELS_MAP = {
     'a': '形容词',
     'v': '动词',
     't': '时间词',
-    'e': '感叹词'
+    'e': '感叹词',
+    'd': '副词'
 }
 
 
@@ -1524,9 +1525,9 @@ if __name__ == "__main__":
     # file_path_prefix = f"data/maobuyi/"
     # 优先生成全量数据，即words_num=None，此时不会过滤停用词。
     words_num = None
-    # words_num = 30
+    words_num = 30
     is_starts_with = False
-    pos_types = ['n', 'a', 'v', 't', 'e']
+    pos_types = ['n', 'a', 'v', 't', 'e', 'd']
     cloud_words_num = 30
 
     # 原有功能调用
